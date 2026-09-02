@@ -114,7 +114,7 @@ Trong hệ thống Thế Giới Quan Cổ Phong Kiếm Hiệp Đại Việt (Ses
 
 ## 🎼 IV. CHUYỂN HÓA ÂM NHẠC S-02 CROSSOVER MASTERPIECE: "NON THIÊNG CHỐT BỜ CÕI"
 
-### 🎛️ 1. STYLE PROMPT CHUẨN S-02 (YEN TU SACRED GUARDIAN MASTERPIECE):
+### 🎛️ 1. STYLE MÔ TẢ HÌNH THÁI CHUẨN S-02 (YEN TU SACRED GUARDIAN MASTERPIECE):
 ```text
 Authentic Ancient Oriental Symphonic Crossover, Traditional Pentatonic Scale, 76 BPM, key of Am. Rustling bamboo forest winds and heavy temple rain foley, ethereal Xiao and soaring Dizi ornaments, virtuosic weeping Dan Bau glissando, warm 432Hz Guzheng cascades, low resonant Guqin zither, weeping Erhu leads, warm cinematic orchestral strings and noble bronze bells percussion. Intimate breathy Celestial Soprano and Deep Melancholic Baritone Duet, noble, uplifting, cinematic but restrained wuxia fantasy masterpiece, heartbreaking poetic nostalgia. Expansive ancient mountain fortress and foggy bamboo valley reverb, wide lush stereo panorama, pristine studio mastering.
 ```
