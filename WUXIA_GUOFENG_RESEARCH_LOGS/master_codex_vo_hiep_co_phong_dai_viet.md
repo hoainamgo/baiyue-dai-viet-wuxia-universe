@@ -180,12 +180,12 @@ Toàn bộ thế giới quan được xây dựng trên **6 Trụ Cột Di Sản
 
 ---
 
-## 🎼 VI. MASTER SOUNDTRACK BUNDLE (MUREKA v9.5 MusiCoT MASTER GF1)
+## 🎼 VI. MASTER SOUNDTRACK BUNDLE (CỔ NHẠC v9.5 MusiCoT MASTER GF1)
 
 1. 🏮 **OST 1: "Tiếu Ngạo Đông A"** *(Theme Song Song Ca)*: Guofeng Tri Âm, Key Dm, 74 BPM, Guqin 432Hz $\times$ Động Tiêu $\times$ Đàn Tranh.
 2. ⚔️ **OST 2: "Nam Nhi Sát Thát"** *(Hào Khí Sa Trường)*: Heavy Wuxia Rock, Key Dm, 88 BPM, Trống Đồng Đông Sơn 45Hz sub-bass $\times$ Nhị hồ rít lửa $\times$ Đồng ca hùng tráng.
 3. 🌸 **OST 3: "Hoa Nâu Khắc Mộng"** *(U Hoài Solo Nữ)*: Acoustic Guofeng Ballad, Key Am, 68 BPM, Foley gốm Chu Đậu $\times$ Đàn Bầu nức nở $\times$ Tiêu thở nhẹ.
-* **Bảo Chứng Pháp Lý:** Đã niêm phong mật mã SHA-256 vào sổ cái `lyrics_ledger/dong-a-tieu-dao-luc-ost.json` bảo hộ quyền tác giả con người Noah An.
+* **Bảo Chứng Pháp Lý:** Đã niêm phong mật mã SHA-256 vào sổ cái `sử ký thi ca/dong-a-tieu-dao-luc-ost.json` bảo hộ quyền tác giả con người Noah An.
 
 ---
 
