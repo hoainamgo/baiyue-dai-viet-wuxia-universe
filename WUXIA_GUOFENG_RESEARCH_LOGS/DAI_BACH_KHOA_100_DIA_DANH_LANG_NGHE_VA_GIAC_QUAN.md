@@ -1,6 +1,6 @@
 # 🏛️ ĐẠI BÁCH KHOA 100+ ĐỊA DANH, LÀNG NGHỀ CỔ & CHẤT LIỆU GIÁC QUAN ĐỜI THỰC
 ## (MASTER CODEX EXPANSION v5.0 — HỆ THỐNG TRIỆT TIÊU HIỆN TƯỢNG NA NÁ TRONG CA TỪ & ÂM HỌC)
-### HỆ THỐNG: `MUSIC OS` · `ĐẠI VIỆT & BÁCH VIỆT THIÊN CỔ`
+### HỆ THỐNG: `BÁCH VIỆT CODEX` · `ĐẠI VIỆT & BÁCH VIỆT THIÊN CỔ`
 ### HỘI ĐỒNG BIÊN SOẠN: `Sử Quan Lê Văn` · `Tiểu Thuyết Gia Vũ Dạ Khách` · `Harmony` · `Cadence`
 
 ---
@@ -126,4 +126,4 @@ Quy chuẩn này được cập nhật chính thức vào **Cổng Kiểm Địn
 ---
 
 📄 File nâng cấp này đã được đồng bộ vào:  
-👉 [`docs/06_Subagents_and_Personas/DAI_BACH_KHOA_100_DIA_DANH_LANG_NGHE_VA_GIAC_QUAN.md`](file:///C:/Apps/23.%20Music%20OS/docs/06_Subagents_and_Personas/DAI_BACH_KHOA_100_DIA_DANH_LANG_NGHE_VA_GIAC_QUAN.md) *(và lưu trữ vĩnh viễn trong `MASTER_ARCHIVE_VAULT_2026`)*.
+👉 [`docs/06_Ban Biên Soạn_and_Personas/DAI_BACH_KHOA_100_DIA_DANH_LANG_NGHE_VA_GIAC_QUAN.md`](file:///C:/Apps/23.%20Music%20OS/docs/06_Ban Biên Soạn_and_Personas/DAI_BACH_KHOA_100_DIA_DANH_LANG_NGHE_VA_GIAC_QUAN.md) *(và lưu trữ vĩnh viễn trong `MASTER_ARCHIVE_VAULT_2026`)*.
