@@ -1,6 +1,6 @@
 # ♾️ ĐẠI BÁCH KHOA LIÊN KẾT THIÊN CỔ: MẠCH NGẦM VĂN HÓA NỐI LIỀN QUÁ KHỨ - HIỆN TẠI (LIVING CONTINUITY CODEX v8.0)
 ## BẢN ĐỒ HUYẾT MẠCH LIÊN KẾT HỮU CƠ CÁC YẾU TỐ VĂN HÓA TRUYỀN THỪA KHÔNG BỊ CẮT ĐỨT
-### HỆ THỐNG: `MUSIC OS` · `ĐẠI VIỆT & BÁCH VIỆT THIÊN CỔ`
+### HỆ THỐNG: `BÁCH VIỆT CODEX` · `ĐẠI VIỆT & BÁCH VIỆT THIÊN CỔ`
 ### HỘI ĐỒNG BIÊN SOẠN: `Sử Quan Lê Văn` · `Tiểu Thuyết Gia Vũ Dạ Khách` · `Noah An` · `Harmony`
 
 ---
@@ -9,7 +9,7 @@
 
 > *"Một thế giới quan mà các yếu tố chỉ nằm chết ở thời của nó là một thế giới nhân tạo, thiếu sức sống. Một thế giới quan vĩ đại là nơi người nghe hôm nay nhìn thấy **từng đồ vật, từng món ăn, từng tiếng đàn chính là một MẠCH NGẦM NỐI DÀI từ ngàn năm trước chảy thẳng vào đời sống hiện tại**."*
 
-Trong Music OS, không có gì là "đồ cổ nằm yên trong quá khứ". Mọi yếu tố đều là **MỘT THỂ THỐNG NHẤT LIÊN HOÀN (AN UNBROKEN CHAIN OF IDENTITY)**:
+Trong Bách Việt Codex, không có gì là "đồ cổ nằm yên trong quá khứ". Mọi yếu tố đều là **MỘT THỂ THỐNG NHẤT LIÊN HOÀN (AN UNBROKEN CHAIN OF IDENTITY)**:
 
 ```
 [ NGUỒN GỐC THIÊN CỔ (BÁCH VIỆT / ĐÔNG A) ] 
@@ -113,4 +113,4 @@ Trong Music OS, không có gì là "đồ cổ nằm yên trong quá khứ". M�
 
 ## 🛑 V. QUY CHUẨN ĐỒNG BỘ:
 Tài liệu liên kết xuyên thời gian này đã được lưu tại:  
-👉 [`docs/06_Subagents_and_Personas/DAI_BACH_KHOA_LIEN_KET_THIEN_CO_LIVING_CONTINUITY.md`](file:///C:/Apps/23.%20Music%20OS/docs/06_Subagents_and_Personas/DAI_BACH_KHOA_LIEN_KET_THIEN_CO_LIVING_CONTINUITY.md) *(Đồng bộ `MASTER_ARCHIVE_VAULT_2026` + Skill)*.
+👉 [`docs/06_Ban Biên Soạn_and_Personas/DAI_BACH_KHOA_LIEN_KET_THIEN_CO_LIVING_CONTINUITY.md`](file:///C:/Apps/23.%20Music%20OS/docs/06_Ban Biên Soạn_and_Personas/DAI_BACH_KHOA_LIEN_KET_THIEN_CO_LIVING_CONTINUITY.md) *(Đồng bộ `MASTER_ARCHIVE_VAULT_2026` + Skill)*.
