@@ -1,6 +1,6 @@
 # 🌾 ĐẠI BÁCH KHOA TOÀN THƯ HỒN QUÊ & ĐỜI THƯỜNG DÂN DÃ ĐẠI VIỆT (EXPANSION v7.0 — 500% ULTRA DEEP DIVE)
 ## TỔNG KHO 300+ CHẤT LIỆU CHÂN THẬT, GẦN GŨI, XÚC GIÁC, ẨM THỰC, PHONG TỤC & KÝ ỨC DÂN TỘC
-### HỆ THỐNG: `MUSIC OS` · `ĐẠI VIỆT & BÁCH VIỆT THIÊN CỔ`
+### HỆ THỐNG: `BÁCH VIỆT CODEX` · `ĐẠI VIỆT & BÁCH VIỆT THIÊN CỔ`
 ### HỘI ĐỒNG BIÊN SOẠN: `Sử Quan Lê Văn` · `Tiểu Thuyết Gia Vũ Dạ Khách` · `Noah An` · `Sylvia` · `Harmony`
 
 ---
@@ -65,7 +65,7 @@ Văn hóa Bách Việt và Đại Việt hơn 5.000 năm không bắt đầu t�
 
 ## 👂 II. 40 ÂM THANH FOLEY ĐỜI THƯỜNG (ACOUSTIC SENSORY CAPTURE)
 
-Đưa các mẫu âm thanh chân thực này vào thẻ MusiCoT `[Acoustic Foley - ...]`:
+Đưa các mẫu âm thanh chân thực này vào thẻ Điệu Thức Cổ `[Acoustic Foley - ...]`:
 
 1. **Tiếng giọt ranh rơi mái rạ:** `[Foley - Soft rain dripping on thatched straw roof, distant thunder]`
 2. **Tiếng chày giã gạo dập dồn:** `[Foley - Rhythmic wooden mortar and pestle pounding rice by the stream]`
@@ -170,4 +170,4 @@ Kể từ nay, mỗi khi viết ca từ mới:
 ---
 
 📄 Tài liệu mở rộng 500% đã được lưu chính thức tại:  
-👉 [`docs/06_Subagents_and_Personas/DAI_BACH_KHOA_HON_QUE_500_PERCENT_ULTRA_EXPANSION.md`](file:///C:/Apps/23.%20Music%20OS/docs/06_Subagents_and_Personas/DAI_BACH_KHOA_HON_QUE_500_PERCENT_ULTRA_EXPANSION.md) *(và niêm phong trong `MASTER_ARCHIVE_VAULT_2026` + Skill)*.
+👉 [`docs/06_Ban Biên Soạn_and_Personas/DAI_BACH_KHOA_HON_QUE_500_PERCENT_ULTRA_EXPANSION.md`](file:///C:/Apps/23.%20Music%20OS/docs/06_Ban Biên Soạn_and_Personas/DAI_BACH_KHOA_HON_QUE_500_PERCENT_ULTRA_EXPANSION.md) *(và niêm phong trong `MASTER_ARCHIVE_VAULT_2026` + Skill)*.
