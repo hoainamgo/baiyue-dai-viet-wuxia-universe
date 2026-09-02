@@ -1,6 +1,6 @@
 # 🏮 ĐẠI BÁCH KHOA ĐỜI THƯỜNG: QUÁN TRÀ, TỬU LÂU, DANH THẮNG, PHONG THỔ & 40 HÌNH TƯỢNG NỮ TRUNG
 ## (MASTER CODEX EXPANSION v5.6 — BỔ SUNG PHÂN HỆ NỮ SĨ THI CA & TÀI NỮ DANH TIẾNG ĐẠI VIỆT)
-### HỆ THỐNG: `MUSIC OS` · `ĐẠI VIỆT & BÁCH VIỆT THIÊN CỔ`
+### HỆ THỐNG: `BÁCH VIỆT CODEX` · `ĐẠI VIỆT & BÁCH VIỆT THIÊN CỔ`
 ### CHỦ TRÌ: `Sử Quan Lê Văn` · `Tiểu Thuyết Gia Vũ Dạ Khách` · `Sylvia`
 
 ---
@@ -79,7 +79,7 @@ Bên cạnh các Nữ tướng sa trường và Thiếu nữ bách nghệ, dòng
 
 ---
 
-## 👩‍🦰 III. TỔNG KẾT HỆ THỐNG 40 HÌNH TƯỢNG NỮ TRUNG TRONG MUSIC OS:
+## 👩‍🦰 III. TỔNG KẾT HỆ THỐNG 40 HÌNH TƯỢNG NỮ TRUNG TRONG BÁCH VIỆT CODEX:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -98,4 +98,4 @@ Bên cạnh các Nữ tướng sa trường và Thiếu nữ bách nghệ, dòng
 ---
 
 📄 File nâng cấp hoàn chỉnh đã lưu tại:  
-👉 [`docs/06_Subagents_and_Personas/DAI_BACH_KHOA_DOI_THUONG_VA_36_NU_TRUNG.md`](file:///C:/Apps/23.%20Music%20OS/docs/06_Subagents_and_Personas/DAI_BACH_KHOA_DOI_THUONG_VA_36_NU_TRUNG.md) *(Đồng bộ Két sắt Master Vault 2026)*.
+👉 [`docs/06_Ban Biên Soạn_and_Personas/DAI_BACH_KHOA_DOI_THUONG_VA_36_NU_TRUNG.md`](file:///C:/Apps/23.%20Music%20OS/docs/06_Ban Biên Soạn_and_Personas/DAI_BACH_KHOA_DOI_THUONG_VA_36_NU_TRUNG.md) *(Đồng bộ Két sắt Master Vault 2026)*.
