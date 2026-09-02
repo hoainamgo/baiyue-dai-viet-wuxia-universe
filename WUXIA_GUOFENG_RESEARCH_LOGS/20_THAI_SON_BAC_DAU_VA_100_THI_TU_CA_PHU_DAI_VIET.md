@@ -14,7 +14,7 @@
  │ 1. 20 THÁI SƠN BẮC ĐẨU (THI HỌA KIẾM Y) ──► 20 Đại Tông Sư Đỉnh Cao + Bối Cảnh & Vũ Khí/Bút Pháp     │
  │ 2. 20 TRUYỀN NHÂN CHÂN TRUYỀN ──► Dòng Máu Truyền Thừa Kế Tục Ngọn Lửa Văn Hóa 5.000 Năm               │
  │ 3. 100 THI TỪ CA PHÚ HOÀN NGUYÊN ──► 5 Đại Quyển (Sa Trường, Thiền Đạo, Men Lam, Y Đạo, Tiêu Dao)     │
- │ 4. LỘ TRÌNH SẢN XUẤT 100 BÀI NHẠC ──► 10 Albums x 10 EPs Chuẩn Mureka v9.5 MusiCoT 432Hz             │
+ │ 4. LỘ TRÌNH SẢN XUẤT 100 BÀI NHẠC ──► 10 Albums x 10 EPs Chuẩn Cổ Nhạc v9.5 MusiCoT 432Hz             │
  └────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
