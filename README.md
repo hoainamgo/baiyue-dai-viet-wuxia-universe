@@ -72,3 +72,22 @@
 ---
 
 ### © 2026 Viện Nghiên Cứu Lịch Sử & Thần Thoại Cổ Phong Bách Việt. All Rights Reserved.
+
+
+---
+
+## 🌾 PHỤ LỤC MỞ RỘNG ĐẶC BIỆT: HỒN QUÊ, ĐỜI THƯỜNG DÂN DÃ & NỮ TRUNG HÀO KIỆT (v8.0)
+
+> 📜 *Các tài liệu quy chuẩn mới đã được cập nhật trực tiếp vào thư mục [WUXIA_GUOFENG_RESEARCH_LOGS/](WUXIA_GUOFENG_RESEARCH_LOGS/):*
+
+### 1. Đại Bách Khoa Hồn Quê & Đời Thường Dân Dã 500%:
+* [DAI_BACH_KHOA_HON_QUE_500_PERCENT_ULTRA_EXPANSION.md](WUXIA_GUOFENG_RESEARCH_LOGS/DAI_BACH_KHOA_HON_QUE_500_PERCENT_ULTRA_EXPANSION.md): Tổng kho 300+ chi tiết chân thật đời thường (50 món ăn mẹ nấu, 40 âm thanh Foley, 50 đồ dùng mộc mạc, 40 trò chơi tuổi thơ và 40 phong tục nghĩa tình làng xã).
+* [DAI_BACH_KHOA_100_DIA_DANH_LANG_NGHE_VA_GIAC_QUAN.md](WUXIA_GUOFENG_RESEARCH_LOGS/DAI_BACH_KHOA_100_DIA_DANH_LANG_NGHE_VA_GIAC_QUAN.md): 100+ địa danh sa trường và bến sông thực chứng, 50 làng nghề cổ truyền và ma trận 5 giác quan.
+
+### 2. Điểm Hẹn Đời Thường & 40 Hình Tượng Nữ Trung Kiệt Xuất:
+* [DAI_BACH_KHOA_DOI_THUONG_VA_36_NU_TRUNG.md](WUXIA_GUOFENG_RESEARCH_LOGS/DAI_BACH_KHOA_DOI_THUONG_VA_36_NU_TRUNG.md): 25 Quán trà bờ đê, tửu điếm bến sông (bỏ sạch chùa chiền) và hệ thống 40 Nữ Trung (10 Nữ tướng sa trường, 6 Đại Nữ sĩ thi ca Hồ Xuân Hương, Bà Huyện Thanh Quan, Đoàn Thị Điểm..., 8 Nữ hiệp, 6 Nàng bách nghệ).
+
+### 3. Đại Bách Khoa Liên Kết Thiên Cổ (Living Continuity):
+* [DAI_BACH_KHOA_LIEN_KET_THIEN_CO_LIVING_CONTINUITY.md](WUXIA_GUOFENG_RESEARCH_LOGS/DAI_BACH_KHOA_LIEN_KET_THIEN_CO_LIVING_CONTINUITY.md): 10 Mạch ngầm huyết quản nối liền thiên cổ với đời sống hôm nay (Gốm, chén trà, tiếng trống đồng, bát nước vối, áo tơi...).
+* [CAM_NANG_GIAO_THOA_THOI_DAI_HON_QUE_BAT_TU.md](WUXIA_GUOFENG_RESEARCH_LOGS/CAM_NANG_GIAO_THOA_THOI_DAI_HON_QUE_BAT_TU.md): 20 Nét đẹp cổ truyền bất tử còn hiện diện sống động.
+* [QUY_TAC_DOC_LAP_BOI_CANH_VA_PHONG_CACH_AM_NHAC.md](WUXIA_GUOFENG_RESEARCH_LOGS/QUY_TAC_DOC_LAP_BOI_CANH_VA_PHONG_CACH_AM_NHAC.md): Quy tắc bối cảnh là hạ tầng chân thực có sẵn — Ca từ và phong cách âm nhạc hoàn toàn tự do, tự nhiên.
