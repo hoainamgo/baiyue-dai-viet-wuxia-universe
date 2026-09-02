@@ -81,6 +81,7 @@
 > 📜 *Các tài liệu quy chuẩn mới đã được cập nhật trực tiếp vào thư mục [WUXIA_GUOFENG_RESEARCH_LOGS/](WUXIA_GUOFENG_RESEARCH_LOGS/):*
 
 ### 1. Đại Bách Khoa Hồn Quê & Đời Thường Dân Dã 500%:
+* [DAI_BACH_KHOA_CO_NHAC_KHI_THUAN_VIET.md](WUXIA_GUOFENG_RESEARCH_LOGS/DAI_BACH_KHOA_CO_NHAC_KHI_THUAN_VIET.md): Khảo cứu nguồn gốc, cấu tạo và sự phong phú của hệ thống Nhạc khí thuần Việt 5.000 năm (Trống Đồng, Đàn Bầu, Đàn Đáy, Đàn Tranh, Sáo Nứa, Đàn Đá...).
 * [DAI_BACH_KHOA_HON_QUE_500_PERCENT_ULTRA_EXPANSION.md](WUXIA_GUOFENG_RESEARCH_LOGS/DAI_BACH_KHOA_HON_QUE_500_PERCENT_ULTRA_EXPANSION.md): Tổng kho 300+ chi tiết chân thật đời thường (50 món ăn mẹ nấu, 40 âm thanh Foley, 50 đồ dùng mộc mạc, 40 trò chơi tuổi thơ và 40 phong tục nghĩa tình làng xã).
 * [DAI_BACH_KHOA_100_DIA_DANH_LANG_NGHE_VA_GIAC_QUAN.md](WUXIA_GUOFENG_RESEARCH_LOGS/DAI_BACH_KHOA_100_DIA_DANH_LANG_NGHE_VA_GIAC_QUAN.md): 100+ địa danh sa trường và bến sông thực chứng, 50 làng nghề cổ truyền và ma trận 5 giác quan.
 
