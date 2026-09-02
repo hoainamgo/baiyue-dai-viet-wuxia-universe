@@ -1,6 +1,6 @@
 # ⏳ CẨM NANG GIAO THOA THỜI ĐẠI: NỐI LIỀN THIÊN CỔ VỚI HIỆN TẠI (CHRONOLOGICAL CONTINUITY)
 ## PHƯƠNG PHÁP LUẬN KẾT HỢP KHÉO LÉO CÁC TRUYỀN THỐNG BẤT TỬ CÒN LƯU TRUYỀN ĐẾN NGÀY NAY
-### HỆ THỐNG: `MUSIC OS` · `ĐẠI VIỆT & BÁCH VIỆT THIÊN CỔ`
+### HỆ THỐNG: `BÁCH VIỆT CODEX` · `ĐẠI VIỆT & BÁCH VIỆT THIÊN CỔ`
 ### CHỦ TRÌ BIÊN SOẠN: `Sử Quan Lê Văn` · `Tiểu Thuyết Gia Vũ Dạ Khách` · `Noah An` · `Harmony`
 
 ---
@@ -60,7 +60,7 @@ Khi viết ca từ, chúng ta **tuyệt đối không dùng các yếu tố đã
 
 ### 2. Công thức "Âm Nhạc Đa Tầng" (Acoustic Layering):
 * **Tầng Gốc (Bản sắc dân tộc):** Đàn Bầu, Sáo Trúc, Trống Đồng, Đàn Tranh chơi giai điệu ngũ cung Lạc Việt.
-* **Tầng Hiện Đại (Tiêu chuẩn quốc tế):** Dàn dây giao hưởng Cinematic Strings phương Tây + Beat nhịp hiện đại (Dance-Pop 120 BPM hoặc Lo-fi Chill Hop 72 BPM) + Master Gold -14 LUFS.
+* **Tầng Hiện Đại (Tiêu chuẩn quốc tế):** Dàn dây giao hưởng Cinematic Strings phương Tây + Beat nhịp hiện đại (Dance-Pop 120 BPM hoặc Lo-fi Chill Hop 72 BPM) + Master Gold -14 Âm Lượng Chuẩn.
 * 👉 **Kết quả:** Giới trẻ nghe thấy bắt tai, thời thượng; người lớn tuổi nghe thấy thân thương, sâu lắng!
 
 ### 3. Công thức "Ẩm Thực & Giác Quan Làm Neo Cảm Xúc":
@@ -73,4 +73,4 @@ Khi viết ca từ, chúng ta **tuyệt đối không dùng các yếu tố đã
 
 ## 🛑 IV. QUY CHUẨN ĐỒNG BỘ:
 Tài liệu cẩm nang này được bổ sung vào:  
-👉 [`docs/06_Subagents_and_Personas/CAM_NANG_GIAO_THOA_THOI_DAI_HON_QUE_BAT_TU.md`](file:///C:/Apps/23.%20Music%20OS/docs/06_Subagents_and_Personas/CAM_NANG_GIAO_THOA_THOI_DAI_HON_QUE_BAT_TU.md) *(và niêm phong trong `MASTER_ARCHIVE_VAULT_2026` + Skill)*.
+👉 [`docs/06_Ban Biên Soạn_and_Personas/CAM_NANG_GIAO_THOA_THOI_DAI_HON_QUE_BAT_TU.md`](file:///C:/Apps/23.%20Music%20OS/docs/06_Ban Biên Soạn_and_Personas/CAM_NANG_GIAO_THOA_THOI_DAI_HON_QUE_BAT_TU.md) *(và niêm phong trong `MASTER_ARCHIVE_VAULT_2026` + Skill)*.
