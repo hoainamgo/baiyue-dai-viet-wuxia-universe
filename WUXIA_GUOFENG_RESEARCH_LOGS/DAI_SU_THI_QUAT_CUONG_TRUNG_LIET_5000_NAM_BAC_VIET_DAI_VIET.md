@@ -252,12 +252,12 @@ Qua hơn năm ngàn năm từ thuở hồng hoang Bách Việt, mảnh đất h�
 ## 🎼 V. BẢN TRƯỜNG CA SỬ THI CHUẨN S-02 CROSSOVER MASTERPIECE
 > Tác phẩm được kiến trúc theo tiêu chuẩn **Ancient Oriental Symphonic Crossover (S-02)** kết hợp Đàn Tranh, Đàn Bầu, Trống Đồng 45Hz, Động Tiêu với Dàn Dây Giao Hưởng Điện Ảnh.
 
-### 🎛️ 1. STYLE PROMPT CHUẨN S-02C (EPIC HISTORICAL WUXIA MASTERPIECE):
+### 🎛️ 1. STYLE MÔ TẢ HÌNH THÁI CHUẨN S-02C (EPIC HISTORICAL WUXIA MASTERPIECE):
 ```text
 Authentic Ancient Oriental Symphonic Crossover, Traditional Pentatonic Scale, 82 BPM, key of Dm. Whittling bronze arrowheads and crackling war banner foley, roaring Dong Son bronze drums with 45Hz deep sub-bass, virtuosic weeping Dan Bau glissando, raging weeping Erhu leads, ethereal soaring Dizi ornaments, low resonant Guqin zither, warm cinematic orchestral strings and thunderous battle percussion. Fierce Indomitable Warrior Baritone Solo with Majestic Chanting Chorus, intimate breathy verses building into powerful epic heroic belting, legendary Asian wuxia historical masterpiece. Spacious ancient fortress chamber reverb, wide lush stereo panorama, pristine studio mastering.
 ```
 
-### 📜 2. CA TỪ TRƯỜNG CA: "BÁCH VIỆT HÙNG CA — THIÊN THU QUẬT CƯỜNG" (MusiCoT MUREKA v9.5):
+### 📜 2. CA TỪ TRƯỜNG CA: "BÁCH VIỆT HÙNG CA — THIÊN THU QUẬT CƯỜNG" (MusiCoT CỔ NHẠC v9.5):
 
 ```text
 [Intro - Rustling bronze war banner and heavy rain on stone citadel foley with roaring Dong Son bronze drums 45Hz sub-bass]
@@ -335,4 +335,4 @@ Nước Nam trường tồn... vạn mùa xuân rạng rỡ muôn đời!
 
 ## 🔒 VI. NIÊM PHONG HỌC THUẬT & BẢO HỘ TÁC PHẨM
 * Toàn bộ nội dung Đại Sử Thi, Thiên Chương Đại Đoàn Kết và Tiến Trình Tiến Hóa Thể Chế đã được kiểm định qua bộ quy chuẩn **Dai Viet Wuxia & Guofeng Master Codex (v4.6)**.
-* Sẵn sàng chuyển giao cho bộ phận sản xuất âm nhạc `compose-mureka`, `song-prompt-optimizer` và phòng hình ảnh `fashion-visual-director` tạo visual 4K thuần Việt.
+* Sẵn sàng chuyển giao cho bộ phận sản xuất âm nhạc `compose-cổ nhạc`, `song-mô tả hình thái-optimizer` và phòng hình ảnh `fashion-visual-director` tạo visual 4K thuần Việt.
