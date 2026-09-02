@@ -90,4 +90,3 @@
 ### 3. Đại Bách Khoa Liên Kết Thiên Cổ (Living Continuity):
 * [DAI_BACH_KHOA_LIEN_KET_THIEN_CO_LIVING_CONTINUITY.md](WUXIA_GUOFENG_RESEARCH_LOGS/DAI_BACH_KHOA_LIEN_KET_THIEN_CO_LIVING_CONTINUITY.md): 10 Mạch ngầm huyết quản nối liền thiên cổ với đời sống hôm nay (Gốm, chén trà, tiếng trống đồng, bát nước vối, áo tơi...).
 * [CAM_NANG_GIAO_THOA_THOI_DAI_HON_QUE_BAT_TU.md](WUXIA_GUOFENG_RESEARCH_LOGS/CAM_NANG_GIAO_THOA_THOI_DAI_HON_QUE_BAT_TU.md): 20 Nét đẹp cổ truyền bất tử còn hiện diện sống động.
-* [QUY_TAC_DOC_LAP_BOI_CANH_VA_PHONG_CACH_AM_NHAC.md](WUXIA_GUOFENG_RESEARCH_LOGS/QUY_TAC_DOC_LAP_BOI_CANH_VA_PHONG_CACH_AM_NHAC.md): Quy tắc bối cảnh là hạ tầng chân thực có sẵn — Ca từ và phong cách âm nhạc hoàn toàn tự do, tự nhiên.
