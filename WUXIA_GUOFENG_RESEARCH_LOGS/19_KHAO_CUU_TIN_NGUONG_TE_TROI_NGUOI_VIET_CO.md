@@ -68,5 +68,5 @@ Khác với các tôn giáo đa thần du nhập sau này, từ hàng nghìn nă
 
 1. **Phân Cảnh Lời Thề Dưới Vòm Trời:**
    * Khi An Thái và Mộc Tĩnh Lan đính ước hay chuẩn bị xuất trận, họ không quỳ trong đền miếu mù mịt khói nhang, mà **dắt tay nhau lên đỉnh núi cao hoặc bờ sông lộng gió**, nâng bát nước suối trong ngửa mặt lên trời thề: *"Có Ông Trời soi xét, lòng này son sắt trước sau như một!"*.
-2. **Chi Tiết Giác Quan "No-AI-Slop" Trong Ca Từ:**
-   * Thay vì dùng từ ngữ sáo rỗng khói nhang phương Bắc, ca từ của Vũ Trụ Cổ Phong Bách Việt sẽ khắc họa: *Giọt sương sớm ngậm trên đầu ngọn cỏ, ngọn gió đại ngàn lồng lộng, bát nước trong vắt dâng lên Đấng Tạo Hóa, ánh trăng vằng vặc chứng giám lòng người*.
+2. **Chi Tiết Giác Quan Thuần Khiết Trong Văn Học:**
+   * Thay vì những hình ảnh khói nhang mờ ảo, thế giới quan Bách Việt khắc họa: *Giọt sương sớm ngậm trên đầu ngọn cỏ, ngọn gió đại ngàn lồng lộng, bát nước trong vắt dâng lên Đấng Tạo Hóa, ánh trăng vằng vặc chứng giám lòng người*.

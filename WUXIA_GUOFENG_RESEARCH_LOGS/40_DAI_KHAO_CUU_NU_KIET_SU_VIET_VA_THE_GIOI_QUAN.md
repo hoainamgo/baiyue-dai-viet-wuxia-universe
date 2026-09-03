@@ -139,9 +139,9 @@ Sa Trường & Khởi Nghĩa  Trị Quốc & Nhẫn Nhịn    Y Đạo, Cầm Th
 
 ---
 
-## 🎼 IV. CHẤT LIỆU CHO SOUNDTRACK OST & VISUAL CONCEPT 4K
+## 🎼 IV. HÌNH TƯỢNG NGHỆ THUẬT & TẠO HÌNH NHÂN VẬT
 
-1. **Giai điệu OST 3: "Hoa Nâu Khắc Mộng" (Solo Nữ):**
+1. **Hình Tượng "Hoa Nâu Khắc Mộng":**
    * Kết tinh toàn bộ vẻ đẹp tâm hồn của Nữ kiệt Đại Việt: Tiếng Đàn Tranh Cổ Nhạc nỉ non, tiếng thở của ống tiêu, ca từ đậm mùi đất sét Chu Đậu và hoa sen ngát hương.
-2. **Visual 4K Sylvia Matrix:**
+2. **Tạo Hình Thẩm Mỹ Nàng Mộc Tĩnh Lan:**
    * Khóa 100% hình tượng **Nàng Mộc Tĩnh Lan**: Áo Giao Lĩnh xanh men ngọc, tóc cài trâm đào sen, ngón tay búp sen mềm mại, toát lên phong thái đoan trang, đĩnh đạc và thánh thiện của người con gái Bách Việt.

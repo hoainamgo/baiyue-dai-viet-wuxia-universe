@@ -7,7 +7,7 @@
 
 ## 🧭 I. NGUYÊN TẮC "TRUYỀN THỐNG BẤT TỬ" (THE IMMORTAL TRADITION RULE)
 
-> *"Một bài hát cổ phong hay không phải là một món đồ cổ nằm trong bảo tàng, mà là **một dòng máu nóng vẫn đang chảy trong huyết quản người Việt hôm nay**."*
+> *"Một áng văn cổ phong hay không phải là một món đồ cổ nằm trong bảo tàng, mà là **một dòng máu nóng vẫn đang chảy trong huyết quản người Việt hôm nay**."*
 
 Khi viết ca từ, chúng ta **tuyệt đối không dùng các yếu tố đã chết hoặc dị biệt xa lạ**, mà chỉ chọn lọc những **nét đẹp văn hóa đã vượt qua hàng ngàn năm bão táp lịch sử và vẫn đang hiện diện sống động trong đời sống hiện đại hôm nay**:
 
@@ -50,13 +50,13 @@ Khi viết ca từ, chúng ta **tuyệt đối không dùng các yếu tố đã
 
 ---
 
-## 🎨 III. 3 CÔNG THỨC KẾT HỢP KHÉO LÉO "CỔ - KIM ĐỒNG ĐIỆU" (BLENDING FORMULAS)
+## 🎨 III. NGHỆ THUẬT GIAO THOA "CỔ - KIM ĐỒNG ĐIỆU"
 
-Để ca khúc vừa mang phong vị cổ điển sang trọng, vừa gần gũi như hơi thở đương đại:
+Để tác phẩm vừa mang phong vị cổ kính tao nhã, vừa gần gũi như hơi thở đương đại:
 
 ### 1. Công thức "Khởi Cổ - Kết Kim" (Từ Quá Khứ Chạm Vào Hiện Tại):
-* **Đoạn Verse (Bối cảnh cổ):** Dựng hình ảnh con đò xưa, khói bếp rơm rạ, tiếng thoi dệt lụa bên nương dâu.
-* **Đoạn Chorus (Cảm xúc vượt thời gian):** Đẩy lên tình yêu quê hương, đạo hiếu làm con, lòng chung thủy sắt son — những giá trị mà người trẻ hôm nay nghe vẫn thấy rưng rưng đồng cảm.
+* **Bối cảnh cổ kính:** Dựng hình ảnh con đò xưa, khói bếp rơm rạ, tiếng thoi dệt lụa bên nương dâu.
+* **Ý niệm vượt thời gian:** Đẩy lên tình yêu quê hương, đạo hiếu làm con, lòng chung thủy sắt son — những giá trị mà người trẻ hôm nay nghe vẫn thấy rưng rưng đồng cảm.
 
 ### 2. Công thức "Không Gian Đa Tầng Giác Quan":
 * Khắc họa đan xen âm thanh tự nhiên (tiếng suối reo, tiếng sáo diều, tiếng mái chèo) cùng hình ảnh đời thường dung dị.
@@ -68,6 +68,4 @@ Khi viết ca từ, chúng ta **tuyệt đối không dùng các yếu tố đã
 
 ---
 
-## 🛑 IV. QUY CHUẨN ĐỒNG BỘ:
-Tài liệu cẩm nang này được bổ sung vào:  
-👉 [`docs/06_Ban Biên Soạn_and_Personas/CAM_NANG_GIAO_THOA_THOI_DAI_HON_QUE_BAT_TU.md`](file:///C:/Apps/23.%20Music%20OS/docs/06_Ban Biên Soạn_and_Personas/CAM_NANG_GIAO_THOA_THOI_DAI_HON_QUE_BAT_TU.md) *(và niêm phong trong `MASTER_ARCHIVE_VAULT_2026` + Skill)*.
+

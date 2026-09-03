@@ -1,12 +1,12 @@
 # 🏛️ ĐẠI BÁCH KHOA 100+ ĐỊA DANH, LÀNG NGHỀ CỔ & CHẤT LIỆU GIÁC QUAN ĐỜI THỰC
-## (MASTER CODEX EXPANSION v5.0 — HỆ THỐNG TRIỆT TIÊU HIỆN TƯỢNG NA NÁ TRONG CA TỪ & ÂM HỌC)
+## (MASTER CODEX EXPANSION v5.0 — HỆ THỐNG BẢN SẮC KHÔNG GIAN ĐỜI THƯỜNG & VĂN HÓA THỰC CHỨNG)
 ### HỆ THỐNG: `BÁCH VIỆT CODEX` · `ĐẠI VIỆT & BÁCH VIỆT THIÊN CỔ`
-### HỘI ĐỒNG BIÊN SOẠN: `Sử Quan Lê Văn` · `Tiểu Thuyết Gia Vũ Dạ Khách` · `Harmony` · `Cadence`
+### HỘI ĐỒNG BIÊN SOẠN: `Sử Quan Lê Văn` · `Tiểu Thuyết Gia Vũ Dạ Khách`
 
 ---
 
-## 🧭 I. TẠI SAO BÀI HÁT BỊ "NA NÁ NHAU"?
-Hiện tượng các bài hát AI bị "na ná nhau" xuất phát từ **3 sự nghèo nàn trong dữ liệu đầu vào**:
+## 🧭 I. TẦM QUAN TRỌNG CỦA CHI TIẾT THỰC CHỨNG ĐỜI THƯỜNG
+Sự rập khuôn sáo rỗng trong các tác phẩm thường xuất phát từ **3 sự nghèo nàn trong tư liệu văn hóa**:
 1. **Nghèo nàn Địa danh:** Chỉ biết nhắc chung chung *"sông núi, giang hồ, biên cương, trăng sao"*.
 2. **Nghèo nàn Làng nghề & Cuộc sống:** Không có chi tiết lao động thực tế (nghề rèn, gốm, dệt lụa, làm giấy, ủ chè, đẽo đá...).
 3. **Nghèo nàn Giác quan (Nắm - Ngửi - Sờ - Nếm - Nghe):** Toàn dùng tính từ trừu tượng (*đau buồn, cô đơn, hùng tráng*) thay vì **vật chất thực thể**.
@@ -68,7 +68,7 @@ Hiện tượng các bài hát AI bị "na ná nhau" xuất phát từ **3 sự 
 
 ## 🏺 III. 50+ LÀNG NGHỀ CỔ TRUYỀN & CHI TIẾT LAO ĐỘNG ĐỜI THỰC (ĐƯA VÀO CA TỪ)
 
-Để bài hát có "mùi đời", không còn sáo rỗng, bắt buộc phải lồng ghép các **hành động lao động và chất liệu nghề truyền thống**:
+Để các tác phẩm văn học mang đậm hồn quê, không còn sáo rỗng, bắt buộc phải lồng ghép các **hành động lao động và chất liệu nghề truyền thống**:
 
 | Làng Nghề Cổ | Chi Tiết Xúc Giác & Vật Liệu Đời Thực | Mùi Vị & Âm Thanh Đặc Trưng | Từ Khóa Gợi Ý Cho Ca Từ |
 |---|---|---|---|
@@ -87,7 +87,7 @@ Hiện tượng các bài hát AI bị "na ná nhau" xuất phát từ **3 sự 
 
 ```
                                     ┌────────────────────────────────────────────────────────┐
-                                    │      MA TRẬN 5 GIÁC QUAN THỰC CHỨNG (NO-SLOP SENSORY)  │
+                                    │      MA TRẬN 5 GIÁC QUAN THỰC CHỨNG NGUYÊN BẢN  │
                                     └───────────────────────────┬────────────────────────────┘
                                                                 │
          ┌──────────────────────────┬───────────────────────────┼───────────────────────────┬──────────────────────────┐
@@ -117,13 +117,6 @@ Hiện tượng các bài hát AI bị "na ná nhau" xuất phát từ **3 sự 
 
 ---
 
-## 💻 V. TÍCH HỢP TỰ ĐỘNG VÀO HỆ THỐNG KIỂM ĐỊNH QA (GATE D4):
-
-Quy chuẩn này được cập nhật chính thức vào **Cổng Kiểm Định Tiền Sản Xuất (`pre-production-qa-copyright-master`)**:
-* 🛑 **Quy tắc bắt buộc:** Một bài hát **BẮT BUỘC phải chứa ít nhất 3 chi tiết từ ma trận Địa danh / Làng nghề / Giác quan đời thực** nói trên mới được cấp dấu `APPROVED` để render.
-* ❌ **Từ chối ngay lập tức:** Mọi ca từ chỉ có từ ngữ trừu tượng (*yêu đương mông lung, phiêu bạt giang hồ, ngút ngàn, xa xăm*) mà không có ít nhất 1 chi tiết cầm, nắm, ngửi, sờ được!
-
----
-
-📄 File nâng cấp này đã được đồng bộ vào:  
-👉 [`docs/06_Ban Biên Soạn_and_Personas/DAI_BACH_KHOA_100_DIA_DANH_LANG_NGHE_VA_GIAC_QUAN.md`](file:///C:/Apps/23.%20Music%20OS/docs/06_Ban Biên Soạn_and_Personas/DAI_BACH_KHOA_100_DIA_DANH_LANG_NGHE_VA_GIAC_QUAN.md) *(và lưu trữ vĩnh viễn trong `MASTER_ARCHIVE_VAULT_2026`)*.
+## 📜 V. NGUYÊN TẮC BẢN SẮC KHÔNG GIAN ĐỜI THƯỜNG:
+* 🌾 **Chiều sâu thực chứng:** Mỗi tác phẩm trong thế giới quan Bách Việt & Đại Việt luôn gắn liền với các địa danh, làng nghề và chất liệu đời thường cụ thể thay vì những từ ngữ trừu tượng xa xôi.
+* 🌿 **Vật chất hiện hữu:** Đề cao các chi tiết giác quan cầm, nắm, ngửi, thấy được của đời sống ngàn năm sông nước và đồng bằng.

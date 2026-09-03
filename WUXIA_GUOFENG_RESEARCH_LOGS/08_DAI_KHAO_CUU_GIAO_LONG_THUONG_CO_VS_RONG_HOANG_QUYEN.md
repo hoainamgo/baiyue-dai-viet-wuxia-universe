@@ -112,17 +112,17 @@ Khi chế độ phong kiến Đại Việt bước vào kỷ nguyên độc lậ
 
 ---
 
-## 📢 PHẦN IV: CẨM NANG ỨNG DỤNG CHO PR & SÁNG TÁC ÂM NHẠC CỔ PHONG
+## 📢 PHẦN IV: ỨNG DỤNG BẢN SẮC VĂN HÓA VÀ TRUYỀN THÔNG
 
 ### 1. Thông Điệp Truyền Thông (PR Angle):
 * *"Người Việt là con Rồng cháu Tiên — nhưng Rồng nguyên bản của chúng ta là Giao Long sông nước hiền hòa, không phải con Rồng độc tài thống trị!"*
 * *"Tục xăm mình Giao Long: Mã gien sinh tồn 4.000 năm chống chọi thủy quái và khẳng định bản sắc độc lập của người Bách Việt."*
 
-### 2. Từ Khóa Giác Quan & Âm Học Cho Lyrics (No-AI-Slop):
-* `Giao Long vẫy đuôi sóng cuộn`, `Mực đen xăm hình thủy quái`, `Đầm lầy lau sậy Dạ Trạch`, `Mào lửa lá đề Rồng thời Lý`, `Khúc uốn chữ U ngàn dặm sông Hồng`, `Trống đồng âm vang 45Hz sub-bass`.
+### 2. Các Biểu Tượng Giác Quan Bản Địa Đặc Trưng:
+* `Giao Long vẫy đuôi sóng cuộn`, `Mực đen xăm hình thủy quái`, `Đầm lầy lau sậy Dạ Trạch`, `Mào lửa lá đề Rồng thời Lý`, `Khúc uốn chữ U ngàn dặm sông Hồng`, `Tiếng trầm hùng của trống đồng cổ`.
 
 ---
 
 ## 📁 TÀI LIỆU LƯU TRỮ VĨNH VIỄN
 * Văn bản này được niêm phong tại: `docs/WUXIA_GUOFENG_RESEARCH_LOGS/DAI_KHAO_CUU_GIAO_LONG_THUONG_CO_VA_SU_KHAC_BIET_RONG_TRUNG_HOA.md`
-* Tích hợp trực tiếp vào **Master Codex Đại Việt Wuxia v4.6** và **Trilogy 3 Albums Sử Thi (Albums 13, 14, 15)**.
+* Tích hợp trực tiếp vào **Master Codex Đại Việt Wuxia v4.6** và Tuyển tập Sử thi Bách Việt.

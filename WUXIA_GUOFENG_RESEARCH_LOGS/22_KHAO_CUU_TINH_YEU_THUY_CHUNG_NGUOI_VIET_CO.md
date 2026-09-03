@@ -10,7 +10,7 @@
 ### 1. Điển Tích "Đá Tam Sinh" (三生石 - Tam Sinh Thạch) Của Trung Hoa:
 * **Nguồn gốc:** Bắt nguồn từ tích nhà sư Viên Trạch (圓澤) và Lý Nguyên (李源) thời nhà Đường bên bờ sông Tây Hồ (Hàng Châu). Viên Trạch hẹn kiếp sau đầu thai làm đứa trẻ chăn trâu gặp lại bạn cũ bên hòn đá gọi là *Tam Sinh Thạch*.
 * **Bản chất triết học:** Thuộc hệ tư tưởng **Luân hồi nghiệp báo (Samsara)** du nhập vào Trung Hoa, quan niệm đời người bị chia cắt làm **Tiền kiếp (Đời trước), Hiện kiếp (Đời này), và Lai kiếp (Đời sau)**.
-* **Hạn chế trong thi ca thuần Việt:** Cụm từ *"Ước ba sinh"*, *"Nợ ba sinh"* dần trở thành **công thức rập khuôn (AI-Slop & Cổ thi sáo rỗng)**, biến tình yêu thành sự mơ hồ, huyền hoặc của kiếp sau thay vì trân trọng và sống trọn vẹn từng khoảnh khắc của **kiếp sống hiện hữu duy nhất**.
+* **Hạn chế trong thi ca thuần Việt:** Cụm từ *"Ước ba sinh"*, *"Nợ ba sinh"* dần trở thành **lối mòn văn học sáo rỗng**, biến tình yêu thành sự mơ hồ, huyền hoặc của kiếp sau thay vì trân trọng và sống trọn vẹn từng khoảnh khắc của **kiếp sống hiện hữu duy nhất**.
 
 ---
 
@@ -45,11 +45,11 @@ Khác biệt hoàn toàn với quan niệm luân hồi chuyển kiếp, tâm th�
 
 ---
 
-## 🛡️ III. CẬP NHẬT TỪ KHÓA QA GATEKEEPER CHUẨN THẾ GIỚI QUAN
+## 🛡️ III. ĐỐI CHIẾU MỸ TỪ THUẦN VIỆT VÀ KHÁI NIỆM NGOẠI LAI
 
 ```
 ┌─────────────────────────────────────────────────────────────┬─────────────────────────────────────────────────────────────┐
-│ 🚫 CÁC TỪ BỊ LOẠI BỎ KHỎI CA TỪ (AI-SLOP LUÂN HỒI):         │ 🌸 CÁC MỸ TỪ THUẦN KHIẾT THAY THẾ (BẢN SẮC ĐẠI VIỆT):       │
+│ 🚫 CÁC KHÁI NIỆM NGOẠI LAI SÁO RỖNG:                       │ 🌸 CÁC MỸ TỪ THUẦN KHIẾT THAY THẾ (BẢN SẮC ĐẠI VIỆT):       │
 ├─────────────────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────┤
 │ • `vẹn ước ba sinh`, `duyên ba sinh`, `nợ tam sinh`          │ • `Trọn một kiếp tri âm!`                                   │
 │ • `hẹn nhau kiếp sau`, `tiền duyên kiếp trước`              │ • `Vẹn một mảnh tình son!`                                  │

@@ -169,8 +169,8 @@ Dưới đây là 20 nhân vật phụ có tiểu sử, tính cách, kỹ năng 
 ## 🐉 PHẦN IV: SỰ ĐỒNG BỘ TUYỆT ĐỐI VÀO SÁNG TÁC & VISUAL Vũ Trụ Cổ Phong Bách Việt
 
 1. **Khóa Chặt Visual Mô Tả Hình Thái 4K:**
-   * Mọi hình ảnh render bằng Nghệ Thuật Họa Đồ Pro cho **An Thái** (áo chàm, đoản đao, sẹo nhẹ gò má, kỷ vật gốm trước ngực) và **Mộc Tĩnh Lan** (áo tứ thân mộc mạc, khăn lụa, trâm cài hoa sen, giỏ thuốc nam bên bàn xoay) đều bám sát 100% phả hệ này.
-2. **Ca Từ & Cốt Truyện 100 Tracks Cổ Phong:**
+   * Tạo hình nhân vật nguyên bản cho **An Thái** (áo chàm, đoản đao, sẹo nhẹ gò má, kỷ vật gốm trước ngực) và **Mộc Tĩnh Lan** (áo tứ thân mộc mạc, khăn lụa, trâm cài hoa sen, giỏ thuốc nam bên bàn xoay) đều bám sát 100% phả hệ này.
+2. **Cốt Truyện & Tuyển Tập Văn Học Cổ Phong:**
    * Từng nhân vật phụ (*Lão Đò, Huyền Giác Thiền Sư, Bùi Thủy Lôi, Mộc Tĩnh Uyên*) sẽ là nhân vật chính hoặc khách mời trong các ca khúc thuộc Session 30 và các album kế tiếp.
 3. **Triết Lý Thi Ca Bất Biến:**
    * Đại gia phả này củng cố nền tảng **Đạo Hiếu Song Thân & Tình Yêu Son Sắt**, tạo nên linh hồn sống động cho toàn bộ vũ trụ âm nhạc Đại Việt Cổ Phong!

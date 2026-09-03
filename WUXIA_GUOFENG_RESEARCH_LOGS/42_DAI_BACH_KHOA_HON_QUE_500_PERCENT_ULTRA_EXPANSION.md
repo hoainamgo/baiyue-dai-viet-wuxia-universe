@@ -160,14 +160,6 @@ Triệt tiêu các màu sắc phát sáng tiên hiệp rẻ tiền, khóa chặt
 
 ---
 
-## 🛑 VIII. KHÓA BẮT BUỘC TRONG QUY TRÌNH SÁNG TÁC (NO-AI-SLOP v7.0)
-
-Kể từ nay, mỗi khi viết ca từ mới:
-* 🎯 **MỖI BÀI HÁT BẮT BUỘC PHẢI CHỨA ÍT NHẤT 4 CHI TIẾT TỪ BẢNG 500% NÀY:**
-  *(Ví dụ: 1 Món ăn dân dã + 1 Đồ dùng mộc mạc + 1 Âm thanh Âm thanh tự nhiên + 1 Tình cảm làng quê).*
-* ❌ **Tuyệt đối BẺ GÃY:** Mọi từ ngữ chung chung (*tình yêu vô tận, giang hồ phiêu bạt, giọt lệ sầu, bóng trăng lẻ loi*).
-
----
-
-📄 Tài liệu mở rộng 500% đã được lưu chính thức tại:  
-👉 [`docs/06_Ban Biên Soạn_and_Personas/DAI_BACH_KHOA_HON_QUE_500_PERCENT_ULTRA_EXPANSION.md`](file:///C:/Apps/23.%20Music%20OS/docs/06_Ban Biên Soạn_and_Personas/DAI_BACH_KHOA_HON_QUE_500_PERCENT_ULTRA_EXPANSION.md) *(và niêm phong trong `MASTER_ARCHIVE_VAULT_2026` + Skill)*.
+## 🌾 VIII. TINH HOA BẢN SẮC HỒN QUÊ BẤT BIẾN:
+* 🎯 **Chiều sâu nhân văn:** Thế giới quan Bách Việt đề cao việc khắc họa chân thực đời sống mộc mạc (Món ăn dân dã, đồ dùng tre trúc, cảnh sắc làng quê).
+* 🌿 **Triệt tiêu sáo rỗng:** Không sử dụng những mỹ từ khuôn sáo, ước lệ, mà tôn vinh những hình ảnh gần gũi, ấm áp của đồng quê non sông.
