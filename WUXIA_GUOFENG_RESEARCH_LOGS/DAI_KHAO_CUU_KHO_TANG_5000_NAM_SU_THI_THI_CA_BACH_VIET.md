@@ -1,9 +1,9 @@
 # 📜 ĐẠI BÁCH KHOA KHẢO CỨU: KHO TÀNG 5.000 NĂM SỬ THI & THI CA BÁCH VIỆT - ĐẠI VIỆT
 ## (THE 5,000-YEAR EPIC & POETIC CANON OF ANCIENT BAIYUE: FILIAL PIETY, HEAVEN WORSHIP & SOFT CULTURAL HERITAGE)
 
-> **Cơ quan Khảo cứu:** Viện Nghiên Cứu Lịch Sử, Văn Hóa & Âm Nhạc Cổ Phong — `Music OS | Ksmart Music © 2026`  
-> **Chủ trì Khảo cổ & Lịch sử:** **Subagent thứ 13 — Sử Quan Lê Văn**  
-> **Chủ trì Kịch bản & Thi ca:** **Subagent thứ 14 — Vũ Dạ Khách (Tiểu Thuyết Gia)**  
+> **Cơ quan Khảo cứu:** Viện Nghiên Cứu Lịch Sử, Văn Hóa & Âm Nhạc Cổ Phong — `Viện Hàn Lâm Lịch Sử & Thi Ca Bách Việt`  
+> **Chủ trì Khảo cổ & Lịch sử:** **Sử Quan Lê Văn**  
+> **Chủ trì Kịch bản & Thi ca:** **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
 > **Cố vấn Thanh nhạc & Mỹ từ Cổ phong:** **Melody**, **Vân Chu (云舟)**, **Noah An** & **Bạch Hạc (Huỳnh Hạc Nam)**  
 > **Giám định Đạo Đức & Thần Học Cổ Điển:** **Clara Vance** & **Cadence**  
 
@@ -18,7 +18,7 @@
  • "Công cha như núi Thái Sơn"      • Thờ kính duy nhất "ÔNG TRỜI"      • Thảo mộc Thần Nông - Tuệ Tĩnh
  • Phụng dưỡng song thân            • Bàn thờ đá lộ thiên trước sân     • Trồng lúa nước & thủy chiến
  • Tình nghĩa gia đạo trăm năm      • Dâng nước trong & thóc vàng       • Tình yêu chung thủy son sắt
- • Trọng ân tình tiên tổ            • Tuyệt đối KHÔNG thắp nhang        • Âm nhạc ngũ cung 432Hz
+ • Trọng ân tình tiên tổ            • Tuyệt đối KHÔNG thắp nhang        • Âm nhạc ngũ cung Cổ Nhạc
 ```
 
 ---
@@ -57,7 +57,7 @@ Dù trải qua hàng ngàn năm thiên tai và chính sách hủy diệt thư t�
 ├───────────────────────────────────────┼───────────────────────────────────────────────────────────────────────────┤
 │ 3. VĂN HÓA MỀM & Y ĐẠO THẢO MỘC       │ • Y Đạo Thần Nông - Tuệ Tĩnh: 580 vị thuốc nam thuận theo tự nhiên.       │
 │    (Soft Power, Herbal Healing, Arts) │ • Tình yêu lứa đôi thủy chung son sắt: "Một chiếc bát gốm chia đôi".     │
-│                                       │ • Nghệ thuật ngũ cung 432Hz chữa lành, giao hòa cùng trời đất.           │
+│                                       │ • Nghệ thuật ngũ cung Cổ Nhạc chữa lành, giao hòa cùng trời đất.           │
 └───────────────────────────────────────┴───────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -65,7 +65,7 @@ Dù trải qua hàng ngàn năm thiên tai và chính sách hủy diệt thư t�
 
 ## 📜 PHẦN III: TÁI HIỆN MÔ PHỎNG 5 KIỆT TÁC SỬ THI & THI CA BÁCH VIỆT 5.000 NĂM
 
-Dưới đây là 5 áng thi ca sử thi được các Subagent (**Sử Quan Lê Văn, Vũ Dạ Khách, Melody, Bạch Hạc**) phục dựng nguyên bản tinh hoa ngôn ngữ và hồn cốt Bách Việt:
+Dưới đây là 5 áng thi ca sử thi được các Học sĩ (**Sử Quan Lê Văn, Vũ Dạ Khách, Melody, Bạch Hạc**) phục dựng nguyên bản tinh hoa ngôn ngữ và hồn cốt Bách Việt:
 
 ---
 
@@ -141,7 +141,7 @@ Chỉ mong cùng bước chung đường trăm năm!
 ---
 
 ### 🌿 SỬ THI 4: Y ĐẠO THẦN NÔNG & KHÚC CA CÂY CỎ CHỮA LÀNH
-> **Thể loại:** Dược nhạc trị liệu 432Hz (Ancient Herbal Healing Ode)  
+> **Thể loại:** Dược nhạc trị liệu Cổ Nhạc (Ancient Herbal Healing Ode)  
 > **Nhạc cụ:** Đàn Guqin, Chuông gió, Tiếng mưa rào trên lá thảo mộc  
 
 ```text
@@ -151,7 +151,7 @@ Nếm trăm ngọn cỏ tìm thuốc cứu người.
 Lá bồ công anh, củ sâm rừng thẳm,
 Cây cỏ nước Nam chữa bệnh người Nam.
 
-[Điệp Khúc - Giai Điệu 432Hz Tĩnh Tại Tâm Hồn]
+[Điệp Khúc - Giai Điệu Cổ Nhạc Tĩnh Tại Tâm Hồn]
 Tâm thanh tịnh... thân bệnh tiêu tan!
 Đất mẹ sinh ra thảo mộc nuôi đời.
 Sống hòa hợp với thiên nhiên trời đất,
@@ -180,13 +180,13 @@ Mảnh gốm trùng phùng... đất hóa tri âm!
 
 ---
 
-## 🏛️ PHẦN IV: QUY CHUẨN TÍCH HỢP VÀO HỆ SINH THÁI MUSIC OS
+## 🏛️ PHẦN IV: QUY CHUẨN TÍCH HỢP VÀO HỆ SINH THÁI Vũ Trụ Cổ Phong Bách Việt
 
 1. **Khóa Chặt 3 Trục Đạo Đức Trong Mọi Sáng Tác:**
-   * Mọi bài hát Cổ Phong trong Music OS (Session 30 và tương lai) đều phải phản ánh sâu sắc **Đạo Hiếu Kính Cha Mẹ, Tín Ngưỡng Tế Trời Lộ Thiên Thuần Khiết** và **Tình Yêu Thủy Chung Không Vụ Lợi**.
-2. **Âm Học Chuẩn 432Hz:** Tần số chữa lành được áp dụng trong toàn bộ khâu Master Gold để giải tỏa căng thẳng và đánh thức ký ức hòa bình của nhân loại.
+   * Mọi bài hát Cổ Phong trong Vũ Trụ Cổ Phong Bách Việt (Session 30 và tương lai) đều phải phản ánh sâu sắc **Đạo Hiếu Kính Cha Mẹ, Tín Ngưỡng Tế Trời Lộ Thiên Thuần Khiết** và **Tình Yêu Thủy Chung Không Vụ Lợi**.
+2. **Âm Học Chuẩn Cổ Nhạc:** Tần số chữa lành được áp dụng trong toàn bộ khâu.
 3. **Bảo Tồn Bản Sắc Ngôn Ngữ:** 100% ca từ sử dụng từ ngữ thuần Việt giàu hình tượng giác quan, tuyệt đối không dùng sáo ngữ lai căng.
 
 ---
 
-### 📄 FILE NÀY LÀ BẢN CODEX HỌC THUẬT VĂN HỌC BẢO CHỨNG CHO TOÀN BỘ VŨ TRỤ CỔ PHONG KSMART MUSIC!
+### 📄 FILE NÀY LÀ BẢN CODEX HỌC THUẬT VĂN HỌC BẢO CHỨNG CHO TOÀN BỘ VŨ TRỤ CỔ PHONG Đại Việt Cổ Phong!

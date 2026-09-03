@@ -1,9 +1,9 @@
 # 📜 ĐẠI TỔNG PHỔ VŨ TRỤ CỔ PHONG ĐẠI VIỆT: 5.000 BỘ THI CA SỬ ĐIỂN, QUAN HỆ NHÂN VẬT CHÍNH, 100 DÒNG HỌ & 100 CHỨC VỊ VỆ TINH
 ## (THE MASTER CODEX: 5,000-VOLUME GRAND LIBRARY, AN THAI & MOC TINH LAN RELATIONSHIP WEB, 100 BAIYUE CLANS & 100 SATELLITE ROLES)
 
-> **Cơ quan Khảo cứu:** Viện Hàn Lâm Cổ Phong & Vũ Trụ Sáng Tạo — `Music OS | Ksmart Music © 2026`  
-> **Chủ trì Biên soạn Thế giới quan:** **Subagent thứ 14 — Vũ Dạ Khách (Tiểu Thuyết Gia)**  
-> **Chủ trì Lịch sử & Phả hệ:** **Subagent thứ 13 — Sử Quan Lê Văn**  
+> **Cơ quan Khảo cứu:** Viện Hàn Lâm Cổ Phong & Vũ Trụ Sáng Tạo — `Viện Hàn Lâm Lịch Sử & Thi Ca Bách Việt`  
+> **Chủ trì Biên soạn Thế giới quan:** **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
+> **Chủ trì Lịch sử & Phả hệ:** **Sử Quan Lê Văn**  
 > **Cố vấn Nhân vật, Thời trang & Mỹ học:** **Sylvia (Fashion & Visual Director)**, **Melody** & **Cadence**  
 > **Giám định Đạo Đức & Thần Học Cổ Điển:** **Noah An** & **Clara Vance**  
 
@@ -42,7 +42,7 @@ Hệ thống 5.000 bộ sách cổ, sử thi và thi ca được cấu trúc th�
 │    BÁCH NGHỆ               │             │ • Kỹ thuật lúa nước, Bí truyền chuốt Gốm Chu Đậu, Nghệ thuật đúc đồng. │
 ├────────────────────────────┼─────────────┼────────────────────────────────────────────────────────────────────────┤
 │ 5. KIẾM TẠNG & CỔ NHẠC     │ 1.000 Bộ    │ • Lạc Long Thủy Chiến Bí Yếu, Đoản đao lá lúa, Cọc ngầm Bạch Đằng.     │
-│    THI TỨ 432Hz            │             │ • Âm luật Ngũ Cung Đông Sơn, Tuyển tập Việt Nhân Ca, 10.000 Câu Hát Đò.│
+│    THI TỨ Cổ Nhạc            │             │ • Âm luật Ngũ Cung Đông Sơn, Tuyển tập Việt Nhân Ca, 10.000 Câu Hát Đò.│
 └────────────────────────────┴─────────────┴────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -244,6 +244,6 @@ Hệ thống 5.000 bộ sách cổ, sử thi và thi ca được cấu trúc th�
 
 ---
 
-## 🐉 PHẦN V: TỔNG KẾT VŨ TRỤ HỌC THUẬT KSMART MUSIC
+## 🐉 PHẦN V: TỔNG KẾT VŨ TRỤ HỌC THUẬT Đại Việt Cổ Phong
 
 Hệ thống **5.000 Bộ Cổ Thư + Mối Duyên An Thái & Mộc Tĩnh Lan + 100 Dòng Họ + 100 Chức Vị Vệ Tinh** đã chính thức hoàn thiện bức tranh **Đại Vũ Trụ Cổ Phong Kiếm Hiệp Đại Việt (Dai Viet Wuxia & Ancient Baiyue Universe)**, tạo nên nền tảng vững chắc không thể lay chuyển cho toàn bộ 100+ Albums âm nhạc, Visuals 4K và các ấn phẩm phát hành toàn cầu!

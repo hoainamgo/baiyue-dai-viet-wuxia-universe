@@ -58,11 +58,8 @@ Khi viết ca từ, chúng ta **tuyệt đối không dùng các yếu tố đã
 * **Đoạn Verse (Bối cảnh cổ):** Dựng hình ảnh con đò xưa, khói bếp rơm rạ, tiếng thoi dệt lụa bên nương dâu.
 * **Đoạn Chorus (Cảm xúc vượt thời gian):** Đẩy lên tình yêu quê hương, đạo hiếu làm con, lòng chung thủy sắt son — những giá trị mà người trẻ hôm nay nghe vẫn thấy rưng rưng đồng cảm.
 
-### 2. Công thức "Âm Nhạc Đa Tầng" (Acoustic Layering):
-* **Tầng Gốc (Bản sắc dân tộc):** Đàn Bầu, Sáo Trúc, Trống Đồng, Đàn Tranh chơi giai điệu ngũ cung Lạc Việt.
-* **Tầng Hiện Đại (Tiêu chuẩn quốc tế):** Dàn dây giao hưởng Cinematic Strings phương Tây + Beat nhịp hiện đại (Dance-Pop 120 BPM hoặc Lo-fi Chill Hop 72 BPM) + Master Gold -14 Âm Lượng Chuẩn.
-* 👉 **Kết quả:** Giới trẻ nghe thấy bắt tai, thời thượng; người lớn tuổi nghe thấy thân thương, sâu lắng!
-
+### 2. Công thức "Không Gian Đa Tầng Giác Quan":
+* Khắc họa đan xen âm thanh tự nhiên (tiếng suối reo, tiếng sáo diều, tiếng mái chèo) cùng hình ảnh đời thường dung dị.
 ### 3. Công thức "Ẩm Thực & Giác Quan Làm Neo Cảm Xúc":
 * Thay vì nói *"con nhớ mẹ rất nhiều"* (trừu tượng), hãy viết:  
   > *"Con nhớ niêu cá bống kho tiêu cay nồng mẹ gác bếp than hồng,  

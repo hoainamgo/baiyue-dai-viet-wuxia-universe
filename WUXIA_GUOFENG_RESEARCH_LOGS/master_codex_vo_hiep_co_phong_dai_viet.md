@@ -1,6 +1,6 @@
 # 🐉 MASTER CODEX: ĐẠI BÁCH KHOA TOÀN CẢNH VÕ LÂM & CỔ PHỤC ĐẠI VIỆT THIÊN CỔ
 ## HỆ THỐNG NHÂN VẬT, NGŨ ĐẠI MÔN PHÁI, Y PHỤC KHẢO CỔ & TÍN NGƯỠNG NGUYÊN BẢN
-### HỆ THỐNG: `MUSIC OS` · THƯƠNG HIỆU: `KSMART MUSIC © 2026`
+### DI SẢN VĂN HÓA BÁCH VIỆT & ĐẠI VIỆT THIÊN CỔ
 ### CHỦ TRÌ BIÊN SOẠN: SỬ QUAN LÊ VĂN, VŨ DẠ KHÁCH, BẠCH HẠC & SYLVIA
 
 ---
@@ -12,7 +12,7 @@ Toàn bộ thế giới quan được xây dựng trên **6 Trụ Cột Di Sản
 2. **Hệ Thống Ngũ Đại Môn Phái Giang Hồ:** Lạc Long Thủy Phái, Trúc Lâm Thiền Phái, Tản Viên Sơn Môn, Phù Đổng Thiết Gia, Hải Long Mai Gia.
 3. **Hình Tượng Nhân Vật Cốt Lõi:** Hiệp Khách An Thái (`An_Thai.png`), Nàng Mộc Tĩnh Lan (`Moc_Tinh_Lan_square.png`), Hải Vương Từ Hải, Nàng Thúy Kiều.
 4. **Hệ Thống Võ Công Thực Chiến:** Đoản Đao Lá Lúa, Đòn Chân Kẹp Cổ Triệt Hạ (21 đòn Vovinam), Lạc Long Thủy Kích, Hùng Kê Quyền, Trúc Kiếm Yên Tử, Trảm Hải Đao Pháp.
-5. **Dòng Chảy Y Đạo Dược Vương:** Từ Thủy Tổ Thần Nông (Viêm Đế phương Nam nếm bách thảo) đến Thánh Thuốc Nam Tuệ Tĩnh (*"Nam Dược Trị Nam Nhân"* - 580 vị thuốc nam kết hợp âm nhạc 432Hz).
+5. **Dòng Chảy Y Đạo Dược Vương:** Từ Thủy Tổ Thần Nông (Viêm Đế phương Nam nếm bách thảo) đến Thánh Thuốc Nam Tuệ Tĩnh (*"Nam Dược Trị Nam Nhân"* - 580 vị thuốc nam kết hợp âm nhạc Cổ Nhạc).
 6. **Tín Ngưỡng Nguyên Thủy Tế Trời:** Thờ "Ông Trời" tại Bàn Thờ Thiên lộ thiên, **tuyệt đối KHÔNG thắp nhang hương**, dâng Bát Nước Suối Trong và Hạt Thóc Nếp Vàng.
 
 ---
@@ -48,7 +48,7 @@ Toàn bộ thế giới quan được xây dựng trên **6 Trụ Cột Di Sản
 
 ### 2. 🌸 TRÚC LÂM THIỀN PHÁI (TIỀN TIÊU TRẤN SƠN, THIỀN TÂM & Y ĐẠO YÊN TỬ)
 * **Nhân vật đại diện:** **Nàng Mộc Tĩnh Lan** (Tạo hình gốc: `Moc_Tinh_Lan_square.png`) & **Thái Thượng Hoàng Trần Nhân Tông** (Ẩn tướng tối cao).
-  * *Thân phận & Thâm ý chiến lược:* Vua lên Yên Tử không phải nghỉ dưỡng, mà là **chốt chặn an toàn biên ải Đông Bắc, cuộc "dời đô ngầm" bí mật bảo vệ non sông**. Nàng Mộc Tĩnh Lan vừa là Tuyệt Sắc Cầm Sư đàn Tranh 432Hz, vừa là **Truyền nhân Y Đạo Tuệ Tĩnh** điều phối mạng lưới cứu thương sa trường.
+  * *Thân phận & Thâm ý chiến lược:* Vua lên Yên Tử không phải nghỉ dưỡng, mà là **chốt chặn an toàn biên ải Đông Bắc, cuộc "dời đô ngầm" bí mật bảo vệ non sông**. Nàng Mộc Tĩnh Lan vừa là Tuyệt Sắc Cầm Sư đàn Tranh Cổ Nhạc, vừa là **Truyền nhân Y Đạo Tuệ Tĩnh** điều phối mạng lưới cứu thương sa trường.
 * **Võ công tuyệt kỹ:**
   * **"Trúc Kiếm Thiền Tâm (Lão Mai Quyền)":** Đường kiếm mềm mại như cành mai trước gió, không sát sinh, chuyên dùng gạt đao và điểm huyệt Đan Điền.
   * **"Dạ Trạch Quy Tức Thân Pháp":** Thân pháp nhẹ như mây khói, thoắt ẩn thoắt hiện giữa rừng trúc.
@@ -71,7 +71,7 @@ Toàn bộ thế giới quan được xây dựng trên **6 Trụ Cột Di Sản
   * **"Hùng Kê Quyền Pháp":** Quyền gà chọi mổ trúng yết hầu, đá móc gót xé gió.
 * **Binh khí chuẩn xác:**
   * **Đại Khai Sơn Phủ (Rìu Rừng Sắt Nặng 50 Cân):** Rèn bằng thép non đại ngàn, cán gỗ nghiến khắc họa tiết Đông Sơn.
-  * **Cổ Cầm Đàn Thần 432Hz:** Tiếng đàn thần giải giáp binh đao 18 nước chư hầu.
+  * **Cổ Cầm Đàn Thần Cổ Nhạc:** Tiếng đàn thần giải giáp binh đao 18 nước chư hầu.
 * **Y phục & Nhận diện visual:**
   * **Áo Đũi Chàm Lót Da Thú Rừng Già:** Đi chân đất, đầu quấn khăn rìa đỏ, thắt lưng bện dây gai rừng khỏe khoắn.
 
@@ -126,7 +126,7 @@ Toàn bộ thế giới quan được xây dựng trên **6 Trụ Cột Di Sản
 
 * **Thủy Tổ Thần Nông (Viêm Đế):** Vị vua xứ nóng phương Nam nếm bách thảo, dùng gậy đỏ phân biệt hàn/nhiệt, bụng trong suốt nhìn thấu lục phủ ngũ tạng, khai sáng *Thần Nông Bản Thảo Kinh*.
 * **Thánh Thuốc Nam Tuệ Tĩnh:** Tuyên ngôn *"Nam Dược Trị Nam Nhân"*, biên soạn *Nam Dược Thần Hiệu* (580 vị thuốc nam) và *Hồng Nghĩa Giác Tư Y Thư*.
-* **Âm Nhạc Dược Cảnh 432Hz:** Toàn bộ nhạc phẩm Cổ Phong của Music OS mang tần số 432Hz cộng hưởng với thảo mộc thiên nhiên, đem lại sự chữa lành và bình an tuyệt đối cho người nghe.
+* **Âm Nhạc Dược Cảnh Cổ Nhạc:** Toàn bộ nhạc phẩm Cổ Phong của Vũ Trụ Cổ Phong Bách Việt mang tần số Cổ Nhạc cộng hưởng với thảo mộc thiên nhiên, đem lại sự chữa lành và bình an tuyệt đối cho người nghe.
 
 ---
 
@@ -135,7 +135,7 @@ Toàn bộ thế giới quan được xây dựng trên **6 Trụ Cột Di Sản
 | Môn Phái | Nhân Vật Chính | Binh Khí Trấn Phái | Y Phục Đặc Trưng | Nghi Lễ / Đức Tin | Ứng Dụng Âm Nhạc |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Lạc Long Thủy Phái** | Hiệp Khách An Thái | Đoản Đao Lá Lúa, Khoan sắt | Áo chàm xẻ ngực, xăm mình Giao Long | Lời thề Sát Thát, Lặn đục thuyền | Tiếng trống trận dồn dập, đao kiếm va đập |
-| **Trúc Lâm Thiền Phái** | Nàng Mộc Tĩnh Lan | Kiếm Trúc Yên Tử, Nón lá, Gậy | Áo nâu sồng, Tứ thân lụa thô | Bàn thờ thiên lộ thiên, gùi thuốc nứa | Đàn Tranh 432Hz, tiếng chuông thiền |
+| **Trúc Lâm Thiền Phái** | Nàng Mộc Tĩnh Lan | Kiếm Trúc Yên Tử, Nón lá, Gậy | Áo nâu sồng, Tứ thân lụa thô | Bàn thờ thiên lộ thiên, gùi thuốc nứa | Đàn Tranh Cổ Nhạc, tiếng chuông thiền |
 | **Tản Viên Sơn Môn** | Dũng Sĩ Thạch Sanh | Đại Khai Sơn Phủ (50 cân) | Áo đũi chàm, da thú, chân đất | Tạ ơn Cha Trời Mẹ Đất, Đàn Thần | Cổ Cầm u hoài, tiếng rừng già róc rách |
 | **Phù Đổng Thiết Gia** | Tướng Quân Cao Lỗ | Thiết Côn tre ngà, Nỏ thần | Giáp da đính đinh tán đồng | Tế thần binh đúc đồng nung đỏ | Tiếng rít cung nỏ xé gió, sấm sét |
 | **Hải Long Mai Gia** | Hải Vương Từ Hải | Trảm Hải Đại Đao (80 cân) | Áo gấm đại hải vương viền lông | Tế cờ xuất quân trên Biển Đông | Hùng ca biển cả, sóng gầm đại dương |
@@ -148,7 +148,7 @@ Toàn bộ thế giới quan được xây dựng trên **6 Trụ Cột Di Sản
 * **Format 1: Series x7 Phim Điện Ảnh (Chiếu Rạp 110 - 125 phút):**
   * *Phim 1:* Lục Đầu Khởi Kiếm (Đòn gánh tre dẻo $\times$ Thủy tặc câu liêm)
   * *Phim 2:* Thiết Giáp Phù Đổng (Trận bãi lầy phá kỵ binh $\times$ Cắt dây giáp)
-  * *Phim 3:* Yên Tử Cầm Tiêu (Cụ già quét rác chỉ điểm $\times$ Khổ luyện vung kiếm 3.000 lần/ngày trên cọc thác $\times$ Hòa tấu Cổ Cầm 432Hz)
+  * *Phim 3:* Yên Tử Cầm Tiêu (Cụ già quét rác chỉ điểm $\times$ Khổ luyện vung kiếm 3.000 lần/ngày trên cọc thác $\times$ Hòa tấu Cổ Cầm Cổ Nhạc)
   * *Phim 4:* Hội Quán Đêm Mưa (Vũ điệu dù sơn ta trên mái ngói)
   * *Phim 5:* Mật Động Cối Kê (Đua bè vượt thác $\times$ Múa kiếm lốc xoáy phá vạn tiễn $\times$ Tĩnh Lan trúng độc chưởng)
   * *Phim 6:* Bạch Đằng Huyết Chiến (Đại thủy chiến cọc lim $\times$ Trận solo trùm cuối 9 tầng hiểm nghèo cửu tử nhất sinh)
@@ -165,7 +165,7 @@ Toàn bộ thế giới quan được xây dựng trên **6 Trụ Cột Di Sản
 
 ### 1. Tuyến Chính Diện (Protagonists & Allies):
 * **Hiệp Khách An Thái:** Xuất phát điểm mộc mạc, hậu đậu kiểu Nobita nhưng có bản năng búng sỏi thần sầu; học võ chậm nhưng dùng trí mưu mộc mạc diệt quái từng bước; khổ luyện bí tịch Cối Kê đại thành; solo trùm cuối 9 hiểm nghèo.
-* **Y Nữ Mộc Tĩnh Lan:** Thánh nữ Trúc Lâm, truyền nhân Y Đạo Tuệ Tĩnh 580 vị thuốc nam kết hợp độc tấu Cổ Cầm 432Hz chữa lành.
+* **Y Nữ Mộc Tĩnh Lan:** Thánh nữ Trúc Lâm, truyền nhân Y Đạo Tuệ Tĩnh 580 vị thuốc nam kết hợp độc tấu Cổ Cầm Cổ Nhạc chữa lành.
 * **"Bách Biến Tiểu Hầu" Trần Bất Bại (Rival / Frenemy Tấu Hài):** Thiếu gia nhà giàu thích thể hiện, tự xưng Đệ Nhất Kiếm, chuyên phá kèo cười ra nước mắt nhưng trung nghĩa hết lòng vì bạn.
 * **Lão Say "Ba Bát" (Lý Đạo Ông):** Chủ quán cói, sư phụ ẩn danh phái Lạc Long Thủy Phái với Túy Điệt Trượng.
 * **Dũng Tướng Đoàn Văn Lương:** Dũng sĩ sông nước ngụp lặn 3 canh giờ đục chìm hạm đội giặc.
@@ -180,11 +180,11 @@ Toàn bộ thế giới quan được xây dựng trên **6 Trụ Cột Di Sản
 
 ---
 
-## 🎼 VI. MASTER SOUNDTRACK BUNDLE (CỔ NHẠC v9.5 MusiCoT MASTER GF1)
+## 🎼 VI. MASTER SOUNDTRACK BUNDLE (CỔ NHẠC v9.5 Thi Ca Cổ Nhạc MASTER GF1)
 
-1. 🏮 **OST 1: "Tiếu Ngạo Đông A"** *(Theme Song Song Ca)*: Guofeng Tri Âm, Key Dm, 74 BPM, Guqin 432Hz $\times$ Động Tiêu $\times$ Đàn Tranh.
-2. ⚔️ **OST 2: "Nam Nhi Sát Thát"** *(Hào Khí Sa Trường)*: Heavy Wuxia Rock, Key Dm, 88 BPM, Trống Đồng Đông Sơn 45Hz sub-bass $\times$ Nhị hồ rít lửa $\times$ Đồng ca hùng tráng.
-3. 🌸 **OST 3: "Hoa Nâu Khắc Mộng"** *(U Hoài Solo Nữ)*: Acoustic Guofeng Ballad, Key Am, 68 BPM, Foley gốm Chu Đậu $\times$ Đàn Bầu nức nở $\times$ Tiêu thở nhẹ.
+1. 🏮 **OST 1: "Tiếu Ngạo Đông A"** *(Theme Song Song Ca)*: Guofeng Tri Âm, Key Dm, Tiết tấu nhịp nhàng, Guqin Cổ Nhạc $\times$ Động Tiêu $\times$ Đàn Tranh.
+2. ⚔️ **OST 2: "Nam Nhi Sát Thát"** *(Hào Khí Sa Trường)*: Heavy Wuxia Rock, Key Dm, Tiết tấu nhịp nhàng, Trống Đồng Đông Sơn 45Hz sub-bass $\times$ Nhị hồ rít lửa $\times$ Đồng ca hùng tráng.
+3. 🌸 **OST 3: "Hoa Nâu Khắc Mộng"** *(U Hoài Solo Nữ)*: Acoustic Guofeng Ballad, Key Am, Tiết tấu nhịp nhàng, Foley gốm Chu Đậu $\times$ Đàn Bầu nức nở $\times$ Tiêu thở nhẹ.
 * **Bảo Chứng Pháp Lý:** Đã niêm phong mật mã SHA-256 vào sổ cái `sử ký thi ca/dong-a-tieu-dao-luc-ost.json` bảo hộ quyền tác giả con người Noah An.
 
 ---
@@ -194,7 +194,7 @@ Toàn bộ thế giới quan được xây dựng trên **6 Trụ Cột Di Sản
 ### 1. 5 Cụm Hình Tượng Nữ Quyền Đại Việt:
 * **🐘 Cụm 1 — Nữ Tướng Sa Trường (Warrior Matriarchs):** Hai Bà Trưng (Trưng Vương Song Kiếm $\times$ Mê Linh Tượng Trận), Nữ tướng Thánh Thiên (Kỵ xạ bách phát bách trúng), Lê Chân (Thủy chiến An Biên), Bà Triệu (Đạp sóng chém kình ngư), Đô đốc Bùi Thị Xuân (Song Kiếm Tây Sơn).
 * **👑 Cụm 2 — Nữ Trị Quốc & Ngoại Giao (Royal Sovereigns):** Thái hậu Dương Vân Nga (Trao áo Long Côn vì giang sơn), Linh Nhân Hoàng Hậu Ỷ Lan (Trị quốc từ bi $\times$ Lý Triều Quán Thế Âm), Công chúa Huyền Trân (Gạt tình riêng mở cõi Ô - Lý), Linh Từ Quốc Mẫu Trần Thị Dung (Hậu phương toàn năng kháng Mông Cổ).
-* **🌿 Cụm 3 — Nữ Y Sư, Cầm Sư & Nghệ Nhân:** Mộc Tĩnh Lan (Truyền nhân 580 vị thuốc Nam Tuệ Tĩnh $\times$ Cổ Cầm 432Hz chữa lành), Nghệ nhân dệt lụa Cổ Đô, Nữ thợ gốm Chu Đậu vẽ hoa sen men nâu.
+* **🌿 Cụm 3 — Nữ Y Sư, Cầm Sư & Nghệ Nhân:** Mộc Tĩnh Lan (Truyền nhân 580 vị thuốc Nam Tuệ Tĩnh $\times$ Cổ Cầm Cổ Nhạc chữa lành), Nghệ nhân dệt lụa Cổ Đô, Nữ thợ gốm Chu Đậu vẽ hoa sen men nâu.
 * **🥋 Cụm 4 — Môn Phái Nữ Hiệp Giang Hồ:** Yên Tử Trúc Kiếm Các (Dĩ nhu chế cương, kiếm tre không sát sinh), Dạ Trạch Nữ Tiễn Phái (Ẩn mình đầm lầy, nỏ thần phục kích), Bạch Hạc Cầm Các (Dĩ âm trợ khí).
 * **🌊 Cụm 5 — Nữ Thần Đất Nước & Tín Ngưỡng Cội Nguồn:** Mẹ Âu Cơ (Khởi nguyên Tiên Mẫu trăm trứng), Công Chúa Tiên Dung (Tình yêu tự do bình đẳng), Bà Chúa Kho & Tứ Phủ Thánh Mẫu.
 
@@ -206,7 +206,7 @@ Toàn bộ thế giới quan được xây dựng trên **6 Trụ Cột Di Sản
 
 ## 👑 VIII. ĐẠI THIÊN SỬ THI: QUẬT CƯỜNG, ĐẠI ĐOÀN KẾT & TIẾN TRÌNH TIẾN HÓA THỂ CHẾ TỰ CƯỜNG
 > 🏔️ **Khảo Cứu Thâm Ý Yên Tử:** [`khao_chung_yen_tu_chot_chan_an_toan_va_tham_y_chien_luoc.md`](file:///c:/Apps/23.%20Music%20OS/docs/WUXIA_GUOFENG_RESEARCH_LOGS/khao_chung_yen_tu_chot_chan_an_toan_va_tham_y_chien_luoc.md)
-> 📖 **Tài Liệu Toàn Văn Khảo Cứu & Ca Từ Chuẩn MusiCoT:** [`DAI_SU_THI_QUAT_CUONG_TRUNG_LIET_5000_NAM_BAC_VIET_DAI_VIET.md`](file:///c:/Apps/23.%20Music%20OS/docs/WUXIA_GUOFENG_RESEARCH_LOGS/DAI_SU_THI_QUAT_CUONG_TRUNG_LIET_5000_NAM_BAC_VIET_DAI_VIET.md)
+> 📖 **Tài Liệu Toàn Văn Khảo Cứu & Ca Từ Chuẩn Thi Ca Cổ Nhạc:** [`DAI_SU_THI_QUAT_CUONG_TRUNG_LIET_5000_NAM_BAC_VIET_DAI_VIET.md`](file:///c:/Apps/23.%20Music%20OS/docs/WUXIA_GUOFENG_RESEARCH_LOGS/DAI_SU_THI_QUAT_CUONG_TRUNG_LIET_5000_NAM_BAC_VIET_DAI_VIET.md)
 
 ### 1. Thiên Chương Hùng Ca Đại Đoàn Kết Toàn Dân (Chân Lý Bất Diệt Đập Tan Ngoại Xâm):
 * **Cội nguồn danh xưng "Đồng Bào":** Trăm trứng một bọc của Mẹ Âu Cơ & Cha Lạc Long Quân $\rightarrow$ Lời thề hoạn nạn tương trợ không thể bị chia rẽ.

@@ -1,9 +1,9 @@
 # 🌳 ĐẠI GIA PHẢ 5 ĐỜI & MA TRẬN NHÂN VẬT TUYẾN PHỤ: AN THÁI & MỘC TĨNH LAN
 ## (THE FIVE-GENERATION GENEALOGY & SATELLITE CHARACTER CODEX: AN THAI & MOC TINH LAN UNIVERSE)
 
-> **Cơ quan Khảo cứu Phả hệ:** Viện Lịch Sử & Nhân Vật Cổ Phong — `Music OS | Ksmart Music © 2026`  
-> **Chủ trì Biên soạn Phả hệ & Kịch bản:** **Subagent thứ 14 — Vũ Dạ Khách (Tiểu Thuyết Gia)**  
-> **Chủ trì Thẩm tra Sử liệu:** **Subagent thứ 13 — Sử Quan Lê Văn**  
+> **Cơ quan Khảo cứu Phả hệ:** Viện Lịch Sử & Nhân Vật Cổ Phong — `Viện Hàn Lâm Lịch Sử & Thi Ca Bách Việt`  
+> **Chủ trì Biên soạn Phả hệ & Kịch bản:** **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
+> **Chủ trì Thẩm tra Sử liệu:** **Sử Quan Lê Văn**  
 > **Chỉ đạo Tạo hình & Phục trang Visual 4K:** **Sylvia (Fashion & Visual Director)**  
 > **Cố vấn Thanh nhạc & Mỹ học:** **Melody**, **Bạch Hạc** & **Cadence**  
 
@@ -166,11 +166,11 @@ Dưới đây là 20 nhân vật phụ có tiểu sử, tính cách, kỹ năng 
 
 ---
 
-## 🐉 PHẦN IV: SỰ ĐỒNG BỘ TUYỆT ĐỐI VÀO SÁNG TÁC & VISUAL MUSIC OS
+## 🐉 PHẦN IV: SỰ ĐỒNG BỘ TUYỆT ĐỐI VÀO SÁNG TÁC & VISUAL Vũ Trụ Cổ Phong Bách Việt
 
 1. **Khóa Chặt Visual Mô Tả Hình Thái 4K:**
    * Mọi hình ảnh render bằng Nghệ Thuật Họa Đồ Pro cho **An Thái** (áo chàm, đoản đao, sẹo nhẹ gò má, kỷ vật gốm trước ngực) và **Mộc Tĩnh Lan** (áo tứ thân mộc mạc, khăn lụa, trâm cài hoa sen, giỏ thuốc nam bên bàn xoay) đều bám sát 100% phả hệ này.
 2. **Ca Từ & Cốt Truyện 100 Tracks Cổ Phong:**
    * Từng nhân vật phụ (*Lão Đò, Huyền Giác Thiền Sư, Bùi Thủy Lôi, Mộc Tĩnh Uyên*) sẽ là nhân vật chính hoặc khách mời trong các ca khúc thuộc Session 30 và các album kế tiếp.
 3. **Triết Lý Thi Ca Bất Biến:**
-   * Đại gia phả này củng cố nền tảng **Đạo Hiếu Song Thân & Tình Yêu Son Sắt**, tạo nên linh hồn sống động cho toàn bộ vũ trụ âm nhạc Ksmart Music!
+   * Đại gia phả này củng cố nền tảng **Đạo Hiếu Song Thân & Tình Yêu Son Sắt**, tạo nên linh hồn sống động cho toàn bộ vũ trụ âm nhạc Đại Việt Cổ Phong!

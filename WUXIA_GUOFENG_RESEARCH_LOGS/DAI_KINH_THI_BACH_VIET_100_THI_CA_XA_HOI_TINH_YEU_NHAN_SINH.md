@@ -2,7 +2,7 @@
 ## (THE BAI YUE BOOK OF SONGS: 100 POEMS OF SOCIAL FABRIC, LOVE, LABOUR & FOLKLORIC HERITAGE)
 
 > **Cơ quan Khảo cứu & Trước tác:** Viện Hàn Lâm Cổ Sử, Điển Tịch & Lễ Nhạc Bách Việt — `Baiyue & Dai Viet Wuxia Universe`  
-> **Chủ trì Biên soạn Dân Gian & Xã Hội Học:** **Subagent 14 — Vũ Dạ Khách** & **Subagent 13 — Lê Văn**  
+> **Chủ trì Biên soạn Dân Gian & Xã Hội Học:** **Vũ Dạ Khách** & **Lê Văn**  
 > **Chủ trì Mỹ học Ca dao & Ni luật:** **Bạch Hạc (Huỳnh Hạc Nam)**, **Vân Chu (云舟)**  
 > **Giám định Đời sống & Âm hưởng Thường nhật:** **Melody**, **Noah An**, **Harmony** & **Cadence**  
 

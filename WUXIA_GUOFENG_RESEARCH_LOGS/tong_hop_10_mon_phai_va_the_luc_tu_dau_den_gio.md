@@ -1,6 +1,6 @@
 # 🐉 ĐẠI TỔNG PHỔ TOÀN CẢNH: 10 ĐẠI MÔN PHÁI & THẾ LỰC VÕ LÂM BÁCH VIỆT — ĐẠI VIỆT THIÊN CỔ
 ## TỔNG HỢP TOÀN BỘ KẾT QUẢ KHẢO CỨU LỊCH SỬ & THẾ GIỚI QUAN TỪ ĐẦU ĐẾN NAY
-### HỆ THỐNG: `MUSIC OS` · THƯƠNG HIỆU: `KSMART MUSIC © 2026`
+### DI SẢN VĂN HÓA BÁCH VIỆT & ĐẠI VIỆT THIÊN CỔ
 ### CHỦ TRÌ: TIỂU THUYẾT GIA VŨ DẠ KHÁCH & SỬ QUAN LÊ VĂN
 
 ---
@@ -37,7 +37,7 @@ Từ đầu phiên làm việc đến nay, qua các đợt khảo cứu lịch s
 
 ---
 
-### 2. 🌸 TRÚC LÂM THIỀN MÔN (Y ĐẠO THẦN NÔNG & TRÚC KIẾM 432HZ)
+### 2. 🌸 TRÚC LÂM THIỀN MÔN (Y ĐẠO THẦN NÔNG & TRÚC KIẾM Cổ Nhạc)
 * **Xuất hiện từ:** Phiên khảo cứu Y Đạo Tuệ Tĩnh, Chử Đồng Tử Dạ Trạch và Mộc Tĩnh Lan.
 * **Nhân vật tiêu biểu:** **Nàng Mộc Tĩnh Lan** (`Moc_Tinh_Lan_square.png`), Thánh Thuốc Nam Tuệ Tĩnh.
 * **Tổng đàn:** Chùa Ngọa Vân (Yên Tử) & Đầm Dạ Trạch.
@@ -51,7 +51,7 @@ Từ đầu phiên làm việc đến nay, qua các đợt khảo cứu lịch s
 * **Nhân vật tiêu biểu:** **Dũng Sĩ Thạch Sanh**, Tản Viên Sơn Thánh (Sơn Tinh).
 * **Tổng đàn:** Đỉnh Vua Ba Vì & Đại ngàn Tây Bắc.
 * **Tuyệt kỹ:** *Tản Viên Chấn Sơn Kình (mình đồng da sắt)*, *Khai Sơn Phủ Pháp (búa sắt trảm Chằn Tinh)*, *Hùng Kê Quyền (quyền gà chọi)*.
-* **Binh khí & Y phục:** Đại Khai Sơn Phủ (rìu sắt 50 cân), Cổ Cầm Đàn Thần 432Hz (giải giáp 18 nước chư hầu). Áo đũi chàm lót da thú rừng già, đi chân đất.
+* **Binh khí & Y phục:** Đại Khai Sơn Phủ (rìu sắt 50 cân), Cổ Cầm Đàn Thần Cổ Nhạc (giải giáp 18 nước chư hầu). Áo đũi chàm lót da thú rừng già, đi chân đất.
 
 ---
 

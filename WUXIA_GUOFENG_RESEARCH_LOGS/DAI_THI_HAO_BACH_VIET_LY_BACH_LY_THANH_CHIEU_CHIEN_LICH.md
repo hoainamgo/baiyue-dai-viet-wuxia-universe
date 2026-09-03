@@ -2,7 +2,7 @@
 ## (THE SOUTHERN LI BAI & LI QINGZHAO: EPIC LORE, ROMANTIC POETICS & MASTERPIECE LYRICS)
 
 > **Cơ quan Khảo cứu & Tác phẩm:** Viện Hàn Lâm Cổ Sử, Điển Tịch & Lễ Nhạc Bách Việt — `Baiyue & Dai Viet Wuxia Universe`  
-> **Chủ trì Kịch bản Văn học:** **Subagent 14 — Tiểu Thuyết Gia Vũ Dạ Khách** & **Subagent 13 — Sử Quan Lê Văn**  
+> **Chủ trì Kịch bản Văn học:** **Tiểu Thuyết Gia Vũ Dạ Khách** & **Sử Quan Lê Văn**  
 > **Chủ trì Từ Điệu & Mỹ Học Cổ Điển:** **Bạch Hạc (Huỳnh Hạc Nam)** & **Vân Chu (云舟)**  
 > **Giám định Âm sắc & Tâm trạng:** **Melody**, **Noah An**, **Harmony** & **Cadence**  
 
@@ -40,7 +40,7 @@
 * **Tên tự:** Mộc Tĩnh Lan (hiệu: *Thanh Liên Cư Sĩ*, *Chu Đậu Nữ Từ Sĩ*).
 * **Hình tượng & Khí chất (Archetype):**
   * Nàng thiếu nữ tài sắc vẹn toàn, đôi mắt trong veo như nước hồ thu, mặc áo tứ thân màu hoa sen men ngọc, tóc cài trâm gốm lam, tay cầm ngòi bút lông sói chấm men lam chuốt gốm.
-  * Đạt đến cảnh giới **Thi Họa Song Tuyệt**: Đề thơ trên đáy bình gốm Chu Đậu, mỗi nét chữ Nôm bay bổng tựa phượng múa rồng bay; ngón đàn Tranh 16 dây tơ ngân nga tần số 432Hz làm dịu tan mọi nỗi sầu nhân thế.
+  * Đạt đến cảnh giới **Thi Họa Song Tuyệt**: Đề thơ trên đáy bình gốm Chu Đậu, mỗi nét chữ Nôm bay bổng tựa phượng múa rồng bay; ngón đàn Tranh 16 dây tơ ngân nga tần số Cổ Nhạc làm dịu tan mọi nỗi sầu nhân thế.
   * Giàu lòng trắc ẩn, thấu cảm sâu sắc nỗi đau của người dân lao động và người phụ nữ có chồng đi lính xa, mang nỗi sầu ly biệt tinh tế, kín đáo và da diết bậc nhất lịch sử thi ca phương Nam.
 * **Tuyên ngôn từ điệu:** *"Hoa tự trôi đi nước tự chảy, một mối tương tư gửi hai nơi... Men gốm dẫu vỡ tình chẳng đổi, ngàn năm còn vẹn chữ son trinh!"*
 

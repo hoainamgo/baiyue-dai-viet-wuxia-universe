@@ -1,9 +1,9 @@
 # 🏔️ ĐẠI KHẢO CHỨNG: PHẬT HOÀNG LÊN YÊN TỬ — NƯỚC TÍNH CHIẾN LƯỢC QUÂN SỰ, CHỐT CHẶN TIỀN TIÊU BIÊN ẢI & "CUỘC DỜI ĐÔ NGẦM" VÌ VẬN MỆNH ĐẠI VIỆT
 ## (KHẢO SÁT ĐỊA CHÍNH TRỊ, NGHỆ THUẬT PHÒNG THỦ KHÁNG PHƯƠNG BẮC & TÍCH HỢP THẾ LỰC TRÚC LÂM TRONG ĐẠI CỔ PHONG)
-### HỆ ĐIỀU HÀNH SÁNG TÁC: `MUSIC OS` · THƯƠNG HIỆU: `KSMART MUSIC © 2026`
+### BẢO TỒN DI SẢN THI CA & LỊCH SỬ DÂN TỘC
 ### CHỦ TRÌ KHẢO CỨU & THẾ GIỚI QUAN:
-* **Chủ trì Lịch sử, Khảo cổ & Địa chính trị:** **Subagent thứ 13 — Sử Quan Lê Văn**
-* **Chủ trì Biên soạn Thế giới quan & Sử thi:** **Subagent thứ 14 — Vũ Dạ Khách (Tiểu Thuyết Gia)**
+* **Chủ trì Lịch sử, Khảo cổ & Địa chính trị:** **Sử Quan Lê Văn**
+* **Chủ trì Biên soạn Thế giới quan & Sử thi:** **Vũ Dạ Khách (Tiểu Thuyết Gia)**
 * **Cố vấn Âm nhạc & Phối khí S-02:** **Bạch Hạc (Huỳnh Hạc Nam)**, **Vân Chu (云舟)**, **Noah An** & **Cadence**
 * **Chỉ đạo Y phục & Visual Cổ phong:** **Sylvia (Fashion & Visual Master)**
 
@@ -90,7 +90,7 @@ Qua lăng kính địa chính trị và khoa học quân sự Đại Việt, vi�
 
 ---
 
-## 🥋 III. TÍCH HỢP THẾ LỰC "TRÚC LÂM THIỀN MÔN & KIM NGÔ ẨN VỆ" TRONG ĐẠI CỔ PHONG (MUSIC OS)
+## 🥋 III. TÍCH HỢP THẾ LỰC "TRÚC LÂM THIỀN MÔN & KIM NGÔ ẨN VỆ" TRONG ĐẠI CỔ PHONG (Vũ Trụ Cổ Phong Bách Việt)
 
 Trong hệ thống Thế Giới Quan Cổ Phong Kiếm Hiệp Đại Việt (Session 30 - 32), thế lực Trúc Lâm Yên Tử được xây dựng với bút tích sâu dày, uy nghiêm:
 
@@ -101,12 +101,12 @@ Trong hệ thống Thế Giới Quan Cổ Phong Kiếm Hiệp Đại Việt (Ses
       ▼                                      ▼                                      ▼
 [ THIỀN TÂM & Y ĐẠO ]              [ KIM NGÔ ẨN VỆ ]                      [ TRÚC KIẾM THIỀN VÕ ]
 (Mộc Tĩnh Lan - 580 vị thuốc,       (Cấm vệ quân cải trang tiều phu,       (Kiếm tre không sát sinh,
- Đàn Tranh 432Hz chữa lành)          bảo vệ bí mật phòng tuyến tiền tiêu)   108 huyệt đạo điểm chỉ)
+ Đàn Tranh Cổ Nhạc chữa lành)          bảo vệ bí mật phòng tuyến tiền tiêu)   108 huyệt đạo điểm chỉ)
 ```
 
 1. **Bản Chất Thế Lực:** Là **Đại Tông Môn Lưỡng Hợp (Hoàng Quyền & Thiền Võ)** cao quý bậc nhất Đại Việt, giữ vai trò "Cột trụ Tinh thần & Tiền đồn Quốc phòng" của triều đình Đông A.
 2. **Hình Tượng Nàng Mộc Tĩnh Lan:**
-   * Không chỉ là con gái thợ gốm lưu vong, nàng chính là **Truyền nhân Y Đạo của Thiền Phái Trúc Lâm**, khoác áo tứ thân lụa thô Chu Đậu, mang gùi thuốc nứa sau lưng, gảy đàn Tranh 432Hz xoa dịu vết thương chiến tranh và nắm giữ những mật thư điều phối nghĩa sĩ sa trường.
+   * Không chỉ là con gái thợ gốm lưu vong, nàng chính là **Truyền nhân Y Đạo của Thiền Phái Trúc Lâm**, khoác áo tứ thân lụa thô Chu Đậu, mang gùi thuốc nứa sau lưng, gảy đàn Tranh Cổ Nhạc xoa dịu vết thương chiến tranh và nắm giữ những mật thư điều phối nghĩa sĩ sa trường.
 3. **Thế Trận Kim Ngô Ẩn Vệ:**
    * Những cao thủ cấm vệ quân khoác áo chàm tiều phu, ẩn mình trong sương mù rừng trúc Yên Tử, sẵn sàng xuất chiêu *Kim Ngô Phá Vân Kiếm* để bẻ gãy mọi âm mưu do thám của Ma giáo và thích khách phương Bắc.
 
@@ -114,28 +114,18 @@ Trong hệ thống Thế Giới Quan Cổ Phong Kiếm Hiệp Đại Việt (Ses
 
 ## 🎼 IV. CHUYỂN HÓA ÂM NHẠC S-02 CROSSOVER MASTERPIECE: "NON THIÊNG CHỐT BỜ CÕI"
 
-### 🎛️ 1. STYLE MÔ TẢ HÌNH THÁI CHUẨN S-02 (YEN TU SACRED GUARDIAN MASTERPIECE):
+### 📜 2. ĐOẠN CA TỪ KHẮC HỌA THÂM Ý YÊN TỬ :
 ```text
-Authentic Ancient Oriental Symphonic Crossover, Traditional Pentatonic Scale, 76 BPM, key of Am. Rustling bamboo forest winds and heavy temple rain foley, ethereal Xiao and soaring Dizi ornaments, virtuosic weeping Dan Bau glissando, warm 432Hz Guzheng cascades, low resonant Guqin zither, weeping Erhu leads, warm cinematic orchestral strings and noble bronze bells percussion. Intimate breathy Celestial Soprano and Deep Melancholic Baritone Duet, noble, uplifting, cinematic but restrained wuxia fantasy masterpiece, heartbreaking poetic nostalgia. Expansive ancient mountain fortress and foggy bamboo valley reverb, wide lush stereo panorama, pristine studio mastering.
-```
-
-### 📜 2. ĐOẠN CA TỪ KHẮC HỌA THÂM Ý YÊN TỬ (MusiCoT):
-```text
-[Intro - Rustling bamboo forest wind and distant thunder foley with deep Guqin resonance]
-
-[Verse - Deep Melancholic Baritone (Guqin & Breathy Dongxiao)]
 Hoàng bào cởi lại chốn Thăng Long lầu son
 Áo nâu sồng... chân trần dẫm tuyết ngàn non
 Người tưởng vua đi tìm chốn nhàn an thanh tịnh
 Đâu hay Yên Tử... là lũy thép chắn cửa ngõ trời Đông!
 
-[Pre-Chorus - Cinematic Strings Swell & Weeping Dan Bau]
 Đứng trên đỉnh Phù Vân... trông ngút ngàn sóng bạc Bạch Đằng
 Mắt dõi phương Bắc... tay lần tràng hạt giữ yên non sông
 Không dời đô... nhưng dựng thành trì trong lòng vách đá
 Chữa lành muôn dân... nuôi ngọn lửa ngầm ngàn năm bất tử!
 
-[Chorus - Full Symphonic Orchestra & Celestial Vocal Belting]
 Gió ngàn trúc reo... chuông đồng rền vang đỉnh mây
 Một vạt áo nâu... che chở muôn triệu sinh linh
 Nam quốc sơn hà... ngàn thu vững vàng cõi phúc!

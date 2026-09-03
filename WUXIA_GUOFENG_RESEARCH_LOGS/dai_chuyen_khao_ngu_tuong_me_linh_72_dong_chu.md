@@ -1,6 +1,6 @@
 # 🐘 ĐẠI CHUYÊN KHẢO: 72 ĐỘNG CHỦ & THẬP NHỊ THẦN THÚ BÁCH VIỆT
 ## HUYỀN THOẠI NGỰ TƯỢNG MÊ LINH HAI BÀ TRƯNG & BẬC THẦY ĐIỀU KHIỂN VOI CHIẾN BẰNG TRỐNG ĐỒNG ĐÔNG SƠN
-### HỆ THỐNG: `MUSIC OS` · THƯƠNG HIỆU: `KSMART MUSIC © 2026`
+### DI SẢN VĂN HÓA BÁCH VIỆT & ĐẠI VIỆT THIÊN CỔ
 ### CHỦ TRÌ BIÊN SOẠN: TIỂU THUYẾT GIA VŨ DẠ KHÁCH & SỬ QUAN LÊ VĂN
 
 ---
@@ -62,11 +62,11 @@
 * **Khái niệm 72 Động Chủ:** 72 tù trưởng, tộc trưởng các bản mường cổ cai quản các hẻm núi hiểm trở, giữ vững thế trận biên ải che chắn cho kinh thành cõi Nam.
 * **Tuyệt Kỹ "Ngự Thú Tâm Pháp" (Giao Cảm Tâm Linh):**
   * Không dùng roi vọt hay bạo lực thuần hóa.
-  * Các bậc thầy Ngự Thú dùng **tiếng sáo trúc 432Hz, tiếng lá cây kẹp môi thổi điệu ru rừng và mùi hương lá ngải thảo mộc** để hòa nhịp nhịp tim cùng muôn thú, biến linh thú thành những người bạn chiến đấu trung thành xả thân bảo vệ chủ nhân.
+  * Các bậc thầy Ngự Thú dùng **tiếng sáo trúc Cổ Nhạc, tiếng lá cây kẹp môi thổi điệu ru rừng và mùi hương lá ngải thảo mộc** để hòa nhịp nhịp tim cùng muôn thú, biến linh thú thành những người bạn chiến đấu trung thành xả thân bảo vệ chủ nhân.
 
 ---
 
-## 🎬 IV. PHÂN CẢNH SỬ THI KINH ĐIỂN ỨNG DỤNG CHO MUSIC OS:
+## 🎬 IV. PHÂN CẢNH SỬ THI KINH ĐIỂN ỨNG DỤNG CHO Vũ Trụ Cổ Phong Bách Việt:
 
 ```
 [ ĐỘI HÌNH TƯỢNG BINH MÊ LINH ] ──► [ TIẾNG TRỐNG ĐỒNG ĐÔNG SƠN ] ──► [ ĐỘN THỔ & TẤN CÔNG THẦN TỐC ]

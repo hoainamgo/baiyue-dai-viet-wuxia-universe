@@ -1,9 +1,9 @@
 # 📜 ĐẠI BÁCH KHOA KHẢO CỨU: HỆ THỐNG VĂN TỰ BÁCH VIỆT THƯỢNG CỔ VÙNG TRƯỜNG GIANG & BẰNG CHỨNG KHẢO CỔ HỌC VỀ CHỮ VIỆT CỔ
 ## (ANCIENT BAIYUE WRITING SYSTEM: 5,300-YEAR ARCHAEOLOGICAL EVIDENCE FROM YANGTZE RIVER LIANGZHU TO DONG SON)
 
-> **Cơ quan Khảo cứu:** Viện Nghiên Cứu Lịch Sử & Cổ Văn Tự Học — `Music OS | Ksmart Music © 2026`  
-> **Chủ trì Khảo cổ & Lịch sử:** **Subagent thứ 13 — Sử Quan Lê Văn**  
-> **Chủ trì Kịch bản & Thế giới quan:** **Subagent thứ 14 — Vũ Dạ Khách (Tiểu Thuyết Gia)**  
+> **Cơ quan Khảo cứu:** Viện Nghiên Cứu Lịch Sử & Cổ Văn Tự Học — `Viện Hàn Lâm Lịch Sử & Thi Ca Bách Việt`  
+> **Chủ trì Khảo cổ & Lịch sử:** **Sử Quan Lê Văn**  
+> **Chủ trì Kịch bản & Thế giới quan:** **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
 > **Cố vấn Cổ Ngữ & Thanh Nhạc Đông A:** **Vân Chu (云舟)**, **Noah An** & **Bạch Hạc (Huỳnh Hạc Nam)**  
 > **Thẩm định Di sản & Pháp Lý:** **Clara Vance** & **Cadence**  
 
@@ -104,16 +104,18 @@ Không chỉ khảo cổ học hiện đại, chính các bộ sử thư cổ k�
 
 ---
 
-## 🐉 PHẦN V: TÍCH HỢP HỌC THUẬT VÀO VŨ TRỤ CỔ PHONG KSMART MUSIC
+## 🐉 PHẦN V: TÍCH HỢP HỌC THUẬT VÀO VŨ TRỤ CỔ PHONG Đại Việt Cổ Phong
 
 ### 1. Chi Tiết Kịch Bản Trong Các Tác Phẩm Cổ Phong (Session 30):
 * **Đề Thơ Chữ Nôm & Ký Tự Khoa Đẩu Đáy Bình Gốm:**
-  * Trong bài *Gốm Hoa Nâu* và *Men Lam Hai Bến*, nàng **Mộc Tĩnh Lan** dùng bút tre khắc chữ Nôm / ký tự cổ vào đáy bình sành trước khi đưa vào lò nung nghìn độ $ightarrow$ Biểu tượng của sự trường tồn văn hóa ngàn năm bất diệt.
+  * Trong bài *Gốm Hoa Nâu* và *Men Lam Hai Bến*, nàng **Mộc Tĩnh Lan** dùng bút tre khắc chữ Nôm / ký tự cổ vào đáy bình sành trước khi đưa vào lò nung nghìn độ $
+ightarrow$ Biểu tượng của sự trường tồn văn hóa ngàn năm bất diệt.
 * **Mật Mã Quân Lệnh & Lời Thề Khắc Gươm:**
-  * Hiệp khách **An Thái** mang thanh đoản đao có khắc 2 chữ *"SÁT THÁT"* và những ký hiệu hoa văn nòng nọc cổ truyền thừa từ thời Hùng Vương $ightarrow$ Khẳng định nguồn cội võ học và lòng tự tôn dân tộc sâu sắc.
+  * Hiệp khách **An Thái** mang thanh đoản đao có khắc 2 chữ *"SÁT THÁT"* và những ký hiệu hoa văn nòng nọc cổ truyền thừa từ thời Hùng Vương $
+ightarrow$ Khẳng định nguồn cội võ học và lòng tự tôn dân tộc sâu sắc.
 
 ### 2. Âm Hưởng Thanh Nhạc Thuần Việt:
-* Toàn bộ ca từ trong hệ thống Music OS được viết theo **chuẩn phát âm thanh điệu 6 thanh của Tiếng Việt**, triệt tiêu sáo ngữ lai căng, giữ trọn vẻ đẹp mộc mạc, trong sáng và thanh thoát của thi ca dân tộc!
+* Toàn bộ ca từ trong hệ thống Vũ Trụ Cổ Phong Bách Việt được viết theo **chuẩn phát âm thanh điệu 6 thanh của Tiếng Việt**, triệt tiêu sáo ngữ lai căng, giữ trọn vẻ đẹp mộc mạc, trong sáng và thanh thoát của thi ca dân tộc!
 
 ---
 

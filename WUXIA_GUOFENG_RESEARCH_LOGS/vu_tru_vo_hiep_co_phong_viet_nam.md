@@ -34,7 +34,7 @@ Chúng ta kết nối toàn bộ thần thoại, cổ tích dân gian và các d
 * **Nguồn gốc:** Chàng dũng sĩ chân đất sống dưới gốc đa cổ thụ, tượng trưng cho tầng lớp dân nghèo hào hiệp, khảng khái.
 * **Võ công & Pháp bảo:**
   * **Khai Sơn Phủ Pháp:** Tuyệt kỹ rìu sắt một nhát chém đứt đầu Chằn Tinh (quái thú rừng thiêng) và thuật bắn cung đồng xuyên tim Đại Bàng thần điểu.
-  * **Cổ Cầm Hoàn Hồn 432Hz:** Tiếng đàn thần vạch mặt Lý Thông, cứu công chúa Quỳnh Nga khỏi trầm uất câm lặng.
+  * **Cổ Cầm Hoàn Hồn Cổ Nhạc:** Tiếng đàn thần vạch mặt Lý Thông, cứu công chúa Quỳnh Nga khỏi trầm uất câm lặng.
   * **Niêu Cơm Thần Vô Tận:** Biểu tượng của triết lý *Hiếu Sinh — Hòa Bình*: Dùng lòng nhân đạo và tiếng đàn cảm hóa, giải giáp binh đao của 18 nước chư hầu mà không tốn một giọt máu.
 
 ---
@@ -98,10 +98,10 @@ Chúng ta kết nối toàn bộ thần thoại, cổ tích dân gian và các d
   * **An Thái (TK XIII):** Tráng sĩ áo chàm thích chữ *Sát Thát*, dùng đoản đao và thuật đục thuyền bảo vệ non sông Đại Việt thời Trần.
   * **Từ Hải (TK XVI):** Vị Hải Vương kế thừa ngọn lửa quật cường của tổ tiên Bách Việt, xưng vương cõi biển, dựng triều đình công lý bảo vệ người mình yêu.
 * **Hình Tượng Phụ Nữ Việt:**
-  * **Mộc Tĩnh Lan:** Nàng thợ gốm dịu dàng mang đàn Tranh 432Hz xoa dịu vết thương chiến trận.
+  * **Mộc Tĩnh Lan:** Nàng thợ gốm dịu dàng mang đàn Tranh Cổ Nhạc xoa dịu vết thương chiến trận.
   * **Thúy Kiều:** Người con gái hiếu thảo, tài hoa, dũng cảm đối mặt nghịch cảnh, giữ trọn nhân phẩm cao đẹp.
 
 ---
 
 ### 🎵 TỔNG KẾT Ý NGHĨA NGHỆ THUẬT:
-Giờ đây, thế giới quan Cổ Phong của Music OS không còn là những mảnh ghép rời rạc, mà là một **Vũ Trụ Võ Hiệp Sử Thi Hoành Tráng** — nơi có bóng dáng ngọn roi sắt Thánh Gióng, tiếng rìu Thạch Sanh chém quái, dưa đỏ Mai An Tiêm, tiếng nỏ thần Cổ Loa, đoản đao An Thái và đại đao xé sóng Biển Đông của Hải Vương Từ Hải!
+Giờ đây, thế giới quan Cổ Phong của Vũ Trụ Cổ Phong Bách Việt không còn là những mảnh ghép rời rạc, mà là một **Vũ Trụ Võ Hiệp Sử Thi Hoành Tráng** — nơi có bóng dáng ngọn roi sắt Thánh Gióng, tiếng rìu Thạch Sanh chém quái, dưa đỏ Mai An Tiêm, tiếng nỏ thần Cổ Loa, đoản đao An Thái và đại đao xé sóng Biển Đông của Hải Vương Từ Hải!

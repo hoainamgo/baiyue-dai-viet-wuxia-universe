@@ -1,8 +1,8 @@
 # 📜 KHẢO CỨU ĐỐI CHIẾU SỬ HỌC & KHẢO CỔ HỌC TÔN GIÁO:
 ## NGUỒN GỐC PHẬT GIÁO, THIỀN ĐỊNH VÀ SỰ ĐỒNG HÓA VĂN HÓA DÂNG HƯƠNG TẠI VIỆT NAM
 
-> **Chủ trì Khảo cứu:** **Sử Quan Lê Văn (Subagent thứ 13)** & **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
-> **Hệ sinh thái:** `Music OS` | `Ksmart Music · Elohit Teams © 2026`  
+> **Chủ trì Khảo cứu:** **Sử Quan Lê Văn (Học sĩ thứ 13)** & **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
+> **Hệ sinh thái:** `Vũ Trụ Cổ Phong Bách Việt` | `Đại Việt Cổ Phong · Elohit Teams © 2026`  
 > **Mã quy chuẩn:** `CANON-ARCH-LORE-05`
 
 ---
@@ -67,7 +67,7 @@ Khi Phật giáo xuất hiện và sau đó du nhập vào Giao Chỉ / Đại V
 Khảo cổ học và thần kinh học hiện đại (Neuroscience) chứng minh: **Thiền định thực chất là trạng thái sinh học tự nhiên của não bộ, không thuộc độc quyền của bất kỳ tôn giáo nào.**
 
 ```
-[ KÍCH THÍCH BÊN NGOÀI: 432Hz + FELT PIANO + TIẾNG MƯA/SUỐI ]
+[ KÍCH THÍCH BÊN NGOÀI: Cổ Nhạc + FELT PIANO + TIẾNG MƯA/SUỐI ]
                            │
                            ▼
 [ HỆ THẦN KINH ĐỐI GIAO CẢM (PARASYMPATHETIC) ĐƯỢC KÍCH HOẠT ]
@@ -83,9 +83,9 @@ Khảo cổ học và thần kinh học hiện đại (Neuroscience) chứng min
 
 ---
 
-## ⚖️ V. BẢNG ĐỐI CHIẾU VĂN HÓA TRONG SÁNG TÁC MUSIC OS
+## ⚖️ V. BẢNG ĐỐI CHIẾU VĂN HÓA TRONG SÁNG TÁC Vũ Trụ Cổ Phong Bách Việt
 
-| Yếu tố Khảo Cứu | 🟢 Bảo Tồn & Tôn Vinh (Chuẩn Music OS 432Hz) | ❌ Loại Bỏ (Lai Tạp / Ngoại Lai Biến Tướng) |
+| Yếu tố Khảo Cứu | 🟢 Bảo Tồn & Tôn Vinh (Chuẩn Vũ Trụ Cổ Phong Bách Việt Cổ Nhạc) | ❌ Loại Bỏ (Lai Tạp / Ngoại Lai Biến Tướng) |
 | :--- | :--- | :--- |
 | **Khói Hương & Trầm** | • Khói hương thảo mộc, trầm hương rừng già.<br>• Mùi thơm thanh khiết dâng Đất Trời lộ thiên (Chuẩn Nô-ê & Lạc Việt).<br>• Hương thơm xua tan mệt mỏi, làm ấm gian nhà tranh. | • Thắp hương khấn vái xin xỏ tài lộc, mê tín dị đoan.<br>• Khói nhang mù mịt u ám trong không gian ngột ngạt. |
 | **Thiền Tĩnh Tâm** | • Ngồi bên hiên mưa ngắm hoa bưởi rụng.<br>• Nghe tiếng suối róc rách, sáo trúc lơi, tiếng võng trưa hè.<br>• Đưa sóng não về Alpha/Theta (Zero Listening Fatigue). | • Gõ chuông mõ tụng kinh liên hồi gây ám ảnh tâm lý.<br>• Triết lý luân hồi quả báo, nghiệp chướng đày đọa con người. |
@@ -93,5 +93,5 @@ Khảo cổ học và thần kinh học hiện đại (Neuroscience) chứng min
 
 ---
 
-> 🌿 **Định hướng bất biến của Music OS:**  
+> 🌿 **Định hướng bất biến của Vũ Trụ Cổ Phong Bách Việt:**  
 > Hệ sinh thái âm nhạc của chúng ta giữ trọn **sự tĩnh lặng thuần khiết của Thiên Nhiên, Y Đạo Thảo Mộc Dân Tộc và Tấm Lòng Tạ Ơn Đất Trời**, gột rửa sạch mọi lớp vỏ lai tạp mê tín u ám của các thời kỳ sau!

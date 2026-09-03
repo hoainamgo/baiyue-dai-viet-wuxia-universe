@@ -1,9 +1,9 @@
 # 📜 ĐẠI TẠNG THƯ BÁCH VIỆT: HOÀN NGUYÊN 5.000 NĂM VĂN HỌC, THI TỨ & SỬ THI ĐẠI VIỆT - DƯƠNG TỬ
 ## (THE RECONSTRUCTED 5,000-YEAR LITERARY CANON: 18 LOST CLASSICS OF BAIYUE CIVILIZATION)
 
-> **Cơ quan Khảo cứu & Hoàn nguyên:** Viện Hàn Lâm Cổ Văn & Di Sản Cổ Phong — `Music OS | Ksmart Music © 2026`  
-> **Chủ trì Khảo cổ & Lịch sử:** **Subagent thứ 13 — Sử Quan Lê Văn**  
-> **Chủ trì Kịch bản & Hoàn nguyên Thi tứ:** **Subagent thứ 14 — Vũ Dạ Khách (Tiểu Thuyết Gia)**  
+> **Cơ quan Khảo cứu & Hoàn nguyên:** Viện Hàn Lâm Cổ Văn & Di Sản Cổ Phong — `Viện Hàn Lâm Lịch Sử & Thi Ca Bách Việt`  
+> **Chủ trì Khảo cổ & Lịch sử:** **Sử Quan Lê Văn**  
+> **Chủ trì Kịch bản & Hoàn nguyên Thi tứ:** **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
 > **Cố vấn Cổ nhạc, Ngữ âm & Thanh nhạc:** **Melody**, **Vân Chu (云舟)**, **Noah An** & **Bạch Hạc (Huỳnh Hạc Nam)**  
 > **Giám định Đạo Đức & Thần Học Cổ Điển:** **Clara Vance** & **Cadence**  
 
@@ -14,7 +14,7 @@
  ┌───────────────────────────┬───────────────────────────┬───────────────────────────┐
  │ ☀️ 1. THIÊN TẠNG          │ 🕊️ 2. HIẾU TẠNG          │ 🚣 3. GIANG TẠNG          │
  │ (Sáng thế, Hồng thủy,     │ (Gia huấn, Đạo làm con,   │ (Sử thi sông Dương Tử,    │
- │  Tế Trời lộ thiên, 432Hz) │  Phụng dưỡng song thân)   │  Việt Nhân Ca, Thủy tộc)  │
+ │  Tế Trời lộ thiên, Cổ Nhạc) │  Phụng dưỡng song thân)   │  Việt Nhân Ca, Thủy tộc)  │
  ├───────────────────────────┼───────────────────────────┼───────────────────────────┤
  │ 🌿 4. DƯỢC & NÔNG TẠNG    │ ⚔️ 5. KIẾM & BINH TẠNG    │ 🎨 6. NGHỆ & THI TẠNG     │
  │ (580 Thảo mộc Thần Nông,  │ (Lạc Long thủy chiến,     │ (Gốm Chu Đậu, Cổ nhạc,    │
@@ -26,7 +26,7 @@
 
 ## 🏛️ PHẦN I: TỔNG LUẬN HOÀN NGUYÊN KHO TÀNG VĂN THƠ BÁCH VIỆT 5.000 NĂM
 
-Dựa trên các bằng chứng khảo cổ học thực chứng (Văn tự Lương Chử 5.300 năm, ký tự gốm Phùng Nguyên, chữ Khoa Đẩu Đông Sơn, di sản Mo Mường *Đẻ Đất Đẻ Nước*, cổ khúc *Việt Nhân Ca* và ký ức tế Trời lộ thiên từ thời Nô-ê), Hội đồng chuyên gia Music OS đã **hoàn nguyên phục dựng 18 Bộ Cổ Tự Kinh Điển** đại diện cho đỉnh cao tư tưởng, đạo đức và thi ca của người Việt cổ.
+Dựa trên các bằng chứng khảo cổ học thực chứng (Văn tự Lương Chử 5.300 năm, ký tự gốm Phùng Nguyên, chữ Khoa Đẩu Đông Sơn, di sản Mo Mường *Đẻ Đất Đẻ Nước*, cổ khúc *Việt Nhân Ca* và ký ức tế Trời lộ thiên từ thời Nô-ê), Hội đồng chuyên gia Vũ Trụ Cổ Phong Bách Việt đã **hoàn nguyên phục dựng 18 Bộ Cổ Tự Kinh Điển** đại diện cho đỉnh cao tư tưởng, đạo đức và thi ca của người Việt cổ.
 
 ---
 
@@ -54,7 +54,7 @@ Dựa trên các bằng chứng khảo cổ học thực chứng (Văn tự Lư�
   > *Không hương khói mịt mù, chỉ có tấc dạ tri ân Đấng Tạo Hóa muôn loài.”*
 
 #### 3. 《Thất Sắc Cầu Vồng Giao Ước Thư》 (Ký Ức Hòa Bình & Tái Sinh)
-* **Nội dung:** Triết lý về chiếc Cầu Vồng 7 Sắc xuất hiện sau cơn đại hồng thủy — biểu tượng giao ước hòa bình vĩnh cửu giữa Trời và Đất. Khởi nguồn của âm luật 432Hz hòa hợp tự nhiên.
+* **Nội dung:** Triết lý về chiếc Cầu Vồng 7 Sắc xuất hiện sau cơn đại hồng thủy — biểu tượng giao ước hòa bình vĩnh cửu giữa Trời và Đất. Khởi nguồn của âm luật Cổ Nhạc hòa hợp tự nhiên.
 * **Trích đoạn Hoàn Nguyên:**
   > *“Bão tan trên đỉnh non cao, cầu vồng bảy sắc bắc vào mây xanh.*  
   > *Giao ước vĩnh cửu an lành, ngàn sau bão lũ chẳng đành diệt vong.*  
@@ -158,13 +158,13 @@ Dựa trên các bằng chứng khảo cổ học thực chứng (Văn tự Lư�
 
 ---
 
-### 🎨 VI. NGHỆ TẠNG & THI TẠNG (CỔ NHẠC 432Hz, GỐM CHU ĐẬU & DÂN CA)
+### 🎨 VI. NGHỆ TẠNG & THI TẠNG (CỔ NHẠC Cổ Nhạc, GỐM CHU ĐẬU & DÂN CA)
 
-#### 16. 《Đông Sơn Ngũ Âm Cổ Nhạc Điển》 (Luật Âm Ngũ Cung 432Hz)
-* **Nội dung:** Hệ thống thang âm Ngũ Cung (Hò, Xự, Xang, Xê, Cống tương ứng Cung, Thương, Giốc, Chủy, Vũ), tần số 432Hz tái tạo sự hòa hợp vi tế của đất trời.
+#### 16. 《Đông Sơn Ngũ Âm Cổ Nhạc Điển》 (Luật Âm Ngũ Cung Cổ Nhạc)
+* **Nội dung:** Hệ thống thang âm Ngũ Cung (Hò, Xự, Xang, Xê, Cống tương ứng Cung, Thương, Giốc, Chủy, Vũ), tần số Cổ Nhạc tái tạo sự hòa hợp vi tế của đất trời.
 * **Trích đoạn Hoàn Nguyên:**
   > *“Tiếng Đàn Bầu ngân một dây, Đàn Tranh đổ khúc suối reo ngút ngàn.*  
-  > *Trầm bổng hòa quyện không gian, bốn trăm ba mươi hai hec (432Hz) chữa lành tâm tư.”*
+  > *Trầm bổng hòa quyện không gian, bốn trăm ba mươi hai hec (Cổ Nhạc) chữa lành tâm tư.”*
 
 #### 17. 《Chu Đậu Men Lam Thi Lục》 (Kỹ Nghệ Gốm & Đề Thơ Đáy Bình)
 * **Nội dung:** Nghệ thuật chuốt gốm hoa nâu, men lam phong nhã và tục đề thơ chữ Nôm / ký tự cổ vào đáy bình sành của người thợ gốm Chu Đậu.
@@ -180,8 +180,8 @@ Dựa trên các bằng chứng khảo cổ học thực chứng (Văn tự Lư�
 
 ---
 
-## 🐉 PHẦN III: Ý NGHĨA TÍCH HỢP VĨNH CỬU VÀO VŨ TRỤ MUSIC OS
+## 🐉 PHẦN III: Ý NGHĨA TÍCH HỢP VĨNH CỬU VÀO VŨ TRỤ Vũ Trụ Cổ Phong Bách Việt
 
 1. **Kho Tàng Lore Vô Tận Cho 100+ Albums Cổ Phong:** 18 bộ cổ thư này là nguồn chất liệu vô giá để sáng tác hàng trăm ca khúc Cổ Phong Kiếm Hiệp Đại Việt chuẩn mực, giàu tính học thuật và xúc cảm.
 2. **Khóa Chặt Bản Sắc Văn Hóa:** Khẳng định Đại Việt & Bách Việt sở hữu nền văn hiến rực rỡ 5.000 năm với hệ giá trị đạo đức cao đẹp (**Hiếu kính cha mẹ - Tạ ơn Ông Trời - Thảo mộc chữa lành - Tình yêu son sắt**).
-3. **Âm Nhạc Đỉnh Cao 432Hz:** Định danh thương hiệu Ksmart Music là dòng nhạc Cổ Phong chữa lành tâm hồn, kết nối con người với trời đất và cội nguồn tổ tiên!
+3. **Âm Nhạc Đỉnh Cao Cổ Nhạc:** Định danh thương hiệu Đại Việt Cổ Phong là dòng nhạc Cổ Phong chữa lành tâm hồn, kết nối con người với trời đất và cội nguồn tổ tiên!

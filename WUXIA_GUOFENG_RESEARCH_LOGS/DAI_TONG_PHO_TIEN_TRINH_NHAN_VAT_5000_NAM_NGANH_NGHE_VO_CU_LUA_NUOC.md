@@ -2,7 +2,7 @@
 ## (MA TRẬN ĐA NGÀNH NGHỀ, VĂN VÕ KHẢO THÍ, BÁCH CÔNG KỸ NGHỆ & PHONG TỤC TẬP QUÁN LÚA NƯỚC)
 
 > **Cơ quan Khảo cứu:** Viện Nghiên Cứu Điển Tịch, Bách Công & Dân Xã Học — `Baiyue & Dai Viet Wuxia Universe`  
-> **Chủ trì Biên soạn:** **Sử Quan Lê Văn (Subagent 13)** & **Tiểu Thuyết Gia Vũ Dạ Khách (Subagent 14)**  
+> **Chủ trì Biên soạn:** **Sử Quan Lê Văn (Học sĩ 13)** & **Tiểu Thuyết Gia Vũ Dạ Khách (Học sĩ 14)**  
 > **Chủ trì Bách Công & Mỹ Nghệ:** **Sylvia (Visual Director)** & **Mộc Tĩnh Lan**  
 > **Chủ trì Võ Học & Thủy Chiến:** **Bạch Hạc (Huỳnh Hạc Nam)** & **Hiệp Khách An Thái**  
 > **Giám định Đạo Đức & Tế Lễ:** **Noah An** & **Clara Vance**  
@@ -40,7 +40,7 @@
 ### 🌾 2. KỶ VĂN LANG & ĐÔNG SƠN (4.000 – 2.300 NĂM TRƯỚC)
 * **📜 Tầng Lớp Giỏi Văn & Lễ Nhạc:**
   * **Lạc Hầu & Bồ Chính**: Các đại thần cai quản việc chính sự, tổ chức mùa màng, giữ gìn luật tục hòa thuận xóm làng.
-  * **Nhạc Sư Đông Sơn**: Người định âm 5 nốt Ngũ Cung (Cung, Thương, Dốc, Chủy, Vũ) trên Trống Đồng, hòa tấu cùng Khèn Bè và Đàn Đá 432Hz.
+  * **Nhạc Sư Đông Sơn**: Người định âm 5 nốt Ngũ Cung (Cung, Thương, Dốc, Chủy, Vũ) trên Trống Đồng, hòa tấu cùng Khèn Bè và Đàn Đá Cổ Nhạc.
 * **⚔️ Tầng Lớp Giỏi Võ & Đô Vật Làng:**
   * **Phù Đổng Thiên Vương (Thánh Gióng)**: Anh hùng dân tộc, biểu tượng võ học đập tan giặc Ân bằng gậy sắt và bụi tre ngà.
   * **Đô Vật Liễu Đôi & Đô Vật Mai Động**: Các đô vật dân gian thượng thặng, sáng tạo thế võ "Đoán hạ cước", "Đòn chân kẹp cổ" phá vỡ đội hình kỵ binh giặc.
@@ -98,7 +98,7 @@
 
 ---
 
-### ⚔️ 8. KỶ ĐẠI VIỆT THỜI ĐÔNG A (THẾ KỶ XIII – XIV) — TRỌNG TÂM KSMART MUSIC
+### ⚔️ 8. KỶ ĐẠI VIỆT THỜI ĐÔNG A (THẾ KỶ XIII – XIV) — TRỌNG TÂM Đại Việt Cổ Phong
 * **👑 Thống Soái Quân Sự & Thiền Tông:**
   * **Quốc Công Tiết Chế Hưng Đạo Đại Vương (Trần Quốc Tuấn)**: Tác giả *Hịch Tướng Sĩ*, *Binh Thư Yếu Lược*, lãnh đạo 3 lần quét sạch giặc Nguyên Mông.
   * **Phật Hoàng Trần Nhân Tông**: Vị vua anh hùng xuất gia lập Thiền phái Trúc Lâm Yên Tử, phát triển nền Nam Dược y đạo toàn dân.
@@ -108,7 +108,7 @@
   * **Nghề nghiệp:** Thống lĩnh thủy binh Lục Đầu Giang, chế tác đoản đao lá lúa, luyện kiếm bên rừng trúc Yên Tử.
 * **🏺 ĐẠI NGHỆ NHÂN MỘC TĨNH LAN (Kỳ Nữ Chu Đậu & Y Sĩ Trúc Lâm):**
   * **Danh hiệu:** **"Đại Nghệ Sư Men Lam Đông A"** & **"Dược Sư Nương Trúc Lâm"**.
-  * **Nghề nghiệp:** Kỹ nghệ gốm hoa nâu và men lam Chu Đậu; Nắm giữ bí truyền 580 vị thuốc nam kết hợp âm nhạc Đàn Tranh 432Hz chữa lành sa trường.
+  * **Nghề nghiệp:** Kỹ nghệ gốm hoa nâu và men lam Chu Đậu; Nắm giữ bí truyền 580 vị thuốc nam kết hợp âm nhạc Đàn Tranh Cổ Nhạc chữa lành sa trường.
 * **🔨 Tầng Lớp Thợ Thủ Công Làng Nghề:**
   * **Thợ Rèn Làng Đa Hội / Sắt Vạn Kiếp**: Rèn gươm giáo, đoản đao thép nguội dẻo dai chém sắt không mẻ.
   * **Thợ Gốm Chu Đậu (Nam Sách)**: Nung gốm 1.200 độ C, xuất khẩu đồ gốm men ngọc đi khắp các thương cảng thế giới (Cù Lao Chàm, Cattigara, Trung Đông).

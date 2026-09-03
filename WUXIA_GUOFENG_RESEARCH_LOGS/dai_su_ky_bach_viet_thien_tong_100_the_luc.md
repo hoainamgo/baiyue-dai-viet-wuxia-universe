@@ -1,6 +1,6 @@
 # 🐉 ĐẠI SỬ KÝ: "BÁCH VIỆT THIÊN TÔNG" — TỪ 100 THẾ LỰC THƯỢNG CỔ ĐẾN DẤU VẾT MẬT TRUYỀN ĐẠI VIỆT
 ## QUÁ TRÌNH THU HẸP, HỢP LƯU & DI SẢN BẤT TỬ TRONG GIANG HỒ THỜI ĐÔNG A
-### HỆ THỐNG: `MUSIC OS` · THƯƠNG HIỆU: `KSMART MUSIC © 2026`
+### DI SẢN VĂN HÓA BÁCH VIỆT & ĐẠI VIỆT THIÊN CỔ
 ### CHỦ TRÌ KHẢO CỨU: SỬ QUAN LÊ VĂN & TIỂU THUYẾT GIA VŨ DẠ KHÁCH
 
 ---
@@ -70,10 +70,10 @@ Dù qua hàng nghìn năm chiến tranh và sáp nhập, 100 thế lực cổ x�
 
 ---
 
-## 🗡️ IV. TÍCH HỢP ĐỘC BẢN VÀO THẾ GIỚI QUAN MUSIC OS:
+## 🗡️ IV. TÍCH HỢP ĐỘC BẢN VÀO THẾ GIỚI QUAN Vũ Trụ Cổ Phong Bách Việt:
 
 ```
-[ 100 BỘ TỘC BÁCH VIỆT CỔ ] ──► [ HỘI TỤ VÀO ĐẠI VIỆT ] ──► [ AN THÁI & MỘC TĨNH LAN ] ──► [ ÂM NHẠC CỔ PHONG 432HZ ]
+[ 100 BỘ TỘC BÁCH VIỆT CỔ ] ──► [ HỘI TỤ VÀO ĐẠI VIỆT ] ──► [ AN THÁI & MỘC TĨNH LAN ] ──► [ ÂM NHẠC CỔ PHONG Cổ Nhạc ]
  • 100 dòng máu võ học          • 30 Môn Phái Giang Hồ      • Chắt lọc tinh hoa nghìn năm    • Hào khí non sông bất tử
  • 100 phương thuốc quý         • Làng nghề truyền thống    • Mang gùi thuốc, cầm đoản đao   • Giai điệu tự hào dân tộc
 ```

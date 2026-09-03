@@ -32,11 +32,11 @@ Sự kết nối lịch sử hoàn hảo ngang thời đại của Hiệp Khách
 * **Tư tưởng vĩ đại:** **"NAM DƯỢC TRỊ NAM NHÂN"** (Cây thuốc của trời Nam chữa bệnh cho người phương Nam).
 * **Di sản:** Biên soạn hai bộ đại bách khoa y học: *Nam Dược Thần Hiệu* (ghi chép 580 vị thuốc nam thuần túy) và *Hồng Nghĩa Giác Tư Y Thư*.
 * **Hình tượng trong Võ Hiệp:**
-  * Nàng **Mộc Tĩnh Lan** học y thuật từ các danh y thời Trần, ban ngày giã thuốc lá ngải, hương nhu đắp vết thương sa trường cho An Thái; ban đêm dùng tiếng đàn Tranh 432Hz xua tan độc khí và nội thương.
+  * Nàng **Mộc Tĩnh Lan** học y thuật từ các danh y thời Trần, ban ngày giã thuốc lá ngải, hương nhu đắp vết thương sa trường cho An Thái; ban đêm dùng tiếng đàn Tranh Cổ Nhạc xua tan độc khí và nội thương.
 
 ---
 
-## 💎 PHẦN IV: TÍCH HỢP VÀO THẾ GIỚI QUAN CỔ PHONG KSMART MUSIC:
+## 💎 PHẦN IV: TÍCH HỢP VÀO THẾ GIỚI QUAN CỔ PHONG Đại Việt Cổ Phong:
 1. **Bí Kíp Y Đạo:** *"Thần Nông Thảo Mộc Kinh"* & *"Tuệ Tĩnh Thần Phương"*.
 2. **Hình Tượng Nhân Vật:** Nữ y sư thanh tú đeo gùi thuốc bên vách núi, nụ cười thanh khiết tựa sương mai chữa lành vết thương cho các hiệp khách sa trường.
-3. **Âm Nhạc 432Hz:** Tiếng nước suối róc rách trong rừng dược thảo hòa cùng tiếng đàn Tranh thanh tao, mang lại năng lượng an bình tuyệt đối cho người nghe.
+3. **Âm Nhạc Cổ Nhạc:** Tiếng nước suối róc rách trong rừng dược thảo hòa cùng tiếng đàn Tranh thanh tao, mang lại năng lượng an bình tuyệt đối cho người nghe.

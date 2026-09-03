@@ -20,7 +20,7 @@
 6. **🎋 26. Vườn Tre Ngà Phù Đổng Sóc Sơn (Điển tích Thánh Gióng):**
    * *Bối cảnh:* Giữa rừng tre ngà thân vàng óng chân núi Sóc Sơn, An Thái luyện thế côn quyền trúc trượng dưới sự cổ vũ rạng rỡ của Mộc Tĩnh Lan.
 7. **🪓 27. Đỉnh Núi Diệt Quái Cứu Mỹ Nhân (Điển tích Thạch Sanh):**
-   * *Bối cảnh:* Trước cửa hang đá rừng sâu, An Thái vác cây rìu sắt khai sơn oai dũng che chở cho Mộc Tĩnh Lan đang ôm cây đàn cầm thần 432Hz.
+   * *Bối cảnh:* Trước cửa hang đá rừng sâu, An Thái vác cây rìu sắt khai sơn oai dũng che chở cho Mộc Tĩnh Lan đang ôm cây đàn cầm thần Cổ Nhạc.
 8. **🐘 28. Xuất Trận Voi Chiến Mê Linh (Hào khí Hai Bà Trưng):**
    * *Bối cảnh:* Trước hàng quân voi chiến hùng dũng, Mộc Tĩnh Lan trong bộ giáp đồng gióng trống đồng Đông Sơn rền vang, An Thái tuốt gươm thề thu phục 65 thành.
 9. **🌊 29. Cưỡi Gió Chém Cá Kình Biển Đông (Hào khí Bà Triệu):**

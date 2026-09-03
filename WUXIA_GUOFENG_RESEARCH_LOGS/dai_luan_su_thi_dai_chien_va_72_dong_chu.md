@@ -1,6 +1,6 @@
 # ⚔️ ĐẠI LUẬN SỬ THI: NGUỒN GỐC SỨC MẠNH VÔ SONG CỦA CÁC ĐẠI CHIẾN LỊCH SỬ ĐẠI VIỆT
 ## TÁI HIỆN DƯỚI GÓC NHÌN LỊCH SỬ, THỰC CHỨNG QUÂN SỰ, HUYỀN SỬ & BÍ MẬT "72 ĐỘNG CHỦ" BÁCH VIỆT VS KIM DUNG
-### HỆ THỐNG: `MUSIC OS` · THƯƠNG HIỆU: `KSMART MUSIC © 2026`
+### DI SẢN VĂN HÓA BÁCH VIỆT & ĐẠI VIỆT THIÊN CỔ
 ### CHỦ TRÌ KHẢO CỨU: SỬ QUAN LÊ VĂN & TIỂU THUYẾT GIA VŨ DẠ KHÁCH
 
 ---
@@ -76,12 +76,12 @@ Trong lịch sử thế giới, hiếm có một dân tộc nào đánh bại to
 
 ### 2. Sự Khác Biệt Với "36 Động 72 Đảo" Trong Kim Dung (*Thiên Long Bát Bộ*):
 * **Trong Kim Dung:** "36 động, 72 đảo" là tập hợp các bang phái nhỏ giang hồ ở vùng hải ngoại và biên cương phương Bắc bị **Thiên Sơn Đồng Lão** khống chế bằng tà thuật **Sinh Tử Phù**, sau đó được **Hư Trúc** giải cứu. Đây hoàn toàn là một tổ chức **hư cấu tiểu thuyết**.
-* **Trong Thế Giới Quan Của Chúng Ta (Music OS):**
+* **Trong Thế Giới Quan Của Chúng Ta (Vũ Trụ Cổ Phong Bách Việt):**
   * Chúng ta **sử dụng bản thể LỊCH SỬ NGUYÊN BẢN CỦA BÁCH VIỆT**: 72 Động Chủ là **72 vị thủ lĩnh sơn cước tự do của cõi Nam**, kế thừa truyền thống Ngự Thú, bảo vệ biên cương và cùng hội tụ dưới ngọn cờ chính nghĩa của Hai Bà Trưng và Đại Việt!
 
 ---
 
-## 💎 IV. TÍCH HỢP VÀO THẾ GIỚI QUAN CỔ PHONG KSMART MUSIC:
+## 💎 IV. TÍCH HỢP VÀO THẾ GIỚI QUAN CỔ PHONG Đại Việt Cổ Phong:
 
 1. **Âm Hưởng Hào Hùng Trong Ca Từ:**
    * Lời ca tái hiện khí phách chiến trận thực tế: *Tiếng cọc sắt Bạch Đằng chém sóng gầm, nỏ thần Cổ Loa xé tan trời đông, nhịp trống đồng dồn dập trên bành voi Mê Linh, tiếng bước chân thần tốc ngàn dặm của đoàn quân áo vải Tây Sơn*.

@@ -1,9 +1,9 @@
 # 📜 KHẢO CỨU ĐỐI CHIẾU KHẢO CỔ & SỬ HỌC THỰC CHỨNG:
 ## NGUỒN GỐC HƯƠNG KHÓI THANH SẠCH & SỰ XUẤT HIỆN CỦA VÀNG MÃ NGOẠI LAI
 
-> **Chủ trì Khảo cứu:** **Sử Quan Lê Văn (Subagent thứ 13)** & **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
+> **Chủ trì Khảo cứu:** **Sử Quan Lê Văn (Học sĩ thứ 13)** & **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
 > **Cố vấn Pháp lý & Bản quyền:** **Clara Vance**  
-> **Hệ sinh thái:** `Music OS` | `Ksmart Music · Elohit Teams © 2026`  
+> **Hệ sinh thái:** `Vũ Trụ Cổ Phong Bách Việt` | `Đại Việt Cổ Phong · Elohit Teams © 2026`  
 > **Mã quy chuẩn:** `CANON-ARCH-LORE-04`
 
 ---
@@ -21,7 +21,7 @@ Khảo cổ học và thư tịch cổ thực chứng xác nhận sự khác bi�
 • Khởi nguyên: ~5.300 năm (Lương Chử) & 2.500 năm (Đông Sơn)         • Khởi nguyên: Thế kỷ II – VII SCN (Đông Hán – Tùy Đường)
 • Hiện vật: Lư xông đồng Đông Sơn, Đỉnh gốm Lương Chử                • Hiện vật: Tiền giấy đục lỗ Đôn Hoàng (Minh tiền)
 • Bản chất: Mùi hương thanh sạch tạ ơn Đấng Tạo Hóa, xua chướng khí  • Bản chất: Gian lận thương mại bán giấy vụn, hối lộ cõi âm
-• Tình trạng trong Music OS: 🟢 BẢO TỒN NGUYÊN BẢN                   • Tình trạng trong Music OS: ❌ TRIỆT TIÊU 100% (BANNED)
+• Tình trạng trong Vũ Trụ Cổ Phong Bách Việt: 🟢 BẢO TỒN NGUYÊN BẢN                   • Tình trạng trong Vũ Trụ Cổ Phong Bách Việt: ❌ TRIỆT TIÊU 100% (BANNED)
 ```
 
 ---
@@ -69,11 +69,11 @@ Khảo cổ học khẳng định: **Trong suốt thời đại Hùng Vương, A
 
 ---
 
-## ⚖️ IV. ĐỊNH HƯỚNG BẢN SẮC & CHUẨN MỰC TRONG MUSIC OS
+## ⚖️ IV. ĐỊNH HƯỚNG BẢN SẮC & CHUẨN MỰC TRONG Vũ Trụ Cổ Phong Bách Việt
 
 | Tiêu Chí Sáng Tác | 🟢 Được Bảo Tồn & Tôn Vinh (Canon Lore) | ❌ Tuyệt Đối Cấm & Triệt Tiêu (Banned Clichés) |
 | :--- | :--- | :--- |
-| **Khói Hương** | • Khói hương trầm, gỗ bách, thảo mộc tự nhiên.<br>• Hương thơm dâng lên Đất Trời lộ thiên tạ ơn sự sống.<br>• Mùi thơm thanh sạch, an yên, chữa lành tâm hồn (432Hz). | • Khói hương nghi ngút mù mịt trong chùa chiền u ám.<br>• Thắp hương cầu xin số đề, van vái xin bổng lộc mê tín.<br>• Mùi hóa chất độc hại của nhang công nghiệp. |
+| **Khói Hương** | • Khói hương trầm, gỗ bách, thảo mộc tự nhiên.<br>• Hương thơm dâng lên Đất Trời lộ thiên tạ ơn sự sống.<br>• Mùi thơm thanh sạch, an yên, chữa lành tâm hồn (Cổ Nhạc). | • Khói hương nghi ngút mù mịt trong chùa chiền u ám.<br>• Thắp hương cầu xin số đề, van vái xin bổng lộc mê tín.<br>• Mùi hóa chất độc hại của nhang công nghiệp. |
 | **Tưởng Nhớ Tổ Tiên** | • Uống nước nhớ nguồn, tạc dạ công ơn cha mẹ, tiền nhân.<br>• Bát nước suối trong, đĩa xôi nếp mới, hạt thóc vàng dâng tổ tiên. | • Đốt hình nhân thế mạng, đốt vàng mã, xe cộ, nhà lầu giấy.<br>• Các khái niệm vong hồn ma quỷ, âm ty địa ngục hối lộ tiền tài. |
 
 ---

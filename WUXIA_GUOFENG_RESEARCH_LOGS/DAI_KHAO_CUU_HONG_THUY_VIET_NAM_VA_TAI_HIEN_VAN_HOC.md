@@ -1,9 +1,9 @@
 # 🌊 ĐẠI KHẢO CỨU: 50+ TRUYỀN THUYẾT HỒNG THỦY TẠI VIỆT NAM, BẰNG CHỨNG KHẢO CỔ & TÁI HIỆN CHI TIẾT KHO TÀNG VĂN HỌC VIỆT CỔ
 ## (THE VIETNAMESE FLOOD CORPUS: 50+ ETHNIC TRADITIONS, DONG SON ARCHAEOLOGY & THE RECONSTRUCTION OF ANCIENT VIETNAMESE EPIC LITERATURE)
 
-> **Cơ quan Khảo cứu:** Viện Nghiên Cứu Lịch Sử & Dân Tộc Học Cổ Phong — `Music OS | Ksmart Music © 2026`  
-> **Chủ trì Khảo cổ & Dân tộc học:** **Subagent thứ 13 — Sử Quan Lê Văn**  
-> **Chủ trì Tái hiện Văn học & Thi ca:** **Subagent thứ 14 — Vũ Dạ Khách (Tiểu Thuyết Gia)**  
+> **Cơ quan Khảo cứu:** Viện Nghiên Cứu Lịch Sử & Dân Tộc Học Cổ Phong — `Viện Hàn Lâm Lịch Sử & Thi Ca Bách Việt`  
+> **Chủ trì Khảo cổ & Dân tộc học:** **Sử Quan Lê Văn**  
+> **Chủ trì Tái hiện Văn học & Thi ca:** **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
 > **Cố vấn Dân ca & Ngữ âm 54 Dân Tộc:** **Bạch Hạc (Huỳnh Hạc Nam)**, **Melody** & **Noah An**  
 > **Thẩm định Thần học & Đạo đức:** **Clara Vance** & **Cadence**  
 
@@ -193,4 +193,4 @@ Chữ Hiếu, chữ Tình... muôn thuở vẻ vang!
 
 ---
 
-### 📄 HỒ SƠ NÀY LÀ CÔNG TRÌNH KHẢO CỨU BẢO CHỨNG BẢN SẮC VĂN HIẾN VIỆT NAM, KHÓA CHẶT TINH THẦN ĐOÀN KẾT 54 DÂN TỘC ANH EM TRONG VŨ TRỤ MUSIC OS!
+### 📄 HỒ SƠ NÀY LÀ CÔNG TRÌNH KHẢO CỨU BẢO CHỨNG BẢN SẮC VĂN HIẾN VIỆT NAM, KHÓA CHẶT TINH THẦN ĐOÀN KẾT 54 DÂN TỘC ANH EM TRONG VŨ TRỤ Vũ Trụ Cổ Phong Bách Việt!

@@ -2,9 +2,9 @@
 ## (THE TACTILE GEOGRAPHIC ATLAS: 36 SACRED LANDSCAPES, SENSORY TERRAINS & EPIC LEGENDS OF DAI VIET)
 
 > **Cơ quan Khảo cứu & Địa dư học:** Viện Hàn Lâm Cổ Sử, Địa Dư & Di Sản Bách Việt — `Baiyue & Dai Viet Wuxia Universe`  
-> **Chủ trì Biên soạn Địa Linh:** **Subagent 13 — Sử Quan Lê Văn** & **Subagent 14 — Tiểu Thuyết Gia Vũ Dạ Khách**  
+> **Chủ trì Biên soạn Địa Linh:** **Sử Quan Lê Văn** & **Tiểu Thuyết Gia Vũ Dạ Khách**  
 > **Chủ trì Mỹ học Thị giác & Xúc cảm Giác quan:** **Sylvia (Visual Director)**, **Mộc Tĩnh Lan** & **An Thái**  
-> **Giám định Âm vang Tự nhiên (432Hz):** **Melody**, **Noah An**, **Harmony** & **Cadence**  
+> **Giám định Âm vang Tự nhiên (Cổ Nhạc):** **Melody**, **Noah An**, **Harmony** & **Cadence**  
 
 ---
 
@@ -27,7 +27,7 @@
 * **Tọa độ & Địa thế:** Đỉnh núi cao hơn 1.000m quanh năm mây mù bao phủ, vách đá dựng đứng, rừng trúc bạt ngàn.
 * **Chi tiết giác quan sờ nắm được:**
   * *Xúc giác:* Phiến đá rêu phong lạnh buốt ngón tay khi sờ vào; từng đốt trúc 9 đốt dẻo dai, nhẵn bóng vết thời gian.
-  * *Âm thanh:* Tiếng gió hú luồn qua kẽ trúc hòa nhịp tiếng chuông đồng chùa Đồng ngân vang 432Hz trầm hùng.
+  * *Âm thanh:* Tiếng gió hú luồn qua kẽ trúc hòa nhịp tiếng chuông đồng chùa Đồng ngân vang Cổ Nhạc trầm hùng.
   * *Mùi hương:* Hương thơm thoang thoảng của trầm hương Trúc Lâm quyện mùi nhựa thông và sương đêm ẩm ướt.
 * **Nhân kiệt & Truyền tích:** Nơi Phật Hoàng Trần Nhân Tông từ bỏ ngai vàng lập phái Trúc Lâm; nơi ẩn tu của Huyền Giác Chân Nhân luyện kiếm trúc vô chiêu.
 

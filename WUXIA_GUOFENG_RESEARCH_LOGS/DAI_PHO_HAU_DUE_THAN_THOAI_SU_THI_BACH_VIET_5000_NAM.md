@@ -2,7 +2,7 @@
 ## (THE DESCENDANTS CODEX: SACRED LINEAGES OF HAI BA TRUNG, 72 HEROINES, SON TINH, THUY TINH, THACH SANH & ANCIENT MYTHS)
 
 > **Cơ quan Khảo cứu & Phả hệ học:** Viện Hàn Lâm Cổ Sử, Phả Hệ & Huyền Tích Bách Việt — `Baiyue & Dai Viet Wuxia Universe`  
-> **Chủ trì Kịch bản Hậu Duệ & Sử Thi:** **Subagent 14 — Vũ Dạ Khách** & **Subagent 13 — Lê Văn**  
+> **Chủ trì Kịch bản Hậu Duệ & Sử Thi:** **Vũ Dạ Khách** & **Lê Văn**  
 > **Chủ trì Phả hệ Thần thoại & Tính cách:** **Sylvia (Visual Director)**, **Noah An** & **Mộc Tĩnh Lan**  
 > **Giám định Đạo lý & Hào tình:** **Bạch Hạc (Huỳnh Hạc Nam)** & **Vân Chu (云舟)**  
 
@@ -13,7 +13,7 @@
  ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
  │ 1. DÒNG DÕI SƠN TINH (TẢN VIÊN SƠN THÁNH) ──► Trị sơn, dời núi ngăn lũ, thiết quyền Ba Vì            │
  │ 2. DÒNG DÕI THỦY TINH (THỦY THẦN LẠC LONG QUÂN) ──► Thủy chiến lặn sâu, đoản đao lá lúa, đục thuyền   │
- │ 3. DÒNG DÕI THẠCH SANH (DŨNG SĨ RÌU SẮT & ĐÀN THẦN) ──► Rìu khai sơn, đàn Tranh 432Hz, niêu cơm nghĩa│
+ │ 3. DÒNG DÕI THẠCH SANH (DŨNG SĨ RÌU SẮT & ĐÀN THẦN) ──► Rìu khai sơn, đàn Tranh Cổ Nhạc, niêu cơm nghĩa│
  │ 4. DÒNG DÕI HAI BÀ TRƯNG & 72 NỮ TƯỚNG LĨNH NAM ──► Ngự tượng voi chiến, trượng đồng, nữ tướng anh thư│
  │ 5. DÒNG DÕI PHÙ ĐỔNG THIÊN VƯƠNG (THÁNH GIÓNG) ──► Côn quyền tre ngà, kỵ binh bão lốc, tuổi trẻ xả thân│
  │ 6. DÒNG DÕI MAI AN TIÊM (ĐẢO HOANG BIỂN ĐÔNG) ──► Tự lực cánh sinh, khai hoang hải đảo, gieo hạt giống│
@@ -63,21 +63,21 @@
 
 ---
 
-## 🪓 PHẦN III: HẬU DUỆ DÒNG DÕI THẠCH SANH (DŨNG SĨ RÌU SẮT & ĐÀN THẦN 432Hz)
+## 🪓 PHẦN III: HẬU DUỆ DÒNG DÕI THẠCH SANH (DŨNG SĨ RÌU SẮT & ĐÀN THẦN Cổ Nhạc)
 
 ```
-[ DŨNG SĨ THẠCH SANH ] ──► Gốc đa làng cổ, Rìu sắt khai sơn chém chằn tinh, Đàn thần 432Hz giải hòa vạn quân, Niêu cơm thần vô tận.
+[ DŨNG SĨ THẠCH SANH ] ──► Gốc đa làng cổ, Rìu sắt khai sơn chém chằn tinh, Đàn thần Cổ Nhạc giải hòa vạn quân, Niêu cơm thần vô tận.
         │
         ├──► [ NHÁNH 1 - DŨNG KHÍ ]: Dòng dõi thợ rèn & dũng sĩ vác rìu sắt bảo vệ xóm làng.
         │    └──► [ ĐÔNG A ]: **Dũng Sĩ THẠCH HÙNG** (Vác búa 80 cân phá cổng thành giặc).
-        ├──► [ NHÁNH 2 - TÂM HỒN 432Hz ]: Dòng dõi nghệ nhân đàn Tranh & Y đạo nhân văn.
-        │    └──► [ ĐÔNG A ]: **Đại Y Nữ MỘC TĨNH LAN** (Gảy đàn Tranh 16 dây 432Hz hóa giải thù hận sa trường).
+        ├──► [ NHÁNH 2 - TÂM HỒN Cổ Nhạc ]: Dòng dõi nghệ nhân đàn Tranh & Y đạo nhân văn.
+        │    └──► [ ĐÔNG A ]: **Đại Y Nữ MỘC TĨNH LAN** (Gảy đàn Tranh 16 dây Cổ Nhạc hóa giải thù hận sa trường).
         └──► [ TRIẾT LÝ ]: Không tham lam tư lợi (như Lý Thông), lấy lòng nhân ái và tiếng đàn hòa bình hóa giải chiến tranh.
 ```
 
 ### 🌟 Nhân Vật Hậu Duệ Tiêu Biểu: THẠCH HÙNG & MỘC TĨNH LAN
 * **Thạch Hùng (Chiến Binh Rìu Khai Sơn):** Chàng tiều phu nghèo sống dưới gốc đa cổ thụ, tính tình chất phác, thật thà. Khi đất nước lâm nguy, chàng vác cây rìu sắt nặng 80 cân xông pha trận mạc, chém tan xe công thành của giặc. Sau khi thắng trận, chàng từ chối chức quan tước, trở về làng trồng cây và giúp đỡ người nghèo.
-* **Mộc Tĩnh Lan (Tiếng Đàn Thần Chữa Lành 432Hz):** Kế thừa cây Đàn Thần của Thạch Sanh qua 16 dây tơ tằm, nàng dùng tiếng đàn làm rung động tâm can quân địch, khiến binh sĩ buông đao quy hàng mà không tốn xương máu.
+* **Mộc Tĩnh Lan (Tiếng Đàn Thần Chữa Lành Cổ Nhạc):** Kế thừa cây Đàn Thần của Thạch Sanh qua 16 dây tơ tằm, nàng dùng tiếng đàn làm rung động tâm can quân địch, khiến binh sĩ buông đao quy hàng mà không tốn xương máu.
 
 ---
 

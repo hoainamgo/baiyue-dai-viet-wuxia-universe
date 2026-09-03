@@ -1,9 +1,9 @@
 # 📜 KHẢO CỨU ĐỐI CHIẾU KHẢO CỔ & VĂN BIA THỰC CHỨNG:
 ## THIỀN PHÁI TRÚC LÂM YÊN TỬ THỜI TRẦN (THẾ KỶ XIII) VS. BIẾN TƯỚNG CHÙA CHIỀN HIỆN NAY (CÚNG MÕ, DÂNG SAO GIẢI HẠN, CẦU TÀI)
 
-> **Chủ trì Khảo cứu:** **Sử Quan Lê Văn (Subagent thứ 13)** & **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
+> **Chủ trì Khảo cứu:** **Sử Quan Lê Văn (Học sĩ thứ 13)** & **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
 > **Cố vấn Pháp lý & Bản quyền:** **Clara Vance**  
-> **Hệ sinh thái:** `Music OS` | `Ksmart Music · Elohit Teams © 2026`  
+> **Hệ sinh thái:** `Vũ Trụ Cổ Phong Bách Việt` | `Đại Việt Cổ Phong · Elohit Teams © 2026`  
 > **Mã quy chuẩn:** `CANON-ARCH-LORE-06`
 
 ---
@@ -85,16 +85,16 @@ Sự suy thoái và biến dạng của chùa chiền thành nơi buôn thần b
 
 ---
 
-## ⚖️ V. BẢNG ĐỐI CHIẾU THỰC CHỨNG CHO ĐỘNG CƠ MUSIC OS
+## ⚖️ V. BẢNG ĐỐI CHIẾU THỰC CHỨNG CHO ĐỘNG CƠ Vũ Trụ Cổ Phong Bách Việt
 
 | Tiêu Chí | 🌿 Thiền Trúc Lâm Yên Tử Thời Trần (Bản Sắc Canon) | ❌ Chùa Chiền Biến Tướng Hiện Nay (Banned Slop) |
 | :--- | :--- | :--- |
 | **Không Gian** | Am thiền lộ thiên giữa rừng thông, vách đá, suối ngàn Yên Tử. | Chùa bê tông cốt thép ngột ngạt, kinh doanh thương mại hóa. |
 | **Nghi Lễ** | Xông một lư trầm thảo mộc thơm, uống chén trà sen, tĩnh tâm soi xét chính mình. | Đốt hàng tấn vàng mã, chen lấn cướp lộc, rải tiền lẻ khắp nơi. |
 | **Hoạt Động** | Khuyên dân sống thiện lành (*Thập thiện*), giúp ích cho đời (*Cư trần lạc đạo*), chống ngoại xâm. | Dâng sao giải hạn thu tiền, gọi vong, trục vong, đe dọa nghiệp báo địa ngục. |
-| **Âm Nhạc** | Tiếng đàn Tranh, Động Tiêu, Cổ Cầm, tiếng suối reo, tiếng mưa rơi êm dịu (**432Hz S-05**). | Tiếng chuông mõ gõ liên hồi dồn dập, tụng niệm ma mị u ám gây căng thẳng não bộ. |
+| **Âm Nhạc** | Tiếng đàn Tranh, Động Tiêu, Cổ Cầm, tiếng suối reo, tiếng mưa rơi êm dịu (**Cổ Nhạc S-05**). | Tiếng chuông mõ gõ liên hồi dồn dập, tụng niệm ma mị u ám gây căng thẳng não bộ. |
 
 ---
 
 > 🐉 **Lời kết của Sử Quan Lê Văn & Tiểu Thuyết Gia Vũ Dạ Khách:**  
-> *"Khảo cổ học và lịch sử đã trả lại sự trong sạch tuyệt đối cho Sơ Tổ Trúc Lâm Trần Nhân Tông! Tinh thần Cổ Phong Đại Việt đích thực là sự tự do, thanh tịnh, yêu thương con người và sống thuận với Đất Trời. Toàn bộ những trò cúng sao, giải hạn, chuông mõ u ám hiện nay là rác rưởi lai tạp của các thời kỳ suy đồi sau này — và hệ thống Music OS kiên quyết quét sạch 100% ra khỏi kho tàng âm nhạc của chúng ta!"*
+> *"Khảo cổ học và lịch sử đã trả lại sự trong sạch tuyệt đối cho Sơ Tổ Trúc Lâm Trần Nhân Tông! Tinh thần Cổ Phong Đại Việt đích thực là sự tự do, thanh tịnh, yêu thương con người và sống thuận với Đất Trời. Toàn bộ những trò cúng sao, giải hạn, chuông mõ u ám hiện nay là rác rưởi lai tạp của các thời kỳ suy đồi sau này — và hệ thống Vũ Trụ Cổ Phong Bách Việt kiên quyết quét sạch 100% ra khỏi kho tàng âm nhạc của chúng ta!"*

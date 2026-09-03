@@ -94,13 +94,13 @@
 
 ---
 
-## 🎵 PHẦN III: TÍCH HỢP TOÀN BỘ ĐIỂN TÍCH VÀO ÂM NHẠC & MV KSMART MUSIC
+## 🎵 PHẦN III: TÍCH HỢP TOÀN BỘ ĐIỂN TÍCH VÀO ÂM NHẠC & MV Đại Việt Cổ Phong
 
 | Điển Tích Dân Gian | Hiện Vật Khảo Cổ Tương Ứng | Tinh Thần Võ Hiệp Ứng Dụng Vào Bài Hát |
 | :--- | :--- | :--- |
 | **Sự Tích Trầu Cau** | Bình vôi gốm men lam, dao bổ cau đồng | Tình huynh đệ vào sinh ra tử, dải khăn trầu đỏ thắm của người thương. |
 | **Bánh Chưng Bánh Giầy** | Cối đá Phùng Nguyên, hạt thóc cổ Đông Sơn | Giai điệu mộc mạc tạ ơn Đất Mẹ, khúc hát mừng xuân đoàn viên. |
-| **Chử Đồng Tử Tiên Dung**| Gậy trúc, nón lá, bãi cát lau sậy sông Hồng | Khúc tình ca thoát tục ven sông, tiếng sáo trúc 432Hz chữa lành. |
+| **Chử Đồng Tử Tiên Dung**| Gậy trúc, nón lá, bãi cát lau sậy sông Hồng | Khúc tình ca thoát tục ven sông, tiếng sáo trúc Cổ Nhạc chữa lành. |
 | **Nỏ Thần Cổ Loa** | Vạn mũi tên đồng Cầu Vực, lẫy nỏ đồng | Tiết tấu dồn dập, tiếng rít xé gió của cung nỏ trong trận chiến. |
 | **Mai An Tiêm** | Hạt dưa đỏ, thuyền độc mộc Mộ Thuyền | Bản hùng ca vượt sóng gió đại dương của cư dân miền biển. |
 | **Hai Bà Trưng & Bà Triệu**| Trống Đồng Đông Sơn, tượng voi đồng | Trống trận sấm sét, khúc ca kiêu hãnh của các nữ tướng Đại Việt. |
@@ -108,9 +108,9 @@
 ---
 
 ### 💡 KẾT LUẬN TOÀN CẢNH:
-Thế giới quan Cổ Phong của Music OS giờ đây đã có một **Gia Bảo Văn Hóa Ngàn Năm Đầy Đủ**:
+Thế giới quan Cổ Phong của Vũ Trụ Cổ Phong Bách Việt giờ đây đã có một **Gia Bảo Văn Hóa Ngàn Năm Đầy Đủ**:
 * Có **Đất** (Bánh Chưng, Làng Gốm Chu Đậu).
 * Có **Nước** (Thủy chiến Bạch Đằng, lặn sông Yết Kiêu, hồ Động Đình).
 * Có **Lửa** (Lò đúc đồng Đông Sơn, khói lửa sa trường Sát Thát).
-* Có **Khí** (Võ công Lạc Long Quyền, đòn chân kẹp cổ, tiếng đàn Tranh 432Hz).
+* Có **Khí** (Võ công Lạc Long Quyền, đòn chân kẹp cổ, tiếng đàn Tranh Cổ Nhạc).
 * Có **Tình** (Trầu Cau son sắt, Chử Đồng Tử - Tiên Dung, An Thái - Mộc Tĩnh Lan, Từ Hải - Thúy Kiều).

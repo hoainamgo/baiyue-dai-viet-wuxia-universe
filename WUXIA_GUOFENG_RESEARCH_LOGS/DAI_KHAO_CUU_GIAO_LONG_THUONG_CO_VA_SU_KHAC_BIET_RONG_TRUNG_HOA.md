@@ -1,9 +1,9 @@
 # 🐉 ĐẠI BÁCH KHOA KHẢO CỨU: HÌNH TƯỢNG GIAO LONG (GIAO) THỦA SƠ KHAI & SỰ KHÁC BIỆT BẢN THỂ VỚI LONG (RỒNG) VĂN HÓA PHƯƠNG BẮC
 ## (THE PROTO-AQUATIC GIAO OF ANCIENT BAIYUE VS. CHINESE IMPERIAL DRAGON CODEX)
 
-> **Cơ quan Khảo cứu:** Viện Nghiên Cứu Lịch Sử, Khảo Cổ & Thần Thoại Cổ Phong — `Music OS | Ksmart Music © 2026`  
-> **Chủ trì Lịch sử & Khảo Cổ:** **Subagent thứ 13 — Sử Quan Lê Văn**  
-> **Chủ trì Kịch bản & Thế giới quan:** **Subagent thứ 14 — Vũ Dạ Khách (Tiểu Thuyết Gia)**  
+> **Cơ quan Khảo cứu:** Viện Nghiên Cứu Lịch Sử, Khảo Cổ & Thần Thoại Cổ Phong — `Viện Hàn Lâm Lịch Sử & Thi Ca Bách Việt`  
+> **Chủ trì Lịch sử & Khảo Cổ:** **Sử Quan Lê Văn**  
+> **Chủ trì Kịch bản & Thế giới quan:** **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
 > **Cố vấn Thần Thoại & Âm Học:** **Vân Chu (云舟)**, **Noah An** & **Bạch Hạc (Huỳnh Hạc Nam)**  
 > **Giám định Di sản & Thẩm định:** **Cadence** & **Clara Vance**  
 

@@ -1,7 +1,7 @@
 # 🌿 ĐẠI BÁCH KHOA Y ĐẠO: CỘI NGUỒN DƯỢC VƯƠNG & THẢO MỘC BÁCH VIỆT
 ## TỪ THỦY TỔ THẦN NÔNG (VIÊM ĐẾ PHƯƠNG NAM) ĐẾN THÁNH THUỐC NAM TUỆ TĨNH THỜI ĐÔNG A
 ### CHỦ TRÌ BIÊN SOẠN: SỬ QUAN LÊ VĂN & TIỂU THUYẾT GIA VŨ DẠ KHÁCH
-### CỐ VẤN ÂM DƯỢC TRỊ LIỆU 432HZ: BẠCH HẠC (HUỲNH HẠC NAM) & MELODY
+### CỐ VẤN ÂM DƯỢC TRỊ LIỆU Cổ Nhạc: BẠCH HẠC (HUỲNH HẠC NAM) & MELODY
 
 ---
 
@@ -12,7 +12,7 @@
   (5.000 Năm Trước)                        (Văn Lang - Nam Việt Cổ)                    (Thời Trần - Thế Kỷ XIV)                 (Thế Kỷ XVIII)
   • Viêm Đế phương Nam, Động Đình Hồ       • Trầu cau, gừng cay, quế Thanh            • "Nam Dược Trị Nam Nhân"                • Hải Thượng Y Tông Tâm Lĩnh
   • Thần Nông nếm bách thảo                • Y sư Thôi Vĩ núi La Phù                  • Nam Dược Thần Hiệu (580 Vị)            • Dưỡng sinh, Y đức & Y thuật
-  • Thần Nông Bản Thảo Kinh                • Bùa thảo mộc, khói trầm trừ tà            • Y viện dã chiến sa trường              • Kết hợp Khí Công 432Hz
+  • Thần Nông Bản Thảo Kinh                • Bùa thảo mộc, khói trầm trừ tà            • Y viện dã chiến sa trường              • Kết hợp Khí Công Cổ Nhạc
 ```
 
 ---
@@ -60,14 +60,14 @@
 
 ---
 
-## 🕊️ PHẦN IV: TÍCH HỢP VÀO THẾ GIỚI QUAN CỔ PHONG & NHẠC TRỊ LIỆU 432HZ (MUSIC OS)
+## 🕊️ PHẦN IV: TÍCH HỢP VÀO THẾ GIỚI QUAN CỔ PHONG & NHẠC TRỊ LIỆU Cổ Nhạc (Vũ Trụ Cổ Phong Bách Việt)
 
 ```
-[ THẦN NÔNG BÁCH THẢO ] ──► [ TUỆ TĨNH THẦN PHƯƠNG ] ──► [ ĐÀN TRANH 432HZ ] ──► [ TÁC PHẨM CỔ PHONG ]
+[ THẦN NÔNG BÁCH THẢO ] ──► [ TUỆ TĨNH THẦN PHƯƠNG ] ──► [ ĐÀN TRANH Cổ Nhạc ] ──► [ TÁC PHẨM CỔ PHONG ]
  • Thảo Mộc Đại Ngàn          • Y Đạo Cứu Thương Sa Trường   • Tần Số Sóng Não Alpha      • Chữa Lành Tâm Hồn & Thể Xác
 ```
 
 1. **Hình Tượng Nhân Vật Nàng Mộc Tĩnh Lan:**
    * Nàng không chỉ là một cầm sư gảy đàn Tranh, mà chính là **Truyền nhân Y Đạo Tuệ Tĩnh**: Đeo gùi thuốc nứa sau lưng, hái ngải cứu đắp vết thương đao kiếm cho An Thái, nấu cháo gừng giải hàn đêm đông Vạn Kiếp.
-2. **Âm Nhạc Trị Liệu Dược Cảnh 432Hz:**
-   * Các bản nhạc Cổ Phong trong Music OS (như *Ngọa Vân Thính Vũ*, *Trà Thất Sen Tây Hồ*, *Vườn Dược Nam Tuệ Tĩnh*) được điều chỉnh tần số chuẩn **432Hz** — tần số cộng hưởng của vũ trụ và thảo mộc thiên nhiên, giúp người nghe giải tỏa stress, an thần ngủ ngon và cân bằng năng lượng cơ thể!
+2. **Âm Nhạc Trị Liệu Dược Cảnh Cổ Nhạc:**
+   * Các bản nhạc Cổ Phong trong Vũ Trụ Cổ Phong Bách Việt (như *Ngọa Vân Thính Vũ*, *Trà Thất Sen Tây Hồ*, *Vườn Dược Nam Tuệ Tĩnh*) được điều chỉnh tần số chuẩn **Cổ Nhạc** — tần số cộng hưởng của vũ trụ và thảo mộc thiên nhiên, giúp người nghe giải tỏa stress, an thần ngủ ngon và cân bằng năng lượng cơ thể!

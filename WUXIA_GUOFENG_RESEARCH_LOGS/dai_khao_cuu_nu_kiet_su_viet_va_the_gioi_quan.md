@@ -1,7 +1,7 @@
 # 🌸 ĐẠI KHẢO CỨU: HỆ THỐNG NHÂN VẬT NỮ KIỆT SỬ VIỆT & BỔ SUNG THẾ GIỚI QUAN CỔ PHONG ĐẠI VIỆT
-## HỆ THỐNG: `MUSIC OS` · THƯƠNG HIỆU: `KSMART MUSIC © 2026`
+## DI SẢN VĂN HÓA BÁCH VIỆT & ĐẠI VIỆT THIÊN CỔ
 ### CHỦ TRÌ BIÊN SOẠN: SỬ QUAN LÊ VĂN & TIỂU THUYẾT GIA VŨ DẠ KHÁCH
-### CỐ VẤN MỸ THUẬT & TRANG PHỤC: SUBAGENT SYLVIA (VISUAL DIRECTOR)
+### CỐ VẤN MỸ THUẬT & TRANG PHỤC: Học sĩ SYLVIA (VISUAL DIRECTOR)
 
 ---
 
@@ -83,13 +83,13 @@ Sa Trường & Khởi Nghĩa  Trị Quốc & Nhẫn Nhịn    Y Đạo, Cầm Th
 ### 1. NỮ CHÍNH MỘC TĨNH LAN — TRUYỀN NHÂN Y ĐẠO THẦN NÔNG & TUỆ TĨNH
 * **Thân thế:** Nghệ nhân gốm Chu Đậu lưu vong, đệ tử ẩn danh am Ngọa Vân Yên Tử.
 * **Học thuật Y Đạo:** Kế thừa trọn vẹn **580 vị thuốc Nam** của Thiền sư Tuệ Tĩnh (*Nam dược trị Nam nhân*), dùng cỏ cây hoa lá quanh vườn nhà để cứu người nghèo.
-* **Âm học 432Hz:** Đôi bàn tay chuốt gốm kết hợp gảy cây **Đàn Tranh 16 dây** và **Cổ Cầm Guqin 432Hz**, dùng thanh âm mộc mạc làm dịu cơn đau và phong tỏa khí độc cho các hiệp sĩ sa trường.
+* **Âm học Cổ Nhạc:** Đôi bàn tay chuốt gốm kết hợp gảy cây **Đàn Tranh 16 dây** và **Cổ Cầm Guqin Cổ Nhạc**, dùng thanh âm mộc mạc làm dịu cơn đau và phong tỏa khí độc cho các hiệp sĩ sa trường.
 
 ### 2. NGHỆ NHÂN DỆT LỤA CỔ ĐÔ & THỢ GỐM NỮ CHU ĐẬU
 * **Bà tổ dệt lụa:** Dùng kén tằm vàng sông Đáy dệt nên những tấm lụa tơ tằm thô màu xanh men ngọc, vàng mỡ gà, màu nâu sồng — trang phục chính tông của phụ nữ thời Lý - Trần.
 * **Nghệ nhân nữ Chu Đậu:** Đôi bàn tay khéo léo vẽ họa tiết hoa sen, sóng nước, chim Lạc lên men gốm hoa nâu — nét văn hóa độc bản tỏa sáng khắp Á - Âu.
 
-### 3. ĐÀO NƯƠNG THĂNG LONG & TIẾNG ĐÀN ĐÁY 432HZ
+### 3. ĐÀO NƯƠNG THĂNG LONG & TIẾNG ĐÀN ĐÁY Cổ Nhạc
 * **Hình tượng:** Người phụ nữ cầm cây Đàn Đáy 3 dây thùng dài phím cao, cất giọng hát nhả chữ trầm ấm, kể lại những thiên sử thi dựng nước và giữ nước giữa các tửu quán chốn kinh kỳ.
 
 ---
@@ -142,6 +142,6 @@ Sa Trường & Khởi Nghĩa  Trị Quốc & Nhẫn Nhịn    Y Đạo, Cầm Th
 ## 🎼 IV. CHẤT LIỆU CHO SOUNDTRACK OST & VISUAL CONCEPT 4K
 
 1. **Giai điệu OST 3: "Hoa Nâu Khắc Mộng" (Solo Nữ):**
-   * Kết tinh toàn bộ vẻ đẹp tâm hồn của Nữ kiệt Đại Việt: Tiếng Đàn Tranh 432Hz nỉ non, tiếng thở của ống tiêu, ca từ đậm mùi đất sét Chu Đậu và hoa sen ngát hương.
+   * Kết tinh toàn bộ vẻ đẹp tâm hồn của Nữ kiệt Đại Việt: Tiếng Đàn Tranh Cổ Nhạc nỉ non, tiếng thở của ống tiêu, ca từ đậm mùi đất sét Chu Đậu và hoa sen ngát hương.
 2. **Visual 4K Sylvia Matrix:**
    * Khóa 100% hình tượng **Nàng Mộc Tĩnh Lan**: Áo Giao Lĩnh xanh men ngọc, tóc cài trâm đào sen, ngón tay búp sen mềm mại, toát lên phong thái đoan trang, đĩnh đạc và thánh thiện của người con gái Bách Việt.

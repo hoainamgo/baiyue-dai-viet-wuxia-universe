@@ -1,6 +1,6 @@
 # 🐉 ĐẠI BÁCH KHOA TOÀN THƯ: 30 ĐẠI MÔN PHÁI & THẾ LỰC VÕ LÂM BÁCH VIỆT — ĐẠI VIỆT THIÊN CỔ
 ## HỆ THỐNG HẮC BẠCH LƯỠNG ĐẠO KHỞI NGUỒN TỪ THƯỢNG CỔ HỒNG BÀNG ĐẾN ĐÔNG A & MINH TRIỀU
-### HỆ THỐNG: `MUSIC OS` · THƯƠNG HIỆU: `KSMART MUSIC © 2026`
+### DI SẢN VĂN HÓA BÁCH VIỆT & ĐẠI VIỆT THIÊN CỔ
 ### CHỦ TRÌ BIÊN SOẠN: TIỂU THUYẾT GIA VŨ DẠ KHÁCH & SỬ QUAN LÊ VĂN
 
 ---
@@ -35,12 +35,12 @@
 * **Võ học & Binh khí:**
   - *Trúc Kiếm Thiền Tâm (Lão Mai Quyền - điểm 108 huyệt đạo không sát sinh)*.
   - *Kim Ngô Phá Vân Kiếm Pháp (Võ công Cấm vệ bảo vệ Hoàng đế)*.
-  - *Y Đạo Thần Nông - Tuệ Tĩnh (580 vị thuốc nam kết hợp Đàn Tranh 432Hz trị liệu sa trường)*.
+  - *Y Đạo Thần Nông - Tuệ Tĩnh (580 vị thuốc nam kết hợp Đàn Tranh Cổ Nhạc trị liệu sa trường)*.
 * **Y phục & Binh khí:** Áo nâu sồng thiền tăng mộc mạc, Tứ thân lụa thô Chu Đậu; bên trong lót giáp mềm hộ tâm bằng đồng dát vàng; Kiếm trúc Yên Tử, Đàn Tranh gỗ dâu tơ tằm, gùi thuốc nứa sau lưng thoang thoảng hương sen và ngải cứu.
 
 ### 3. 🏔️ TẢN VIÊN SƠN MÔN (Non Thiêng Ba Vì):
 * **Nguồn gốc:** Đệ Nhất Phúc Thần Tản Viên Sơn Thánh (Sơn Tinh) & Dũng Sĩ Thạch Sanh.
-* **Võ học & Binh khí:** *Tản Viên Chấn Sơn Kình (mình đồng da sắt)*, *Khai Sơn Phủ Pháp*, *Hùng Kê Quyền*. Đại Khai Sơn Phủ (rìu sắt 50 cân), Cổ Cầm Đàn Thần 432Hz giải giáp quân thù.
+* **Võ học & Binh khí:** *Tản Viên Chấn Sơn Kình (mình đồng da sắt)*, *Khai Sơn Phủ Pháp*, *Hùng Kê Quyền*. Đại Khai Sơn Phủ (rìu sắt 50 cân), Cổ Cầm Đàn Thần Cổ Nhạc giải giáp quân thù.
 * **Y phục:** Áo đũi chàm lót da thú rừng già, đi chân đất, quấn khăn đỏ.
 
 ### 4. ⚡ PHÙ ĐỔNG THIẾT GIA (Núi Sóc Sơn & Cổ Loa):

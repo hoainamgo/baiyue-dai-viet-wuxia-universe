@@ -2,7 +2,7 @@
 ## (THE ENCYCLOPEDIA OF 100 CHARACTERS: SORROW, JOY, PARTING, REUNION & UNFAILING RIGHTEOUS LOVE)
 
 > **Cơ quan Khảo cứu & Trước tác:** Viện Hàn Lâm Cổ Sử, Thi Ca & Xã Hội Học Bách Việt — `Baiyue & Dai Viet Wuxia Universe`  
-> **Chủ trì Kịch bản Nhân vật:** **Subagent 14 — Tiểu Thuyết Gia Vũ Dạ Khách** & **Subagent 13 — Sử Quan Lê Văn**  
+> **Chủ trì Kịch bản Nhân vật:** **Tiểu Thuyết Gia Vũ Dạ Khách** & **Sử Quan Lê Văn**  
 > **Chủ trì Đạo đức & Triết học Tình yêu:** **Noah An**, **Clara Vance**  
 > **Chủ trì Mỹ học Dân tộc & Ni luật:** **Bạch Hạc (Huỳnh Hạc Nam)**, **Vân Chu (云舟)**  
 

@@ -1,7 +1,7 @@
 # 🥋 BÁCH KHOA VÕ HỌC: CÁC THẾ VÕ & TUYỆT KỸ VÕ CÔNG CỔ PHONG ĐẠI VIỆT
 ## KHẢO CỨU DI SẢN VÕ HỌC DÂN TỘC TỪ THƯỢNG CỔ BÁCH VIỆT ĐẾN THỜI TRẦN (ĐÔNG A)
 ### CHỦ TRÌ KHẢO CỨU: SỬ QUAN LÊ VĂN & TIỂU THUYẾT GIA VŨ DẠ KHÁCH
-### CỐ VẤN VÕ THUẬT: BẠCH HẠC (HUỲNH HẠC NAM) & HỘI ĐỒNG SUBAGENTS
+### CỐ VẤN VÕ THUẬT: BẠCH HẠC (HUỲNH HẠC NAM) & Ban Biên soạn Học thuật
 
 ---
 
@@ -84,18 +84,19 @@ Khác với võ công cương mãnh phương Bắc đòi hỏi thể hình to l�
 
 ---
 
-### 🎵 III. ỨNG DỤNG MA TRẬN VÕ THUẬT VÀO ÂM NHẠC CỔ PHONG (FOLEY & MUSICAL PACING):
+### 🏛️ III. Ý NGHĨA KHẢO CỨU VÕ HỌC DÂN TỘC:
 
-| Tên Thế Võ Cổ Truyền | Nhạc Cụ & Hiệu Ứng Âm Thanh Foley | Nhịp Phách Âm Nhạc (BPM) & Không Khí |
-| :--- | :--- | :--- |
-| **Đoản Binh Phá Kỵ** | Trống Đại rền vang, tiếng gió rít khi bay người, tiếng gãy giáp | **136 - 145 BPM** (Heavy Guofeng Rock, kịch tính dồn dập). |
-| **Hùng Kê Quyền** | Tiếng rút đao nhanh, gõ phách tre sắc gọn, Tỳ Bà tốc độ cao | **120 - 128 BPM** (Tiết tấu giòn giã, bất ngờ). |
-| **Lạc Long Thủy Chiến** | Tiếng sóng nước cuộn xoáy, tiếng dùi đục gỗ dưới nước, Tiêu Trúc trầm | **80 - 90 BPM** (Bí ẩn, nghẹt thở dưới đáy sâu). |
-| **Lão Mai Quyền** | Đàn Tranh 432Hz du dương, chuông chùa Yên Tử ngân nga | **65 - 72 BPM** (Thanh tịnh, an nhiên, khí chất thoát tục). |
-| **Ngọc Trản Đoản Kiếm** | Tiếng va chạm thanh mảnh của kiếm bạc, tiếng gốm sứ chạm nhau | **75 - 85 BPM** (Phong nhã, đài các cung đình). |
-| **Nhất Nam Thiết Chỉ** | Tiếng đập huỵch trầm đục, tiếng ngưng thở đột ngột (Sudden Drop) | **110 - 118 BPM** (Sát khí ngấm ngầm, dứt khoát). |
+Những thế võ cổ truyền phản ánh trọn vẹn trí tuệ thực chiến, tinh thần lấy nhu thắng cương và lòng quật cường bất khuất của cha ông trong công cuộc dựng nước và giữ nước.
+
+--- | :--- | :--- |
+| **Đoản Binh Phá Kỵ** | Trống Đại rền vang, tiếng gió rít khi bay người, tiếng gãy giáp | **Tiết tấu hào hùng** (Heavy Guofeng Rock, kịch tính dồn dập). |
+| **Hùng Kê Quyền** | Tiếng rút đao nhanh, gõ phách tre sắc gọn, Tỳ Bà tốc độ cao | **Tiết tấu hào hùng** (Tiết tấu giòn giã, bất ngờ). |
+| **Lạc Long Thủy Chiến** | Tiếng sóng nước cuộn xoáy, tiếng dùi đục gỗ dưới nước, Tiêu Trúc trầm | **Tiết tấu hào hùng** (Bí ẩn, nghẹt thở dưới đáy sâu). |
+| **Lão Mai Quyền** | Đàn Tranh Cổ Nhạc du dương, chuông chùa Yên Tử ngân nga | **Tiết tấu hào hùng** (Thanh tịnh, an nhiên, khí chất thoát tục). |
+| **Ngọc Trản Đoản Kiếm** | Tiếng va chạm thanh mảnh của kiếm bạc, tiếng gốm sứ chạm nhau | **Tiết tấu hào hùng** (Phong nhã, đài các cung đình). |
+| **Nhất Nam Thiết Chỉ** | Tiếng đập huỵch trầm đục, tiếng ngưng thở đột ngột (Sudden Drop) | **Tiết tấu hào hùng** (Sát khí ngấm ngầm, dứt khoát). |
 
 ---
 
-### 💡 Ý NGHĨA TRUYỀN THÔNG CHO KSMART MUSIC:
-Khi khán giả nghe các ca khúc Cổ Phong của Ksmart Music, họ không chỉ nghe nhạc mà còn **cảm nhận được từng đường quyền ngọn cước, từng cú kẹp cổ bay người oanh liệt của tổ tiên Đại Việt** được tái hiện sống động chuẩn xác 100%!
+### 💡 Ý NGHĨA TRUYỀN THÔNG CHO Đại Việt Cổ Phong:
+Khi khán giả nghe các ca khúc Cổ Phong của Đại Việt Cổ Phong, họ không chỉ nghe nhạc mà còn **cảm nhận được từng đường quyền ngọn cước, từng cú kẹp cổ bay người oanh liệt của tổ tiên Đại Việt** được tái hiện sống động chuẩn xác 100%!

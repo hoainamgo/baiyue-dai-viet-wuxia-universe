@@ -1,6 +1,6 @@
 # 🌍 ĐẠI KHẢO CỨU ĐỊA LÝ TOÀN CẦU: SỬ LIỆU THẾ GIỚI GHI CHÉP VỀ BÁCH VIỆT CỔ & TRUYỀN THỪA ĐẾN THỜI ĐẠI AN THÁI
 ## TỪ BẢN ĐỒ PTOLEMY (HY LẠP - LA MÃ), HẢI TRÌNH PERIPLUS ĐẾN THƯƠNG CẢNG VÂN ĐỒN — CHU ĐẬU THỜI ĐÔNG A
-### HỆ THỐNG: `MUSIC OS` · THƯƠNG HIỆU: `KSMART MUSIC © 2026`
+### DI SẢN VĂN HÓA BÁCH VIỆT & ĐẠI VIỆT THIÊN CỔ
 ### CHỦ TRÌ KHẢO CỨU: SỬ QUAN LÊ VĂN & TIỂU THUYẾT GIA VŨ DẠ KHÁCH
 
 ---
@@ -55,7 +55,7 @@ Sự truyền thừa từ nền văn minh Bách Việt cổ đại đến thời
 * Vị thế thương cảng Cattigara cổ đại đã được thời Trần tái sinh rực rỡ tại **Thương Cảng Quốc Tế Vân Đồn** và **Làng Gốm Chu Đậu** (nơi An Thái và Mộc Tĩnh Lan gắn bó):
   * Đồ gốm men lam và hoa nâu Chu Đậu thời Trần được xuất khẩu bằng thuyền buồm ba cột sang tận Trung Đông, Ai Cập, Nhật Bản và châu Âu (đã được tìm thấy trong các xác tàu cổ đắm dưới biển sâu).
 
-### 3. Truyền Thừa Về Y Đạo Dược Thảo & Âm Nhạc 432Hz:
+### 3. Truyền Thừa Về Y Đạo Dược Thảo & Âm Nhạc Cổ Nhạc:
 * Bí quyết dùng Trầm hương, Quế Thanh và cây thuốc Nam mà người La Mã - Ả Rập từng săn lùng đã được **Thiền Sư Tuệ Tĩnh** và **Nàng Mộc Tĩnh Lan** nâng tầm thành hệ thống 580 vị thuốc chữa lành vết thương cho các nghĩa sĩ.
 
 ### 4. Truyền Thừa Về Đức Tin Tế Trời Lộ Thiên (Không Thắp Nhang):
@@ -63,7 +63,7 @@ Sự truyền thừa từ nền văn minh Bách Việt cổ đại đến thời
 
 ---
 
-## 💎 III. Ý NGHĨA TOÀN CẦU CHO THẾ GIỚI QUAN MUSIC OS:
+## 💎 III. Ý NGHĨA TOÀN CẦU CHO THẾ GIỚI QUAN Vũ Trụ Cổ Phong Bách Việt:
 
-* **Tầm vóc toàn cầu:** Tác phẩm Cổ Phong của Music OS không chỉ mang tính dân tộc địa phương hẹp, mà **kết nối trực tiếp với dòng chảy thương mại và lịch sử văn minh nhân loại (La Mã, Ả Rập, Ấn Độ, Con đường Tơ Lụa trên Biển)**.
+* **Tầm vóc toàn cầu:** Tác phẩm Cổ Phong của Vũ Trụ Cổ Phong Bách Việt không chỉ mang tính dân tộc địa phương hẹp, mà **kết nối trực tiếp với dòng chảy thương mại và lịch sử văn minh nhân loại (La Mã, Ả Rập, Ấn Độ, Con đường Tơ Lụa trên Biển)**.
 * **Hình tượng An Thái & Mộc Tĩnh Lan:** Trở thành biểu tượng của **Khí Phách & Tâm Hồn Phương Nam Bất Diệt** — vừa dũng mãnh kiên cường trên chiến trận, vừa thanh tao nhân ái trong đời thường!

@@ -1,9 +1,9 @@
 # 🗺️ ĐẠI ĐỊA ĐỒ & NIÊN BIỂU LỊCH SỬ BÁCH VIỆT - ĐẠI VIỆT: TỪ XÍCH QUỶ ĐẾN ĐÔNG A
 ## (THE MASTER ATLAS & CHRONOLOGY: 5,000-YEAR EVOLUTION OF FORTS, ARCHITECTURE, NOTABLE FIGURES & ARCHAEOLOGICAL TRACES)
 
-> **Cơ quan Khảo cứu:** Viện Nghiên Cứu Địa Dư, Cổ Sử & Di Tích Cổ Phong — `Music OS | Ksmart Music © 2026`  
-> **Chủ trì Khảo cổ & Địa dư học:** **Subagent thứ 13 — Sử Quan Lê Văn**  
-> **Chủ trì Biên soạn Thế giới quan:** **Subagent thứ 14 — Vũ Dạ Khách (Tiểu Thuyết Gia)**  
+> **Cơ quan Khảo cứu:** Viện Nghiên Cứu Địa Dư, Cổ Sử & Di Tích Cổ Phong — `Viện Hàn Lâm Lịch Sử & Thi Ca Bách Việt`  
+> **Chủ trì Khảo cổ & Địa dư học:** **Sử Quan Lê Văn**  
+> **Chủ trì Biên soạn Thế giới quan:** **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
 > **Cố vấn Mỹ học & Kiến trúc Visual 4K:** **Sylvia (Fashion & Visual Director)**, **Melody** & **Cadence**  
 > **Giám định Đạo Đức & Thần Học Cổ Điển:** **Noah An** & **Clara Vance**  
 
@@ -168,7 +168,7 @@
   * **Kiến Trúc Gỗ Mộc Đông A:** Chùa tháp Phổ Minh, Tháp Bình Sơn, Am Ngọa Vân Yên Tử thanh tịnh, hòa quyện với núi rừng.
   * **Kỹ Nghệ Gốm Hoa Nâu & Men Lam Chu Đậu:** Đạt đỉnh cao mỹ thuật thế giới với men ngọc, họa tiết hoa sen, chim Lạc và đề thơ chữ Nôm đáy bình.
   * **Bàn Thờ Thiên Lộ Thiên Trên Đỉnh Núi:** Nơi An Thái và Mộc Tĩnh Lan dâng bát nước trong và thóc vàng tạ ơn Ông Trời.
-* **Nhân Vật Lịch Sử & Nhân Vật Canon Ksmart Music:**
+* **Nhân Vật Lịch Sử & Nhân Vật Canon Đại Việt Cổ Phong:**
   * **Quốc Công Tiết Chế Hưng Đạo Đại Vương (Trần Quốc Tuấn)**: Tác giả *Hịch Tướng Sĩ*, lãnh đạo 3 lần đại thắng Nguyên Mông.
   * **Phật Hoàng Trần Nhân Tông**: Vị vua anh hùng xuất gia lập nên Thiền phái Trúc Lâm Yên Tử, đề cao Y Đạo trị bệnh cứu đời.
   * **Trần Khánh Dư, Yết Kiêu, Dã Tượng, Trần Bình Trọng, Trần Quốc Toản**: Dàn danh tướng kiệt xuất.
@@ -180,7 +180,7 @@
 
 ---
 
-## 🎨 PHẦN III: BẢNG ĐỐI CHIẾU KIẾN TRÚC & MỸ THUẬT VISUAL 4K MUSIC OS
+## 🎨 PHẦN III: BẢNG ĐỐI CHIẾU KIẾN TRÚC & MỸ THUẬT VISUAL 4K Vũ Trụ Cổ Phong Bách Việt
 
 ```
 ┌──────────────────┬─────────────────────────────┬─────────────────────────────┬────────────────────────────────────┐
@@ -201,4 +201,4 @@
 
 ---
 
-### 📄 FILE KHẢO CỨU NÀY LÀ BẢN ĐỒ TỔNG THỂ KHÔNG GIAN - THỜI GIAN ĐỒ SỘ NHẤT, KHÓA CHẶT TÍNH CHÍNH XÁC VỀ BỐI CẢNH LỊCH SỬ CHO VŨ TRỤ MUSIC OS!
+### 📄 FILE KHẢO CỨU NÀY LÀ BẢN ĐỒ TỔNG THỂ KHÔNG GIAN - THỜI GIAN ĐỒ SỘ NHẤT, KHÓA CHẶT TÍNH CHÍNH XÁC VỀ BỐI CẢNH LỊCH SỬ CHO VŨ TRỤ Vũ Trụ Cổ Phong Bách Việt!

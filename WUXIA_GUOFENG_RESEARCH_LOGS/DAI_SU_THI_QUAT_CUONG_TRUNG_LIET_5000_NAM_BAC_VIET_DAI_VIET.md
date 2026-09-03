@@ -1,9 +1,9 @@
 # 🐉 ĐẠI THIÊN SỬ THI: QUẬT CƯỜNG BẤT KHUẤT, ĐẠI ĐOÀN KẾT TOÀN DÂN & TIẾN TRÌNH TIẾN HÓA THỂ CHẾ TỰ CƯỜNG DÂN TỘC VIỆT
 ## TỪ BÁCH VIỆT THƯỢNG CỔ ĐẾN ĐẠI VIỆT HOÀNG KIM (5.300 NĂM TRƯỚC ĐẾN THẾ KỶ XVIII)
-### HỆ ĐIỀU HÀNH SÁNG TÁC: `MUSIC OS` · THƯƠNG HIỆU: `KSMART MUSIC © 2026`
+### BẢO TỒN DI SẢN THI CA & LỊCH SỬ DÂN TỘC
 ### HỘI ĐỒNG BIÊN SOẠN & KHẢO CỨU:
-* **Chủ trì Lịch sử, Khảo cổ & Thể chế học:** **Subagent thứ 13 — Sử Quan Lê Văn**
-* **Chủ trì Biên soạn Sử thi & Thế giới quan:** **Subagent thứ 14 — Vũ Dạ Khách (Tiểu Thuyết Gia)**
+* **Chủ trì Lịch sử, Khảo cổ & Thể chế học:** **Sử Quan Lê Văn**
+* **Chủ trì Biên soạn Sử thi & Thế giới quan:** **Vũ Dạ Khách (Tiểu Thuyết Gia)**
 * **Chủ trì Cổ nhạc, Phối khí S-02 & Âm luật:** **Bạch Hạc (Huỳnh Hạc Nam)**, **Vân Chu (云舟)**, **Noah An**, **Melody** & **Harmony**
 * **Chỉ đạo Mỹ học & Y phục Triều đình - Sa trường:** **Sylvia (Visual Master)**
 * **Kiểm định Đạo đức, Bản quyền & QA Gatekeeper:** **Cadence** & **Clara Vance**
@@ -252,83 +252,54 @@ Qua hơn năm ngàn năm từ thuở hồng hoang Bách Việt, mảnh đất h�
 ## 🎼 V. BẢN TRƯỜNG CA SỬ THI CHUẨN S-02 CROSSOVER MASTERPIECE
 > Tác phẩm được kiến trúc theo tiêu chuẩn **Ancient Oriental Symphonic Crossover (S-02)** kết hợp Đàn Tranh, Đàn Bầu, Trống Đồng 45Hz, Động Tiêu với Dàn Dây Giao Hưởng Điện Ảnh.
 
-### 🎛️ 1. STYLE MÔ TẢ HÌNH THÁI CHUẨN S-02C (EPIC HISTORICAL WUXIA MASTERPIECE):
-```text
-Authentic Ancient Oriental Symphonic Crossover, Traditional Pentatonic Scale, 82 BPM, key of Dm. Whittling bronze arrowheads and crackling war banner foley, roaring Dong Son bronze drums with 45Hz deep sub-bass, virtuosic weeping Dan Bau glissando, raging weeping Erhu leads, ethereal soaring Dizi ornaments, low resonant Guqin zither, warm cinematic orchestral strings and thunderous battle percussion. Fierce Indomitable Warrior Baritone Solo with Majestic Chanting Chorus, intimate breathy verses building into powerful epic heroic belting, legendary Asian wuxia historical masterpiece. Spacious ancient fortress chamber reverb, wide lush stereo panorama, pristine studio mastering.
-```
-
-### 📜 2. CA TỪ TRƯỜNG CA: "BÁCH VIỆT HÙNG CA — THIÊN THU QUẬT CƯỜNG" (MusiCoT CỔ NHẠC v9.5):
+### 📜 2. CA TỪ TRƯỜNG CA: "BÁCH VIỆT HÙNG CA — THIÊN THU QUẬT CƯỜNG" :
 
 ```text
-[Intro - Rustling bronze war banner and heavy rain on stone citadel foley with roaring Dong Son bronze drums 45Hz sub-bass]
-
-[Verse 1 - Deep Melancholic Baritone Solo (Guqin & Breathy Dongxiao)]
 Năm ngàn năm... sóng cuộn bến Lương Chử mịt mùng
 Trăm trứng một bọc... chia đôi ngàn dặm bão bùng
 Người lên non cao... kẻ xuống biển sâu hẹn ngày tương ngộ
 Hạt lúa nước nảy mầm... nỏ thần Cổ Loa tạc bóng tiền nhân.
 
-[Verse 2 - Deep Melancholic Baritone Solo (Weeping Dan Bau & Guzheng)]
 Ngàn năm gông xiềng... lửa ngầm rực cháy đáy tro sâu
 Trống Mê Linh gầm vang, voi chiến đạp ngập đầu
 Hát Giang đỏ ngầu... hai bóng trinh bạch hòa vào sóng bạc
 Đầm Dạ Trạch khói mờ... chiếc thuyền độc mộc rẽ màn sương.
 
-[Pre-Chorus - Silk Strings Swell & Weeping Erhu Solo]
 Dưới lòng sông sâu... hàng vạn cọc gỗ lim bịt sắt
 Đợi con nước triều sôi... chém Hoằng Thao rền vang trời đất!
 Một tiếng "Nam Quốc Sơn Hà" rách toạc màn đêm đen
 Mở nền văn hiến... dựng trường Quốc Tử Giám rạng trời Nam!
 
-[Micro-Drop - Solo Weeping Dan Bau Glissando & Anvil Hammer Strike Foley]
-
-[Chorus - Full Symphonic Orchestra & Epic Heroic Belting Duet]
 Vạn dặm non sông... máu thắm tạc ngàn bia đá!
 Sát Thát khắc vào tay... thề không cúi đầu làm nô!
 Diên Hồng muôn triệu cánh tay... rung chuyển càn khôn dậy sóng
 Bạch Đằng sóng cuộn tro tàn... chôn vùi vạn kiếp cuồng ngông!
 
-[Instrumental Solo - Virtuosic Guzheng, Raging Erhu and Cinematic Strings Duet]
-
-[Verse 3 - Pure Celestial Soprano (Ethereal Bamboo Flute & Soft Strings)]
 Lam Sơn mười năm... Hội thề Lũng Nhai trọn nghĩa đồng bào
 Bát cơm củ mài... chia ngọt sẻ bùi cùng manh áo vải
 Đem đại nghĩa thắng hung tàn... mở lối sinh linh
 Luật Hồng Đức sáng soi... chở che muôn đời con cháu Việt.
 
-[Verse 4 - Deep Resonant Baritone (Roaring War Drums)]
 Kỷ Dậu mùa xuân... áo bào sạm đen khói lửa đào
 Ghép võng ngày đêm... quét sạch hai mươi chín vạn quân thù
 Gò Đống Đa rền vang... khúc khải hoàn hoa đào Thăng Long nở
 Để muôn đời sau... biết cõi Nam này có chủ!
 
-[Micro-Drop - Thunderous Bronze Drum Strike and Silence 0.5s]
-
-[Chorus - Max Symphonic Orchestra & Majestic Chanting Choir Climax]
 Vạn dặm non sông... máu thắm tạc ngàn bia đá!
 Sát Thát khắc vào tay... thề không cúi đầu làm nô!
 Diên Hồng muôn triệu cánh tay... rung chuyển càn khôn dậy sóng
 Bạch Đằng sóng cuộn tro tàn... chôn vùi vạn kiếp cuồng ngông!
 
-[Bridge - Intimate Breathy Duet with Solo Guqin 432Hz]
 Hỡi con cháu Lạc Hồng... có nghe tiếng sông sâu thì thầm?
 Từ bọc trứng trăm con... muôn triệu người cùng chung một huyết mạch
 Học sách người để vượt lên người... giữ trọn hồn thiêng sông núi
 Trời cao chứng giám lòng son... nước Nam ngàn thu bất tử!
 
-[Chorus - Maximum Climax Symphonic Explosion & Choir Belting]
 Vạn dặm non sông... máu thắm tạc ngàn bia đá!
 Sát Thát khắc vào tay... thề không cúi đầu làm nô!
 Khói hương thanh sạch dâng Trời... tạ ơn tiền nhân mở cõi
 Nước Nam trường tồn... vạn mùa xuân rạng rỡ muôn đời!
 
-[Outro - Lingering Dan Bau Glissando and Fading Bronze Drum Resonance with River Breeze Foley]
-
-[Instrumental Outro - Fading Ethereal Xiao and Temple Bell]
-
-[Fade Out]
-
-[End]
 ```
 
 ---

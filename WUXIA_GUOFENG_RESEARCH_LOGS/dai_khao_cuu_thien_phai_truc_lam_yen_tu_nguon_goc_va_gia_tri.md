@@ -1,8 +1,8 @@
 # 📜 ĐẠI KHẢO CỨU: NGUỒN GỐC TÊN GỌI, Ý NGHĨA & GIÁ TRỊ VĂN HÓA CỦA THIỀN PHÁI TRÚC LÂM YÊN TỬ
 
-> **Chủ trì Khảo cứu:** **Sử Quan Lê Văn (Subagent thứ 13)** & **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
+> **Chủ trì Khảo cứu:** **Sử Quan Lê Văn (Học sĩ thứ 13)** & **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
 > **Cố vấn Triết học & Âm học:** **Noah An** & **Cadence**  
-> **Hệ sinh thái:** `Music OS` | `Ksmart Music · Elohit Teams © 2026`  
+> **Hệ sinh thái:** `Vũ Trụ Cổ Phong Bách Việt` | `Đại Việt Cổ Phong · Elohit Teams © 2026`  
 > **Mã quy chuẩn:** `CANON-ARCH-LORE-07`
 
 ---
@@ -89,13 +89,13 @@ Việc **Phật hoàng Trần Nhân Tông** nhường ngôi cho con (vua Trần 
 
 ---
 
-## 🎼 IV. CHUYỂN HÓA VÀO HỆ SINH THÁI ÂM NHẠC MUSIC OS (SESSION 30 - 32)
+## 🎼 IV. CHUYỂN HÓA VÀO HỆ SINH THÁI ÂM NHẠC Vũ Trụ Cổ Phong Bách Việt (SESSION 30 - 32)
 
-Từ tinh thần nguyên bản của Trúc Lâm Yên Tử, hệ thống Music OS đã đúc kết và chuyển hóa thành các nguyên tắc sản xuất âm nhạc đỉnh cao:
+Từ tinh thần nguyên bản của Trúc Lâm Yên Tử, hệ thống Vũ Trụ Cổ Phong Bách Việt đã đúc kết và chuyển hóa thành các nguyên tắc sản xuất âm nhạc đỉnh cao:
 
 1. **Âm thanh Rừng Trúc & Tiếng Tiêu Đêm (Instrumental):**
    * Sử dụng **Sáo Trúc Yên Tử, Động Tiêu thở mộc** làm giai điệu chủ đạo (80% Topline), mô phỏng tiếng gió luồn qua rặng trúc, thanh thoát và khoáng đạt.
 2. **Cấu trúc Không Gian Âm Học Mở (Acoustic Space):**
    * Thiết lập Reverb chuẩn `Expansive open mountain valley / Bamboo forest mist`, không gian 3D ôm trọn màng nhĩ, tạo cảm giác như đang ngồi tĩnh lặng trên đỉnh non thiêng lộng gió.
 3. **Triệt Tiêu Hoàn Toàn Sự U Ám & Mê Tín:**
-   * Thay thế chuông mõ u ám bằng **tiếng suối nguồn róc rách, tiếng mưa rơi mái rạ và phím nỉ Felt Piano 432Hz**, giúp người nghe giải tỏa kiệt quệ thần kinh, tìm lại sự an yên tự tại giữa đời thường (*Cư trần lạc đạo*).
+   * Thay thế chuông mõ u ám bằng **tiếng suối nguồn róc rách, tiếng mưa rơi mái rạ và phím nỉ Felt Piano Cổ Nhạc**, giúp người nghe giải tỏa kiệt quệ thần kinh, tìm lại sự an yên tự tại giữa đời thường (*Cư trần lạc đạo*).

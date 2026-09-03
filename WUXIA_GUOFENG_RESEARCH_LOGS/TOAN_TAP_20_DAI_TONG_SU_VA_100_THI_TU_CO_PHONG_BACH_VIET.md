@@ -2,7 +2,7 @@
 ## (THE COMPLETE COMPENDIUM: 20 GRANDMASTERS LORE, 100 POETIC MASTERPIECES & ANCIENT ACOUSTIC BLUEPRINT)
 
 > **Cơ quan Khảo cứu & Trước tác:** Viện Hàn Lâm Cổ Sử, Điển Tịch & Lễ Nhạc Bách Việt — `Baiyue & Dai Viet Wuxia Universe`  
-> **Chủ trì Kịch bản:** **Subagent 14 — Tiểu Thuyết Gia Vũ Dạ Khách** & **Subagent 13 — Sử Quan Lê Văn**  
+> **Chủ trì Kịch bản:** **Tiểu Thuyết Gia Vũ Dạ Khách** & **Sử Quan Lê Văn**  
 > **Chủ trì Thi ca & Ni luật:** **Bạch Hạc (Huỳnh Hạc Nam)**, **Vân Chu (云舟)**  
 > **Chủ trì Âm học Bối cảnh Văn hóa Cổ xưa:** **Melody**, **Noah An**, **Harmony** & **Cadence**  
 
@@ -13,7 +13,7 @@
  ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
  │ I. TIỂU SỬ TRUYỀN KỲ & CÂU CHUYỆN 20 THÁI SƠN BẮC ĐẨU ──► 20 Tông Sư Đỉnh Cao & 20 Truyền Nhân         │
  │ II. TOÀN TẬP 100 BÀI THƠ CỔ MỸ TỪ TUYỆT ĐẸP (ĐẦY ĐỦ 100 BÀI TỪ 01 ĐẾN 100) ──► 5 Đại Quyển Độc Bản     │
- │ III. HỆ THỐNG ÂM NHẠC MÔ PHỎNG NGUYÊN BẢN THỜI ĐẠI ──► Trống Đồng, Đàn Đá, Đàn Bầu, Khèn Bè 432Hz      │
+ │ III. HỆ THỐNG ÂM NHẠC MÔ PHỎNG NGUYÊN BẢN THỜI ĐẠI ──► Trống Đồng, Đàn Đá, Đàn Bầu, Khèn Bè Cổ Nhạc      │
  └────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -50,7 +50,7 @@
 
 ### 6. Trúc Lâm Dược Thánh — Tuệ Tĩnh Đại Sư
 * **Thân thế:** Thánh tổ nền Nam Dược Việt Nam, người sáng lập triết lý *"Nam Dược Trị Nam Nhân"*.
-* **Câu chuyện truyền kỳ:** Đi khắp 580 ngọn núi nước Nam, nếm thử từng loài cỏ cây, rễ lá để ghi chép bộ *Nam Dược Thần Hiệu*. Ngài từ chối chức quan triều đình, chọn am cỏ Yên Tử làm nơi bốc thuốc cứu dân nghèo và chữa lành cho thương binh sa trường bằng thảo mộc kết hợp âm nhạc 432Hz.
+* **Câu chuyện truyền kỳ:** Đi khắp 580 ngọn núi nước Nam, nếm thử từng loài cỏ cây, rễ lá để ghi chép bộ *Nam Dược Thần Hiệu*. Ngài từ chối chức quan triều đình, chọn am cỏ Yên Tử làm nơi bốc thuốc cứu dân nghèo và chữa lành cho thương binh sa trường bằng thảo mộc kết hợp âm nhạc Cổ Nhạc.
 * **Truyền nhân:** **Dược Sư Nương Mộc Tĩnh Lan**.
 
 ### 7. Mê Linh Tượng Vương — Nữ Hiệp Vũ Bát Nàn
@@ -465,7 +465,7 @@
 > Năm trăm tám chục loài cây cỏ,  
 > Nuôi dưỡng ngàn năm giống Lạc Hồng.
 
-#### 62. Hòa Âm 432Hz Y Đạo Khúc
+#### 62. Hòa Âm Cổ Nhạc Y Đạo Khúc
 > Gảy khúc đàn Tranh dưới ánh trăng,  
 > Tiếng tơ mười sáu dứt băn khoăn.  
 > Vết thương sa trường nay khép miệng,  
@@ -722,7 +722,7 @@
 │                                │ • **Chiêng đồng, Chuông đồng cổ**  │ • Tiếng chuông thanh tịnh xua tan tà khí.              │
 ├────────────────────────────────┼────────────────────────────────────┼────────────────────────────────────────────────────────┤
 │ **2. Nhạc Cụ Dây Tơ Tằm**      │ • **Đàn Bầu (Độc Huyền Cầm)**      │ • Rung ngón glissando ma mị, âm sắc ấm áp u hoài.      │
-│    *(Âm hưởng Dân gian & Tình)*│ • **Đàn Tranh 16 Dây Tơ Tằm**      │ • Tần số chuẩn **432Hz** chữa lành vết thương sa trường.│
+│    *(Âm hưởng Dân gian & Tình)*│ • **Đàn Tranh 16 Dây Tơ Tằm**      │ • Tần số chuẩn **Cổ Nhạc** chữa lành vết thương sa trường.│
 │                                │ • **Đàn Đáy & Đàn Cổ Cầm (Guqin)** │ • Âm trầm mộc mạc của gỗ mít và thùng đàn rỗng.        │
 ├────────────────────────────────┼────────────────────────────────────┼────────────────────────────────────────────────────────┤
 │ **3. Nhạc Cụ Hơi & Tre Trúc**  │ • **Sáo Động Tiêu (Dongxiao)**     │ • Tiếng thở mộc mạc, vút cao giữa ngàn mây Yên Tử.     │

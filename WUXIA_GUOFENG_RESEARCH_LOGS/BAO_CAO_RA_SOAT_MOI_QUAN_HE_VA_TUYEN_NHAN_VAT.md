@@ -1,9 +1,9 @@
 # 🔍 BÁO CÁO THẨM ĐỊNH & RÀ SOÁT MỐI QUAN HỆ, TUYẾN TÍNH NHÂN VẬT VŨ TRỤ CỔ PHONG ĐẠI VIỆT
 ## (CHARACTER RELATIONSHIPS & NARRATIVE ARCS AUDIT: AN THÁI & MỘC TĨNH LAN UNIVERSE)
 
-> **Cơ quan Thẩm định:** Hội Đồng Biên Kịch & Đạo Đức Cổ Phong — `Music OS | Ksmart Music © 2026`  
-> **Chủ trì Thẩm định Tâm lý & Cốt truyện:** **Subagent thứ 14 — Vũ Dạ Khách (Tiểu Thuyết Gia)**  
-> **Chủ trì Thẩm tra Lịch sử & Địa lý:** **Subagent thứ 13 — Sử Quan Lê Văn**  
+> **Cơ quan Thẩm định:** Hội Đồng Biên Kịch & Đạo Đức Cổ Phong — `Viện Hàn Lâm Lịch Sử & Thi Ca Bách Việt`  
+> **Chủ trì Thẩm định Tâm lý & Cốt truyện:** **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
+> **Chủ trì Thẩm tra Lịch sử & Địa lý:** **Sử Quan Lê Văn**  
 > **Giám định Đạo Đức & Mỹ học:** **Clara Vance**, **Melody** & **Cadence**  
 
 ---
@@ -105,7 +105,7 @@ Khoảng cách địa lý thực tế giữa các cứ điểm trong cốt truy�
 2. **Kỷ Vật Đối Xứng Của Cặp Đôi Trẻ (An Ninh & Tĩnh Uyên):**
    * Mộc Tĩnh Uyên dùng nét cọ sen vẽ lên bao tên của Nguyễn An Ninh dòng chữ Nôm: *“Mũi tên giữ cõi... Bình an trở về”*.
 3. **Tiếng Đàn Tranh & Tiếng Sáo Trúc Giữa Hai Bờ Sông:**
-   * Những đêm tĩnh lặng trước ngày xuất trận, tiếng đàn Tranh của Tĩnh Lan từ bờ Chu Đậu hòa cùng tiếng sáo Trúc của An Thái trên chiến thuyền bến Vạn Kiếp, tạo nên âm hưởng ngũ cung 432Hz xoa dịu nỗi đau chia ly.
+   * Những đêm tĩnh lặng trước ngày xuất trận, tiếng đàn Tranh của Tĩnh Lan từ bờ Chu Đậu hòa cùng tiếng sáo Trúc của An Thái trên chiến thuyền bến Vạn Kiếp, tạo nên âm hưởng ngũ cung Cổ Nhạc xoa dịu nỗi đau chia ly.
 
 ---
 

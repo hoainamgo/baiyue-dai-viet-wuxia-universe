@@ -4,9 +4,9 @@
 
 ---
 
-> **Cơ quan Giám định Điển tịch & Khảo cổ:** Ban Điển Tịch Thượng Cổ Music OS  
-> **Chủ trì Khảo cổ học & Cổ tự học Khoa Đẩu:** Subagent thứ 13 — Sử Quan Lê Văn  
-> **Chủ trì Thế giới quan Cổ phong & Kịch bản Biền văn:** Subagent thứ 14 — Tiểu Thuyết Gia Vũ Dạ Khách  
+> **Cơ quan Giám định Điển tịch & Khảo cổ:** Ban Điển Tịch Thượng Cổ Vũ Trụ Cổ Phong Bách Việt  
+> **Chủ trì Khảo cổ học & Cổ tự học Khoa Đẩu:** Sử Quan Lê Văn  
+> **Chủ trì Thế giới quan Cổ phong & Kịch bản Biền văn:** Tiểu Thuyết Gia Vũ Dạ Khách  
 > **Cố vấn Thần học Lịch sử & Âm học Ngũ Cung:** Noah An, Melody, Harmony, Cadence & Bạch Hạc  
 > **Phiên bản:** v5.0.0 Master Canon  
 > **Ngày niêm phong lưu trữ:** 2026-09-01  
@@ -185,4 +185,4 @@ Nay hội tụ thành **NĂM MƯƠI TƯ DÂN TỘC ANH EM TRÊN MẢNH ĐẤT M�
 
 ## 🔒 NIÊM PHONG LƯU TRỮ VÀ BẢO CHỨNG BẢN QUYỀN
 * **Tình trạng**: ĐÃ CHỐT VÀ KHÓA CỨNG (LOCKED CANON v5.0.0).  
-* **Quyền ứng dụng**: Sử dụng làm Codex gốc cho toàn bộ kịch bản, lời bài hát Cổ Phong Sử Thi và chỉ đạo nghệ thuật Visual của Ksmart Music OS.
+* **Quyền ứng dụng**: Sử dụng làm Codex gốc cho toàn bộ kịch bản, lời bài hát Cổ Phong Sử Thi và chỉ đạo nghệ thuật Visual của Ksmart Vũ Trụ Cổ Phong Bách Việt.

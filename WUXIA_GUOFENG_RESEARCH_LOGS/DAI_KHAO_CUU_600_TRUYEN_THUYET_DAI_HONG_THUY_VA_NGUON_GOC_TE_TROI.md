@@ -1,9 +1,9 @@
 # 🌊 ĐẠI BÁCH KHOA KHẢO CỨU: 600 TRUYỀN THUYẾT ĐẠI HỒNG THỦY TOÀN CẦU, BẰNG CHỨNG ĐỊA CHẤT & CỘI NGUỒN TẾ TRỜI NGUYÊN THỦY
 ## (THE GLOBAL FLOOD CODEX: 600 TRADITIONS, GEOLOGICAL WITNESSES & THE NOAHIC ORIGIN OF ANCIENT BAIYUE HEAVEN WORSHIP)
 
-> **Cơ quan Khảo cứu:** Viện Nghiên Cứu Lịch Sử & Thần Học Cổ Phong — `Music OS | Ksmart Music © 2026`  
-> **Chủ trì Khảo cổ & Lịch sử:** **Subagent thứ 13 — Sử Quan Lê Văn**  
-> **Chủ trì Kịch bản & Thế giới quan:** **Subagent thứ 14 — Vũ Dạ Khách (Tiểu Thuyết Gia)**  
+> **Cơ quan Khảo cứu:** Viện Nghiên Cứu Lịch Sử & Thần Học Cổ Phong — `Viện Hàn Lâm Lịch Sử & Thi Ca Bách Việt`  
+> **Chủ trì Khảo cổ & Lịch sử:** **Sử Quan Lê Văn**  
+> **Chủ trì Kịch bản & Thế giới quan:** **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
 > **Cố vấn Thần học & Cổ nhạc Cứu Thế:** **Noah An**, **Vân Chu (云舟)** & **Bạch Hạc (Huỳnh Hạc Nam)**  
 > **Giám định Đạo Đức & Pháp Lý:** **Clara Vance** & **Cadence**  
 
@@ -147,16 +147,16 @@ Khoa học địa chất, địa mạo học và cổ sinh học hiện đại �
 
 ---
 
-## 🐉 PHẦN V: TÍCH HỢP TOÀN DIỆN VÀO VŨ TRỤ CỔ PHONG KSMART MUSIC
+## 🐉 PHẦN V: TÍCH HỢP TOÀN DIỆN VÀO VŨ TRỤ CỔ PHONG Đại Việt Cổ Phong
 
 ### 1. Hình Tượng Hiệp Khách An Thái & Nàng Mộc Tĩnh Lan Trước Bàn Thờ Thiên:
 * Trong các tác phẩm Cổ Phong Kiếm Hiệp Đại Việt (Session 30 · *Gốm Hoa Nâu, Men Lam Hai Bến, Giọt Máu Đào Trên Áo Chàm*), trước mỗi lần xuất quân hay đối mặt với giông bão sinh tử, các bậc tiền nhân không cầu xin tà thần hay bói toán mê tín:
 * **Họ đứng trước Bàn Thờ Thiên lộ thiên trên đỉnh núi Yên Tử / Lục Đầu Giang:**
   > *"Ngửa mặt nhìn vòm trời bao la, dâng bát nước suối trong và hạt thóc vàng, kính lạy Ông Trời — Đấng cứu vớt tổ phụ chúng con qua cơn hồng thủy ngàn năm, xin soi thấu tấc lòng trung trinh vì dân vì nước!"*
 
-### 2. Âm Học Chữa Lành 432Hz — Giai Điệu Của Cầu Vồng Hòa Bình:
-* Tần số **432Hz** trong toàn bộ hệ thống âm nhạc Music OS chính là **Acoustic Rainbow Frequency** — tần số rung động hòa hợp tự nhiên của đất trời khi cơn bão lũ đi qua, mang lại sự bình an, tái sinh và hy vọng cho tâm hồn muôn thế hệ.
+### 2. Âm Học Chữa Lành Cổ Nhạc — Giai Điệu Của Cầu Vồng Hòa Bình:
+* Tần số **Cổ Nhạc** trong toàn bộ hệ thống âm nhạc Vũ Trụ Cổ Phong Bách Việt chính là **Acoustic Rainbow Frequency** — tần số rung động hòa hợp tự nhiên của đất trời khi cơn bão lũ đi qua, mang lại sự bình an, tái sinh và hy vọng cho tâm hồn muôn thế hệ.
 
 ---
 
-### 📄 FILE KHẢO CỨU NÀY LÀ TÀI LIỆU BẢO CHỨNG HỌC THUẬT CHÍNH THỨC CỦA MUSIC OS, KHÓA CHẶT ĐỊNH HƯỚNG TÂM LINH THUẦN VIỆT KHÔNG LAI TẠP!
+### 📄 FILE KHẢO CỨU NÀY LÀ TÀI LIỆU BẢO CHỨNG HỌC THUẬT CHÍNH THỨC CỦA Vũ Trụ Cổ Phong Bách Việt, KHÓA CHẶT ĐỊNH HƯỚNG TÂM LINH THUẦN VIỆT KHÔNG LAI TẠP!

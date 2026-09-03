@@ -60,7 +60,7 @@ Lưu vực sông Dương Tử (Trường Giang) thời cổ đại (5.000 – 2.
    * **Ý nghĩa:** Biểu tượng quật cường đắp đê ngăn lũ, chế ngự thiên tai sông Hồng của người Việt cổ hàng nghìn năm.
 2. **Thạch Sanh (Dũng sĩ rìu sắt dưới gốc đa):**
    * **Bản chất:** Truyền thuyết kiếm hiệp cổ sơ nhất của người Việt. Chàng dũng sĩ chân đất diệt **Chằn Tinh** (quái thú rừng già), bắn rơi **Đại Bàng** (thần điểu ăn thịt người), cứu công chúa Quỳnh Nga.
-   * **Tiếng Đàn Thần 432Hz & Niêu Cơm Thần:** Tiếng đàn Thạch Sanh không chỉ vạch mặt kẻ phản trắc Lý Thông mà còn hóa giải binh đao của 18 nước chư hầu $\rightarrow$ Triết lý hòa bình, nhân đạo tối thượng của người Việt.
+   * **Tiếng Đàn Thần Cổ Nhạc & Niêu Cơm Thần:** Tiếng đàn Thạch Sanh không chỉ vạch mặt kẻ phản trắc Lý Thông mà còn hóa giải binh đao của 18 nước chư hầu $\rightarrow$ Triết lý hòa bình, nhân đạo tối thượng của người Việt.
 
 ---
 
@@ -93,6 +93,6 @@ Lưu vực sông Dương Tử (Trường Giang) thời cổ đại (5.000 – 2.
 
 ---
 
-### 💡 TÍCH HỢP VÀO HỆ THỐNG KỊCH BẢN & SÁNG TÁC ÂM NHẠC MUSIC OS:
+### 💡 TÍCH HỢP VÀO HỆ THỐNG KỊCH BẢN & SÁNG TÁC ÂM NHẠC Vũ Trụ Cổ Phong Bách Việt:
 1. **Dòng Sử Thi Thần Thoại:** Khai thác các track về *Thánh Gióng Ngựa Sắt Phá Giặc Ân*, *Sơn Tinh Dời Non Lấp Bể*, *Tiếng Đàn Thần Thạch Sanh*.
 2. **Dòng Hải Vương Kiếm Hiệp:** Khắc họa hình tượng *Bá Chủ Biển Đông Từ Hải* song hành cùng *Hiệp Khách Đoản Đao An Thái* làm rạng danh hào khí võ hiệp phương Nam!

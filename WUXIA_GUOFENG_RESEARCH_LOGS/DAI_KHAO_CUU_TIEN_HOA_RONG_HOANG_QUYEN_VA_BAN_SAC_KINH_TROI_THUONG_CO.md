@@ -1,9 +1,9 @@
 # 📜 ĐẠI BÁCH KHOA KHẢO CỨU: TIẾN TRÌNH BIẾN "LONG" THÀNH BIỂU TƯỢNG HOÀNG QUYỀN TRUNG HOA & BẢN SẮC "KÍNH TRỜI — KHÔNG THẦN QUỶ" THỜI THƯỢNG CỔ
 ## (CHRONOLOGY OF IMPERIAL DRAGON MONOPOLIZATION & PROTO-MONOTHEISTIC HEAVEN WORSHIP IN ANCIENT BAIYUE/EAST ASIA)
 
-> **Cơ quan Khảo cứu:** Viện Nghiên Cứu Lịch Sử, Khảo Cổ & Thần Học Cổ Phong — `Music OS | Ksmart Music © 2026`  
-> **Chủ trì Lịch sử & Thể chế:** **Subagent thứ 13 — Sử Quan Lê Văn**  
-> **Chủ trì Kịch bản & Thế giới quan:** **Subagent thứ 14 — Vũ Dạ Khách (Tiểu Thuyết Gia)**  
+> **Cơ quan Khảo cứu:** Viện Nghiên Cứu Lịch Sử, Khảo Cổ & Thần Học Cổ Phong — `Viện Hàn Lâm Lịch Sử & Thi Ca Bách Việt`  
+> **Chủ trì Lịch sử & Thể chế:** **Sử Quan Lê Văn**  
+> **Chủ trì Kịch bản & Thế giới quan:** **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
 > **Cố vấn Thần học & Cổ nhạc Cứu Thế:** **Noah An**, **Vân Chu (云舟)** & **Bạch Hạc (Huỳnh Hạc Nam)**  
 > **Giám định Di sản & Thẩm định:** **Cadence** & **Clara Vance**  
 
@@ -88,11 +88,11 @@ Khác hoàn toàn với hệ thống thần ma quỷ quái ma mị và thuật t
 
 ---
 
-## 💎 PHẦN III: BẢNG ĐỐI CHIẾU Ý NGHĨA LỊCH SỬ & ĐỊNH HƯỚNG SÁNG TÁC CHO MUSIC OS
+## 💎 PHẦN III: BẢNG ĐỐI CHIẾU Ý NGHĨA LỊCH SỬ & ĐỊNH HƯỚNG SÁNG TÁC CHO Vũ Trụ Cổ Phong Bách Việt
 
 ```
 ┌───────────────────────────────┬────────────────────────────────────────────────────────────────────────────────────────┐
- │ CHỦ ĐỀ KHẢO CỨU              │ ĐỊNH HƯỚNG THỂ HIỆN TRONG SỬ THI MUSIC OS & TRILOGY 3 ALBUMS (13, 14, 15)              │
+ │ CHỦ ĐỀ KHẢO CỨU              │ ĐỊNH HƯỚNG THỂ HIỆN TRONG SỬ THI Vũ Trụ Cổ Phong Bách Việt & TRILOGY 3 ALBUMS (13, 14, 15)              │
  ├───────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────┤
  │ 1. Nguồn gốc Rồng Hoàng Quyền│ • Làm rõ: Rồng độc quyền hoàng triều là sản phẩm chính trị thời Hán (Lưu Bang) trở đi. │
  │                               │ • Đối lập với Giao Long sông nước bình dị, chở che nông nghiệp lúa nước của Bách Việt. │

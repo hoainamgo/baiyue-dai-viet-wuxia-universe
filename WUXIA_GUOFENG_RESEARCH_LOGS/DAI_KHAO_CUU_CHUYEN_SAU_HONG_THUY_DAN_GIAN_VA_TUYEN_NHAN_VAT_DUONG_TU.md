@@ -1,8 +1,8 @@
 # 🌊 ĐẠI KHẢO CỨU CHUYÊN SÂU: 54 THẦN THOẠI HỒNG THỦY VIỆT NAM, VẾT TÍCH TRONG THƠ CA DÂN GIAN & HỆ THỐNG NHÂN VẬT XUYÊN SUỐT TỪ DƯƠNG TỬ ĐẾN ĐẠI VIỆT
 
 > **Cơ quan Khảo cứu:** Viện Nghiên Cứu Dân Tộc Học, Điển Tịch & Địa Dư Bách Việt — `Baiyue & Dai Viet Wuxia Universe`  
-> **Chủ trì Dân tộc học & Thần thoại học:** **Sử Quan Lê Văn (Subagent 13)**  
-> **Chủ trì Tuyến Nhân Vật & Thi Ca Dân Gian:** **Vũ Dạ Khách (Subagent 14)** & **Bạch Hạc (Huỳnh Hạc Nam)**  
+> **Chủ trì Dân tộc học & Thần thoại học:** **Sử Quan Lê Văn (Học sĩ 13)**  
+> **Chủ trì Tuyến Nhân Vật & Thi Ca Dân Gian:** **Vũ Dạ Khách (Học sĩ 14)** & **Bạch Hạc (Huỳnh Hạc Nam)**  
 > **Giám định Văn hóa & Triết học:** **Noah An** & **Clara Vance**  
 
 ---
@@ -124,7 +124,7 @@ Hội đồng học thuật đã **hoàn tất 100% việc mô phỏng và xâu 
  │ KỶ IV: ĐẠI CỒ VIỆT & ĐẠI VIỆT THỜI LÝ (Thế kỷ X - XII)                                                 │
  │ • Đinh Tiên Hoàng ──► Lê Đại Hành ──► Lý Thái Tổ (Dời đô Thăng Long) ──► Lý Thường Kiệt ──► Ỷ Lan      │
  ├────────────────────────────────────────────────────────────────────────────────────────────────────────┤
- │ KỶ V: ĐẠI VIỆT THỜI ĐÔNG A (Thế kỷ XIII - XIV) — TÂM ĐIỂM SÁNG TÁC KSMART MUSIC                        │
+ │ KỶ V: ĐẠI VIỆT THỜI ĐÔNG A (Thế kỷ XIII - XIV) — TÂM ĐIỂM SÁNG TÁC Đại Việt Cổ Phong                        │
  │ • Hưng Đạo Đại Vương Trần Quốc Tuấn (Thống soái 3 lần đại thắng Nguyên Mông)                          │
  │ • Phật Hoàng Trần Nhân Tông (Sáng lập Trúc Lâm Yên Tử & Phát triển Y Đạo Nam Dược)                    │
  │ • DŨNG SĨ AN THÁI (Hậu duệ Đô đốc Thủy quân họ Nguyễn Lạc Long · Thống lĩnh thủy quân Lục Đầu Giang)   │
@@ -138,14 +138,18 @@ Hội đồng học thuật đã **hoàn tất 100% việc mô phỏng và xâu 
 ### 🌳 CHI TIẾT SỰ KẾ THỪA CỦA 2 NHÂN VẬT CHÍNH:
 
 1. **AN THÁI (Hiệp Khách Đông A · Sát Thát):**
-   * **Cội nguồn truyền thừa:** Kế thừa võ học thủy chiến từ thời Lạc Long Quân vượt sông Dương Tử $ightarrow$ Đô đốc thủy quân Bạch Đằng thời Ngô Quyền $ightarrow$ Tướng lĩnh thủy quân Lục Đầu Giang thời Trần.
+   * **Cội nguồn truyền thừa:** Kế thừa võ học thủy chiến từ thời Lạc Long Quân vượt sông Dương Tử $
+ightarrow$ Đô đốc thủy quân Bạch Đằng thời Ngô Quyền $
+ightarrow$ Tướng lĩnh thủy quân Lục Đầu Giang thời Trần.
    * **Binh khí & Kỹ năng:** Đoản đao lá lúa bằng thép rèn nguội, kỹ thuật lặn sâu đục thuyền, bắn nỏ Cao Lỗ ba cạnh.
    * **Tâm thức:** Gác kiếm bên bến sông, lập Bàn Thờ Thiên tạ ơn Đất Trời, coi danh lợi tựa mây bay.
 
 2. **MỘC TĨNH LAN (Đại Nghệ Nhân Chu Đậu & Y Sĩ Trúc Lâm):**
-   * **Cội nguồn truyền thừa:** Kế thừa kỹ nghệ gốm đen Lương Chử 5.300 năm $ightarrow$ Gốm Phùng Nguyên $ightarrow$ Gốm Hoa Nâu & Men Lam Chu Đậu đạt đỉnh cao thế giới; Kế thừa Y Đạo Thần Nông 580 vị thuốc nam qua dòng thiền Trúc Lâm Yên Tử của Tuệ Tĩnh.
+   * **Cội nguồn truyền thừa:** Kế thừa kỹ nghệ gốm đen Lương Chử 5.300 năm $
+ightarrow$ Gốm Phùng Nguyên $
+ightarrow$ Gốm Hoa Nâu & Men Lam Chu Đậu đạt đỉnh cao thế giới; Kế thừa Y Đạo Thần Nông 580 vị thuốc nam qua dòng thiền Trúc Lâm Yên Tử của Tuệ Tĩnh.
    * **Bảo vật:** Bàn xoay gỗ nghiến, ngòi bút vẽ sen men lam, giỏ thuốc nứa chứa 580 thảo mộc.
-   * **Tâm thức:** Nắn đất thành tri âm, dùng âm nhạc 432Hz và thảo mộc chữa lành vết thương sa trường.
+   * **Tâm thức:** Nắn đất thành tri âm, dùng âm nhạc Cổ Nhạc và thảo mộc chữa lành vết thương sa trường.
 
 ---
 

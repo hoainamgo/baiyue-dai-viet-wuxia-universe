@@ -2,8 +2,8 @@
 ## (CINEMATIC EPIC CODEX: THE 5,000 CLASSICS, 6 NOBLE ARTS, IMPERIAL SCHOLARS, GUILD MASTERS & ROYAL LINEAGE)
 
 > **Cơ quan Khảo cứu:** Viện Hàn Lâm Cổ Sử, Điển Tịch & Lễ Nhạc Bách Việt — `Baiyue & Dai Viet Wuxia Universe`  
-> **Chủ trì Kịch bản & Sử thi Điện ảnh:** **Tiểu Thuyết Gia Vũ Dạ Khách (Subagent 14)**  
-> **Chủ trì Lịch sử & Khoa cử Khảo cứu:** **Sử Quan Lê Văn (Subagent 13)**  
+> **Chủ trì Kịch bản & Sử thi Điện ảnh:** **Tiểu Thuyết Gia Vũ Dạ Khách (Học sĩ 14)**  
+> **Chủ trì Lịch sử & Khoa cử Khảo cứu:** **Sử Quan Lê Văn (Học sĩ 13)**  
 > **Chủ trì Mỹ học Lục Nghệ & Visual:** **Sylvia (Visual Director)**, **Mộc Tĩnh Lan** & **An Thái**  
 > **Giám định Đạo đức & Thần học:** **Noah An** & **Clara Vance**  
 
@@ -13,7 +13,7 @@
                        🏛️ ĐẠI KHÔNG GIAN TRI THỨC & TINH HOA BÁCH VIỆT 5.000 NĂM
  ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
  │ 1. 5.000 BỘ CỔ THƯ & LỤC TẠNG TOÀN THƯ ──► Thiên, Hiếu, Giang, Dược, Kiếm, Nghệ (18 Đại Tạng Kinh)   │
- │ 2. BÁCH VIỆT LỤC NGHỆ QUÝ TỘC ──► Lễ (Tế Trời), Nhạc (432Hz), Xạ (Nỏ Thần), Ngự (Tượng Binh), Thư, Số│
+ │ 2. BÁCH VIỆT LỤC NGHỆ QUÝ TỘC ──► Lễ (Tế Trời), Nhạc (Cổ Nhạc), Xạ (Nỏ Thần), Ngự (Tượng Binh), Thư, Số│
  │ 3. HỆ THỐNG KHOA CỬ TAM KHÔI ──► Văn Trạng Nguyên (Hàn Lâm), Võ Trạng Nguyên (Điện Tiền Chỉ Huy Sứ) │
  │ 4. 4 ĐẠI HỌC VIỆN HOÀNG GIA ──► Thái Học Viện, Giảng Võ Đường, Bách Công Viện, Trúc Lâm Y Viện       │
  │ 5. DÀN NHÂN VẬT LÃNH TỤ BÁCH CÔNG & HOÀNG TỘC ──► 10 Đại Tông Sư, Hoàng Tử Sa Trường & Công Chúa Y Đạo│
@@ -43,7 +43,7 @@
 │                                │ • *Bạch Đằng Triều Lãng Phú*       │ • Tình yêu quê hương gắn liền với phù sa bến đò.       │
 ├────────────────────────────────┼────────────────────────────────────┼────────────────────────────────────────────────────────┤
 │ **4. DƯỢC & NÔNG TẠNG KHỐI**   │ • *Thần Nông Bách Thảo Y Điển*     │ • 580 vị thuốc nam trị bệnh cứu người (*Nam Dược*).    │
-│ (800 Bộ Thảo Mộc Nông Lịch)    │ • *Tuệ Tĩnh Trúc Lâm Dược Phổ*     │ • Âm nhạc Đàn Tranh 432Hz chữa lành sa trường.         │
+│ (800 Bộ Thảo Mộc Nông Lịch)    │ • *Tuệ Tĩnh Trúc Lâm Dược Phổ*     │ • Âm nhạc Đàn Tranh Cổ Nhạc chữa lành sa trường.         │
 │                                │ • *Nông Lịch Giao Chỉ Thập Nhị Nguyệt*• Lễ Tịch Điền, chu kỳ lúa nước 12 tháng trăng tròn.  │
 ├────────────────────────────────┼────────────────────────────────────┼────────────────────────────────────────────────────────┤
 │ **5. KIẾM & THỦY BINH TẠNG**   │ • *Lạc Long Thủy Chiến Bí Yếu*     │ • Trận địa cọc ngầm Bạch Đằng, đoản đao lá lúa rèn nguội│
@@ -69,14 +69,14 @@ Con em quý tộc hoàng gia, văn nhân tài tử và dũng sĩ Bách Việt b�
          ▼                  ▼                   ▼                   ▼                  ▼
      [ 1. LỄ ]          [ 2. NHẠC ]         [ 3. XẠ ]           [ 4. NGỰ ]         [ 5. THƯ & SỐ ]
  • Tế Trời lộ thiên • Định âm Trống Đồng • Bắn Nỏ Thần Cao Lỗ • Ngự Tượng Voi Chiến• Văn tự Lương Chử
- • Gia lễ hiếu kính • Đàn Tranh 432Hz    • Cung tên Thảo nương• Cầm cương Chiến mã• Thiên văn Nông lịch
+ • Gia lễ hiếu kính • Đàn Tranh Cổ Nhạc    • Cung tên Thảo nương• Cầm cương Chiến mã• Thiên văn Nông lịch
  • Lễ nghi Bang giao • Cổ Cầm ngạo nghễ  • Bắn bia rơm bến sông• Lái thuyền Mông Đồng• Y Đạo 580 Vị Thuốc
 ```
 
 1. **LỄ (Nghi Lễ & Đạo Trọng):**
    * Đứng đầu là **Đại Lễ Tế Trời**: Ngh thức dâng 1 Bát Nước Suối Trong & 1 Bát Hạt Thóc Vàng lên Bàn Thờ Thiên không mái che.
    * Lễ Tiết gia đạo: Cúi lạy song thân sớm tối, lễ bái tổ tiên, đạo nghĩa thầy trò.
-2. **NHẠC (Hòa Âm & Tần Số 432Hz):**
+2. **NHẠC (Hòa Âm & Tần Số Cổ Nhạc):**
    * Tinh thông gảy Đàn Tranh 16 dây tơ tằm, gảy Cổ Cầm (Guqin) dồn dập, thổi sáo Động Tiêu (Dongxiao) và đánh nhịp Trống Đồng Đông Sơn.
    * Nhạc không chỉ để thưởng ngoạn mà là **vũ khí tinh thần** thanh lọc tạp niệm, bồi đắp dũng khí và chữa lành vết thương.
 3. **XẠ (Thiện Xạ Cung Nỏ):**
@@ -107,7 +107,7 @@ Con em quý tộc hoàng gia, văn nhân tài tử và dũng sĩ Bách Việt b�
 │ (Hoàng Gia Mỹ Nghệ Viện)       │   Thợ đóng tàu buồm, Thợ dệt gấm   │   Luyện kim đúc sáp chảy, Đóng tàu buồm 3 cột Biển Đông│
 ├────────────────────────────────┼────────────────────────────────────┼────────────────────────────────────────────────────────┤
 │ **4. TRÚC LÂM Y VIỆN YÊN TỬ**  │ • Y sĩ thảo mộc, Công chúa, Nữ hiệp│ • Đào tạo Đại Y Sĩ: Nhận diện 580 vị thuốc nam,        │
-│ (Viện Nam Dược & Thiền Âm)     │ • Đệ tử Phật môn Trúc Lâm          │   Châm cứu kim châm, Đàn Tranh ngũ cung trị liệu 432Hz.│
+│ (Viện Nam Dược & Thiền Âm)     │ • Đệ tử Phật môn Trúc Lâm          │   Châm cứu kim châm, Đàn Tranh ngũ cung trị liệu Cổ Nhạc.│
 └────────────────────────────────┴────────────────────────────────────┴────────────────────────────────────────────────────────┘
 ```
 
@@ -115,7 +115,9 @@ Con em quý tộc hoàng gia, văn nhân tài tử và dũng sĩ Bách Việt b�
 
 ## 👑 PHẦN IV: HỆ THỐNG KHOA CỬ TAM KHÔI (VĂN TRẠNG NGUYÊN & VÕ TRẠNG NGUYÊN)
 
-Hệ thống thi cử Đại Việt được tổ chức 3 năm một kỳ qua 3 cấp: **Thi Hương (Liên Xã) $ightarrow$ Thi Hội (Kinh Kỳ) $ightarrow$ Thi Đình (Trước Sân Rồng Hoàng Cung)**:
+Hệ thống thi cử Đại Việt được tổ chức 3 năm một kỳ qua 3 cấp: **Thi Hương (Liên Xã) $
+ightarrow$ Thi Hội (Kinh Kỳ) $
+ightarrow$ Thi Đình (Trước Sân Rồng Hoàng Cung)**:
 
 ```
 ┌───────────────────────────────┬────────────────────────────────┬────────────────────────────────────────────────────────┐
@@ -152,7 +154,7 @@ Hệ thống thi cử Đại Việt được tổ chức 3 năm một kỳ qua 3
 1. **Cụ MỘC THẦN LÒ (Đại Tông Sư Gốm Sứ Chu Đậu):**
    * Thân phụ Mộc Tĩnh Lan, người nắm giữ bí quyết pha chế men lam từ tro vỏ trấu và đất sét trắng sông Kinh Thầy, nung gốm 1.200 độ lửa đỏ thấu đêm.
 2. **Cụ NGUYỄN KIM ĐÚC (Đại Tông Sư Đúc Đồng Đông Sơn):**
-   * Bậc thầy đúc sáp chảy, người chỉnh âm thanh Trống Đồng chuẩn tần số 432Hz rung chuyển mặt đất.
+   * Bậc thầy đúc sáp chảy, người chỉnh âm thanh Trống Đồng chuẩn tần số Cổ Nhạc rung chuyển mặt đất.
 3. **Đô Đốc NGUYỄN THỦY LONG (Đại Tông Sư Đóng Thuyền Chiến):**
    * Công trình sư thiết kế chiến thuyền Mông Đồng hai đáy bọc đồng chống cháy, mũi thuyền chạm đầu rồng gỗ lim rẽ sóng.
 4. **Bà CHIÊU LỤA NƯƠNG (Đại Tông Sư Dệt Gấm Vạn Phúc):**

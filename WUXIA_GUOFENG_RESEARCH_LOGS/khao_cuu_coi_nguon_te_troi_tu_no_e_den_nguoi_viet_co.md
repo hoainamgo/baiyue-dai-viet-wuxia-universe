@@ -51,7 +51,7 @@ Sau khi con cháu Nô-ê phân tán khắp mặt đất, ký ức về trận Đ
 
 ---
 
-## 🏛️ PHẦN III: TÍCH HỢP TỐI THƯỢNG VÀO THẾ GIỚI QUAN CỔ PHONG KSMART MUSIC
+## 🏛️ PHẦN III: TÍCH HỢP TỐI THƯỢNG VÀO THẾ GIỚI QUAN CỔ PHONG Đại Việt Cổ Phong
 
 ```
 [ BÀN THỜ NÔ-Ê SƠ KHAI ] ──► [ TÍN NGƯỠNG ÔNG TRỜI THUẦN KHIẾT ] ──► [ LỜI THỀ HIỆP KHÁCH ĐẠI VIỆT ]
@@ -64,5 +64,5 @@ Sau khi con cháu Nô-ê phân tán khắp mặt đất, ký ức về trận Đ
 * Khi chàng dũng sĩ **An Thái** chuẩn bị xông pha sa trường và nàng **Mộc Tĩnh Lan** trao dải khăn thề ước, họ đứng trên đỉnh núi cao lộng gió, đối diện bàn thờ đá lộ thiên:
   > *"Lạy Ông Trời — Đấng đã cứu tổ phụ chúng con qua cơn bão lụt nghìn năm, Đấng soi thấu cõi lòng con người: Xin chứng giám cho tấc lòng trung trinh vì dân vì nước, xin gìn giữ mối duyên lành này mãi mãi trường tồn!"*
 
-### 2. Triết Lý Âm Nhạc Chữa Lành 432Hz:
-* Tần số **432Hz** trong âm nhạc của Music OS chính là **Giai điệu của Cầu Vồng Hòa Bình** — âm thanh nguyên bản của tạo hóa mà Nô-ê đã cảm nhận khi bước ra khỏi con tàu, mang lại sự bình an, tái sinh và hy vọng cho tâm hồn người nghe.
+### 2. Triết Lý Âm Nhạc Chữa Lành Cổ Nhạc:
+* Tần số **Cổ Nhạc** trong âm nhạc của Vũ Trụ Cổ Phong Bách Việt chính là **Giai điệu của Cầu Vồng Hòa Bình** — âm thanh nguyên bản của tạo hóa mà Nô-ê đã cảm nhận khi bước ra khỏi con tàu, mang lại sự bình an, tái sinh và hy vọng cho tâm hồn người nghe.

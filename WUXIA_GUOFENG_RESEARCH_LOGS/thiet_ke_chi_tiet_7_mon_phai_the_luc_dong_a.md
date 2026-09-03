@@ -1,6 +1,6 @@
 # ⚔️ ĐẠI THIẾT KẾ GIANG HỒ & THẾ LỰC THỜI ĐẠI ĐÔNG A (THẾ KỶ XIII)
 ## BẢN ĐỒ THẾ LỰC, 7 ĐẠI MÔN PHÁI, TRIỀU ĐÌNH LƯỠNG ĐẦU & THƯƠNG HỘI CHU ĐẬU
-### HỆ THỐNG: `MUSIC OS` · THƯƠNG HIỆU: `KSMART MUSIC © 2026`
+### DI SẢN VĂN HÓA BÁCH VIỆT & ĐẠI VIỆT THIÊN CỔ
 ### CHỦ TRÌ THIẾT KẾ: TIỂU THUYẾT GIA VŨ DẠ KHÁCH & SỬ QUAN LÊ VĂN
 
 ---
@@ -68,7 +68,7 @@
 * **Tông chủ / Đại diện:** **Nàng Mộc Tĩnh Lan** (`Moc_Tinh_Lan_square.png`) — Truyền nhân đắc ý của Đại Danh Y Thiền Sư Tuệ Tĩnh.
 * **Cơ cấu nội bộ:**
   * *Dược Vương Viện:* Thu hái 580 vị thuốc Nam, điều chế cao dán sa trường.
-  * *Cầm Kiếm Các:* Luyện đàn Tranh 432Hz và Trúc Kiếm hóa giải sát khí.
+  * *Cầm Kiếm Các:* Luyện đàn Tranh Cổ Nhạc và Trúc Kiếm hóa giải sát khí.
 * **Hệ thống Võ Học & Cảnh Giới:**
   * *Tâm pháp:* **Dạ Trạch Quy Tức Công** (Khí công điều hòa hơi thở như sương khói ban mai).
   * *Tuyệt kỹ:* **Trúc Kiếm Thiền Tâm (Lão Mai Quyền)** — kiếm tre uốn lượn điểm trúng 108 đại huyệt, tuyệt đối không sát sinh; **Thần Nông Thảo Mộc Châm Cứu Thuật**.
@@ -77,7 +77,7 @@
 
 ---
 
-### 3. 🏔️ TẢN VIÊN SƠN MÔN (NON CAO BÚA SẮT & CỔ CẦM 432HZ)
+### 3. 🏔️ TẢN VIÊN SƠN MÔN (NON CAO BÚA SẮT & CỔ CẦM Cổ Nhạc)
 * **Tổng đàn:** Đỉnh Vua núi Ba Vì (Tản Viên Sơn) & Rừng sâu Tây Bắc.
 * **Tông chủ / Đại diện:** **Dũng Sĩ Hậu Duệ Thạch Sanh**.
 * **Cơ cấu nội bộ:**
@@ -86,7 +86,7 @@
 * **Hệ thống Võ Học & Cảnh Giới:**
   * *Tâm pháp:* **Tản Viên Chấn Sơn Kình** (Nội công mình đồng da sắt, đao thương khó đả thương).
   * *Tuyệt kỹ:* **Khai Sơn Phủ Pháp** (Thế búa bổ đôi tảng đá, trảm yêu thú Chằn Tinh) & **Hùng Kê Quyền** (Quyền gà chọi Tây Sơn).
-* **Binh khí:** Đại Khai Sơn Phủ (Rìu sắt 50 cân cán gỗ nghiến), Cổ Cầm Đàn Thần 432Hz giải giáp 18 nước chư hầu.
+* **Binh khí:** Đại Khai Sơn Phủ (Rìu sắt 50 cân cán gỗ nghiến), Cổ Cầm Đàn Thần Cổ Nhạc giải giáp 18 nước chư hầu.
 * **Y phục & Nhận diện:** Áo đũi chàm lót da thú rừng già, đi chân đất, quấn khăn rìa đỏ quanh đầu.
 
 ---

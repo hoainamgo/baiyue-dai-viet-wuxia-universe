@@ -1,6 +1,6 @@
 # 📜 ĐẠI KHẢO CỨU SỬ LIỆU & QUÂN SỰ: CỔ THƯ PHƯƠNG BẮC GHI CHÉP VỀ NGƯỜI PHƯƠNG NAM & CHIẾN LƯỢC QUÂN ĐỘI HAI BÀ TRƯNG
 ## ĐỐI CHIẾU SỬ KÝ TƯ MÃ THIÊN, HẬU HÁN THƯ, THỦY KINH CHÚ VÀ PHÂN TÍCH CHUYÊN SÂU NGHỆ THUẬT QUÂN SỰ MÊ LINH
-### HỆ THỐNG: `MUSIC OS` · THƯƠNG HIỆU: `KSMART MUSIC © 2026`
+### DI SẢN VĂN HÓA BÁCH VIỆT & ĐẠI VIỆT THIÊN CỔ
 ### CHỦ TRÌ KHẢO CỨU: SỬ QUAN LÊ VĂN & TIỂU THUYẾT GIA VŨ DẠ KHÁCH
 
 ---
@@ -71,7 +71,7 @@ Cuộc khởi nghĩa Hai Bà Trưng toàn thắng 65 thành trì chỉ trong vò
 
 ---
 
-## 💎 III. BỔ SUNG MÀU SẮC ĐẬM ĐÀ VÀO THẾ GIỚI QUAN MUSIC OS:
+## 💎 III. BỔ SUNG MÀU SẮC ĐẬM ĐÀ VÀO THẾ GIỚI QUAN Vũ Trụ Cổ Phong Bách Việt:
 
 ```
 [ GHI CHÉP CỔ THƯ PHƯƠNG BẮC ] ──► [ TÁI HIỆN BẢN SẮC BÁCH VIỆT ] ──► [ CẢM XÚC ÂM NHẠC CỔ PHONG ]

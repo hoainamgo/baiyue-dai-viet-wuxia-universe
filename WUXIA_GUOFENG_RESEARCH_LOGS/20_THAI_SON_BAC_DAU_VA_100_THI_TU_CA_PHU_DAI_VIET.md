@@ -1,8 +1,8 @@
 # 🏔️ BÁCH VIỆT NHỊ THẬP THÁI ĐẨU & 100 THI TỪ CA PHÚ HOÀN NGUYÊN
-## (THE 20 GRANDMASTERS, 20 SUCCESSORS, 100 POETIC MASTERPIECES & 100-TRACK MUSIC ROADMAP)
+## (THE 20 GRANDMASTERS, 20 SUCCESSORS & 100 POETIC MASTERPIECES)
 
 > **Cơ quan Khảo cứu & Trước tác:** Viện Hàn Lâm Cổ Sử, Thi Ca & Lễ Nhạc Bách Việt — `Baiyue & Dai Viet Wuxia Universe`  
-> **Chủ trì Biên soạn Thi Từ & Nhân Vật:** **Subagent 14 — Tiểu Thuyết Gia Vũ Dạ Khách** & **Subagent 13 — Sử Quan Lê Văn**  
+> **Chủ trì Biên soạn Thi Từ & Nhân Vật:** **Tiểu Thuyết Gia Vũ Dạ Khách** & **Sử Quan Lê Văn**  
 > **Chủ trì Ni Luật & Mỹ Từ Dân Tộc:** **Bạch Hạc (Huỳnh Hạc Nam)** & **Vân Chu (云舟)**  
 > **Chủ trì Âm nhạc & Phối khí:** **Melody**, **Noah An**, **Harmony** & **Cadence**  
 
@@ -14,7 +14,7 @@
  │ 1. 20 THÁI SƠN BẮC ĐẨU (THI HỌA KIẾM Y) ──► 20 Đại Tông Sư Đỉnh Cao + Bối Cảnh & Vũ Khí/Bút Pháp     │
  │ 2. 20 TRUYỀN NHÂN CHÂN TRUYỀN ──► Dòng Máu Truyền Thừa Kế Tục Ngọn Lửa Văn Hóa 5.000 Năm               │
  │ 3. 100 THI TỪ CA PHÚ HOÀN NGUYÊN ──► 5 Đại Quyển (Sa Trường, Thiền Đạo, Men Lam, Y Đạo, Tiêu Dao)     │
- │ 4. LỘ TRÌNH SẢN XUẤT 100 BÀI NHẠC ──► 10 Albums x 10 EPs Chuẩn Cổ Nhạc v9.5 MusiCoT 432Hz             │
+ │ 4. 100 KHÚC HÙNG CA THIÊN CỔ ──► 5 Đại Quyển Di Sản Văn Học Dân Tộc          │
  └────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -36,7 +36,7 @@ Mỗi nhân vật là một cột trụ sừng sững của nền văn minh Bác
 │ 06 │ **Trúc Lâm Dược Thánh — Tuệ Tĩnh**   │ Nam Dược Y Đạo 580 Vị Thuốc    │ Gùi Nứa Bách Thảo & Kim Bạc    │ **Dược Sư Nương Mộc Tĩnh Lan**         │
 │ 07 │ **Mê Linh Tượng Vương — Vũ Bát Nàn** │ Trượng Pháp & Hùng Thi Lĩnh Nam│ Trượng Đồng Bọc Sắt & Voi 2 Ngà│ **Lê Thị Chân (Nữ Đô Đốc An Dương)**   │
 │ 08 │ **Bạch Đằng Kiếm Khách — Ngô Quyền** │ Trận Đồ Cọc Ngầm & Hịch Thư    │ Long Tuyền Kiếm & Trận Cọc Lim │ **Hưng Đạo Đại Vương Trần Quốc Tuấn**  │
-│ 09 │ **Tây Hồ Trà Thánh — Diệp Mộc Chi**  │ Trà Đạo 432Hz & Ca Trù Thư Thất│ Ấm Đất Nung & Phách Tre Già    │ **Diệp Thanh Tâm (Nữ Hiệp Đầm Sen)**   │
+│ 09 │ **Tây Hồ Trà Thánh — Diệp Mộc Chi**  │ Trà Đạo Cổ Nhạc & Ca Trù Thư Thất│ Ấm Đất Nung & Phách Tre Già    │ **Diệp Thanh Tâm (Nữ Hiệp Đầm Sen)**   │
 │ 10 │ **Cổ Loa Thần Cơ — Tướng Quân Cao Lỗ**│ Nỏ Thần Liên Châu & Thành Quách│ Nỏ Thần Kim Quang 3 Cạnh       │ **Bùi Thủy Lôi (Thiện Xạ Nỏ Cổ Loa)**  │
 │ 11 │ **Vạn Phúc Tơ Tiên — Chiêu Lụa Nương**│ Thêu Gấm Lụa & Thi Ca Y Phục   │ Khung Cửi Gỗ Mít & Kim Thêu Vàng│ **Nàng Cầm Tơ (Nghệ Nhân Lụa)**        │
 │ 12 │ **Bắc Cung Thi Kiếm — Trần Quang Khải**│ Cung Đình Hào Khí Thi Hào      │ Bảo Kiếm Rồng & Bút Tuyên Điển │ **Hoài Văn Hầu Trần Quốc Toản**        │
@@ -121,7 +121,7 @@ Dưới đây là cấu trúc và các bài thơ đại diện tiêu biểu tron
 ---
 
 ### 🌿 QUYỂN 4: THẢO MỘC Y ĐẠO & 580 VỊ THUỐC NAM (20 BÀI)
-*(Chủ đề: Nam Dược trị Nam Nhân, cây cỏ mực, lá trầu không, hoa sen, đàn Tranh 432Hz chữa lành)*
+*(Chủ đề: Nam Dược trị Nam Nhân, cây cỏ mực, lá trầu không, hoa sen, đàn Tranh Cổ Nhạc chữa lành)*
 
 #### 🌿 Bài 61: *Nam Dược Cứu Binh Ca* (Tác giả: Tuệ Tĩnh Đại Sư)
 > *Cỏ mực ven mương cầm máu tuôn,*  
@@ -129,7 +129,7 @@ Dưới đây là cấu trúc và các bài thơ đại diện tiêu biểu tron
 > *Năm trăm tám chục loài cây cỏ,*  
 > *Nuôi dưỡng ngàn năm giống Lạc Hồng.*
 
-#### 🌿 Bài 62: *Hòa Âm 432Hz Y Đạo Khúc* (Tác giả: Mộc Tĩnh Lan)
+#### 🌿 Bài 62: *Hòa Âm Cổ Nhạc Y Đạo Khúc* (Tác giả: Mộc Tĩnh Lan)
 > *Gảy khúc đàn Tranh dưới ánh trăng,*  
 > *Tiếng tơ mười sáu dứt băn khoăn.*  
 > *Vết thương sa trường nay khép miệng,*  
@@ -160,26 +160,9 @@ Dưới đây là cấu trúc và các bài thơ đại diện tiêu biểu tron
 
 ---
 
-## 🎼 PHẦN III: LỘ TRÌNH SẢN XUẤT 100 CA KHÚC ÂM NHẠC (10 ALBUMS X 10 EPs)
+## 📜 PHẦN III: TỔNG QUY KẾT DI SẢN THI CA BÁCH VIỆT
 
-Hệ thống được chia thành **10 Task Sản Xuất Nhỏ** để Hội đồng Subagents vận hành tuần tự:
-
-```
-┌──────────┬────────────────────────────────────────────────────────┬─────────────┬────────────────────────────────────┐
-│ TASK     │ TÊN ALBUM CHỦ ĐỀ (10 TRACKS / ALBUM)                   │ BPM / KEY   │ SUBAGENT CHỦ TRÌ SẢN XUẤT          │
-├──────────┼────────────────────────────────────────────────────────┼─────────────┼────────────────────────────────────┤
-│ **Task 1**│ **Album 01: Huyết Chiến Sa Trường Đông A**             │ 82-135 BPM  │ Vũ Dạ Khách & Noah An (Warrior)    │
-│ **Task 2**│ **Album 02: Gốm Hoa Nâu & Men Lam Chu Đậu**            │ 68-72 BPM   │ Mộc Tĩnh Lan, Melody & Sylvia      │
-│ **Task 3**│ **Album 03: Ngự Tượng Mê Linh Khởi Nghĩa**             │ 80-120 BPM  │ Lê Văn & Harmony (Epic Choral)     │
-│ **Task 4**│ **Album 04: Lời Thề Sông Hát & Hai Bà Trưng**          │ 75-90 BPM   │ Cadence & Melody (Empress Soprano) │
-│ **Task 5**│ **Album 05: Tiếu Ngạo Đông A · Cầm Tiêu Hợp Tấu**      │ 88-96 BPM   │ Bạch Hạc, Vân Chu & An Thái        │
-│ **Task 6**│ **Album 06: Non Thiêng Yên Tử & Y Đạo 432Hz**          │ 60-68 BPM   │ Tuệ Tĩnh, Melody & Harmony         │
-│ **Task 7**│ **Album 07: Ký Ức Hồng Thủy & Bầu Mẹ Đồng Bào**        │ 70-85 BPM   │ Noah An & Cadence (Ancient Lac)    │
-│ **Task 8**│ **Album 08: Đại Hải Trình Biển Đông & Cattigara**      │ 66-75 BPM   │ Từ Hải, Vân Chu & Sylvia           │
-│ **Task 9**│ **Album 09: Bách Việt Lục Nghệ & Thái Học Viện**       │ 72-88 BPM   │ Lê Văn, Trần Quang Khải & Melody   │
-│ **Task 10**│ **Album 10: Vạn Dặm Khải Hoàn Ca Đại Việt**            │ 96-128 BPM  │ Toàn Thể 14 Subagents Hợp Xướng    │
-└──────────┴────────────────────────────────────────────────────────┴─────────────┴────────────────────────────────────┘
-```
+100 tuyệt tác thi từ ca phú được lưu truyền qua các thời kỳ, khắc ghi khí phách kiên cường, tấm lòng hiếu đạo và tình yêu quê hương đất nước của con cháu Lạc Hồng.
 
 ---
 

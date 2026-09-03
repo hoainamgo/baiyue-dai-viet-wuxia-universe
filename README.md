@@ -11,7 +11,6 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-gold.svg?style=for-the-badge&logo=creative-commons&logoColor=white)](https://creativecommons.org/licenses/by/4.0/)
 [![Universe Version](https://img.shields.io/badge/Universe_Version-v6.0_Supreme_Masterpiece-emerald.svg?style=for-the-badge&logo=bookstack&logoColor=white)]()
 [![Archaeology](https://img.shields.io/badge/Archaeology-5300_Years_Liangzhu_Dong_Son-blue.svg?style=for-the-badge&logo=archeology&logoColor=white)]()
-[![Healing Arts](https://img.shields.io/badge/Healing_Frequency-432Hz_Alpha_Harmonics-cyan.svg?style=for-the-badge&logo=soundwave&logoColor=white)]()
 [![Global Trade](https://img.shields.io/badge/Global_Records-Ptolemy_Cattigara_150_AD-orange.svg?style=for-the-badge&logo=planetscale&logoColor=white)]()
 [![Visual 4K](https://img.shields.io/badge/Visual_Canon-30_Master_Concepts_4K-purple.svg?style=for-the-badge&logo=artstation&logoColor=white)]()
 
@@ -43,12 +42,12 @@
 11. [📜 11. Hệ Thống Văn Tự 5.300 Năm Nam Trường Giang & Chữ Khoa Đẩu](#-11-hệ-thống-văn-tự-5300-năm-nam-trường-giang--chữ-khoa-đẩu)
 12. [🗺️ 12. Đại Địa Đồ & Niên Biểu 9 Kỷ Nguyên Lịch Sử (Từ Xích Quỷ Đến Đông A)](#-12-đại-địa-đồ--niên-biểu-9-kỷ-nguyên-lịch-sử-từ-xích-quỷ-đến-đông-a)
 13. [☀️ 13. Tín Ngưỡng Nguyên Thủy Tế Trời (Khởi Nguyên Từ Tổ Phụ Nô-ê)](#-13-tín-ngưỡng-nguyên-thủy-tế-trời-khởi-nguyên-từ-tổ-phụ-nô-ê)
-14. [🌿 14. Đại Dược Vương Thảo Mộc Thần Nông & Y Đạo 432Hz](#-14-đại-dược-vương-thảo-mộc-thần-nông--y-đạo-432hz)
+14. [🌿 14. Đại Dược Vương Thảo Mộc Thần Nông & Y Đạo Cổ Nhạc](#-14-đại-dược-vương-thảo-mộc-thần-nông--y-đạo-Cổ Nhạc)
 15. [🥋 15. Đại Tổng Phổ 30 Môn Phái Hắc - Bạch Lưỡng Đạo](#-15-đại-tổng-phổ-30-môn-phái-hắc---bạch-lưỡng-đạo)
 16. [🐘 16. Nghệ Thuật Quân Sự & Ngự Tượng Mê Linh Hai Bà Trưng](#-16-nghệ-thuật-quân-sự--ngự-tượng-mê-linh-hai-bà-trưng)
 17. [🌍 17. Sử Liệu Toàn Cầu Ghi Chép (La Mã, Hy Lạp, Ả Rập)](#-17-sử-liệu-toàn-cầu-ghi-chép-la-mã-hy-lạp-ả-rập)
 18. [👥 18. Tuyển Tập Nhân Vật Gốc (Canon Characters)](#-18-tuyển-tập-nhân-vật-gốc-canon-characters)
-19. [🎼 19. Hệ Thống Âm Nhạc Mô Phỏng Nguyên Bản Thời Đại (Trống Đồng, Đàn Đá, 432Hz)](#-19-hệ-thống-âm-nhạc-mô-phỏng-nguyên-bản-thời-đại-trống-đồng-đàn-đá-432hz)
+19. [🎼 19. Hệ Thống Âm Nhạc Mô Phỏng Nguyên Bản Thời Đại (Trống Đồng, Đàn Đá, Cổ Nhạc)](#-19-hệ-thống-âm-nhạc-mô-phỏng-nguyên-bản-thời-đại-trống-đồng-đàn-đá-Cổ Nhạc)
 20. [📚 20. Thư Viện Toàn Bộ Tài Liệu Khảo Cứu Chuyên Sâu (`docs/`)](#-20-thư-viện-toàn-bộ-tài-liệu-khảo-cứu-chuyên-sâu-docs)
 21. [🌾 21. Đại Bách Khoa Hồn Quê & Đời Thường Dân Dã 500% (300+ Chất Liệu)](#-21-đại-bách-khoa-hồn-quê--đời-thường-dân-dã-500-300-chất-liệu-thực-chứng)
 22. [🏮 22. 25 Điểm Hẹn Đời Thường & 40 Hình Tượng Nữ Trung Kiệt Xuất](#-22-25-điểm-hẹn-đời-thường--40-hình-tượng-nữ-trung-kiệt-xuất)
@@ -85,7 +84,7 @@
  │ 🥋 4. ĐẠI BÁCH KHOA VÕ HỌC, Y ĐẠO & 30 MÔN PHÁI HẮC BẠCH ĐÔNG A                        │
  │    • Ngũ Đại Môn Phái: Lạc Long Thủy Phái, Trúc Lâm Thiền Phái, Tản Viên Sơn Môn...    │
  │    • Võ học thực chiến: Đoản Đao Lá Lúa, Đòn chân kẹp cổ Vovinam, Trúc Kiếm Yên Tử     │
- │    • Dòng chảy Y Đạo Tuệ Tĩnh: 580 vị thuốc nam kết hợp âm nhạc trị liệu 432Hz         │
+ │    • Dòng chảy Y Đạo Tuệ Tĩnh: 580 vị thuốc nam kết hợp âm nhạc trị liệu Cổ Nhạc         │
  └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -96,7 +95,7 @@
 Trong hàng trăm năm qua, văn hóa võ hiệp phương Đông phần lớn bị định hình bởi các điển tích phương Bắc. Thế nhưng, ẩn sâu dưới lớp trầm tích lịch sử hàng nghìn năm, **văn minh Bách Việt và cõi Nam Đại Việt** sở hữu một kho tàng sử thi kỳ vĩ, độc bản và vô cùng hào hùng:
 * **Hào khí Thủy Chiến & Đoản Binh:** Người con phương Nam cắt tóc xăm mình Giao Long, bơi lặn như rái cá, lấy mái chèo làm ngựa, trận địa cọc ngầm Bạch Đằng ba lần nhấn chìm chiến thuyền ngoại xâm.
 * **Tín ngưỡng Tế Trời Thuần Khiết:** Kế thừa bàn thờ đá lộ thiên sau Đại Hồng Thủy, lập **Bàn Thờ Thiên** tạ ơn Đấng Tạo Hóa (Ông Trời), dâng nước suối trong & hạt thóc vàng, tuyệt đối không thắp nhang que nhân tạo.
-* **Y Đạo Nhân Văn Thảo Mộc:** *"Nam Dược Trị Nam Nhân"* — 580 vị thuốc nam kết hợp âm nhạc ngũ cung 432Hz chữa lành tâm hồn và vết thương sa trường.
+* **Y Đạo Nhân Văn Thảo Mộc:** *"Nam Dược Trị Nam Nhân"* — 580 vị thuốc nam kết hợp âm nhạc ngũ cung Cổ Nhạc chữa lành tâm hồn và vết thương sa trường.
 * **Đạo Lý Tình Yêu Thương Vĩnh Cửu:** *"Tình yêu thương chẳng ghen ghét, chẳng tự khoe mình, chẳng lên mình kiêu ngạo; người Việt trượng nghĩa hào tình, lấy đức thắng tài."*
 
 **Bai Yue & Dai Viet Wuxia Universe** ra đời để tái hiện trọn vẹn hào khí và linh hồn ngàn năm ấy!
@@ -192,7 +191,7 @@ Thi ca phản ánh toàn cảnh **nền tảng xã hội, đời sống lao đ�
  ├───────────────────────────────────────────────────┼───────────────────────────────────────────────────┤
  │ • Danh hiệu: **Nam Thiên Thi Tiên**               │ • Danh hiệu: **Thanh Liên Nữ Từ Thánh**           │
  │ • Phong cách: Túy ngọa sa trường, ngạo nghễ trăng │ • Phong cách: Đài các, tinh tế, thi họa song tuyệt│
- │   sao, vác kiếm gảy Đàn Đáy, xuất khẩu thành thơ, │   đề thơ men lam Chu Đậu, gảy đàn Tranh 432Hz,    │
+ │   sao, vác kiếm gảy Đàn Đáy, xuất khẩu thành thơ, │   đề thơ men lam Chu Đậu, gảy đàn Tranh Cổ Nhạc,    │
  │   coi khinh chức tước bổng lộc triều đình.        │   sầu ly biệt bến Lục Đầu, tình yêu son sắt.      │
  │ • Tác phẩm: *Nam Thiên Tương Tiến Tửu, Lục Đầu    │ • Tác phẩm: *Như Mộng Lệnh (Đêm mưa lò gốm),      │
  │   Cuồng Ca, Độc Ẩm Sông Hồng, Hiệp Khách Hành...* │   Nhất Chi Mai (Sầu ly biệt), Thanh Ngọc Án...*   │
@@ -208,7 +207,7 @@ Thi ca phản ánh toàn cảnh **nền tảng xã hội, đời sống lao đ�
 Hệ thống kết nối mạch nguồn thần thoại vào đời sống và võ học thời Đông A:
 1. **Dòng Dõi Sơn Tinh (Tản Viên Sơn Thánh):** Hậu duệ **Sơn Bách Phong** (quyền pháp Ba Vì, dời non lấp biển đắp đê ngăn lũ).
 2. **Dòng Dõi Thủy Tinh (Lạc Long Quân):** Hậu duệ **An Thái & Yết Kiêu** (thủy chiến lặn sâu 7 ngày đêm, đoản đao lá lúa, đục thuyền).
-3. **Dòng Dõi Thạch Sanh:** Hậu duệ **Thạch Hùng** (rìu sắt 80 cân chém chằn tinh, không màng danh lợi) & **Mộc Tĩnh Lan** (tiếng đàn thần 432Hz hóa giải thù hận, niêu cơm nghĩa tình).
+3. **Dòng Dõi Thạch Sanh:** Hậu duệ **Thạch Hùng** (rìu sắt 80 cân chém chằn tinh, không màng danh lợi) & **Mộc Tĩnh Lan** (tiếng đàn thần Cổ Nhạc hóa giải thù hận, niêu cơm nghĩa tình).
 4. **Dòng Dõi Hai Bà Trưng & 72 Nữ Tướng:** Hậu duệ **Vũ Lan Hương** (Bát Nàn Tiên La), **Lê Thị Hải Chân** (Lê Chân Hải Phòng), **Thiều Tĩnh Tâm** (Y thuật Thiều Hoa).
 5. **Dòng Dõi Thánh Gióng (Phù Đổng):** Hậu duệ **Phùng Nam Gióng** (thiết quyền tre ngà, nhổ tre đánh giặc rồi về cày ruộng).
 6. **Dòng Dõi Mai An Tiêm:** Hậu duệ **Mai Biển Đông** (dưa hấu biển đảo, tự lực cánh sinh, khai hoang Hoàng Sa - Trường Sa).
@@ -223,7 +222,7 @@ Hệ thống kết nối mạch nguồn thần thoại vào đời sống và v�
 ## 🗺️ 6. ĐẠI BÁCH KHOA ĐỊA LINH NHÂN KIỆT: 36 THẮNG CẢNH NON SÔNG GẤM VÓC (SỜ NẮM ĐƯỢC)
 
 Mỗi vùng đất được miêu tả chân thật bằng **chi tiết giác quan sống động** (mùi đất, âm thanh, xúc giác đá rêu, nhiệt độ lửa lò):
-* **🌲 Vùng Đông Bắc & Quảng Yên (01 - 07):** Đỉnh Ngọa Vân Yên Tử (trúc kiếm 9 đốt, chuông đồng 432Hz), Vịnh Hạ Long & Núi Bài Thơ (vách đá đục chữ Nôm), Lục Đầu Giang & Vạn Kiếp (nước đỏ phù sa, 500 thuyền Mông Đồng), Sông Bạch Đằng (rừng cọc lim bọc sắt ngàn năm), Đỉnh Mẫu Sơn (bão tuyết phủ, rượu men lá), Thương Cảng Vân Đồn, Ải Chi Lăng.
+* **🌲 Vùng Đông Bắc & Quảng Yên (01 - 07):** Đỉnh Ngọa Vân Yên Tử (trúc kiếm 9 đốt, chuông đồng Cổ Nhạc), Vịnh Hạ Long & Núi Bài Thơ (vách đá đục chữ Nôm), Lục Đầu Giang & Vạn Kiếp (nước đỏ phù sa, 500 thuyền Mông Đồng), Sông Bạch Đằng (rừng cọc lim bọc sắt ngàn năm), Đỉnh Mẫu Sơn (bão tuyết phủ, rượu men lá), Thương Cảng Vân Đồn, Ải Chi Lăng.
 * **🌾 Đồng Bằng Sông Hồng & Cố Đô (08 - 15):** Thăng Long (Tháp Báo Thiên 12 tầng), Đầm Sen Tây Hồ (ướp trà lúc nửa đêm), Thành Cổ Loa (mũi tên đồng 3 cạnh Cao Lỗ), Làng Gốm Chu Đậu (lửa lò 1.200°C), Làng Lụa Vạn Phúc, Cố Đô Hoa Lư & Tràng An, Chùa Dâu Thuận Thành, Sới Vật Liễu Đôi.
 * **⛰️ Vùng Tây Bắc & Cội Nguồn Phong Châu (16 - 21):** Đền Hùng Nghĩa Lĩnh (Bàn Thờ Thiên dâng bánh chưng), Đỉnh Fansipan (rừng đỗ quyên chín tầng mây), Hẻm Tu Sản Sông Nho Quế, Thác Bản Giốc & Sông Quây Sơn, Đầm Dạ Trạch & Bãi Tự Nhiên, Hồ Ba Bể.
 * **🌊 Duyên Hải Miền Trung & Champa (22 - 29):** Đèo Ngang & Hoành Sơn Quan (hoa lau trắng, tiếng cuốc kêu), Sông Hương & Núi Ngự, Phố Cổ Hội An & Sông Hoài (hàng ngàn đèn lồng, thuyền buồm ba cột), Cù Lao Chàm, Tháp Chàm Mỹ Sơn (gạch đỏ không mạch vữa), Đèo Hải Vân, Phá Tam Giang, Ruộng Muối Sa Huỳnh.
@@ -247,7 +246,7 @@ Mỗi nhân vật đại diện cho một thân phận trong xã hội, trải q
 ## 📚 8. ĐẠI TẠNG THƯ: 5.000 CỔ THƯ, BÁCH VIỆT LỤC NGHỆ & KHOA CỬ TAM KHÔI
 
 * **Lục Bộ Tạng Thư (18 Đại Tạng Kinh Điển):** Thiên Tạng (800 bộ), Hiếu Tạng (900 bộ), Giang Tạng (850 bộ), Dược & Nông Tạng (800 bộ), Kiếm & Thủy Binh Tạng (850 bộ), Nghệ & Bách Công Tạng (800 bộ).
-* **Bách Việt Lục Nghệ:** **Lễ** (Tế Trời lộ thiên) · **Nhạc** (Định âm Trống Đồng 432Hz, Đàn Tranh, Cổ Cầm) · **Xạ** (Nỏ thần Cao Lỗ 3 cạnh) · **Ngự** (Ngự tượng Mê Linh & Chiến thuyền Mông Đồng) · **Thư** (Chữ Lương Chử 5.300 năm, chữ Khoa Đẩu, chữ Nôm) · **Số & Dược** (Nông lịch & 580 Vị thuốc nam).
+* **Bách Việt Lục Nghệ:** **Lễ** (Tế Trời lộ thiên) · **Nhạc** (Định âm Trống Đồng Cổ Nhạc, Đàn Tranh, Cổ Cầm) · **Xạ** (Nỏ thần Cao Lỗ 3 cạnh) · **Ngự** (Ngự tượng Mê Linh & Chiến thuyền Mông Đồng) · **Thư** (Chữ Lương Chử 5.300 năm, chữ Khoa Đẩu, chữ Nôm) · **Số & Dược** (Nông lịch & 580 Vị thuốc nam).
 * **Khoa Cử Tam Khôi & 4 Đại Học Viện:** **Văn Trạng Nguyên** (*Hàn Lâm Viện Thừa Chỉ*) $\leftrightarrow$ **Võ Trạng Nguyên** (*Điện Tiền Chỉ Huy Sứ*); 4 Học viện: Thái Học Viện Thăng Long, Giảng Võ Đường Vạn Kiếp, Bách Công Viện Chu Đậu, Trúc Lâm Y Viện Yên Tử.
 * 👉 *Chi tiết:* [`docs/DAI_MO_PHONG_5000_CO_THU_LUC_NGHE_KHOA_CU_HOANG_TOC.md`](docs/DAI_MO_PHONG_5000_CO_THU_LUC_NGHE_KHOA_CU_HOANG_TOC.md)
 
@@ -294,9 +293,9 @@ Biên niên sử thành quách, kiến trúc, danh nhân và di chỉ khảo c�
 
 ---
 
-## 🌿 14. ĐẠI DƯỢC VƯƠNG THẢO MỘC THẦN NÔNG & Y ĐẠO 432Hz
+## 🌿 14. ĐẠI DƯỢC VƯƠNG THẢO MỘC THẦN NÔNG & Y ĐẠO Cổ Nhạc
 * **Triết Lý "Nam Dược Trị Nam Nhân":** Kế thừa 580 vị thảo dược nước Nam (cây cỏ mực, lá trầu không, rễ cau già, tâm sen, tam thất).
-* **Hòa Âm Ngũ Cung 432Hz:** Đàn Tranh 16 dây tần số Alpha giúp nhịp tim thương binh ổn định, vết thương khép miệng thần kỳ.
+* **Hòa Âm Ngũ Cung Cổ Nhạc:** Đàn Tranh 16 dây tần số Alpha giúp nhịp tim thương binh ổn định, vết thương khép miệng thần kỳ.
 * 👉 *Chi tiết:* [`docs/dai_bach_khoa_y_dao_than_nong_tue_tinh.md`](docs/dai_bach_khoa_y_dao_than_nong_tue_tinh.md)
 
 ---
@@ -325,8 +324,8 @@ An Thái (Long Tiệp Quân Đô Hiệp · Dũng Sĩ Sa Trường), Mộc Tĩnh 
 
 ---
 
-## 🎼 19. HỆ THỐNG ÂM NHẠC MÔ PHỎNG NGUYÊN BẢN THỜI ĐẠI (TRỐNG ĐỒNG, ĐÀN ĐÁ, 432Hz)
-Không lai tạp nhạc hiện đại, sử dụng nhạc khí bản địa cổ truyền thuần khiết: Trống Đồng Đông Sơn (Sub-bass 45Hz), Đàn Đá Thượng Cổ, Đàn Bầu độc huyền, Đàn Tranh tơ tằm 432Hz, Đàn Đáy mộc mạc, Sáo Động Tiêu, Khèn Bè Bách Việt, và foley tiếng sóng sông Hồng, tiếng nung lò gốm Chu Đậu.
+## 🎼 19. HỆ THỐNG ÂM NHẠC MÔ PHỎNG NGUYÊN BẢN THỜI ĐẠI (TRỐNG ĐỒNG, ĐÀN ĐÁ, Cổ Nhạc)
+Không lai tạp nhạc hiện đại, sử dụng nhạc khí bản địa cổ truyền thuần khiết: Trống Đồng Đông Sơn (Sub-bass 45Hz), Đàn Đá Thượng Cổ, Đàn Bầu độc huyền, Đàn Tranh tơ tằm Cổ Nhạc, Đàn Đáy mộc mạc, Sáo Động Tiêu, Khèn Bè Bách Việt, và foley tiếng sóng sông Hồng, tiếng nung lò gốm Chu Đậu.
 
 ---
 
@@ -426,7 +425,7 @@ Toàn bộ tài nguyên thế giới quan này được phát hành theo giấy 
 ```
         ╔═════════════════════════════════════════════════════════════════════════╗
         ║   BẠN ĐƯỢC TỰ DO TOÀN QUYỀN SỬ DỤNG CHO CÁC DỰ ÁN THƯƠNG MẠI:          ║
-        ║   • Sáng tác Âm Nhạc / MV Cổ Phong / Nhạc Trị Liệu 432Hz                ║
+        ║   • Sáng tác Âm Nhạc / MV Cổ Phong / Nhạc Trị Liệu Cổ Nhạc                ║
         ║   • Viết Tiểu Thuyết, Webtoon, Truyện Tranh Cổ Phong                   ║
         ║   • Phát Triển Game Nhập Vai RPG / Game Chiến Thuật                     ║
         ║   • Sản Xuất Phim Hoạt Hình 3D, Phim Điện Ảnh Sử Thi                    ║
@@ -452,9 +451,9 @@ Toàn bộ tài nguyên thế giới quan này được phát hành theo giấy 
 
 <div align="center">
 
-**KHỞI XƯỚNG & BIÊN SOẠN BỞI HỘI ĐỒNG SÁNG TẠO KSMART MUSIC (© 2026)**  
+**KHỞI XƯỚNG & BIÊN SOẠN BỞI HỘI ĐỒNG SÁNG TẠO Đại Việt Cổ Phong (© 2026)**  
 *Trân trọng kính mời các tác giả, nghệ sĩ và nhà phát triển cùng chung tay phát triển Vũ Trụ Võ Hiệp Cổ Phong Việt Nam vươn tầm thế giới!*
 
-📬 **Email Hợp Tác & Góp Ý:** `hoainam.go@gmail.com` · 🌐 **Website:** [Ksmart Music Sanctuary](https://github.com/hoainamgo)
+📬 **Email Hợp Tác & Góp Ý:** `hoainam.go@gmail.com` · 🌐 **Website:** [Đại Việt Cổ Phong Sanctuary](https://github.com/hoainamgo)
 
 </div>
