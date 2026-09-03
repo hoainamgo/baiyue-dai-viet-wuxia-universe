@@ -180,12 +180,11 @@ Toàn bộ thế giới quan được xây dựng trên **6 Trụ Cột Di Sản
 
 ---
 
-## 🎼 VI. MASTER SOUNDTRACK BUNDLE (CỔ NHẠC v9.5 Thi Ca Cổ Nhạc MASTER GF1)
+## 📜 VI. TUYỂN TẬP THI CA CHỦ ĐỀ ĐÔNG A TIÊU DAO LỤC
 
-1. 🏮 **OST 1: "Tiếu Ngạo Đông A"** *(Theme Song Song Ca)*: Guofeng Tri Âm, Key Dm, Tiết tấu nhịp nhàng, Guqin Cổ Nhạc $\times$ Động Tiêu $\times$ Đàn Tranh.
-2. ⚔️ **OST 2: "Nam Nhi Sát Thát"** *(Hào Khí Sa Trường)*: Heavy Wuxia Rock, Key Dm, Tiết tấu nhịp nhàng, Trống Đồng Đông Sơn 45Hz sub-bass $\times$ Nhị hồ rít lửa $\times$ Đồng ca hùng tráng.
-3. 🌸 **OST 3: "Hoa Nâu Khắc Mộng"** *(U Hoài Solo Nữ)*: Acoustic Guofeng Ballad, Key Am, Tiết tấu nhịp nhàng, Foley gốm Chu Đậu $\times$ Đàn Bầu nức nở $\times$ Tiêu thở nhẹ.
-* **Bảo Chứng Pháp Lý:** Đã niêm phong mật mã SHA-256 vào sổ cái `sử ký thi ca/dong-a-tieu-dao-luc-ost.json` bảo hộ quyền tác giả con người Noah An.
+1. 🏮 **Áng thơ 1: "Tiếu Ngạo Đông A"** — Khắc họa tình tri kỷ giang hồ, trăng thanh gió mát.
+2. ⚔️ **Áng thơ 2: "Nam Nhi Sát Thát"** — Hào khí sa trường ba lần đại thắng Nguyên Mông.
+3. 🌸 **Áng thơ 3: "Hoa Nâu Khắc Mộng"** — Nỗi niềm người con gái lò gốm Chu Đậu son sắt thủy chung.
 
 ---
 

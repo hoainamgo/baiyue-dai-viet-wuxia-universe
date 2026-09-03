@@ -92,7 +92,7 @@ Sự suy thoái và biến dạng của chùa chiền thành nơi buôn thần b
 | **Không Gian** | Am thiền lộ thiên giữa rừng thông, vách đá, suối ngàn Yên Tử. | Chùa bê tông cốt thép ngột ngạt, kinh doanh thương mại hóa. |
 | **Nghi Lễ** | Xông một lư trầm thảo mộc thơm, uống chén trà sen, tĩnh tâm soi xét chính mình. | Đốt hàng tấn vàng mã, chen lấn cướp lộc, rải tiền lẻ khắp nơi. |
 | **Hoạt Động** | Khuyên dân sống thiện lành (*Thập thiện*), giúp ích cho đời (*Cư trần lạc đạo*), chống ngoại xâm. | Dâng sao giải hạn thu tiền, gọi vong, trục vong, đe dọa nghiệp báo địa ngục. |
-| **Âm Nhạc** | Tiếng đàn Tranh, Động Tiêu, Cổ Cầm, tiếng suối reo, tiếng mưa rơi êm dịu (**Cổ Nhạc S-05**). | Tiếng chuông mõ gõ liên hồi dồn dập, tụng niệm ma mị u ám gây căng thẳng não bộ. |
+| **Âm Nhạc** | Tiếng đàn Tranh, Động Tiêu, Cổ Cầm, tiếng suối reo, tiếng mưa rơi êm dịu (**Cổ Nhạc Cổ Nhạc**). | Tiếng chuông mõ gõ liên hồi dồn dập, tụng niệm ma mị u ám gây căng thẳng não bộ. |
 
 ---
 

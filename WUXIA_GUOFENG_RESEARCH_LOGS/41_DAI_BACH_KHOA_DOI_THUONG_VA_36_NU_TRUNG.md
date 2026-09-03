@@ -33,32 +33,32 @@ Bên cạnh các Nữ tướng sa trường và Thiếu nữ bách nghệ, dòng
 #### 1. 🪶 HỒ XUÂN HƯƠNG — "BÀ CHÚA THƠ NÔM" (KHÍ PHÁCH NGẠO NGHỄ GIANG HỒ)
 * **Khí chất & Phong cách:** Thơ Nôm sắc bén như dao rèn, ngạo nghễ đạp đổ định kiến nam quyền, dùng ngôn ngữ dân gian đời thường nhưng thâm thúy tột bực.
 * **Bối cảnh ca từ:** Bên chén rượu quán trà phường Khán Xuân, chiếc quạt giấy xòe mát mùa hè, quả mít chín cây, vách đá đề thơ trêu chọc đám danh nho rởm.
-* **Chất liệu âm nhạc:** Tiếng phách gõ nhịp giòn giã, nốt nhạc nẩy sắc sảo, giọng hát Mezzo ngạo nghễ, tự tại, phóng khoáng.
+* **Bút pháp thi ca:** Tiếng phách gõ nhịp giòn giã, nốt nhạc nẩy sắc sảo, giọng hát Mezzo ngạo nghễ, tự tại, phóng khoáng.
 
 #### 2. 🏯 BÀ HUYỆN THANH QUAN (NGUYỄN THỊ HINH) — "HỒN THƠ HOÀI CỔ THĂNG LONG"
 * **Khí chất & Phong cách:** Trang nhã, quý phái, câu chữ mẫu mực, u hoài trước sự hưng phế của non sông đất nước.
 * **Bối cảnh ca từ:** Chiều tà bước chân qua Đèo Ngang (*"Dừng chân đứng lại trời non nước / Một mảnh tình riêng ta với ta"*), ngắm bóng trăng soi rêu phong thành Cửa Bắc, mái chèo buông bến sông Nhị.
-* **Chất liệu âm nhạc:** Dàn dây giao hưởng bi tráng (S-02), Đàn Tranh rải nốt u hoài, Động Tiêu nghẹn ngào, giọng Contralto trầm dày nhung tuyết.
+* **Bút pháp thi ca:** Dàn dây giao hưởng bi tráng , Đàn Tranh rải nốt u hoài, Động Tiêu nghẹn ngào, giọng Contralto trầm dày nhung tuyết.
 
 #### 3. 📜 ĐOÀN THỊ ĐIỂM — "HỒNG HÀ NỮ SĨ" (BẬC THẦY DỊCH THUẬT & Y THƯ THẢO MỘC)
 * **Khí chất & Phong cách:** Uyên bác tột đỉnh, dịch tuyệt phẩm *Chinh Phụ Ngâm* từ chữ Hán sang thơ song thất lục bát thuần Việt lay động hàng triệu con tim; vừa dạy học, vừa bốc thuốc cứu người.
 * **Bối cảnh ca từ:** Ngọn đèn dầu bên án thư làng Phú Xá, trang giấy dó đẫm mực nho, mùi thuốc nam sao vàng ấm áp gian nhà lá bên bờ sông Hồng.
-* **Chất liệu âm nhạc:** Tiếng Đàn Bầu nỉ non uốn nốt, nhịp thơ 7/7/6/8 dạt dào cảm xúc, giọng Soprano trong trẻo nghẹn ngào.
+* **Bút pháp thi ca:** Tiếng Đàn Bầu nỉ non uốn nốt, nhịp thơ 7/7/6/8 dạt dào cảm xúc, giọng Soprano trong trẻo nghẹn ngào.
 
 #### 4. 📰 SƯƠNG NGUYỆT ANH (NGUYỄN THỊ KHUÊ) — "NỮ CHỦ BÚT ĐẦU TIÊN CỦA VIỆT NAM"
 * **Khí chất & Phong cách:** Con gái cụ Đồ Chiểu, tuy mù hai mắt và chịu cảnh góa bụa nhưng kiên cường cầm bút chủ biên tờ báo *Nữ Giới Chung* (Tiếng chuông của phái nữ), cổ vũ lòng yêu nước và nữ quyền.
 * **Bối cảnh ca từ:** Tiếng sóng vỗ bến Ba Tri (Bến Tre), ngòi bút sắt cày trên trang giấy, tấm lòng kiên trinh như hoa mai nở giữa mùa đông.
-* **Chất liệu âm nhạc:** Nhịp điệu dồn dập hùng tráng, tiếng kèn và trống thúc giục, ca từ đanh thép tự hào.
+* **Bút pháp thi ca:** Nhịp điệu dồn dập hùng tráng, tiếng kèn và trống thúc giục, ca từ đanh thép tự hào.
 
 #### 5. 🪕 ĐÀO NƯƠNG (NÀNG ĐÀO THỊ HUỆ) & NGHỆ NHÂN Ả ĐÀO CA TRÙ
 * **Khí chất & Phong cách:** Nữ nghệ sĩ tài hoa dùng tiếng hát và chén rượu làm say mềm tướng giặc Minh tại làng Đào Đặng, giúp nghĩa quân giải phóng quê hương.
 * **Bối cảnh ca từ:** Tiếng đàn Đáy thùng thình trầm đục, chiếc phách tre gõ nhịp lách cách giòn tan, chiếu hoa trải giữa đình làng, chén rượu cay đối ẩm đêm trăng.
-* **Chất liệu âm nhạc:** Luyến láy Ca Trù cổ truyền, nốt rung ém hơi độc đáo, kết hợp beat hiện đại tạo phong cách Cổ Phong Thính Phòng Crossover.
+* **Bút pháp thi ca:** Luyến láy Ca Trù cổ truyền, nốt rung ém hơi độc đáo, kết hợp beat hiện đại tạo phong cách Cổ Phong Thính Phòng.
 
 #### 6. 🌸 NÀNG CÔNG CHÚA NGỌC HÂN (LÊ NGỌC HÂN) — "AI TƯ VÃN BẤT TỬ"
 * **Khí chất & Phong cách:** Hoàng hậu tài hoa của Hoàng đế Quang Trung, tác giả áng thi ca *Ai Tư Vãn* khóc chồng bi tráng lay động non sông.
 * **Bối cảnh ca từ:** Khói hương bảng lảng thành Phú Xuân, tiếng gió gào thét qua đỉnh đèo Hải Vân, giọt lệ nhỏ trên chiến bào gấm rách.
-* **Chất liệu âm nhạc:** Tiếng Erhu (Nhị) kéo dài bi ai, tiếng sấm rền và dàn trống trận Tây Sơn xa xăm.
+* **Bút pháp thi ca:** Tiếng Erhu (Nhị) kéo dài bi ai, tiếng sấm rền và dàn trống trận Tây Sơn xa xăm.
 
 ---
 

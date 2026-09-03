@@ -324,8 +324,8 @@ An Thái (Long Tiệp Quân Đô Hiệp · Dũng Sĩ Sa Trường), Mộc Tĩnh 
 
 ---
 
-## 🎼 19. HỆ THỐNG ÂM NHẠC MÔ PHỎNG NGUYÊN BẢN THỜI ĐẠI (TRỐNG ĐỒNG, ĐÀN ĐÁ, Cổ Nhạc)
-Không lai tạp nhạc hiện đại, sử dụng nhạc khí bản địa cổ truyền thuần khiết: Trống Đồng Đông Sơn (Sub-bass 45Hz), Đàn Đá Thượng Cổ, Đàn Bầu độc huyền, Đàn Tranh tơ tằm Cổ Nhạc, Đàn Đáy mộc mạc, Sáo Động Tiêu, Khèn Bè Bách Việt, và foley tiếng sóng sông Hồng, tiếng nung lò gốm Chu Đậu.
+## 🎼 19. DI SẢN NHẠC KHÍ BẢN ĐỊA THỜI ĐẠI (TRỐNG ĐỒNG, ĐÀN ĐÁ, ĐÀN TRANH)
+Khắc họa các nhạc khí cổ truyền thuần khiết của dân tộc: Trống Đồng Đông Sơn, Đàn Đá Thượng Cổ, Đàn Bầu độc huyền cầm, Đàn Tranh tơ tằm, Đàn Đáy mộc mạc, Sáo Động Tiêu, Khèn Bè Bách Việt, cùng âm thanh tự nhiên của tiếng sóng sông Hồng và tiếng lò nung Chu Đậu.
 
 ---
 
@@ -430,7 +430,7 @@ Văn hóa Bách Việt và Đại Việt hơn 5.000 năm không bắt đầu t�
 * **Tép riu rang khế chua lá chanh:** Tép đồng tươi nhảy tanh tách, rang khô giòn rụm với khế chua thái mỏng và lá chanh thái chỉ.
 * **Khoai mật vùi tro rơm than hồng:** Chiều đông rét mướt bẻ đôi củ khoai mật bốc khói nghi ngút, mật vàng ngọt lịm ấm sực đôi bàn tay.
 
-### 🎧 2. 40 Âm Thanh Foley Đời Thực Dân Dã:
+### 🎧 2. 40 Âm Thanh Âm thanh tự nhiên Đời Thực Dân Dã:
 * Tiếng chổi tre quét ngõ sớm tinh sương *xoèn xoẹt*, tiếng cối giã gạo chày ba *thùm thụp* nhịp nhàng đầu xóm.
 * Tiếng đòn gánh tre kĩu kịt trên vai mẹ gánh lúa non qua cầu tre lắt lẻo.
 * Tiếng gàu sòng tát nước đêm trăng lách tách, tiếng sáo diều vo vo lưng trời chiều lộng gió bờ đê.

@@ -729,7 +729,7 @@
 │    *(Âm hưởng Tiêu dao & Thiền)│ • **Khèn Bè Bách Việt**            │ • Đa âm réo rắt của cư dân nương rẫy và rừng núi.      │
 │                                │ • **Sáo Trúc 6 lỗ & Tiêu nứa**     │ • Tiếng sáo diều lộng gió bến sông đồng quê.           │
 ├────────────────────────────────┼────────────────────────────────────┼────────────────────────────────────────────────────────┤
-│ **4. Nhịp Gõ & Foley Giác Quan**│ • **Phách Tre Ca Trù Cổ**          │ • Tiếng gõ lách cách giòn giã định nhịp thơ ca.        │
+│ **4. Nhịp Gõ & Âm thanh tự nhiên Giác Quan**│ • **Phách Tre Ca Trù Cổ**          │ • Tiếng gõ lách cách giòn giã định nhịp thơ ca.        │
 │    *(Âm thanh Đời sống thực)*  │ • **Bàn Xoay & Tiếng Đất Nung Gốm**│ • Tiếng xèo xèo của lửa nung gốm và nước suối chảy.    │
 │                                │ • **Mái Chèo Khua Sóng Sông Hồng** │ • Tiếng sóng vỗ mạn thuyền Mông Đồng 100 tay chèo.     │
 └────────────────────────────────┴────────────────────────────────────┴────────────────────────────────────────────────────────┘

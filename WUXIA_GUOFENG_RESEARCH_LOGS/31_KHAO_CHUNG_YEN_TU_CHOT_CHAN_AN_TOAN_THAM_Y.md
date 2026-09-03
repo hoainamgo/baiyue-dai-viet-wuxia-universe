@@ -4,7 +4,7 @@
 ### CHỦ TRÌ KHẢO CỨU & THẾ GIỚI QUAN:
 * **Chủ trì Lịch sử, Khảo cổ & Địa chính trị:** **Sử Quan Lê Văn**
 * **Chủ trì Biên soạn Thế giới quan & Sử thi:** **Vũ Dạ Khách (Tiểu Thuyết Gia)**
-* **Cố vấn Âm nhạc & Phối khí S-02:** **Bạch Hạc (Huỳnh Hạc Nam)**, **Vân Chu (云舟)**, **Noah An** & **Cadence**
+* **Cố vấn Âm nhạc & Phối khí Cổ Nhạc:** **Bạch Hạc (Huỳnh Hạc Nam)**, **Vân Chu (云舟)**, **Noah An** & **Cadence**
 * **Chỉ đạo Y phục & Visual Cổ phong:** **Sylvia (Fashion & Visual Master)**
 
 ---
@@ -112,7 +112,7 @@ Trong hệ thống Thế Giới Quan Cổ Phong Kiếm Hiệp Đại Việt (Ses
 
 ---
 
-## 🎼 IV. CHUYỂN HÓA ÂM NHẠC S-02 CROSSOVER MASTERPIECE: "NON THIÊNG CHỐT BỜ CÕI"
+## 📜 IV. ÁNG VĂN KHẮC HỌA THÂM Ý YÊN TỬ
 
 ### 📜 2. ĐOẠN CA TỪ KHẮC HỌA THÂM Ý YÊN TỬ :
 ```text

@@ -92,7 +92,7 @@ Hiện tượng các bài hát AI bị "na ná nhau" xuất phát từ **3 sự 
                                                                 │
          ┌──────────────────────────┬───────────────────────────┼───────────────────────────┬──────────────────────────┐
          ▼                          ▼                           ▼                           ▼                          ▼
-     [ 1. SỜ & NẮM ]            [ 2. NGỬI (MÙI VỊ) ]        [ 3. NẾM (VỊ GIÁC) ]        [ 4. NGHE (FOLEY) ]         [ 5. NHÌN (MÀU SẮC) ]
+     [ 1. SỜ & NẮM ]            [ 2. NGỬI (MÙI VỊ) ]        [ 3. NẾM (VỊ GIÁC) ]        [ 4. NGHE (Âm thanh tự nhiên) ]         [ 5. NHÌN (MÀU SẮC) ]
   • Giáp da tê ngưu gai ráp   • Mùi khói rơm rạ chiều mưa • Vị chát ngọt búp chè non  • Tiếng đe búa nện chát chúa• Màu men ngọc celadon
   • Chuôi kiếm quấn dây gai   • Mùi bùn đầm sen non ngấu  • Vị cay nồng rượu nếp cái  • Tiếng nước nhỏ giọt hang đá• Màu vàng đất sét phù sa
   • Mặt trống đồng sần sùi    • Mùi gỗ trầm hương cháy âm • Vị mặn mồ hôi trên áo vải • Tiếng thoi đưa lách cách  • Ánh thép xanh lạnh lùng
@@ -109,7 +109,7 @@ Hiện tượng các bài hát AI bị "na ná nhau" xuất phát từ **3 sự 
 * Mùi thuốc nam sao vàng hạ thổ bốc lên ấm nồng gian nhà tranh.
 * Mùi tanh mặn nồng nàn của bãi cọc rêu phong cửa biển Bạch Đằng khi nước triều rút.
 
-### 3. 👂 Thính giác (Foley Âm Thanh Đời Thường - Acoustic Foley):
+### 3. 👂 Thính giác (Âm thanh tự nhiên Âm Thanh Đời Thường - Acoustic Âm thanh tự nhiên):
 * Tiếng **chày gỗ giã gạo dập dồn** bờ suối Tây Bắc.
 * Tiếng **cụng chén sành nung** canh ba đối ẩm trên thuyền câu.
 * Tiếng **móng ngựa phi nện côm cộp** trên đường sỏi đá biên ải Lạng Sơn.

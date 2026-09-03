@@ -4,9 +4,7 @@
 ### HỘI ĐỒNG BIÊN SOẠN & KHẢO CỨU:
 * **Chủ trì Lịch sử, Khảo cổ & Thể chế học:** **Sử Quan Lê Văn**
 * **Chủ trì Biên soạn Sử thi & Thế giới quan:** **Vũ Dạ Khách (Tiểu Thuyết Gia)**
-* **Chủ trì Cổ nhạc, Phối khí S-02 & Âm luật:** **Bạch Hạc (Huỳnh Hạc Nam)**, **Vân Chu (云舟)**, **Noah An**, **Melody** & **Harmony**
 * **Chỉ đạo Mỹ học & Y phục Triều đình - Sa trường:** **Sylvia (Visual Master)**
-* **Kiểm định Đạo đức, Bản quyền & QA Gatekeeper:** **Cadence** & **Clara Vance**
 
 ---
 
@@ -249,8 +247,7 @@ Qua hơn năm ngàn năm từ thuở hồng hoang Bách Việt, mảnh đất h�
 
 ---
 
-## 🎼 V. BẢN TRƯỜNG CA SỬ THI CHUẨN S-02 CROSSOVER MASTERPIECE
-> Tác phẩm được kiến trúc theo tiêu chuẩn **Ancient Oriental Symphonic Crossover (S-02)** kết hợp Đàn Tranh, Đàn Bầu, Trống Đồng 45Hz, Động Tiêu với Dàn Dây Giao Hưởng Điện Ảnh.
+## 📜 V. BẢN TRƯỜNG CA SỬ THI BÁCH VIỆT HÙNG CA
 
 ### 📜 2. CA TỪ TRƯỜNG CA: "BÁCH VIỆT HÙNG CA — THIÊN THU QUẬT CƯỜNG" :
 
@@ -306,4 +303,3 @@ Nước Nam trường tồn... vạn mùa xuân rạng rỡ muôn đời!
 
 ## 🔒 VI. NIÊM PHONG HỌC THUẬT & BẢO HỘ TÁC PHẨM
 * Toàn bộ nội dung Đại Sử Thi, Thiên Chương Đại Đoàn Kết và Tiến Trình Tiến Hóa Thể Chế đã được kiểm định qua bộ quy chuẩn **Dai Viet Wuxia & Guofeng Master Codex (v4.6)**.
-* Sẵn sàng chuyển giao cho bộ phận sản xuất âm nhạc `compose-cổ nhạc`, `song-mô tả hình thái-optimizer` và phòng hình ảnh `fashion-visual-director` tạo visual 4K thuần Việt.

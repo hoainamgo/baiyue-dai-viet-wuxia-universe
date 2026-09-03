@@ -27,13 +27,13 @@ Khi viết ca từ, chúng ta **tuyệt đối không dùng các yếu tố đã
 
 | STT | Yếu Tố Văn Hóa Cổ Truyền | Hiện Diện Sống Động Hôm Nay | Cách Kết Hợp Khéo Léo Trong Ca Từ & Âm Học |
 |:---:|---|---|---|
-| **1** | **Chén Trà Xanh Hãm Nước Mưa** | Chén trà sớm của ông, quán trà đá góc phố, trà đạo hiện đại. | *"Trà xanh giếng ngọc thơm nồng / Khói lam bảng lảng ấm lòng sớm mai."* (Foley rót nước ấm, đàn tranh rải nhẹ). |
+| **1** | **Chén Trà Xanh Hãm Nước Mưa** | Chén trà sớm của ông, quán trà đá góc phố, trà đạo hiện đại. | *"Trà xanh giếng ngọc thơm nồng / Khói lam bảng lảng ấm lòng sớm mai."* (Âm thanh tự nhiên rót nước ấm, đàn tranh rải nhẹ). |
 | **2** | **Mâm Cơm Rau Muống Cà Dầm Tương** | Món ăn quốc hồn quốc túy trong mọi gia đình Việt. | *"Cơm chiều đĩa muống dầm tương / Quả cà giòn rụm đậm đường mẹ ru."* (Gợi nhớ vị giác thân thương). |
-| **3** | **Tiếng Sáo Diều Triền Đê** | Trò chơi tuổi thơ dọc bờ đê sông Đáy, sông Đuống, sông Hồng. | Gài thẻ `[Acoustic Foley - Bamboo kite flute humming]` làm nền gián tấu Interlude. |
+| **3** | **Tiếng Sáo Diều Triền Đê** | Trò chơi tuổi thơ dọc bờ đê sông Đáy, sông Đuống, sông Hồng. | Gài thẻ `[Acoustic Âm thanh tự nhiên - Bamboo kite flute humming]` làm nền gián tấu Interlude. |
 | **4** | **Nồi Bánh Chưng Đỏ Lửa Đêm Đông** | Phong tục sum họp gia đình ấm áp nhất dịp Tết cổ truyền. | *"Mùi lá dong xanh quyện nếp thơm / Bếp than hồng rực ấm ổ rơm."* (Tiếng củi nổ lách tách). |
 | **5** | **Áo Dài & Nón Lá Nghiêng Che** | Trang phục biểu tượng của phụ nữ Việt Nam ra thế giới. | Thể hiện sự thanh thoát, kín đáo nhưng kiêu hãnh của nữ nhân Việt. |
 | **6** | **Nghề Gốm Bát Tràng / Chu Đậu** | Tinh hoa gốm men lam, men rạn vẫn xuất khẩu toàn cầu. | *"Bàn xoay bùn ướt ngàn năm / Men tro trấu đượm trăng rằm đất thiêng."* (Tiếng gõ chén sành). |
-| **7** | **Lụa Tơ Tằm Vạn Phúc** | Sợi tơ tự nhiên óng ả, làng dệt vẫn dập dồn thoi đưa. | *"Thoi đưa lách cách đêm thâu / Giọt mồ hôi đượm nương dâu bãi bồi."* (Foley thoi dệt lụa). |
+| **7** | **Lụa Tơ Tằm Vạn Phúc** | Sợi tơ tự nhiên óng ả, làng dệt vẫn dập dồn thoi đưa. | *"Thoi đưa lách cách đêm thâu / Giọt mồ hôi đượm nương dâu bãi bồi."* (Âm thanh tự nhiên thoi dệt lụa). |
 | **8** | **Tục Têm Trầu Mở Đầu Câu Chuyện** | Lễ cưới hỏi, dạm ngõ, cúng gia tiên của người Việt. | *"Miếng trầu têm cánh phượng hồng / Vôi nồng cau thắm se lòng lứa đôi."* (Gợi nét duyên ngầm). |
 | **9** | **Cây Đa, Bến Nước, Con Đò** | Biểu tượng không gian làng quê trường tồn trong tâm khảm. | Bối cảnh chia tay, đợi chờ người đi xa trở về cố hương. |
 | **10**| **Tiếng Đàn Bầu Độc Huyền Cầm** | Cây đàn độc nhất vô nhị chỉ có ở Việt Nam, vươn tầm quốc tế. | Solo nắn nót từng nốt uốn lượn (Microtonal) tạo điểm rơi cảm xúc cao trào. |

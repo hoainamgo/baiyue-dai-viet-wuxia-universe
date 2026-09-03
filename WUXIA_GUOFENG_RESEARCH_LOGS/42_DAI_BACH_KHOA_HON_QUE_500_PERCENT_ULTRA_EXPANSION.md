@@ -19,7 +19,7 @@ Văn hóa Bách Việt và Đại Việt hơn 5.000 năm không bắt đầu t�
                                                                 │
          ┌──────────────────────────┬───────────────────────────┼───────────────────────────┬──────────────────────────┐
          ▼                          ▼                           ▼                           ▼                          ▼
-  [ 1. 50 MÓN ĂN DÂN DÃ ]    [ 2. 40 ÂM THANH FOLEY ]    [ 3. 50 ĐỒ DÙNG MỘC ]       [ 4. 40 TRÒ CHƠI KÝ ỨC ]    [ 5. 40 PHONG TỤC ]
+  [ 1. 50 MÓN ĂN DÂN DÃ ]    [ 2. 40 ÂM THANH Âm thanh tự nhiên ]    [ 3. 50 ĐỒ DÙNG MỘC ]       [ 4. 40 TRÒ CHƠI KÝ ỨC ]    [ 5. 40 PHONG TỤC ]
   (Khói bếp, niêu đất)       (Mưa rạ, cối giã gạo)       (Đòn gánh, guốc mộc)        (Sáo diều, ô ăn quan)       (Đổi công, têm trầu)
 ```
 
@@ -63,25 +63,25 @@ Văn hóa Bách Việt và Đại Việt hơn 5.000 năm không bắt đầu t�
 
 ---
 
-## 👂 II. 40 ÂM THANH FOLEY ĐỜI THƯỜNG (ACOUSTIC SENSORY CAPTURE)
+## 👂 II. 40 ÂM THANH DÂN DÃ ĐỜI THƯỜNG (KÝ ỨC DÂN GIAN)
 
-Đưa các mẫu âm thanh chân thực này vào thẻ Điệu Thức Cổ `[Acoustic Foley - ...]`:
+Đưa các mẫu âm thanh chân thực này vào thẻ Điệu Thức Cổ `âm thanh giác quan thực tế`:
 
-1. **Tiếng giọt ranh rơi mái rạ:** `[Foley - Soft rain dripping on thatched straw roof, distant thunder]`
-2. **Tiếng chày giã gạo dập dồn:** `[Foley - Rhythmic wooden mortar and pestle pounding rice by the stream]`
-3. **Tiếng sáo diều lưng trời:** `[Foley - Ethereal bamboo kite flute humming in the windy sky]`
-4. **Tiếng dế mèn đêm trăng hè:** `[Foley - Crickets chirping in summer night, gentle breeze through bamboo]`
-5. **Tiếng gàu sòng múc nước giếng:** `[Foley - Bamboo bucket splashing into deep cool well, water dripping]`
-6. **Tiếng đập áo bên bến giặt:** `[Foley - Wooden bat beating clothes on stone river bank, women chatting]`
-7. **Tiếng móng trâu gõ đường đất:** `[Foley - Water buffalo hoofs squelching on muddy village path]`
-8. **Tiếng thoi đưa dệt lụa đêm vắng:** `[Foley - Wooden shuttle clicking steadily on loom in quiet night]`
-9. **Tiếng cụng bát sành canh ba:** `[Foley - Clay bowls clinking, rustic pour of rice wine on boat]`
-10. **Tiếng bẻ củi khô lách tách trong bếp:** `[Foley - Dry firewood crackling in mud stove, blowing ember sparks]`
-11. **Tiếng chèo khua nước róc rách:** `[Foley - Wooden oar gently slicing through river water, distant rooster crow]`
-12. **Tiếng cào lúa phơi sân gạch:** `[Foley - Wooden rake sweeping golden paddy grains across brick courtyard]`
-13. **Tiếng quạt mo cau phe phẩy trưa hè:** `[Foley - Areca palm fan swishing softly, cicadas buzzing loudly in noon]`
-14. **Tiếng gà gáy sang canh:** `[Foley - Lone rooster crowing across misty village at early dawn]`
-15. **Tiếng đò ngang gọi bến:** `[Foley - Ferryman echoing call across wide misty river at sunset]`
+1. **Tiếng giọt ranh rơi mái rạ:** ``
+2. **Tiếng chày giã gạo dập dồn:** ``
+3. **Tiếng sáo diều lưng trời:** ``
+4. **Tiếng dế mèn đêm trăng hè:** ``
+5. **Tiếng gàu sòng múc nước giếng:** ``
+6. **Tiếng đập áo bên bến giặt:** ``
+7. **Tiếng móng trâu gõ đường đất:** ``
+8. **Tiếng thoi đưa dệt lụa đêm vắng:** ``
+9. **Tiếng cụng bát sành canh ba:** ``
+10. **Tiếng bẻ củi khô lách tách trong bếp:** ``
+11. **Tiếng chèo khua nước róc rách:** ``
+12. **Tiếng cào lúa phơi sân gạch:** ``
+13. **Tiếng quạt mo cau phe phẩy trưa hè:** ``
+14. **Tiếng gà gáy sang canh:** ``
+15. **Tiếng đò ngang gọi bến:** ``
 *(... và 25 âm thanh đời thường khác: Tiếng băm bèo, tiếng sàng sảy gạo, tiếng bẻ ngô rôm rốp, tiếng ếch nhái râm ran...)*
 
 ---
@@ -164,7 +164,7 @@ Triệt tiêu các màu sắc phát sáng tiên hiệp rẻ tiền, khóa chặt
 
 Kể từ nay, mỗi khi viết ca từ mới:
 * 🎯 **MỖI BÀI HÁT BẮT BUỘC PHẢI CHỨA ÍT NHẤT 4 CHI TIẾT TỪ BẢNG 500% NÀY:**
-  *(Ví dụ: 1 Món ăn dân dã + 1 Đồ dùng mộc mạc + 1 Âm thanh Foley + 1 Tình cảm làng quê).*
+  *(Ví dụ: 1 Món ăn dân dã + 1 Đồ dùng mộc mạc + 1 Âm thanh Âm thanh tự nhiên + 1 Tình cảm làng quê).*
 * ❌ **Tuyệt đối BẺ GÃY:** Mọi từ ngữ chung chung (*tình yêu vô tận, giang hồ phiêu bạt, giọt lệ sầu, bóng trăng lẻ loi*).
 
 ---
