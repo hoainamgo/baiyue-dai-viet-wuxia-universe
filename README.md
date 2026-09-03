@@ -50,14 +50,17 @@
 18. [👥 18. Tuyển Tập Nhân Vật Gốc (Canon Characters)](#-18-tuyển-tập-nhân-vật-gốc-canon-characters)
 19. [🎼 19. Hệ Thống Âm Nhạc Mô Phỏng Nguyên Bản Thời Đại (Trống Đồng, Đàn Đá, 432Hz)](#-19-hệ-thống-âm-nhạc-mô-phỏng-nguyên-bản-thời-đại-trống-đồng-đàn-đá-432hz)
 20. [📚 20. Thư Viện Toàn Bộ Tài Liệu Khảo Cứu Chuyên Sâu (`docs/`)](#-20-thư-viện-toàn-bộ-tài-liệu-khảo-cứu-chuyên-sâu-docs)
-21. [🤝 21. Giấy Phép Mã Nguồn Mở Creative Commons CC BY 4.0](#-21-giấy-phép-mã-nguồn-mở-creative-commons-cc-by-40)
-22. [🕊️ 22. Tâm Thư Tác Giả & Miễn Trừ Trách Nhiệm (Disclaimer)](#-22-tâm-thư-tác-giả--miễn-trừ-trách-nhiệm-disclaimer)
+21. [🌾 21. Đại Bách Khoa Hồn Quê & Đời Thường Dân Dã 500% (300+ Chất Liệu)](#-21-đại-bách-khoa-hồn-quê--đời-thường-dân-dã-500-300-chất-liệu-thực-chứng)
+22. [🏮 22. 25 Điểm Hẹn Đời Thường & 40 Hình Tượng Nữ Trung Kiệt Xuất](#-22-25-điểm-hẹn-đời-thường--40-hình-tượng-nữ-trung-kiệt-xuất)
+23. [♾️ 23. Đại Bách Khoa Liên Kết Thiên Cổ: 10 Mạch Ngầm Truyền Thừa (Living Continuity)](#-23-đại-bách-khoa-liên-kết-thiên-cổ-10-mạch-ngầm-truyền-thừa-không-dứt-đoạn-living-continuity)
+24. [🤝 24. Giấy Phép Mã Nguồn Mở Creative Commons CC BY 4.0](#-21-giấy-phép-mã-nguồn-mở-creative-commons-cc-by-40)
+25. [🕊️ 25. Tâm Thư Tác Giả & Miễn Trừ Trách Nhiệm (Disclaimer)](#-22-tâm-thư-tác-giả--miễn-trừ-trách-nhiệm-disclaimer)
 
 ---
 
 ## 🗺️ BẢN ĐỒ KHÔNG GIAN THẾ GIỚI QUAN ĐẠI VIỆT THIÊN CỔ
 
-`
+```
                        🏛️ BẢN ĐỒ KHÔNG GIAN THẾ GIỚI QUAN ĐẠI VIỆT THIÊN CỔ
  ┌────────────────────────────────────────────────────────────────────────────────────────┐
  │ 🌊 1. THƯỢNG CỔ TÁI SINH (5.300 TCN - THẾ KỶ III TCN)                                  │
@@ -356,7 +359,67 @@ Không lai tạp nhạc hiện đại, sử dụng nhạc khí bản địa cổ
 
 ---
 
-## 🤝 21. GIẤY PHÉP MÃ NGUỒN MỞ CREATIVE COMMONS CC BY 4.0
+
+---
+
+## 🌾 21. ĐẠI BÁCH KHOA HỒN QUÊ & ĐỜI THƯỜNG DÂN DÃ 500% (300+ CHẤT LIỆU THỰC CHỨNG)
+
+Văn hóa Bách Việt và Đại Việt hơn 5.000 năm không bắt đầu từ cung điện xa hoa, mà bắt đầu từ bờ tre, gốc lúa, bờ đê, khói bếp rơm rạ, bàn chân trần nứt nẻ bấm bùn non và mâm cơm gia đình ấm áp:
+
+### 🍲 1. Mâm Cơm Đất Mẹ & Hương Vị Quê Hương:
+* **Niêu cơm tấm cá bống kho tộ:** Niêu đất nung sứt mép, lớp cháy giòn rụm đáy nồi chan mỡ cá béo ngậy, cá bống sông kho tiêu gừng rục xương thơm nức.
+* **Bát canh cua đồng rau đay mồng tơi cà pháo:** Cua đồng giã cối đá nổi váng gạch vàng ươm, quả cà pháo muối giòn tan cắn *rôm rốp*.
+* **Cá diếc kho tương bần lá nghệ:** Cá diếc bắt ở mương nước đầy trứng, kho vùi trấu cả đêm với tương bần và lá nghệ già thơm phức.
+* **Tép riu rang khế chua lá chanh:** Tép đồng tươi nhảy tanh tách, rang khô giòn rụm với khế chua thái mỏng và lá chanh thái chỉ.
+* **Khoai mật vùi tro rơm than hồng:** Chiều đông rét mướt bẻ đôi củ khoai mật bốc khói nghi ngút, mật vàng ngọt lịm ấm sực đôi bàn tay.
+
+### 🎧 2. 40 Âm Thanh Foley Đời Thực Dân Dã:
+* Tiếng chổi tre quét ngõ sớm tinh sương *xoèn xoẹt*, tiếng cối giã gạo chày ba *thùm thụp* nhịp nhàng đầu xóm.
+* Tiếng đòn gánh tre kĩu kịt trên vai mẹ gánh lúa non qua cầu tre lắt lẻo.
+* Tiếng gàu sòng tát nước đêm trăng lách tách, tiếng sáo diều vo vo lưng trời chiều lộng gió bờ đê.
+* Tiếng ếch nhái uôm uôm rộn rã bờ mương sau cơn mưa rào mùa hạ.
+
+### 🧺 3. 50 Đồ Dùng Mộc Mạc Cổ Truyền:
+* Chõ xôi gỗ mít, nia tre phơi lúa nếp, cối đá xanh giã giò, gáo dừa nạo bóng loáng, chum sành ngâm tương Bần góc sân rêu phong.
+* Chiếc nón lá quai thao thắt sợi tơ hồng, đôi guốc mộc quai da bò mộc mạc gõ lách cách thềm gạch Bát Tràng.
+
+---
+
+## 🏮 22. 25 ĐIỂM HẸN ĐỜI THƯỜNG & 40 HÌNH TƯỢNG NỮ TRUNG KIỆT XUẤT
+
+Thế giới quan sống động nơi từng góc chợ, bến sông, quán nước gắn liền với hình tượng những người phụ nữ Việt kiên cường, nhân hậu:
+
+### 🍵 1. 25 Quán Trà, Tửu Điếm & Bến Sông Giang Hồ Đời Thường:
+* **Quán nước chè xanh gốc đa đầu làng:** Nơi lữ khách dừng chân uống bát nước chè xanh chát ngọt, ăn kẹo lạc mạch nha, nghe chuyện xóm thôn.
+* **Bến đò ngang Lục Đầu Giang:** Chiếc đò nan trôi bồng bềnh giữa mênh mang sóng nước, bến giặt áo rộn rã tiếng cười thiếu nữ.
+* **Lò nung gốm Chu Đậu thấu đêm:** Ánh lửa lò gốm bập bùng soi rọi bàn xoay đất sét dẻo quánh, người thợ vẽ men lam gửi gắm tâm tình vào đáy bình sành.
+* **Chòi canh gác biên ải đỉnh đèo mây:** Bếp lửa than củi sưởi ấm người lính gác giữa sương muối rừng già.
+
+### 🌸 2. 40 Hình Tượng Nữ Trung & Tài Nữ Khí Phách:
+* **Nữ Tướng Sa Trường:** Hai Bà Trưng cưỡi voi trắng gióng hồi trống đồng giải phóng 65 thành trì; Nữ tướng Bát Nàn xung trận cờ lau; Bà Triệu đạp sóng chém kình ngư Biển Đông.
+* **Nữ Sĩ Thi Ca Danh Tiếng:** "Bà Chúa Thơ Nôm" Hồ Xuân Hương ngạo nghễ đạp đổ định kiến nam quyền; Bà Huyện Thanh Quan với hồn thơ u hoài Thăng Long cổ kính; Hồng Hà Nữ Sĩ Đoàn Thị Điểm dịch *Chinh Phụ Ngâm* lay động lòng người; Nữ chủ bút Sương Nguyệt Anh kiên cường với ngòi bút sắt; Đào Nương (Đào Thị Huệ) dùng tài ca trù giải phóng quê hương; Công chúa Ngọc Hân với áng thi *Ai Tư Vãn* bất tử.
+* **Thiếu Nữ Bách Nghệ & Người Mẹ Việt Nam:** Người mẹ già thức canh nồi bánh chưng xanh đêm 30 Tết; Nàng thiếu nữ têm trầu cánh phượng trao duyên; Nữ thợ gốm Chu Đậu chuốt gốm hoa sen; Nữ y sư Trúc Lâm gùi thuốc nứa sau lưng chữa lành vết thương sa trường.
+
+---
+
+## ♾️ 23. ĐẠI BÁCH KHOA LIÊN KẾT THIÊN CỔ: 10 MẠCH NGẦM TRUYỀN THỪA KHÔNG ĐỨT ĐOẠN (LIVING CONTINUITY)
+
+Trong thế giới quan này, quá khứ 5.000 năm không phải là di tích nằm im trong bảo tàng, mà là mạch nguồn huyết quản chảy thẳng vào tâm thức, cốt cách người Việt hôm nay:
+
+1. **Gốm Hoa Nâu & Đất Mẹ:** Bàn xoay ngàn năm qua Chu Đậu, Bát Tràng nối dài vào chén trà gốm mộc trên bàn làm việc hiện đại.
+2. **Trống Đồng & Đàn Đá:** Nhịp trống hội ngày xuân, âm thanh trầm hùng sub-bass trong âm nhạc đương đại.
+3. **Y Đạo Tuệ Tĩnh 580 Vị Thuốc Nam:** Nồi nước lá xông giải cảm của mẹ, bát canh rau má thanh mát trưa hè.
+4. **Hào Khí Bạch Đằng & Ý Chí "Sát Thát":** Khí phách quật cường, lòng tự hào dân tộc và ý chí vươn mình ra biển lớn của thế hệ trẻ hôm nay.
+5. **Kính Trời Nguyên Thủy:** Lễ tạ ơn ngoài trời đêm giao thừa, lòng tri ân Đấng Tạo Hóa chở che mùa màng mưa thuận gió hòa.
+6. **Con Thoi Tơ Tằm Sông Đáy:** Nghề dệt tơ lụa Cổ Đô, Vạn Phúc kết tinh trên tà áo dài thướt tha của người phụ nữ Việt Nam.
+7. **Độc Huyền Cầm Đàn Bầu:** Nốt nhạc uốn lượn vi mô đậm chất tâm hồn, điệu ru *Ầu ơ* ngàn đời nuôi dưỡng nhân cách bao thế hệ.
+8. **Bếp Rơm Tro Trấu:** Bát cơm mới thơm mùi lúa nếp mùa gặt, ký ức cội nguồn của mọi người con đất Việt dù đi khắp năm châu.
+9. **Sáo Diều Triền Đê:** Tiếng sáo ngân nga giữa bầu trời hoàng hôn, biểu tượng của tự do thanh bình và ước mơ bay cao.
+10. **Tục Têm Trầu & Nghĩa Đồng Bào:** Tình làng nghĩa xóm *"Tối lửa tắt đèn có nhau"*, tinh thần đùm bọc nhường cơm sẻ áo mỗi khi bão lũ thiên tai tràn về.
+
+---
+
+## 🤝 24. GIẤY PHÉP MÃ NGUỒN MỞ CREATIVE COMMONS CC BY 4.0
 
 Toàn bộ tài nguyên thế giới quan này được phát hành theo giấy phép **[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)**:
 
@@ -377,7 +440,7 @@ Toàn bộ tài nguyên thế giới quan này được phát hành theo giấy 
 
 ---
 
-## 🕊️ 22. TÂM THƯ TÁC GIẢ & MIỄN TRỪ TRÁCH NHIỆM (DISCLAIMER)
+## 🕊️ 25. TÂM THƯ TÁC GIẢ & MIỄN TRỪ TRÁCH NHIỆM (DISCLAIMER)
 
 > ### 💬 *Lời Bộc Bạch Từ Trái Tim Người Yêu Văn Hóa Dân Tộc:*
 > 
