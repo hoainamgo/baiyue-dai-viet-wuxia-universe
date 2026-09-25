@@ -18,7 +18,7 @@
  ├───────────────────────────┼───────────────────────────┼───────────────────────────┤
  │ 🌿 4. DƯỢC & NÔNG TẠNG    │ ⚔️ 5. KIẾM & BINH TẠNG    │ 🎨 6. NGHỆ & THI TẠNG     │
  │ (580 Thảo mộc Thần Nông,  │ (Lạc Long thủy chiến,     │ (Gốm Chu Đậu, Cổ nhạc,    │
- │  Lúa nước, Trống đồng)    │  Hào khí Đông A, Mê Linh) │  Hát Xoan, Hò sông nước)  │
+ │  Lúa nước, Trống Đông Sơn)    │  Hào khí Đông A, Mê Linh) │  Hát Xoan, Hò sông nước)  │
  └───────────────────────────┴───────────────────────────┴───────────────────────────┘
 ```
 
@@ -128,8 +128,8 @@ Dựa trên các bằng chứng khảo cổ học thực chứng (Văn tự Lư�
   > *“Lá thuốc hái lúc sương mai, sao trên bếp lửa đêm dài hương bay.*  
   > *Cứu người đau đớn qua ngày, lòng từ trải rộng tháng ngày Trúc Lâm.”*
 
-#### 12. 《Nông Lịch Giao Chỉ Thiên Văn Điển》 (Lịch Pháp Trống Đồng & Mùa Vụ)
-* **Nội dung:** Giải mã 24 tiết khí, chu kỳ con nước và thiên văn lúa nước được chạm khắc trên mặt trống đồng Ngọc Lũ / Sông Đà.
+#### 12. 《Nông Lịch Giao Chỉ Thiên Văn Điển》 (Lịch Pháp Trống Đông Sơn & Mùa Vụ)
+* **Nội dung:** Giải mã 24 tiết khí, chu kỳ con nước và thiên văn lúa nước được chạm khắc trên mặt trống Đông Sơn Ngọc Lũ / Sông Đà.
 * **Trích đoạn Hoàn Nguyên:**
   > *“Mặt trời tỏa sáng giữa tâm, đàn chim Lạc vỗ cánh ngàn trùng xa.*  
   > *Xuân gieo hạt, hạ trổ hoa, thu về lúa chín ấm nhà ấm no.”*
@@ -160,10 +160,10 @@ Dựa trên các bằng chứng khảo cổ học thực chứng (Văn tự Lư�
 
 ### 🎨 VI. NGHỆ TẠNG & THI TẠNG (CỔ NHẠC Cổ Nhạc, GỐM CHU ĐẬU & DÂN CA)
 
-#### 16. 《Đông Sơn Ngũ Âm Cổ Nhạc Điển》 (Luật Âm Ngũ Cung Cổ Nhạc)
-* **Nội dung:** Hệ thống thang âm Ngũ Cung (Hò, Xự, Xang, Xê, Cống tương ứng Cung, Thương, Giốc, Chủy, Vũ), tần số Cổ Nhạc tái tạo sự hòa hợp vi tế của đất trời.
+#### 16. 《Đông Sơn Ngũ Âm Cổ Nhạc Điển》 (Luật Âm Hệ năm nốt Cổ Nhạc)
+* **Nội dung:** Hệ thống hệ âm sắc Hệ năm nốt (Hò, Xự, Xang, Xê, Cống tương ứng Cung, Thương, Giốc, Chủy, Vũ), tần số Cổ Nhạc tái tạo sự hòa hợp vi tế của đất trời.
 * **Trích đoạn Hoàn Nguyên:**
-  > *“Tiếng Đàn Bầu ngân một dây, Đàn Tranh đổ khúc suối reo ngút ngàn.*  
+  > *“Tiếng Đàn dây ngân một dây, Đàn dây đổ khúc suối reo ngút ngàn.*
   > *Trầm bổng hòa quyện không gian, bốn trăm ba mươi hai hec (Cổ Nhạc) chữa lành tâm tư.”*
 
 #### 17. 《Chu Đậu Men Lam Thi Lục》 (Kỹ Nghệ Gốm & Đề Thơ Đáy Bình)
@@ -180,8 +180,9 @@ Dựa trên các bằng chứng khảo cổ học thực chứng (Văn tự Lư�
 
 ---
 
-## 🐉 PHẦN III: Ý NGHĨA TÍCH HỢP VĨNH CỬU VÀO VŨ TRỤ Vũ Trụ Cổ Phong Bách Việt
+## 🌿 PHẦN III: GIÁ TRỊ VĂN HÓA VÀ GIỚI HẠN SỬ DỤNG
 
-1. **Kho Tàng Lore Vô Tận Cho 100+ Albums Cổ Phong:** 18 bộ cổ thư này là nguồn chất liệu vô giá để sáng tác hàng trăm ca khúc Cổ Phong Kiếm Hiệp Đại Việt chuẩn mực, giàu tính học thuật và xúc cảm.
-2. **Khóa Chặt Bản Sắc Văn Hóa:** Khẳng định Đại Việt & Bách Việt sở hữu nền văn hiến rực rỡ 5.000 năm với hệ giá trị đạo đức cao đẹp (**Hiếu kính cha mẹ - Tạ ơn Ông Trời - Thảo mộc chữa lành - Tình yêu son sắt**).
-3. **Âm Nhạc Đỉnh Cao Cổ Nhạc:** Định danh thương hiệu Đại Việt Cổ Phong là dòng nhạc Cổ Phong chữa lành tâm hồn, kết nối con người với trời đất và cội nguồn tổ tiên!
+1. **Phạm vi tư liệu:** Các mục trong tài liệu là chất liệu biên soạn và trích dẫn tổng hợp; không phải bằng chứng cho 5.000 bộ cổ thư hay kế hoạch phát hành cụ thể.
+2. **Giá trị:** Dùng để tìm hiểu chữ viết, thi tứ, dân ca, gốm và ký ức văn hóa; phải dẫn nguồn và phân biệt truyền thuyết với sử liệu.
+3. **Giới hạn:** Không khẳng định tuyệt đối về sự liên tục 5.000 năm, hiệu quả chữa lành hoặc thương hiệu âm nhạc.
+4. **Canon:** Đối chiếu [`01_MASTER_CODEX_VO_HIEP_CO_PHONG_DAI_VIET.md`](01_MASTER_CODEX_VO_HIEP_CO_PHONG_DAI_VIET.md) và [`57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md`](57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md).

@@ -186,7 +186,7 @@
 ### 27. Đúc Đồng Đông Sơn
 > Nấu chảy đồng thau rót vào khuôn,  
 > Hoa văn chim Lạc cánh bay luồn.  
-> Trống đồng định dạng hồn non nước,  
+> Trống Đông Sơn định dạng hồn non nước,
 > Tiếng vang trầm ấm khắp ngàn phương.
 
 ### 28. Đẵn Tre Ngà Làm Nhà

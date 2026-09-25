@@ -138,16 +138,12 @@ Hội đồng học thuật đã **hoàn tất 100% việc mô phỏng và xâu 
 ### 🌳 CHI TIẾT SỰ KẾ THỪA CỦA 2 NHÂN VẬT CHÍNH:
 
 1. **AN THÁI (Hiệp Khách Đông A · Sát Thát):**
-   * **Cội nguồn truyền thừa:** Kế thừa võ học thủy chiến từ thời Lạc Long Quân vượt sông Dương Tử $
-ightarrow$ Đô đốc thủy quân Bạch Đằng thời Ngô Quyền $
-ightarrow$ Tướng lĩnh thủy quân Lục Đầu Giang thời Trần.
+   * **Cội nguồn truyền thừa:** Kế thừa võ học thủy chiến từ thời Lạc Long Quân vượt sông Dương Tử → Đô đốc thủy quân Bạch Đằng thời Ngô Quyền → Tướng lĩnh thủy quân Lục Đầu Giang thời Trần.
    * **Binh khí & Kỹ năng:** Đoản đao lá lúa bằng thép rèn nguội, kỹ thuật lặn sâu đục thuyền, bắn nỏ Cao Lỗ ba cạnh.
    * **Tâm thức:** Gác kiếm bên bến sông, lập Bàn Thờ Thiên tạ ơn Đất Trời, coi danh lợi tựa mây bay.
 
 2. **MỘC TĨNH LAN (Đại Nghệ Nhân Chu Đậu & Y Sĩ Trúc Lâm):**
-   * **Cội nguồn truyền thừa:** Kế thừa kỹ nghệ gốm đen Lương Chử 5.300 năm $
-ightarrow$ Gốm Phùng Nguyên $
-ightarrow$ Gốm Hoa Nâu & Men Lam Chu Đậu đạt đỉnh cao thế giới; Kế thừa Y Đạo Thần Nông 580 vị thuốc nam qua dòng thiền Trúc Lâm Yên Tử của Tuệ Tĩnh.
+   * **Cội nguồn truyền thừa:** Kế thừa kỹ nghệ gốm đen Lương Chử 5.300 năm → Gốm Phùng Nguyên → Gốm Hoa Nâu & Men Lam Chu Đậu; kế thừa Y Đạo Thần Nông 580 vị thuốc nam qua dòng thiền Trúc Lâm Yên Tử của Tuệ Tĩnh.
    * **Bảo vật:** Bàn xoay gỗ nghiến, ngòi bút vẽ sen men lam, giỏ thuốc nứa chứa 580 thảo mộc.
    * **Tâm thức:** Nắn đất thành tri âm, dùng âm nhạc Cổ Nhạc và thảo mộc chữa lành vết thương sa trường.
 

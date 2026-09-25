@@ -95,7 +95,7 @@ Sự rập khuôn sáo rỗng trong các tác phẩm thường xuất phát từ
      [ 1. SỜ & NẮM ]            [ 2. NGỬI (MÙI VỊ) ]        [ 3. NẾM (VỊ GIÁC) ]        [ 4. NGHE (Âm thanh tự nhiên) ]         [ 5. NHÌN (MÀU SẮC) ]
   • Giáp da tê ngưu gai ráp   • Mùi khói rơm rạ chiều mưa • Vị chát ngọt búp chè non  • Tiếng đe búa nện chát chúa• Màu men ngọc celadon
   • Chuôi kiếm quấn dây gai   • Mùi bùn đầm sen non ngấu  • Vị cay nồng rượu nếp cái  • Tiếng nước nhỏ giọt hang đá• Màu vàng đất sét phù sa
-  • Mặt trống đồng sần sùi    • Mùi gỗ trầm hương cháy âm • Vị mặn mồ hôi trên áo vải • Tiếng thoi đưa lách cách  • Ánh thép xanh lạnh lùng
+  • Mặt trống Đông Sơn sần sùi    • Mùi gỗ trầm hương cháy âm • Vị mặn mồ hôi trên áo vải • Tiếng thoi đưa lách cách  • Ánh thép xanh lạnh lùng
   • Thớ giấy dó thô nhám      • Mùi quế cay nồng hốc núi  • Vị đắng ngọt lá thuốc nam • Tiếng móng ngựa gõ sỏi đá• Khói lam chiều bảng lảng
 ```
 

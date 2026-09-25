@@ -47,7 +47,7 @@
   * **"Hùng Kê Quyền":** Quyền pháp gà chọi áp sát điểm huyệt hiểm ác.
 * **Vũ khí trấn phái:**
   * **Đại Khai Sơn Phủ (Rìu Rừng Nặng 50 Cân):** Rèn bằng thép non đại ngàn, khắc cổ tự Bách Việt.
-  * **Cổ Cầm Đàn Thần Cổ Nhạc:** Cây đàn gỗ dâu tằm dây tơ tằm, tiếng đàn hóa giải tà khí và giải giáp binh đao.
+  * **Đàn dây cổ Đàn Thần Cổ Nhạc:** Cây đàn gỗ dâu tằm dây tơ tằm, tiếng đàn hóa giải tà khí và giải giáp binh đao.
 * **Trang phục & Nhận diện:**
   * **Áo đũi chàm lót da hổ / da báo:** Đi chân đất, đầu quấn khăn rìa đỏ, thắt lưng bện dây gai rừng.
 
@@ -62,10 +62,10 @@
   * **"Thần Trúc Trượng Pháp (Bát Quái Côn)":** Bài côn quyền tre ngà dẻo dai nhưng uy lực sấm sét quét sạch vạn quân.
   * **"Thần Nỗ Vạn Tiễn Trận":** Kỹ thuật bắn nỏ liên châu phóng 10 mũi tên đồng cùng lúc trúng hồng tâm.
 * **Vũ khí trấn phái:**
-  * **Thiết Côn Tre Ngà Bịt Đồng:** Thân tre ngà già ngâm dầu lạc trăm năm, hai đầu bịt đồng thau chạm rồng.
-  * **Linh Quang Thần Nỗ:** Khung gỗ lim bọc sừng trâu, dây nỏ bện gân hươu, mũi tên đồng ba cánh Cầu Vực.
+  * **Thiết Côn tre ngà bịt đồng:** Tre già có đốt tăng cường độ bằng sợi/keo phù hợp; hai đầu bọc đồng thau, hoa tiết rồng chỉ dùng khi có tham chiếu di tích.
+  * **Nỏ Liên Châu:** Khung gỗ, sừng, dây nỏ và tên phù hợp với kỹ thuật thời Cổ Loa; số tên phải theo bằng chứng khảo cổ.
 * **Trang phục & Nhận diện:**
-  * **Giáp da đính đinh tán đồng & Khăn quấn đầu chữ Đinh:** Giáp vai hình đầu rồng thời Lý - Trần, tay đeo bao bảo hộ bằng đồng.
+  * **Giáp da đính đinh tán đồng & khăn quấn đầu:** Dựng hợp lý trên giáp da, đồng thau, vải thô và bảo vệ vai; không gắn tự động với “đầu rồng thời Lý–Trần”.
 
 ---
 
@@ -107,13 +107,13 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **Lạc Long Thủy Phái** | Đoản Đao Lá Lúa, Kẹp Cổ | Đoản Đao đồng thiếc, Mũi khoan sắt | Áo chàm xẻ ngực, xăm mình Giao Long, chữ Sát Thát | **Hiệp Khách An Thái** |
 | **Trúc Lâm Thiền Phái** | Lão Mai Quyền, Trúc Kiếm | Kiếm trúc Yên Tử, Nón lá, Gậy thiền | Áo nâu sồng, Tứ thân lụa thô, trâm gỗ đào | **Nàng Mộc Tĩnh Lan** |
-| **Tản Viên Sơn Môn** | Khai Sơn Phủ, Hùng Kê Quyền | Đại rìu sắt khai sơn, Cổ Cầm Cổ Nhạc | Áo đũi chàm, da thú rừng già, đi chân đất | **Dũng Sĩ Thạch Sanh** |
+| **Tản Viên Sơn Môn** | Khai Sơn Phủ, Hùng Kê Quyền | Đại rìu sắt khai sơn, Đàn dây cổ Cổ Nhạc | Áo đũi chàm, da thú rừng già, đi chân đất | **Dũng Sĩ Thạch Sanh** |
 | **Phù Đổng Thiết Gia** | Bát Quái Côn, Thần Nỗ Trận | Thiết côn tre ngà, Nỏ thần liên châu | Giáp da đính đinh tán đồng, quấn khăn chữ Đinh | **Cao Lỗ / Tướng Đông A**|
 | **Hải Long Mai Gia** | Trảm Hải Đao Pháp, Sóng Thần | Trảm Hải Đại Đao 80 cân, Giáo đồng | Áo gấm rồng biển, Áo choàng dạ lộng gió | **Hải Vương Từ Hải** |
 
 ---
 
-### 🎵 ỨNG DỤNG BÙNG NỔ CHO HỆ THỐNG ÂM NHẠC Vũ Trụ Cổ Phong Bách Việt:
-Hệ thống Ngũ Đại Môn Phái này là khung sườn hoàn hảo để:
-1. **Viết lời bài hát (Lyrics):** Đầy ắp từ ngữ võ hiệp cổ phong thuần Việt (*Đoản đao lá lúa, Tre ngà Sóc Sơn, Gậy trúc Dạ Trạch, Cầm thần Cổ Nhạc, Áo chàm Giao Long*).
-2. **Thiết kế Visual & Thumbnail:** 5 trường phái trang phục rõ rệt từ dân dã mộc mạc, thiền môn thanh tịnh đến sa trường giáp trụ và hải vương uy nghi!
+### 🎵 ỨNG DỤNG THẾ GIỚI QUAN CHO HỆ THỐNG ÂM NHẠC CỔ PHONG BÁCH VIỆT:
+Hệ thống Ngũ Đại Môn Phái cung cấp chất liệu về ngôn ngữ, trang phục, nghề nghiệp và địa bản:
+1. **Ca dao, diễn xướng:** Từ ngữ võ hiệp cổ phong thuần Việt (*Đoản đao lá lúa, Tre ngà Sóc Sơn, Gậy trúc Dạ Trạch, Cầm thần Cổ Nhạc, Áo chàm Giao Long*).
+2. **Trang phục và bối cảnh:** Năm trường phái từ dân dã mộc mạc, thiền môn thanh tịnh đến sa trường giáp trụ và hải vương uy nghi.

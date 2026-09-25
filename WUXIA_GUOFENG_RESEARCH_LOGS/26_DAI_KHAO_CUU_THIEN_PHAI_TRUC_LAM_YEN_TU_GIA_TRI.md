@@ -1,9 +1,6 @@
 # 📜 ĐẠI KHẢO CỨU: NGUỒN GỐC TÊN GỌI, Ý NGHĨA & GIÁ TRỊ VĂN HÓA CỦA THIỀN PHÁI TRÚC LÂM YÊN TỬ
 
-> **Chủ trì Khảo cứu:** **Sử Quan Lê Văn (Học sĩ thứ 13)** & **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
-> **Cố vấn Triết học & Âm học:** **Noah An** & **Cadence**  
-> **Hệ sinh thái:** `Vũ Trụ Cổ Phong Bách Việt` | `Đại Việt Cổ Phong · Elohit Teams © 2026`  
-> **Mã quy chuẩn:** `CANON-ARCH-LORE-07`
+> **Tài liệu nghiên cứu công khai.** Khi có khác biệt, [`57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md`](57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md) được ưu tiên.
 
 ---
 
@@ -89,13 +86,9 @@ Việc **Phật hoàng Trần Nhân Tông** nhường ngôi cho con (vua Trần 
 
 ---
 
-## 🎼 IV. CHUYỂN HÓA VÀO HỆ SINH THÁI ÂM NHẠC Vũ Trụ Cổ Phong Bách Việt (SESSION 30 - 32)
+## 🎼 IV. ỨNG DỤNG VĂN HÓA VÀO THẾ GIỚI QUAN CỔ PHONG
 
-Từ tinh thần nguyên bản của Trúc Lâm Yên Tử, hệ thống Vũ Trụ Cổ Phong Bách Việt đã đúc kết và chuyển hóa thành các nguyên tắc sản xuất âm nhạc đỉnh cao:
-
-1. **Âm thanh Rừng Trúc & Tiếng Tiêu Đêm (Instrumental):**
-   * Sử dụng **Sáo Trúc Yên Tử, Động Tiêu thở mộc** làm giai điệu chủ đạo (80% Topline), mô phỏng tiếng gió luồn qua rặng trúc, thanh thoát và khoáng đạt.
-2. **Cấu trúc Không Gian Âm Học Mở (Acoustic Space):**
-   * Thiết lập Reverb chuẩn `Expansive open mountain valley / Bamboo forest mist`, không gian 3D ôm trọn màng nhĩ, tạo cảm giác như đang ngồi tĩnh lặng trên đỉnh non thiêng lộng gió.
-3. **Triệt Tiêu Hoàn Toàn Sự U Ám & Mê Tín:**
-   * Thay thế chuông mõ u ám bằng **tiếng suối nguồn róc rách, tiếng mưa rơi mái rạ và phím nỉ Felt Piano Cổ Nhạc**, giúp người nghe giải tỏa kiệt quệ thần kinh, tìm lại sự an yên tự tại giữa đời thường (*Cư trần lạc đạo*).
+Từ tinh thần của Trúc Lâm Yên Tử, tài liệu chỉ giữ những giá trị có thể kiểm chứng hoặc gắn nhãn hư cấu:
+1. **Không gian tĩnh lặng:** Tiếng suối, gió trúc, mùi lá thông và ánh sáng sớm tạo không gian thiền quán.
+2. **Kỹ năng chữa thương:** Nước xông, băng vải, nghỉ ngơi, dược thảo dân gian và chăm sóc vết thương; không tuyên bố phép chữa siêu nhiên.
+3. **Cộng đồng:** Am thất, kho dược, kỷ mục và việc trợ giúp người dân là chất liệu diễn giải có điều kiện, không gọi là “trạm liên lạc bí mật” nếu không có nguồn.

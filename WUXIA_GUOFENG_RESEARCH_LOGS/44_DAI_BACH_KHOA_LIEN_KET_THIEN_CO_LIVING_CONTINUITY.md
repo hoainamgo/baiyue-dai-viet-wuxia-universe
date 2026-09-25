@@ -1,8 +1,5 @@
-# ♾️ ĐẠI BÁCH KHOA LIÊN KẾT THIÊN CỔ: MẠCH NGẦM VĂN HÓA NỐI LIỀN QUÁ KHỨ - HIỆN TẠI (LIVING CONTINUITY CODEX v8.0)
-## BẢN ĐỒ HUYẾT MẠCH LIÊN KẾT HỮU CƠ CÁC YẾU TỐ VĂN HÓA TRUYỀN THỪA KHÔNG BỊ CẮT ĐỨT
-### HỆ THỐNG: `BÁCH VIỆT CODEX` · `ĐẠI VIỆT & BÁCH VIỆT THIÊN CỔ`
-### HỘI ĐỒNG BIÊN SOẠN: `Sử Quan Lê Văn` · `Tiểu Thuyết Gia Vũ Dạ Khách` · `Noah An` · `Harmony`
-
+# ♾️ ĐẠI BÁCH KHOA LIÊN KẾT THIÊN CỔ: NHỮNG MẠCH VĂN HÓA QUA NHIỀU THỜI KỲ
+> **Tài liệu diễn giải văn hóa công khai.** Các mạch dưới đây là đường kể nối quá khứ–hiện tại, không phải tuyên bố về sự liên tục không gián đoạn hay sự trường tồn nguyên vẹn của mọi thực hành.
 ---
 
 ## 🧭 I. TẦM NHÌN: TẠI SAO CÁC YẾU TỐ PHẢI "LIÊN KẾT XUYÊN THỜI GIAN"?
@@ -14,7 +11,7 @@ Trong Bách Việt Codex, không có gì là "đồ cổ nằm yên trong quá k
 ```
 [ NGUỒN GỐC THIÊN CỔ (BÁCH VIỆT / ĐÔNG A) ] 
                      │
-                     ▼ (MẠCH NGẦM HUYẾT QUẢN TRUYỀN THỪA 5.000 NĂM)
+                     ▼ (MẠCH VĂN HÓA QUA NHIỀU THỜI KỲ, CÓ BIẾN ĐỔI VÀ GIÁN ĐOẠN)
                      │
 [ ĐỜI SỐNG, TÂM HỒN & KÝ ỨC NGƯỜI VIỆT HÔM NAY ]
 ```
@@ -32,8 +29,8 @@ Trong Bách Việt Codex, không có gì là "đồ cổ nằm yên trong quá k
 │ 1  │ Bùn phù sa Sông Hồng & │ Bàn xoay ngàn năm qua     │ Chén trà men rạn Bát Tràng trên bàn    │
 │    │ Gốm Hoa Nâu Lý - Trần  │ Chu Đậu, Thổ Hà, Phù Lãng │ làm việc hiện đại, quán cà phê gốm mộc │
 ├────┼────────────────────────┼───────────────────────────┼────────────────────────────────────────┤
-│ 2  │ Đàn Đá & Trống Đồng    │ Âm vang tế trời, lệnh     │ Tiếng Trống Hội ngày hội làng, âm trầm │
-│    │ Đông Sơn hạ âm 40Hz    │ thúc quân xung trận       │ Sub-bass trong nhạc World Music / EDM  │
+│ 2  │ Đàn Đá & Trống Đông Sơn    │ Âm vang lễ hội, thúc quân  │ Tiếng trống hội ngày hội làng và thị kiến   │
+│    │ Đông Sơn                │ và nhịp cộng hưởng cộng đồng │ âm thanh trầm trong biểu diễn hiện đại  │
 ├────┼────────────────────────┼───────────────────────────┼────────────────────────────────────────┤
 │ 3  │ Thần Nông Viêm Đế &    │ "Nam Dược Trị Nam Nhân",  │ Nồi nước lá xông giải cảm của mẹ, chén │
 │    │ Y Đạo Tuệ Tĩnh 580 vị  │ Dược quán bên đường       │ trà gừng sả ấm bụng mùa đông hôm nay   │
@@ -47,7 +44,7 @@ Trong Bách Việt Codex, không có gì là "đồ cổ nằm yên trong quá k
 │ 6  │ Con thoi gỗ mun & Tơ   │ Làng nghề dệt lụa Cổ Đô,  │ Tà áo dài thướt tha của nữ sinh, chiếc │
 │    │ tằm sông Đáy nương dâu │ Vạn Phúc, Nha Xá          │ khăn lụa tơ tằm xuất khẩu toàn cầu     │
 ├────┼────────────────────────┼───────────────────────────┼────────────────────────────────────────┤
-│ 7  │ Độc huyền cầm Đàn Bầu  │ Tiếng ru "Ầu ơ" của mẹ,   │ Tiếng luyến láy ru hồn trong Bolero,   │
+│ 7  │ Độc huyền cầm Đàn dây  │ Tiếng ru "Ầu ơ" của mẹ,   │ Tiếng luyến láy ru hồn trong Bolero,   │
 │    │ uốn nốt vi mô          │ điệu Nam Ai nỉ non        │ nhạc phim điện ảnh và sân khấu quốc tế │
 ├────┼────────────────────────┼───────────────────────────┼────────────────────────────────────────┤
 │ 8  │ Niêu đất nung sứt mép  │ Cơm cháy cá bống kho,     │ Quán cơm niêu góc phố hiện đại, ký ức  │
@@ -72,9 +69,9 @@ Trong Bách Việt Codex, không có gì là "đồ cổ nằm yên trong quá k
   > *"Ngón tay người thợ gốm vuốt bùn non ngàn năm trước,  
   > Vẫn đọng lại hơi ấm nơi chén trà sớm mai ta nâng trên tay."*
 
-### 2. Mắt Xích Âm Thanh: *Từ Tiếng Trống Đồng Đến Nhịp Đập Trái Tim Hôm Nay*
-* **Điểm neo lịch sử:** Tiếng trống đồng Ngọc Lũ gióng lên ngày hội Tế Trời dâng hạt thóc mới.
-* **Mạch ngầm hôm nay:** Tiếng trống hội đầu xuân làng quê và dải trầm Sub-bass 50Hz làm rung chuyển lồng ngực người nghe hiện đại.
+### 2. Mắt Xích Âm Thanh: *Từ Tiếng Trống Đông Sơn Đến Nhịp Đập Trái Tim Hôm Nay*
+* **Điểm neo lịch sử:** Tiếng trống Đông Sơn Ngọc Lũ gióng lên ngày hội Tế Trời dâng hạt thóc mới.
+* **Mạch ngầm hôm nay:** Tiếng trống hội đầu xuân làng quê và tiếng trầm trong các không gian biểu diễn hiện đại; mô tả cảm giác âm thanh, không gắn tần số cụ thể.
 * **Cách lồng ghép ca từ:**
   > *"Tiếng đồng xưa vọng lại từ ngàn tầng đất sâu,  
   > Hòa vào nhịp bước chân ta đi giữa phố xá rực rỡ ánh đèn."*
@@ -106,6 +103,6 @@ Trong Bách Việt Codex, không có gì là "đồ cổ nằm yên trong quá k
 
 Mạch ngầm văn hóa giúp thế hệ hôm nay thấu hiểu sâu sắc nguồn cội, nuôi dưỡng lòng tự hào dân tộc và tình yêu thương đồng bào bền chặt.
 
-## 🛑 V. QUY CHUẨN ĐỒNG BỘ:
-Tài liệu liên kết xuyên thời gian này đã được lưu tại:  
-👉 [`docs/06_Ban Biên Soạn_and_Personas/DAI_BACH_KHOA_LIEN_KET_THIEN_CO_LIVING_CONTINUITY.md`](file:///C:/Apps/23.%20Music%20OS/docs/06_Ban Biên Soạn_and_Personas/DAI_BACH_KHOA_LIEN_KET_THIEN_CO_LIVING_CONTINUITY.md) *(Đồng bộ `MASTER_ARCHIVE_VAULT_2026` + Skill)*.
+## 🛑 V. CANON ƯU TIÊN
+
+Canon sử và hình ảnh công khai: [`57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md`](57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md) · [`58_CANON_VISUAL_DONG_A_TRAN_1225_1400.md`](58_CANON_VISUAL_DONG_A_TRAN_1225_1400.md).

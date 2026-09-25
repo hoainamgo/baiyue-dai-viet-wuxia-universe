@@ -28,8 +28,8 @@
 * **Kỷ vật:** Chiếc bàn xoay gốm bằng gỗ lim trăm tuổi.
 
 ### 02. Nguyễn Kim Đúc (Đại Nghệ Nhân Đúc Đồng Đông Sơn)
-* **Thân thế & Nghề nghiệp:** Tông sư đúc sáp chảy và định âm Trống Đồng Ngọc Lũ.
-* **Bi - Hoan - Ly - Hợp:** 7 lần đúc trống thất bại, gia sản kiệt quệ bị người đời chê cười (**Bi**). Được dân làng gom góp từng chiếc vòng đồng ủng hộ, cụ đúc thành công chiếc Trống Đồng thần kỳ vang xa 100 dặm (**Hoan**). Chia tay người em trai đi khai hoang phương Nam (**Ly**). Năm 80 tuổi gặp lại cháu con sum vầy dưới chân thạp đồng (**Hợp**).
+* **Thân thế & Nghề nghiệp:** Tông sư đúc sáp chảy và định âm Trống Đông Sơn Ngọc Lũ.
+* **Bi - Hoan - Ly - Hợp:** 7 lần đúc trống thất bại, gia sản kiệt quệ bị người đời chê cười (**Bi**). Được dân làng gom góp từng chiếc vòng đồng ủng hộ, cụ đúc thành công chiếc Trống Đông Sơn thần kỳ vang xa 100 dặm (**Hoan**). Chia tay người em trai đi khai hoang phương Nam (**Ly**). Năm 80 tuổi gặp lại cháu con sum vầy dưới chân thạp đồng (**Hợp**).
 * **Triết lý:** Lòng chân thành không kiêu ngạo, đem tiếng trống làm nhịp đập đoàn kết muôn dân.
 * **Kỷ vật:** Búa đồng khắc hình chim Lạc.
 
@@ -153,7 +153,7 @@
 * **Triết lý:** Tình yêu thương lan tỏa muôn thế hệ, thi ca vị nhân sinh.
 * **Kỷ vật:** Tập thơ chép tay trên giấy dó.
 
-*(... Cùng 15 Văn nhân & Nghệ sĩ: Họa Sĩ Tranh Đông Hồ, Chàng Thổi Sáo Diều Đê Sông Đáy, Thầy Đồ Làng Chu Đậu, Nữ Ca Sĩ Hát Then Xứ Lạng, Lão Kể Chuyện Cổ Tích Đầu Làng, Chàng Nho Sinh Nghèo Gánh Chữ, Cô Gái Đề Thơ Quạt Giấy, Bác Thợ Khắc Bản In Gỗ, Chàng Nhạc Sư Định Âm Trống Đồng, v.v.).*
+*(... Cùng 15 Văn nhân & Nghệ sĩ: Họa Sĩ Tranh Đông Hồ, Chàng Thổi Sáo Diều Đê Sông Đáy, Thầy Đồ Làng Chu Đậu, Nữ Ca Sĩ Hát Then Xứ Lạng, Lão Kể Chuyện Cổ Tích Đầu Làng, Chàng Nho Sinh Nghèo Gánh Chữ, Cô Gái Đề Thơ Quạt Giấy, Bác Thợ Khắc Bản In Gỗ, Chàng Nhạc Sư Định Âm Trống Đông Sơn, v.v.).*
 
 ---
 

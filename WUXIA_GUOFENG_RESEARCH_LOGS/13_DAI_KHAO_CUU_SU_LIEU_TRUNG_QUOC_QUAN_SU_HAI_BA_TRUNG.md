@@ -47,7 +47,7 @@ Cuộc khởi nghĩa Hai Bà Trưng toàn thắng 65 thành trì chỉ trong vò
     ▼                                    ▼                                    ▼
 [ 1. ĐẠI QUÂN TƯỢNG BINH ]      [ 2. THẦN TIỄN & NỎ LIÊN HOÀN ]       [ 3. NỮ QUÂN & HỆ THỐNG LẠC TƯỚNG ]
  • Bạch Tượng 2 ngà bọc đồng     • Nỏ đồng 3 cánh bắn liên châu       • 72 Nữ tướng kiệt xuất (Bát Nàn, Lê Chân)
- • Sóng hạ âm Trống Đồng         • Đầu mũi tên tẩm độc cây củ ngải    • Toàn dân xăm mình cầm đoản đao
+ • Sóng hạ âm Trống Đông Sơn         • Đầu mũi tên tẩm độc cây củ ngải    • Toàn dân xăm mình cầm đoản đao
  • Đè bẹp kỵ binh & cổng thành   • Bắn xa 500m xuyên khiên sắt        • Đòn chân kẹp cổ áp sát cận chiến
 ```
 
@@ -75,13 +75,13 @@ Cuộc khởi nghĩa Hai Bà Trưng toàn thắng 65 thành trì chỉ trong vò
 
 ```
 [ GHI CHÉP CỔ THƯ PHƯƠNG BẮC ] ──► [ TÁI HIỆN BẢN SẮC BÁCH VIỆT ] ──► [ CẢM XÚC ÂM NHẠC CỔ PHONG ]
- • "Đoản phát văn thân"              • An Thái xăm mình Giao Long       • Tiếng trống đồng dồn dập
+ • "Đoản phát văn thân"              • An Thái xăm mình Giao Long       • Tiếng trống Đông Sơn dồn dập
  • "Thuyền làm xe, chèo làm ngựa"    • Mộc Tĩnh Lan giáp đồng cưỡi voi  • Ca từ tự hào bất khuất
  • "Nỏ ngải, tên độc, voi chiến"     • Lời thề 65 thành Lĩnh Nam        • Hào khí ngàn năm sông núi
 ```
 
 1. **Khắc Họa Thần Thái Nhân Vật:**
    * Hiệp Khách **An Thái** mang trọn vẹn đặc trưng của dũng sĩ Lạc Việt cổ: Tóc cắt ngắn buộc cao, cơ bắp cuồn cuộn xăm hình Giao Long, tay cầm đoản đao lá lúa, bơi lặn như rái cá.
-   * Nàng **Mộc Tĩnh Lan** khoác áo choàng đỏ thắm, giáp ngực bằng đồng thau chạm chim Lạc, gióng hồi Trống Đồng Đông Sơn vang dội giữa sa trường!
+   * Nàng **Mộc Tĩnh Lan** khoác áo choàng đỏ thắm, giáp ngực bằng đồng thau chạm chim Lạc, gióng hồi Trống Đông Sơn vang dội giữa sa trường!
 2. **Chất Liệu Ca Từ Điện Ảnh:**
    * Từng câu hát đậm chất sử thi: *"Cắt tóc xăm mình nghìn năm giữ cõi Nam / Voi trắng gầm vang san bằng sáu mươi lăm thành lũy / Nước độc rừng thiêng đè bẹp mộng xâm lăng!"*.

@@ -63,11 +63,11 @@
 ## 🕊️ PHẦN IV: TÍCH HỢP VÀO THẾ GIỚI QUAN CỔ PHONG & NHẠC TRỊ LIỆU Cổ Nhạc (Vũ Trụ Cổ Phong Bách Việt)
 
 ```
-[ THẦN NÔNG BÁCH THẢO ] ──► [ TUỆ TĨNH THẦN PHƯƠNG ] ──► [ ĐÀN TRANH Cổ Nhạc ] ──► [ TÁC PHẨM CỔ PHONG ]
+[ THẦN NÔNG BÁCH THẢO ] ──► [ TUỆ TĨNH THẦN PHƯƠNG ] ──► [ ĐÀN DÂY Cổ Nhạc ] ──► [ TÁC PHẨM CỔ PHONG ]
  • Thảo Mộc Đại Ngàn          • Y Đạo Cứu Thương Sa Trường   • Tần Số Sóng Não Alpha      • Chữa Lành Tâm Hồn & Thể Xác
 ```
 
 1. **Hình Tượng Nhân Vật Nàng Mộc Tĩnh Lan:**
-   * Nàng không chỉ là một cầm sư gảy đàn Tranh, mà chính là **Truyền nhân Y Đạo Tuệ Tĩnh**: Đeo gùi thuốc nứa sau lưng, hái ngải cứu đắp vết thương đao kiếm cho An Thái, nấu cháo gừng giải hàn đêm đông Vạn Kiếp.
+   * Nàng không chỉ là một cầm sư gảy đàn dây, mà chính là **Truyền nhân Y Đạo Tuệ Tĩnh**: Đeo gùi thuốc nứa sau lưng, hái ngải cứu đắp vết thương đao kiếm cho An Thái, nấu cháo gừng giải hàn đêm đông Vạn Kiếp.
 2. **Âm Nhạc Trị Liệu Dược Cảnh Cổ Nhạc:**
    * Các bản nhạc Cổ Phong trong Vũ Trụ Cổ Phong Bách Việt (như *Ngọa Vân Thính Vũ*, *Trà Thất Sen Tây Hồ*, *Vườn Dược Nam Tuệ Tĩnh*) được điều chỉnh tần số chuẩn **Cổ Nhạc** — tần số cộng hưởng của vũ trụ và thảo mộc thiên nhiên, giúp người nghe giải tỏa stress, an thần ngủ ngon và cân bằng năng lượng cơ thể!

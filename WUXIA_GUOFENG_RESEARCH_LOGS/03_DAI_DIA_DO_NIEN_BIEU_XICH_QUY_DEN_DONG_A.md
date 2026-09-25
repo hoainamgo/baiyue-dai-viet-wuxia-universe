@@ -59,7 +59,7 @@
   * **Sơn Tinh (Tản Viên Sơn Thánh)**: Thủ lĩnh trị thủy đắp đê ngăn lũ, biểu tượng quật cường chống thiên tai.
   * **Tiên Dung & Chử Đồng Tử**: Biểu tượng tình yêu tự do, mở mang thương nghiệp đầm Dạ Trạch.
 * **Dấu Vết Khảo Cổ & Văn Thơ:**
-  * **Khảo cổ:** Di chỉ Phùng Nguyên, Đồng Đậu, Gò Mun; Hàng ngàn Trống đồng Đông Sơn (Ngọc Lũ, Hoàng Hạ).
+  * **Khảo cổ:** Di chỉ Phùng Nguyên, Đồng Đậu, Gò Mun; Hàng ngàn Trống Đông Sơn (Ngọc Lũ, Hoàng Hạ).
   * **Văn thơ:** Ca dao *"Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra"*; Truyền thuyết bánh chưng bánh giầy.
 
 ---
@@ -75,7 +75,7 @@
   * **Tướng quân Cao Lỗ (Đô Lỗ)**: Công trình sư quân sự vĩ đại, sáng chế **Nỏ Thần Liên Châu** bắn một phát ra hàng trăm mũi tên đồng.
   * **Mỵ Châu & Trọng Thủy**: Câu chuyện tình bi tráng và bài học cảnh giác bảo vệ chủ quyền non sông.
 * **Dấu Vết Khảo Cổ & Văn Thơ:**
-  * **Khảo cổ:** Khai quật hàng vạn **Mũi tên đồng Cổ Loa ba cạnh**, trống đồng Cổ Loa, lưỡi cày đồng hình cánh bướm.
+  * **Khảo cổ:** Khai quật hàng vạn **Mũi tên đồng Cổ Loa ba cạnh**, trống Đông Sơn Cổ Loa, lưỡi cày đồng hình cánh bướm.
   * **Văn thơ:** Ca dao Cổ Loa: *"Ai về qua huyện Đông Anh / Ghé xem phong cảnh Loa Thành Thục Vương"*.
 
 ---
@@ -91,7 +91,7 @@
   * **Thi Sách**: Lạc tướng Chu Diên, ngọn cờ khơi dậy ý chí rửa hận non sông.
   * **72 Nữ Tướng Mê Linh**: Thánh Thiên, Lê Chân (mở mang vùng Hải Phòng), Bát Nàn, Nàng Tía, Phật Nguyệt...
 * **Dấu Vết Khảo Cổ & Văn Thơ:**
-  * **Khảo cổ:** Dấu tích thành cổ Mê Linh, đền Hát Môn, trống đồng Mê Linh.
+  * **Khảo cổ:** Dấu tích thành cổ Mê Linh, đền Hát Môn, trống Đông Sơn Mê Linh.
   * **Văn thơ:** Bốn câu Hịch Sông Hát bất hủ: *"Một xin rửa sạch nước thù / Hai xin đem lại nghiệp xưa họ Hùng..."*
 
 ---

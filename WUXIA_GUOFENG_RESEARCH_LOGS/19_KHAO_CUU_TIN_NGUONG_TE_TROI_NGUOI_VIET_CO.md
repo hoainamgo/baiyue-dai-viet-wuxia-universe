@@ -62,7 +62,7 @@ Khác với các tôn giáo đa thần du nhập sau này, từ hàng nghìn nă
 ```
 [ NGHI LỄ TẾ TRỜI NGUYÊN THỦY ] ──────► [ HÌNH TƯỢNG NHÂN VẬT VÕ HIỆP ] ──────► [ ÂM NHẠC CỔ PHONG ]
  • Bàn thờ thiên ngoài trời lộ thiên       • An Thái ngửa mặt thề dưới trời         • Tiếng gió hú đại ngàn
- • Nước suối trong & hạt thóc vàng         • Mộc Tĩnh Lan chắp tay cầu nguyện       • Tiếng trống đồng tế trời
+ • Nước suối trong & hạt thóc vàng         • Mộc Tĩnh Lan chắp tay cầu nguyện       • Tiếng trống Đông Sơn tế trời
  • Không khói nhang, lòng son trong sạch    • Tình yêu chứng giám bởi Ông Trời      • Lời hát mộc mạc, chân thành
 ```
 

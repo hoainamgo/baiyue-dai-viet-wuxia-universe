@@ -40,12 +40,12 @@
 ### 🌾 2. KỶ VĂN LANG & ĐÔNG SƠN (4.000 – 2.300 NĂM TRƯỚC)
 * **📜 Tầng Lớp Giỏi Văn & Lễ Nhạc:**
   * **Lạc Hầu & Bồ Chính**: Các đại thần cai quản việc chính sự, tổ chức mùa màng, giữ gìn luật tục hòa thuận xóm làng.
-  * **Nhạc Sư Đông Sơn**: Người định âm 5 nốt Ngũ Cung (Cung, Thương, Dốc, Chủy, Vũ) trên Trống Đồng, hòa tấu cùng Khèn Bè và Đàn Đá Cổ Nhạc.
+  * **Nhạc Sư Đông Sơn**: Người định âm 5 nốt Hệ năm nốt (Cung, Thương, Dốc, Chủy, Vũ) trên Trống Đông Sơn, hòa tấu cùng Khèn Bè và Đàn Đá Cổ Nhạc.
 * **⚔️ Tầng Lớp Giỏi Võ & Đô Vật Làng:**
   * **Phù Đổng Thiên Vương (Thánh Gióng)**: Anh hùng dân tộc, biểu tượng võ học đập tan giặc Ân bằng gậy sắt và bụi tre ngà.
   * **Đô Vật Liễu Đôi & Đô Vật Mai Động**: Các đô vật dân gian thượng thặng, sáng tạo thế võ "Đoán hạ cước", "Đòn chân kẹp cổ" phá vỡ đội hình kỵ binh giặc.
 * **🔨 Tầng Lớp Bách Công Tinh Hoa:**
-  * **Đại Nghệ Nhân Đúc Đồng Đông Sơn**: Sáng chế kỹ thuật đúc tượng sáp chảy, tạo ra các tuyệt tác Trống đồng Ngọc Lũ, Thạp đồng Đào Thịnh với hoa văn chim Lạc bay vút.
+  * **Đại Nghệ Nhân Đúc Đồng Đông Sơn**: Sáng chế kỹ thuật đúc tượng sáp chảy, tạo ra các tuyệt tác Trống Đông Sơn Ngọc Lũ, Thạp đồng Đào Thịnh với hoa văn chim Lạc bay vút.
   * **Nghệ Nhân Đóng Thuyền Rồng**: Đẽo gọt các chiến thuyền độc mộc dài hàng chục mét, mũi thon lướt sóng nhanh như tên bắn.
 
 ---
@@ -108,7 +108,7 @@
   * **Nghề nghiệp:** Thống lĩnh thủy binh Lục Đầu Giang, chế tác đoản đao lá lúa, luyện kiếm bên rừng trúc Yên Tử.
 * **🏺 ĐẠI NGHỆ NHÂN MỘC TĨNH LAN (Kỳ Nữ Chu Đậu & Y Sĩ Trúc Lâm):**
   * **Danh hiệu:** **"Đại Nghệ Sư Men Lam Đông A"** & **"Dược Sư Nương Trúc Lâm"**.
-  * **Nghề nghiệp:** Kỹ nghệ gốm hoa nâu và men lam Chu Đậu; Nắm giữ bí truyền 580 vị thuốc nam kết hợp âm nhạc Đàn Tranh Cổ Nhạc chữa lành sa trường.
+  * **Nghề nghiệp:** Kỹ nghệ gốm hoa nâu và men lam Chu Đậu; Nắm giữ bí truyền 580 vị thuốc nam kết hợp âm nhạc Đàn dây Cổ Nhạc chữa lành sa trường.
 * **🔨 Tầng Lớp Thợ Thủ Công Làng Nghề:**
   * **Thợ Rèn Làng Đa Hội / Sắt Vạn Kiếp**: Rèn gươm giáo, đoản đao thép nguội dẻo dai chém sắt không mẻ.
   * **Thợ Gốm Chu Đậu (Nam Sách)**: Nung gốm 1.200 độ C, xuất khẩu đồ gốm men ngọc đi khắp các thương cảng thế giới (Cù Lao Chàm, Cattigara, Trung Đông).

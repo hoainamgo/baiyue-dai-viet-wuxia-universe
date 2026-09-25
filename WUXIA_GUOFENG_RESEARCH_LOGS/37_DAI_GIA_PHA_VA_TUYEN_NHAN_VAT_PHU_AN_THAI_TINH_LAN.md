@@ -1,11 +1,7 @@
 # 🌳 ĐẠI GIA PHẢ 5 ĐỜI & MA TRẬN NHÂN VẬT TUYẾN PHỤ: AN THÁI & MỘC TĨNH LAN
-## (THE FIVE-GENERATION GENEALOGY & SATELLITE CHARACTER CODEX: AN THAI & MOC TINH LAN UNIVERSE)
-
-> **Cơ quan Khảo cứu Phả hệ:** Viện Lịch Sử & Nhân Vật Cổ Phong — `Viện Hàn Lâm Lịch Sử & Thi Ca Bách Việt`  
-> **Chủ trì Biên soạn Phả hệ & Kịch bản:** **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
-> **Chủ trì Thẩm tra Sử liệu:** **Sử Quan Lê Văn**  
-> **Chỉ đạo Tạo hình & Phục trang Visual 4K:** **Sylvia (Fashion & Visual Director)**  
-> **Cố vấn Thanh nhạc & Mỹ học:** **Melody**, **Bạch Hạc** & **Cadence**  
+## Bản hư cấu có kiểm soát cho thế giới quan Đông A
+> **Bản hư cấu có kiểm soát:** Toàn bộ gia phả, tên tiền nhân và quan hệ trong tài liệu là sáng tạo cho An Thái – Mộc Tĩnh Lan, không phải hồ sơ gia đình lịch sử.
+> Khi có khác biệt, [`57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md`](57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md) và [`58_CANON_VISUAL_DONG_A_TRAN_1225_1400.md`](58_CANON_VISUAL_DONG_A_TRAN_1225_1400.md) được ưu tiên.
 
 ---
 
@@ -120,7 +116,7 @@ Dưới đây là 20 nhân vật phụ có tiểu sử, tính cách, kỹ năng 
 │ 6 │ **Lão Đò Ba Bến**        │ Người đưa đò nghĩa hiệp     │ Lão đò 70 tuổi chèo đò bến sông Luộc. Mắt sáng tai     │
 │   │                          │                             │ thông, là trạm giao liên bí mật chuyển tin sa trường.  │
 ├───┼──────────────────────────┼─────────────────────────────┼────────────────────────────────────────────────────────┤
-│ 7 │ **Đặng Lạc Thiết**       │ Trưởng phường đúc đồng      │ Nghệ nhân đúc đồng Thanh Hóa. Đúc trống đồng Đông Sơn   │
+│ 7 │ **Đặng Lạc Thiết**       │ Trưởng phường đúc đồng      │ Nghệ nhân đúc đồng Thanh Hóa. Đúc trống Đông Sơn   │
 │   │                          │                             │ và mũi tên đồng cho quân đội An Thái.                  │
 ├───┼──────────────────────────┼─────────────────────────────┼────────────────────────────────────────────────────────┤
 │ 8 │ **Sầm Vạn Hùng**         │ Tù trưởng sơn cước Mèo Vạc  │ Thủ lĩnh người Tày - Nùng tiếp viện 5.000 kỵ binh rừng │
@@ -170,7 +166,7 @@ Dưới đây là 20 nhân vật phụ có tiểu sử, tính cách, kỹ năng 
 
 1. **Khóa Chặt Visual Mô Tả Hình Thái 4K:**
    * Tạo hình nhân vật nguyên bản cho **An Thái** (áo chàm, đoản đao, sẹo nhẹ gò má, kỷ vật gốm trước ngực) và **Mộc Tĩnh Lan** (áo tứ thân mộc mạc, khăn lụa, trâm cài hoa sen, giỏ thuốc nam bên bàn xoay) đều bám sát 100% phả hệ này.
-2. **Cốt Truyện & Tuyển Tập Văn Học Cổ Phong:**
-   * Từng nhân vật phụ (*Lão Đò, Huyền Giác Thiền Sư, Bùi Thủy Lôi, Mộc Tĩnh Uyên*) sẽ là nhân vật chính hoặc khách mời trong các ca khúc thuộc Session 30 và các album kế tiếp.
-3. **Triết Lý Thi Ca Bất Biến:**
-   * Đại gia phả này củng cố nền tảng **Đạo Hiếu Song Thân & Tình Yêu Son Sắt**, tạo nên linh hồn sống động cho toàn bộ vũ trụ âm nhạc Đại Việt Cổ Phong!
+2. **Cốt truyện và tuyển tập văn học:**
+   * Nhân vật phụ như Lão Đò, Huyền Giác Thiền Sư, Bùi Thủy Lôi và Mộc Tĩnh Uyên có thể mở rộng thành truyện ngắn hoặc tình huống truyện, không gắn với phiên sản xuất nội bộ.
+3. **Triết lý thi ca bất biến:**
+   * Gia phả củng cố nền tảng hiếu thảo, thủy chung và nghề truyền thống; mọi tuyên bố chữa bệnh hoặc hiệu quả tâm lý phải được trình bày là huyễn thoại hoặc cảm hứng nghệ thuật.

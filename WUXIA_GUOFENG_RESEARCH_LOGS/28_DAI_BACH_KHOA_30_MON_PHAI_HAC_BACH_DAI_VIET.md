@@ -28,19 +28,17 @@
 * **Y phục:** Áo chàm xẻ ngực, xăm mình Giao Long, tay thích chữ *Sát Thát*.
 
 ### 2. 🌸 TRÚC LÂM THIỀN MÔN & KIM NGÔ ẨN VỆ (Non Thiêng Yên Tử - Ngọa Vân Am):
-* **Bản chất thế lực — Chốt Chặn Tiền Tiêu & Cuộc "Dời Đô Ngầm" Bảo Vệ Non Sông:**
-  - Vị vua anh hùng 2 lần đại phá Mông Cổ (Thái Thượng Hoàng Trần Nhân Tông) không phải lên Yên Tử nghỉ dưỡng, mà là **nước tính chiến lược quân sự đầy thâm ý**: Không công khai dời đô để tránh khiêu khích phương Bắc, nhưng âm thầm chuyển trung tâm chỉ huy tối cao về địa thế hiểm yếu Đông Triều, trực tiếp canh giữ cửa ngõ sông Bạch Đằng và đường bộ biên ải.
-  - Sau lưng Ngài là **Kim Ngô Ẩn Vệ** (Cấm Vệ Hoàng Gia) cải trang thành tiều phu, tăng binh, đốn củi, kết hợp mạng lưới am thiền làm trạm tình báo, kho lương và trung tâm cứu thương $\rightarrow$ Tạo nên **Đại Tông Môn Thiền Võ - Hoàng Quyền - Tiền Tiêu Trấn Sơn** hùng mạnh bậc nhất võ lâm cõi Nam.
-* **Nguồn gốc & Nhân vật:** Phật Hoàng Trần Nhân Tông, Thánh Thuốc Nam Tuệ Tĩnh $\rightarrow$ **Nàng Mộc Tĩnh Lan** (`Moc_Tinh_Lan_square.png`) & **Thống Lĩnh Ẩn Vệ**.
+* **Bản chất thế lực:** Cộng đồng thợ gốm, thợ dệt, thầy thuốc, người chăn nuôi và thiền sư quanh vùng Yên Tử; phần phòng thủ, kho dược hoặc “đô thì hư cấu” phải được gắn nhãn khi kể chuyện.
+* **Nguồn gốc & Nhân vật:** Lớp di sản Thiền Trúc Lâm thời Trần và dược thảo dân gian; Mộc Tĩnh Lan là nhân vật hư cấu, không phải nhân vật lịch sử.
 * **Võ học & Binh khí:**
   - *Trúc Kiếm Thiền Tâm (Lão Mai Quyền - điểm 108 huyệt đạo không sát sinh)*.
   - *Kim Ngô Phá Vân Kiếm Pháp (Võ công Cấm vệ bảo vệ Hoàng đế)*.
-  - *Y Đạo Thần Nông - Tuệ Tĩnh (580 vị thuốc nam kết hợp Đàn Tranh Cổ Nhạc trị liệu sa trường)*.
-* **Y phục & Binh khí:** Áo nâu sồng thiền tăng mộc mạc, Tứ thân lụa thô Chu Đậu; bên trong lót giáp mềm hộ tâm bằng đồng dát vàng; Kiếm trúc Yên Tử, Đàn Tranh gỗ dâu tơ tằm, gùi thuốc nứa sau lưng thoang thoảng hương sen và ngải cứu.
+  * *Y Đạo dân gian – dược thảo, chăm sóc và nghỉ ngơi; không tuyên bố phép chữa bằng âm nhạc.*
+* **Y phục & Binh khí:** Áo nâu sồng thiền tăng mộc mạc, Tứ thân lụa thô Chu Đậu; bên trong lót giáp mềm hộ tâm bằng đồng dát vàng; Kiếm trúc Yên Tử, Đàn dây gỗ dâu tơ tằm, gùi thuốc nứa sau lưng thoang thoảng hương sen và ngải cứu.
 
 ### 3. 🏔️ TẢN VIÊN SƠN MÔN (Non Thiêng Ba Vì):
 * **Nguồn gốc:** Đệ Nhất Phúc Thần Tản Viên Sơn Thánh (Sơn Tinh) & Dũng Sĩ Thạch Sanh.
-* **Võ học & Binh khí:** *Tản Viên Chấn Sơn Kình (mình đồng da sắt)*, *Khai Sơn Phủ Pháp*, *Hùng Kê Quyền*. Đại Khai Sơn Phủ (rìu sắt 50 cân), Cổ Cầm Đàn Thần Cổ Nhạc giải giáp quân thù.
+* **Võ học & Binh khí:** *Tản Viên Chấn Sơn Kình (mình đồng da sắt)*, *Khai Sơn Phủ Pháp*, *Hùng Kê Quyền*. Đại Khai Sơn Phủ (rìu sắt 50 cân), đàn dây cổ gỗ dâu tơ tằm; âm thanh chỉ mang tính biểu tượng, không chữa giáp binh đao.
 * **Y phục:** Áo đũi chàm lót da thú rừng già, đi chân đất, quấn khăn đỏ.
 
 ### 4. ⚡ PHÙ ĐỔNG THIẾT GIA (Núi Sóc Sơn & Cổ Loa):
@@ -65,7 +63,7 @@
 
 ### 8. 🐘 MÊ LINH TƯỢNG PHÁI (Đất Tổ Mê Linh):
 * **Nguồn gốc:** Hai Bà Trưng (Trưng Trắc - Trưng Nhị) & Nữ Tướng Bát Nàn.
-* **Võ học & Binh khí:** *Mê Linh Trận Đồ Tượng Pháp*, *Song Kiếm Mê Linh*. Trống đồng Đông Sơn gióng lệnh, Song kiếm đồng cán chuôi phụng.
+* **Võ học & Binh khí:** *Mê Linh Trận Đồ Tượng Pháp*, *Song Kiếm Mê Linh*. Trống Đông Sơn gióng lệnh, Song kiếm đồng cán chuôi phụng.
 * **Y phục:** Giáp ngực đồng thau chạm chim Lạc, áo lụa đỏ thắm.
 
 ### 9. 🥋 NHẤT NAM HÉT PHÁI (Thanh - Nghệ Tĩnh):
@@ -108,8 +106,8 @@
 * **Y phục:** Áo Tứ thân màu cánh sen ngậm sương, toát hương trà thanh khiết.
 
 ### 16. 🗿 ĐÔNG SƠN ĐỒNG MÔN (Làng Rèn Đúc Đồng Thiệu Hóa - Thanh Hóa):
-* **Nguồn gốc:** Hậu duệ các nghệ nhân luyện đồng đúc Trống Đồng Đông Sơn.
-* **Võ học & Binh khí:** *Thần Đồng Hộ Thể Công*. Búa tạ đúc đồng, Trống đồng hộ tâm kính.
+* **Nguồn gốc:** Hậu duệ các nghệ nhân luyện đồng đúc Trống Đông Sơn.
+* **Võ học & Binh khí:** *Thần Đồng Hộ Thể Công*. Búa tạ đúc đồng, Trống Đông Sơn hộ tâm kính.
 * **Y phục:** Tạp dề da trâu chống cháy, cánh tay cuồn cuộn cơ bắp.
 
 ### 17. 🌿 HƯƠNG SƠN DƯỢC TỘC (Dãy Núi Hương Sơn - Hà Tĩnh):

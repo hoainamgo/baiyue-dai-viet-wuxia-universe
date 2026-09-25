@@ -18,7 +18,7 @@
  • "Công cha như núi Thái Sơn"      • Thờ kính duy nhất "ÔNG TRỜI"      • Thảo mộc Thần Nông - Tuệ Tĩnh
  • Phụng dưỡng song thân            • Bàn thờ đá lộ thiên trước sân     • Trồng lúa nước & thủy chiến
  • Tình nghĩa gia đạo trăm năm      • Dâng nước trong & thóc vàng       • Tình yêu chung thủy son sắt
- • Trọng ân tình tiên tổ            • Tuyệt đối KHÔNG thắp nhang        • Âm nhạc ngũ cung Cổ Nhạc
+ • Trọng ân tình tiên tổ            • Tuyệt đối KHÔNG thắp nhang        • Âm nhạc hệ năm nốt Cổ Nhạc
 ```
 
 ---
@@ -35,7 +35,7 @@ Dù trải qua hàng ngàn năm thiên tai và chính sách hủy diệt thư t�
 
 ### 2. Vì Sao Thư Tịch Viết Bị Đứt Gãy Nhưng Hồn Thơ Bất Tử?
 * **Nạn đốt sách & phá hủy di sản:**
-  * Năm 43 SCN: **Mã Viện** tịch thu toàn bộ trống đồng, đốt sạch sách thẻ tre (trúc giản), xóa sổ các trường dạy chữ Khoa Đẩu.
+  * Năm 43 SCN: **Mã Viện** tịch thu toàn bộ trống Đông Sơn, đốt sạch sách thẻ tre (trúc giản), xóa sổ các trường dạy chữ Khoa Đẩu.
   * Năm 1407: **Nhà Minh (Trương Phụ)** ban lệnh triệt hạ: Tịch thu toàn bộ sách vở, văn bia, gia phả của Đại Việt chở về Kim Lăng hoặc đốt cháy thành tro.
 * **Sức sống truyền khẩu kỳ diệu:** Người Việt đã chuyển hóa toàn bộ kho tàng sử thi thành **Ca dao, Dân ca, Điệu hò, Thơ Lục Bát và Hát Xoan / Quan Họ**, truyền từ miệng mẹ sang tai con suốt 5.000 năm không hề đứt đoạn.
 
@@ -57,7 +57,7 @@ Dù trải qua hàng ngàn năm thiên tai và chính sách hủy diệt thư t�
 ├───────────────────────────────────────┼───────────────────────────────────────────────────────────────────────────┤
 │ 3. VĂN HÓA MỀM & Y ĐẠO THẢO MỘC       │ • Y Đạo Thần Nông - Tuệ Tĩnh: 580 vị thuốc nam thuận theo tự nhiên.       │
 │    (Soft Power, Herbal Healing, Arts) │ • Tình yêu lứa đôi thủy chung son sắt: "Một chiếc bát gốm chia đôi".     │
-│                                       │ • Nghệ thuật ngũ cung Cổ Nhạc chữa lành, giao hòa cùng trời đất.           │
+│                                       │ • Nghệ thuật hệ năm nốt Cổ Nhạc chữa lành, giao hòa cùng trời đất.           │
 └───────────────────────────────────────┴───────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -71,10 +71,10 @@ Dưới đây là 5 áng thi ca sử thi được các Học sĩ (**Sử Quan L�
 
 ### 🌊 SỬ THI 1: KHỞI NGUYÊN BẦU MẸ & TRẬN HỒNG THỦY TÁI SINH
 > **Thể loại:** Hùng ca sử thi Thượng Cổ Bách Việt (Ancient Genesis Epic)  
-> **Âm giai:** Ngũ cung Cổ phong • Nhịp điệu Trống đồng rền vang  
+> **Âm giai:** Hệ năm nốt Cổ phong • Nhịp điệu Trống Đông Sơn rền vang
 
 ```text
-[Khởi Khúc - Tiếng Sấm Dội & Trống Đồng Đông Sơn Rền Vang]
+[Khởi Khúc - Tiếng Sấm Dội & Trống Đông Sơn rền vang]
 Thuở trời đất mịt mờ khói sóng,
 Nước dâng tràn ngập đỉnh núi cao.
 Bão giông cuộn đỏ ngàn sao,
@@ -96,7 +96,7 @@ Mở cõi Trường Giang... nối dải giang sơn!
 
 ### 🕊️ SỬ THI 2: ĐẠO HIẾU NGHÌN NĂM & KHÚC CA ƠN ĐẤNG SINH THÀNH
 > **Thể loại:** Trữ tình gia đạo cổ phong (Filial Piety Hymn)  
-> **Nhạc cụ:** Đàn Tranh, Đàn Bầu, Sáo Trúc êm đềm  
+> **Nhạc cụ:** Đàn dây, đàn dây cổ, tiếng sáo êm đềm
 
 ```text
 [Khổ 1 - Giọng Nữ Ngân Vang Dịu Dàng]
@@ -125,7 +125,7 @@ Gia phong muôn thuở vững bền muôn sau!
 > **Bối cảnh:** Bến sông Dương Tử thế kỷ VI TCN  
 
 ```text
-[Khổ 1 - Tiếng Mái Chèo Khua Nước & Sáo Động Tiêu]
+[Khổ 1 - Tiếng Mái Chèo Khua Nước & Sáo Tre]
 Đêm nay đêm nào, thuyền trôi trên sông rộng?
 Trăng soi mặt nước, bến bờ Trường Giang.
 Tay cầm mái chèo khua dòng nước biếc,
@@ -142,7 +142,7 @@ Chỉ mong cùng bước chung đường trăm năm!
 
 ### 🌿 SỬ THI 4: Y ĐẠO THẦN NÔNG & KHÚC CA CÂY CỎ CHỮA LÀNH
 > **Thể loại:** Dược nhạc trị liệu Cổ Nhạc (Ancient Herbal Healing Ode)  
-> **Nhạc cụ:** Đàn Guqin, Chuông gió, Tiếng mưa rào trên lá thảo mộc  
+> **Nhạc cụ:** Đàn dây cổ, Chuông gió, Tiếng mưa rào trên lá thảo mộc
 
 ```text
 [Khổ 1 - Tiếng Gõ Cối Đá & Hương Trầm Thanh Nhẹ]
@@ -182,10 +182,9 @@ Mảnh gốm trùng phùng... đất hóa tri âm!
 
 ## 🏛️ PHẦN IV: QUY CHUẨN TÍCH HỢP VÀO HỆ SINH THÁI Vũ Trụ Cổ Phong Bách Việt
 
-1. **Khóa Chặt 3 Trục Đạo Đức Trong Mọi Sáng Tác:**
-   * Mọi bài hát Cổ Phong trong Vũ Trụ Cổ Phong Bách Việt (Session 30 và tương lai) đều phải phản ánh sâu sắc **Đạo Hiếu Kính Cha Mẹ, Tín Ngưỡng Tế Trời Lộ Thiên Thuần Khiết** và **Tình Yêu Thủy Chung Không Vụ Lợi**.
-2. **Âm Học Chuẩn Cổ Nhạc:** Tần số chữa lành được áp dụng trong toàn bộ khâu.
-3. **Bảo Tồn Bản Sắc Ngôn Ngữ:** 100% ca từ sử dụng từ ngữ thuần Việt giàu hình tượng giác quan, tuyệt đối không dùng sáo ngữ lai căng.
+1. **Nguyên tắc đạo đức:** Ưu tiên hiếu thảo, tình yêu thủy chung, tinh thần cộng đồng và ngôn ngữ giàu hình tượng Việt; tránh khẳng định tuyệt đối về tính đúng của mọi tuyên bố lịch sử.
+2. **Y đạo:** Mô tả dược thảo, chăm sóc và nghỉ ngơi như thế giới quan văn hóa; không tuyên bố tần số chữa bệnh thay thế y khoa.
+3. **Ngôn ngữ:** Giữ từ ngữ tiếng Việt giàu hình tượng giác quan khi phù hợp bối cảnh.
 
 ---
 

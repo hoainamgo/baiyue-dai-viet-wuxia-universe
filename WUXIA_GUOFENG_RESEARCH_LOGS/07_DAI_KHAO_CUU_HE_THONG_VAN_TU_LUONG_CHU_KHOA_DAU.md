@@ -65,7 +65,7 @@ Tại đồng bằng sông Hồng và lưu vực sông Mã, hàng loạt hiện 
 │ 3. Gốm Phùng Nguyên & Đồng Đậu        │ • Các mảnh gốm niên đại 4.000 năm mang các ký hiệu văn tự khắc chìm sắc   │
 │    (Phú Thọ, Vĩnh Phúc)               │   nét trước khi nung, có tính hệ thống biểu ý và ký hiệu số đếm.         │
 ├───────────────────────────────────────┼───────────────────────────────────────────────────────────────────────────┤
-│ 4. Trống đồng Sông Đà, Ngọc Lũ,       │ • Hệ thống hoa văn trên mặt trống đồng không đơn thuần là trang trí mà là │
+│ 4. Trống Đông Sơn Sông Đà, Ngọc Lũ,       │ • Hệ thống hoa văn trên mặt trống Đông Sơn không đơn thuần là trang trí mà là │
 │    Hoàng Hạ                           │   "Sử Thi Bằng Hình Ảnh & Ký Hiệu": Lịch pháp thiên văn, chu kỳ mùa màng.│
 └───────────────────────────────────────┴───────────────────────────────────────────────────────────────────────────┘
 ```
@@ -89,14 +89,14 @@ Không chỉ khảo cổ học hiện đại, chính các bộ sử thư cổ k�
 
 ```
 [ CHỮ KHOA ĐẨU / BÁCH VIỆT ] ──► [ BI KỊCH MÃ VIỆN (NĂM 43 SCN) ] ──► [ TIẾP BIẾN THÀNH CHỮ NÔM ]
- • Hệ thống chữ viết tự chủ        • Tịch thu trống đồng đúc ngựa        • Dùng âm Việt ghi hồn Việt
+ • Hệ thống chữ viết tự chủ        • Tịch thu trống Đông Sơn đúc ngựa        • Dùng âm Việt ghi hồn Việt
  • Ghi chép y thuật, lịch sử       • Tịch thu, đốt sách thẻ tre          • Đỉnh cao thời Lý - Trần
  • Khắc ngọc, đồng, lá buông       • Cấm dạy và lưu hành chữ cổ          • Thơ văn bất hủ Nguyễn Trãi
 ```
 
 * **Chính Sách Đồng Hóa & Tiêu Diệt Văn Hóa Khốc Liệt:**
   * Sau khi dập tắt cuộc khởi nghĩa Hai Bà Trưng (năm 43 SCN), viên tướng Đông Hán **Mã Viện** đã thi hành chính sách triệt hạ văn hóa tàn bạo:
-    * **Tịch thu toàn bộ trống đồng, thạp đồng, binh khí** có khắc ký tự Việt cổ để nấu chảy đúc thành Cột đồng Mã Viện và ngựa đồng.
+    * **Tịch thu toàn bộ trống Đông Sơn, thạp đồng, binh khí** có khắc ký tự Việt cổ để nấu chảy đúc thành Cột đồng Mã Viện và ngựa đồng.
     * **Đốt sạch các thư tịch thẻ tre, sách lá buông** ghi chép gia phả, y thuật, võ kinh và lịch sử của người Lạc Việt.
     * Cưỡng ép dùng chữ Hán trong toàn bộ hệ thống quan lại và trường học.
 * **Sức Sống Mãnh Liệt Của Hồn Việt:**
@@ -106,13 +106,11 @@ Không chỉ khảo cổ học hiện đại, chính các bộ sử thư cổ k�
 
 ## 🐉 PHẦN V: TÍCH HỢP HỌC THUẬT VÀO VŨ TRỤ CỔ PHONG Đại Việt Cổ Phong
 
-### 1. Chi Tiết Kịch Bản Trong Các Tác Phẩm Cổ Phong (Session 30):
+### 1. Chi tiết kịch bản trong các tác phẩm Cổ Phong:
 * **Đề Thơ Chữ Nôm & Ký Tự Khoa Đẩu Đáy Bình Gốm:**
-  * Trong bài *Gốm Hoa Nâu* và *Men Lam Hai Bến*, nàng **Mộc Tĩnh Lan** dùng bút tre khắc chữ Nôm / ký tự cổ vào đáy bình sành trước khi đưa vào lò nung nghìn độ $
-ightarrow$ Biểu tượng của sự trường tồn văn hóa ngàn năm bất diệt.
+  * Trong bài *Gốm Hoa Nâu* và *Men Lam Hai Bến*, nàng **Mộc Tĩnh Lan** dùng bút tre khắc chữ Nôm / ký tự cổ vào đáy bình sành trước khi đưa vào lò nung → Biểu tượng của sự trường tồn văn hóa ngàn năm bất diệt.
 * **Mật Mã Quân Lệnh & Lời Thề Khắc Gươm:**
-  * Hiệp khách **An Thái** mang thanh đoản đao có khắc 2 chữ *"SÁT THÁT"* và những ký hiệu hoa văn nòng nọc cổ truyền thừa từ thời Hùng Vương $
-ightarrow$ Khẳng định nguồn cội võ học và lòng tự tôn dân tộc sâu sắc.
+  * Hiệp khách **An Thái** mang thanh đoản đao có khắc 2 chữ *"SÁT THÁT"* và những ký hiệu hoa văn nòng nọc cổ truyền thừa từ thời Hùng Vương → Khẳng định nguồn cội võ học và lòng tự tôn dân tộc sâu sắc.
 
 ### 2. Âm Hưởng Thanh Nhạc Thuần Việt:
 * Toàn bộ ca từ trong hệ thống Vũ Trụ Cổ Phong Bách Việt được viết theo **chuẩn phát âm thanh điệu 6 thanh của Tiếng Việt**, triệt tiêu sáo ngữ lai căng, giữ trọn vẻ đẹp mộc mạc, trong sáng và thanh thoát của thi ca dân tộc!

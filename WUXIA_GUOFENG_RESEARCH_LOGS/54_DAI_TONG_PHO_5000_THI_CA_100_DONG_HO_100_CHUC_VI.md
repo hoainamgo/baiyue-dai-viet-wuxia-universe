@@ -42,7 +42,7 @@ Hệ thống 5.000 bộ sách cổ, sử thi và thi ca được cấu trúc th�
 │    BÁCH NGHỆ               │             │ • Kỹ thuật lúa nước, Bí truyền chuốt Gốm Chu Đậu, Nghệ thuật đúc đồng. │
 ├────────────────────────────┼─────────────┼────────────────────────────────────────────────────────────────────────┤
 │ 5. KIẾM TẠNG & CỔ NHẠC     │ 1.000 Bộ    │ • Lạc Long Thủy Chiến Bí Yếu, Đoản đao lá lúa, Cọc ngầm Bạch Đằng.     │
-│    THI TỨ Cổ Nhạc            │             │ • Âm luật Ngũ Cung Đông Sơn, Tuyển tập Việt Nhân Ca, 10.000 Câu Hát Đò.│
+│    THI TỨ Cổ Nhạc            │             │ • Âm luật Hệ năm nốt Đông Sơn, Tuyển tập Việt Nhân Ca, 10.000 Câu Hát Đò.│
 └────────────────────────────┴─────────────┴────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -128,7 +128,7 @@ Hệ thống 5.000 bộ sách cổ, sử thi và thi ca được cấu trúc th�
 1. **Tiết Chế Thủy Binh Đô Đốc:** Chỉ huy tối cao hạm đội chiến thuyền Lục Đầu Giang.
 2. **Tiên Phong Đoản Đao Đô Thống:** Dẫn đầu đội đặc nhiệm đổ bộ phá hạm giặc.
 3. **Trưởng Bãi Cọc Lim Lạc Tướng:** Tổng công trình sư đóng cọc ngầm Bạch Đằng.
-4. **Trống Đồng Quân Lệnh Sứ:** Nhịp trống đồng truyền hiệu lệnh xung phong.
+4. **Trống Đông Sơn Quân Lệnh Sứ:** Nhịp trống Đông Sơn truyền hiệu lệnh xung phong.
 5. **Cung Nỏ Thần Lực Tướng:** Chỉ huy phân đội nỏ liên châu tầm xa.
 6. **Thám Mã Sơn Lâm Bách Hộ:** Trinh sát thám thính đường hành quân ải Chi Lăng.
 7. **Đốc Lương Thuyền Vận Sứ:** Vận chuyển lương thảo lúa gạo tiếp tế chiến hào.
@@ -230,7 +230,7 @@ Hệ thống 5.000 bộ sách cổ, sử thi và thi ca được cấu trúc th�
 87. **Trà Cổ Thụ Đỉnh Mây Sứ:** Người thu hái chè tuyết san cổ thụ trên đỉnh Tà Xùa.
 88. **Giao Long Võ Quán Chưởng Môn:** Sư phụ dạy võ thuật dưới nước cho thanh niên.
 89. **Bến Đò Trăng Rằm Ca Nữ:** Nghệ sĩ hát ca trù, ngâm thơ hầu khách bên bến sông.
-90. **Đúc Trống Đồng Nghệ Nhân Phường:** Phường thợ đúc trống đồng Đông Sơn tại Thanh Hóa.
+90. **Đúc Trống Đông Sơn Nghệ Nhân Phường:** Phường thợ đúc trống Đông Sơn tại Thanh Hóa.
 91. **Sơn Băng Khai Mỏ Thủ Lĩnh:** Quản lý khai thác quặng đồng và thiếc trên núi cao.
 92. **Thuyền Chài Đêm Đèn Măng-xông:** Ngư dân cung cấp tôm cá nuôi quân ven biển.
 93. **Đua Thuyền Rồng Lễ Hội Trưởng:** Trưởng ban tổ chức hội đua thuyền rồng ngày hội mùa.
@@ -244,6 +244,6 @@ Hệ thống 5.000 bộ sách cổ, sử thi và thi ca được cấu trúc th�
 
 ---
 
-## 🐉 PHẦN V: TỔNG KẾT VŨ TRỤ HỌC THUẬT Đại Việt Cổ Phong
+## 🐉 PHẦN V: TỔNG KẾT TƯ LIỆU MỞ RỘNG
 
-Hệ thống **5.000 Bộ Cổ Thư + Mối Duyên An Thái & Mộc Tĩnh Lan + 100 Dòng Họ + 100 Chức Vị Vệ Tinh** đã chính thức hoàn thiện bức tranh **Đại Vũ Trụ Cổ Phong Kiếm Hiệp Đại Việt (Dai Viet Wuxia & Ancient Baiyue Universe)**, tạo nên nền tảng vững chắc không thể lay chuyển cho toàn bộ 100+ Albums âm nhạc, Visuals 4K và các ấn phẩm phát hành toàn cầu!
+Tài liệu này là **bản tư liệu mở rộng với 100 dòng họ và 100 chức vị hư cấu**, không phải bằng chứng cho 5.000 bộ cổ thư, các quan hệ nhân vật lịch sử hay kế hoạch phát hành cụ thể. Nhân vật chính và mốc sử phải đối chiếu [`57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md`](57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md).

@@ -160,8 +160,8 @@ Qua hơn năm ngàn năm từ thuở hồng hoang Bách Việt, mảnh đất h�
   * Khảo cổ Lương Chử (5.300 năm) và Hà Mẫu Độ (7.000 năm) chứng minh cội nguồn lúa nước Bách Việt trù phú trước khi thiên di về phương Nam.
   * Đến thời Âu Lạc, An Dương Vương xây thành Cổ Loa 9 vòng xoắn ốc, chế tạo nỏ thần giữ bờ cõi. Nỗi đau mất nước vì mưu mô Triệu Đà, bi kịch Mỵ Châu - Trọng Thủy, chiếc áo lông ngỗng rải dọc đường và hình ảnh An Dương Vương cầm sừng tê bảy tấc rẽ nước xuống biển khơi là bài học xương máu đầu tiên khắc cốt ghi tâm.
 * ⚡ **NĂNG LỰC TƯƠNG ỨNG ĐỨNG LÊN:**
-  1. **Năng Lực Luyện Kim Đông Sơn & Cơ Khí Nỏ Thần:** Đúc trống đồng có buồng cộng hưởng hạ âm 45Hz; phát minh nỏ liên châu cơ khí 3 chốt bắn hàng vạn mũi tên 3 cạnh cùng lúc.
-  2. **Năng Lực Trị Thủy & Khai Hoang Phù Sa:** Biến vùng đầm lầy nhiệt đới sông Hồng thành nôi sống bất khả xâm phạm.
+  1. **Năng lực luyện kim Đông Sơn & kỹ thuật nỏ:** Trống Đông Sơn có tiếng nội cộng hưởng; nỏ liên châu dùng nỏ, tên và kỹ thuật bắn theo chính sử–khảo cổ, không gắn tần số 45 Hz hay số tên bắn phóng đại.
+  2. **Năng lực thủy chiến và khai hoang phù sa:** Dùng thuyền, đầm lầy và đường nước để phòng thủ và phục hồi vùng đất; diễn tả là năng lực thần thoại, không phải công nghệ vượt thời.
 
 ---
 
@@ -301,5 +301,5 @@ Nước Nam trường tồn... vạn mùa xuân rạng rỡ muôn đời!
 
 ---
 
-## 🔒 VI. NIÊM PHONG HỌC THUẬT & BẢO HỘ TÁC PHẨM
-* Toàn bộ nội dung Đại Sử Thi, Thiên Chương Đại Đoàn Kết và Tiến Trình Tiến Hóa Thể Chế đã được kiểm định qua bộ quy chuẩn **Dai Viet Wuxia & Guofeng Master Codex (v4.6)**.
+## 📚 VI. TÀI LIỆU THAM KHẢO VÀ CANON
+* Nội dung là tư liệu biên soạn cần đối chiếu nguồn. Canon công khai hiện hành: [`01_MASTER_CODEX_VO_HIEP_CO_PHONG_DAI_VIET.md`](01_MASTER_CODEX_VO_HIEP_CO_PHONG_DAI_VIET.md) và [`57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md`](57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md).

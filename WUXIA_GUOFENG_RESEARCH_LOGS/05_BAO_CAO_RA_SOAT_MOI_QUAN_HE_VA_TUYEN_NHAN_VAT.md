@@ -104,8 +104,8 @@ Khoảng cách địa lý thực tế giữa các cứ điểm trong cốt truy�
    * Trong một trận tập kích, Tĩnh Lan chữa trị vết thương cho cả một binh sĩ phương Bắc bị thương nặng bỏ rơi bên bờ lau sậy. An Thái thoạt đầu ngỡ ngàng, nhưng khi nhìn thấy tấm lòng lương y như mẹ hiền của nàng, chàng càng thêm kính trọng và điều binh bảo vệ trạm cứu thương của nàng.
 2. **Kỷ Vật Đối Xứng Của Cặp Đôi Trẻ (An Ninh & Tĩnh Uyên):**
    * Mộc Tĩnh Uyên dùng nét cọ sen vẽ lên bao tên của Nguyễn An Ninh dòng chữ Nôm: *“Mũi tên giữ cõi... Bình an trở về”*.
-3. **Tiếng Đàn Tranh & Tiếng Sáo Trúc Giữa Hai Bờ Sông:**
-   * Những đêm tĩnh lặng trước ngày xuất trận, tiếng đàn Tranh của Tĩnh Lan từ bờ Chu Đậu hòa cùng tiếng sáo Trúc của An Thái trên chiến thuyền bến Vạn Kiếp, tạo nên âm hưởng ngũ cung Cổ Nhạc xoa dịu nỗi đau chia ly.
+3. **Tiếng Đàn dây & Tiếng sáo Giữa Hai Bờ Sông:**
+   * Những đêm tĩnh lặng trước ngày xuất trận, tiếng đàn dây của Tĩnh Lan từ bờ Chu Đậu hòa cùng tiếng sáo của An Thái trên chiến thuyền bến Vạn Kiếp, tạo nên âm hưởng hệ năm nốt Cổ Nhạc xoa dịu nỗi đau chia ly.
 
 ---
 

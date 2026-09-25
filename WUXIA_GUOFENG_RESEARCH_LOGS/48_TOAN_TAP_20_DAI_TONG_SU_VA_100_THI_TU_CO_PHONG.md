@@ -13,7 +13,7 @@
  ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
  │ I. TIỂU SỬ TRUYỀN KỲ & CÂU CHUYỆN 20 THÁI SƠN BẮC ĐẨU ──► 20 Tông Sư Đỉnh Cao & 20 Truyền Nhân         │
  │ II. TOÀN TẬP 100 BÀI THƠ CỔ MỸ TỪ TUYỆT ĐẸP (ĐẦY ĐỦ 100 BÀI TỪ 01 ĐẾN 100) ──► 5 Đại Quyển Độc Bản     │
- │ III. HỆ THỐNG ÂM NHẠC MÔ PHỎNG NGUYÊN BẢN THỜI ĐẠI ──► Trống Đồng, Đàn Đá, Đàn Bầu, Khèn Bè Cổ Nhạc      │
+ │ III. HỆ THỐNG ÂM NHẠC MÔ PHỎNG NGUYÊN BẢN THỜI ĐẠI ──► Trống Đông Sơn, Đàn Đá, Đàn dây, Khèn Bè Cổ Nhạc      │
  └────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -39,13 +39,13 @@
 * **Truyền nhân:** Ái nữ **Mộc Tĩnh Lan** (Đại Nghệ Nhân Chu Đậu).
 
 ### 4. Đông Sơn Đồng Thần — Cụ Nguyễn Kim Đúc
-* **Thân thế:** Nghệ nhân đúc đồng huyền thoại thời Văn Lang - Đông Sơn, người nắm giữ bí quyết đúc sáp chảy và định âm Trống Đồng.
-* **Câu chuyện truyền kỳ:** Năm 30 tuổi, cụ nằm mơ thấy chim Lạc bay qua mặt trời 14 tia sáng. Tỉnh dậy, cụ gom góp đồng thau, thiếc và vàng ròng của cả bộ tộc, đốt lò đúc liên tục 7 ngày đêm tạo nên chiếc Trống Đồng Ngọc Lũ đầu tiên. Khi cụ đánh nhịp, tiếng trống vang xa 100 dặm làm muông thú phủ phục, lòng người bình yên.
+* **Thân thế:** Nghệ nhân đúc đồng huyền thoại thời Văn Lang - Đông Sơn, người nắm giữ bí quyết đúc sáp chảy và định âm Trống Đông Sơn.
+* **Câu chuyện truyền kỳ:** Năm 30 tuổi, cụ nằm mơ thấy chim Lạc bay qua mặt trời 14 tia sáng. Tỉnh dậy, cụ gom góp đồng thau, thiếc và vàng ròng của cả bộ tộc, đốt lò đúc liên tục 7 ngày đêm tạo nên chiếc Trống Đông Sơn Ngọc Lũ đầu tiên. Khi cụ đánh nhịp, tiếng trống vang xa 100 dặm làm muông thú phủ phục, lòng người bình yên.
 * **Truyền nhân:** **Nguyễn Kim Lạc** (Trưởng phường đúc đồng Cổ Loa).
 
 ### 5. Dương Tử Ba Tiên — Lão Ngư Thượng Cổ
 * **Thân thế:** Lão ngư 90 tuổi sống trên chiếc thuyền nan trôi dọc dòng Nam Trường Giang và sông Hồng, nắm giữ 1.000 khúc dân ca cổ Bách Việt.
-* **Câu chuyện truyền kỳ:** Không ai biết tên thật của ông, chỉ biết ông thuộc lòng khúc *Việt Nhân Ca* từ thời Lương Chử 5.300 năm trước. Mỗi khi bão lớn nổi lên, ông gác mái chèo, gảy cây Đàn Bầu độc huyền, tiếng đàn ngân vang làm sóng gió tự khắc rút êm.
+* **Câu chuyện truyền kỳ:** Không ai biết tên thật của ông, chỉ biết ông thuộc lòng khúc *Việt Nhân Ca* từ thời Lương Chử 5.300 năm trước. Mỗi khi bão lớn nổi lên, ông gác mái chèo, gảy cây Đàn dây độc huyền, tiếng đàn ngân vang làm sóng gió tự khắc rút êm.
 * **Truyền nhân:** **Lão Đò Ba Bến** (người đưa đò trên bến Vạn Kiếp).
 
 ### 6. Trúc Lâm Dược Thánh — Tuệ Tĩnh Đại Sư
@@ -55,7 +55,7 @@
 
 ### 7. Mê Linh Tượng Vương — Nữ Hiệp Vũ Bát Nàn
 * **Thân thế:** Nữ tướng Tiên La dưới cờ Hai Bà Trưng, bậc thầy trượng pháp và cưỡi voi xung trận.
-* **Câu chuyện truyền kỳ:** Cưỡi thớt voi trắng hai ngà bọc giáo đồng, tay múa thiết trượng nặng 40 cân, gióng trống đồng Đông Sơn thu phục 65 thành trì Lĩnh Nam, đuổi sạch bóng quân xâm lược Tô Định.
+* **Câu chuyện truyền kỳ:** Cưỡi thớt voi trắng hai ngà bọc giáo đồng, tay múa thiết trượng nặng 40 cân, gióng trống Đông Sơn thu phục 65 thành trì Lĩnh Nam, đuổi sạch bóng quân xâm lược Tô Định.
 * **Truyền nhân:** **Nữ Đô Đốc Lê Thị Chân** (người khai phá đất Hải Phòng).
 
 ### 8. Bạch Đằng Kiếm Khách — Tiền Ngô Vương Ngô Quyền
@@ -401,7 +401,7 @@
 > Chiếc trâm cài tóc men lam biếc,  
 > Chung thủy một lòng chẳng phôi pha.
 
-#### 52. Gảy Đàn Tranh Hiên Mưa
+#### 52. Gảy Đàn dây Hiên Mưa
 > Mười sáu dây tơ dạo khúc tình,  
 > Mưa rơi hòa nhịp khúc đinh ninh.  
 > Tiếng tơ thanh thoát xua thương nhớ,  
@@ -466,7 +466,7 @@
 > Nuôi dưỡng ngàn năm giống Lạc Hồng.
 
 #### 62. Hòa Âm Cổ Nhạc Y Đạo Khúc
-> Gảy khúc đàn Tranh dưới ánh trăng,  
+> Gảy khúc đàn dây dưới ánh trăng,
 > Tiếng tơ mười sáu dứt băn khoăn.  
 > Vết thương sa trường nay khép miệng,  
 > Tâm hồn thanh thản tựa mây ngàn.
@@ -610,7 +610,7 @@
 > Nâng chén tiêu dao dạ thênh thang!
 
 #### 85. Gió Lộng Đỉnh Mây
-> Sáo trúc Động Tiêu vút tầng trời,  
+> Tiếng sáo vút tầng trời,
 > Tiếng sáo hòa cùng gió ngàn trôi.  
 > Đứng trên đỉnh cao cười ngạo nghễ,  
 > Giang sơn vạn dặm sáng rạng ngời!
@@ -664,7 +664,7 @@
 > Rực rỡ ngàn đời cõi sơn hà!
 
 #### 94. Tiếng Đàn Bên Suối
-> Tiếng Cổ Cầm ngân đáy nước trong,  
+> Tiếng Đàn dây cổ ngân đáy nước trong,
 > Hòa cùng tiếng sáo ngút tầng không.  
 > Cá lội chim bay dừng lại lắng,  
 > Tuyệt đỉnh phong lưu giữa núi rừng!
@@ -681,8 +681,8 @@
 > Hiệp khách dừng chân nghe khúc nhạc,  
 > Lòng dâng cảm xúc nhớ quê người!
 
-#### 97. Trống Đồng Hòa Khúc Cầm Tiêu
-> Trống đồng dập nhịp tiếng trầm vang,  
+#### 97. Trống Đông Sơn Hòa Khúc Cầm Tiêu
+> Trống Đông Sơn dập nhịp tiếng trầm vang,
 > Cầm tiêu hợp tấu khúc khải hoàn.  
 > Đất trời rung chuyển vui ngày hội,  
 > Rạng rỡ non sông ánh huy hoàng!
@@ -709,25 +709,25 @@
 
 ---
 
-## 🎼 PHẦN III: HỆ THỐNG ÂM NHẠC MÔ PHỎNG NGUYÊN BẢN THỜI ĐẠI (KHÔNG LAI TẠP NHẠC HIỆN ĐẠI)
+## 🎼 PHẦN III: CHẤT LIỆU ÂM THANH VÀ NHẠC CỤ TRUYỀN THỐNG
 
-Để mô phỏng chân thật và sinh động 100% bối cảnh văn hóa thời đại này, hệ thống âm thanh được thiết lập dựa trên **BỘ BẢO VẬT ÂM THANH BÁCH VIỆT**:
+Đây là bảng chất liệu tham khảo để hình thành hình ảnh, không phải đặc tả kỹ thuật âm thanh hay tuyên bố hiệu quả chữa lành. Các mô tả tần số, hòa âm và hiệu ứng tâm lý chỉ được dùng khi có nguồn kiểm chứng.
 
 ```
 ┌────────────────────────────────┬────────────────────────────────────┬────────────────────────────────────────────────────────┐
-│ NHÓM NHẠC CỤ NGUYÊN BẢN        │ NHẠC KHÍ ĐẶC TRƯNG THỜI ĐẠI        │ ĐẶC TÍNH ÂM HỌC & TẦN SỐ CỔ TRUYỀN                     │
+│ NHÓM NHẠC CỤ NGUYÊN BẢN        │ NHẠC KHÍ ĐẶC TRƯNG               │ ĐẶC TÍNH ÂM THANH MÔ TẢ                              │
 ├────────────────────────────────┼────────────────────────────────────┼────────────────────────────────────────────────────────┤
-│ **1. Nhạc Cụ Đồng & Đá**       │ • **Trống Đồng Đông Sơn** (Ngọc Lũ) │ • Sub-bass 45Hz trầm hùng, rung chuyển mặt đất, làm hoảng
+│ **1. Nhạc Cụ Đồng & Đá**       │ • **Trống Đông Sơn** (Ngọc Lũ) │ • Tiếng trầm, cộng hưởng; không gắn tần số cụ thể       │
 │    *(Âm hưởng Sa trường & Tế)* │ • **Đàn Đá Thượng Cổ (Lithophone)**│ • Tiếng gõ thanh mảnh ngân nga tựa tiếng sấm xa.       │
 │                                │ • **Chiêng đồng, Chuông đồng cổ**  │ • Tiếng chuông thanh tịnh xua tan tà khí.              │
 ├────────────────────────────────┼────────────────────────────────────┼────────────────────────────────────────────────────────┤
-│ **2. Nhạc Cụ Dây Tơ Tằm**      │ • **Đàn Bầu (Độc Huyền Cầm)**      │ • Rung ngón glissando ma mị, âm sắc ấm áp u hoài.      │
-│    *(Âm hưởng Dân gian & Tình)*│ • **Đàn Tranh 16 Dây Tơ Tằm**      │ • Tần số chuẩn **Cổ Nhạc** chữa lành vết thương sa trường.│
-│                                │ • **Đàn Đáy & Đàn Cổ Cầm (Guqin)** │ • Âm trầm mộc mạc của gỗ mít và thùng đàn rỗng.        │
+│ **2. Nhạc Cụ Dây Tơ Tằm**      │ • **Đàn dây (Độc Huyền Cầm)**      │ • Rung ngón lướt nhẹ, âm sắc ấm áp u hoài.            │
+│    *(Âm hưởng Dân gian & Tình)*│ • **Đàn dây mười sáu dây tơ tằm**  │ • Âm sắc trong trẻo, uyển chuyển; không tuyên bố chữa vết thương│
+│                                │ • **Đàn Đáy & đàn dây cổ**         │ • Âm trầm mộc mạc của gỗ mít và thùng đàn rỗng.        │
 ├────────────────────────────────┼────────────────────────────────────┼────────────────────────────────────────────────────────┤
-│ **3. Nhạc Cụ Hơi & Tre Trúc**  │ • **Sáo Động Tiêu (Dongxiao)**     │ • Tiếng thở mộc mạc, vút cao giữa ngàn mây Yên Tử.     │
+│ **3. Nhạc Cụ Hơi & Tre Trúc**  │ • **Sáo tre**                      │ • Tiếng thở mộc mạc, vút cao giữa ngàn mây Yên Tử.     │
 │    *(Âm hưởng Tiêu dao & Thiền)│ • **Khèn Bè Bách Việt**            │ • Đa âm réo rắt của cư dân nương rẫy và rừng núi.      │
-│                                │ • **Sáo Trúc 6 lỗ & Tiêu nứa**     │ • Tiếng sáo diều lộng gió bến sông đồng quê.           │
+│                                │ • **Tiếng sáo 6 lỗ & Tiêu nứa**     │ • Tiếng sáo diều lộng gió bến sông đồng quê.           │
 ├────────────────────────────────┼────────────────────────────────────┼────────────────────────────────────────────────────────┤
 │ **4. Nhịp Gõ & Âm thanh tự nhiên Giác Quan**│ • **Phách Tre Ca Trù Cổ**          │ • Tiếng gõ lách cách giòn giã định nhịp thơ ca.        │
 │    *(Âm thanh Đời sống thực)*  │ • **Bàn Xoay & Tiếng Đất Nung Gốm**│ • Tiếng xèo xèo của lửa nung gốm và nước suối chảy.    │
@@ -737,4 +737,4 @@
 
 ---
 
-### 📄 FILE NÀY LÀ KHO TÀNG 100 TÁC PHẨM THI CA TOÀN VẸN, 20 TIỂU SỬ TÔNG SƯ VÀ HỆ THỐNG ÂM THANH NGUYÊN BẢN ĐÃ HOÀN TẤT 100%!
+### 📄 Tài liệu này là tư liệu biên soạn 100 tác phẩm và 20 tiểu sử hư cấu; số lượng, tính đầy đủ và nguồn văn bản cần được kiểm chứng riêng.

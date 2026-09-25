@@ -92,7 +92,7 @@ Những thế võ cổ truyền phản ánh trọn vẹn trí tuệ thực chi�
 | **Đoản Binh Phá Kỵ** | Trống Đại rền vang, tiếng gió rít khi bay người, tiếng gãy giáp | **Tiết tấu hào hùng** (Heavy Guofeng Rock, kịch tính dồn dập). |
 | **Hùng Kê Quyền** | Tiếng rút đao nhanh, gõ phách tre sắc gọn, Tỳ Bà tốc độ cao | **Tiết tấu hào hùng** (Tiết tấu giòn giã, bất ngờ). |
 | **Lạc Long Thủy Chiến** | Tiếng sóng nước cuộn xoáy, tiếng dùi đục gỗ dưới nước, Tiêu Trúc trầm | **Tiết tấu hào hùng** (Bí ẩn, nghẹt thở dưới đáy sâu). |
-| **Lão Mai Quyền** | Đàn Tranh Cổ Nhạc du dương, chuông chùa Yên Tử ngân nga | **Tiết tấu hào hùng** (Thanh tịnh, an nhiên, khí chất thoát tục). |
+| **Lão Mai Quyền** | Đàn dây Cổ Nhạc du dương, chuông chùa Yên Tử ngân nga | **Tiết tấu hào hùng** (Thanh tịnh, an nhiên, khí chất thoát tục). |
 | **Ngọc Trản Đoản Kiếm** | Tiếng va chạm thanh mảnh của kiếm bạc, tiếng gốm sứ chạm nhau | **Tiết tấu hào hùng** (Phong nhã, đài các cung đình). |
 | **Nhất Nam Thiết Chỉ** | Tiếng đập huỵch trầm đục, tiếng ngưng thở đột ngột (Sudden Drop) | **Tiết tấu hào hùng** (Sát khí ngấm ngầm, dứt khoát). |
 

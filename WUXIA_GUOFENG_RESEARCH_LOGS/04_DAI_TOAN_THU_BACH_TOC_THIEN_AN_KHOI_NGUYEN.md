@@ -7,7 +7,7 @@
 > **Cơ quan Giám định Điển tịch & Khảo cổ:** Ban Điển Tịch Thượng Cổ Vũ Trụ Cổ Phong Bách Việt  
 > **Chủ trì Khảo cổ học & Cổ tự học Khoa Đẩu:** Sử Quan Lê Văn  
 > **Chủ trì Thế giới quan Cổ phong & Kịch bản Biền văn:** Tiểu Thuyết Gia Vũ Dạ Khách  
-> **Cố vấn Thần học Lịch sử & Âm học Ngũ Cung:** Noah An, Melody, Harmony, Cadence & Bạch Hạc  
+> **Cố vấn Thần học Lịch sử & Âm học Hệ năm nốt:** Noah An, Melody, Harmony, Cadence & Bạch Hạc
 > **Phiên bản:** v5.0.0 Master Canon  
 > **Ngày niêm phong lưu trữ:** 2026-09-01  
 
@@ -59,8 +59,8 @@
 * Cổ vật **Ngọc Tông Lương Chử** mang triết lý: Ngoài vuông (Mẹ Đất) — Trong tròn rỗng (Cha Trời & Khoang cứu sinh).
 
 ### 3. Âm Nhạc & Văn Tự Khảo Cổ Bản Địa:
-* **Đàn Đá Ndut Lieng Krak (3.000 - 4.000 năm tuổi)**: Minh chứng cư dân trên đỉnh núi cao Tây Nguyên đã dùng đá tự nhiên tấu lên thang âm ngũ cung tạ ơn Đất Trời sau biến cố nước ngập.
-* **Chữ Khoa Đẩu & Trống Đồng Đông Sơn**: Ký tự Nòng Nọc nguyên thủy (Nòng ◯ - Nọc 𖡡) trên đá cổ Sa Pa và hoa văn Trống Đồng Ngọc Lũ (Mặt trời ở tâm = Cha Trời; vành thuyền và quả bầu = Mẹ Đất). Tuyệt đối **không có hình tượng Rồng phong kiến phương Bắc**, chỉ có hình **Thuồng Luồng (Cá sấu/Giao long cổ)**, **Chim Lạc**, **Rùa Thiêng** và **Ếch gọi mưa**.
+* **Đàn Đá Ndut Lieng Krak (3.000 - 4.000 năm tuổi)**: Minh chứng cư dân trên đỉnh núi cao Tây Nguyên đã dùng đá tự nhiên tấu lên hệ năm nốt tạ ơn Đất Trời sau biến cố nước ngập.
+* **Chữ Khoa Đẩu & Trống Đông Sơn**: Ký tự Nòng Nọc nguyên thủy (Nòng ◯ - Nọc 𖡡) trên đá cổ Sa Pa và hoa văn Trống Đông Sơn Ngọc Lũ (Mặt trời ở tâm = Cha Trời; vành thuyền và quả bầu = Mẹ Đất). Tuyệt đối **không có hình tượng Rồng phong kiến phương Bắc**, chỉ có hình **Thuồng Luồng (Cá sấu/Giao long cổ)**, **Chim Lạc**, **Rùa Thiêng** và **Ếch gọi mưa**.
 
 ---
 
@@ -70,7 +70,7 @@
 |:---:|:---:|:---|:---|
 | **◯ (NÒNG)** | Âm / Chứa đựng | **Khoang Thuyền Gỗ Kín Ba Tầng (Tevah / Arca)** | Chuyển thành **"Quả Bầu Mẹ"** / Bào thai / Bọc trăm trứng |
 | **𖡡 (NỌC)** | Dương / Vươn cao | **Bàn Thờ Đá Lộ Thiên & Khói Hương Thảo Mộc** | Chuyển thành **Bàn Thờ Thiên** / Cây Nêu tế Trời |
-| **𖠁 (MẶT TRỜI)** | Dương Cực / Chí Tôn | **Ánh sáng Cha Trời (Hoàng Thiên / Đấng Tạo Hóa)** | Ngôi sao nhiều tia ở tâm Trống Đồng Đông Sơn |
+| **𖠁 (MẶT TRỜI)** | Dương Cực / Chí Tôn | **Ánh sáng Cha Trời (Hoàng Thiên / Đấng Tạo Hóa)** | Ngôi sao nhiều tia ở tâm Trống Đông Sơn |
 | **𖥸 (MẦM CÂY)** | Giao Hòa Âm Dương | **Trăm mầm sống bước ra từ Thuyền Bầu** | Trăm bộ tộc Bách Việt $\rightarrow$ 54 Dân tộc anh em |
 
 > **Quy luật phân rã ký ức**:  
@@ -142,7 +142,7 @@ Thì giống loài bước ra từ Thuyền Bầu muôn đời chẳng bao giờ
 
 Từ Bào Thai Thuyền Bầu, trăm mầm sống nảy nở,  
 Hóa thành **Một Trăm Bộ Tộc Bách Việt** rạng rỡ khắp dải non sông phương Nam.  
-Họ khắc chữ Khoa Đẩu lên vách đá, đúc Trống Đồng mô phỏng Mặt Trời của Cha và Vòng Bầu của Mẹ.  
+Họ khắc chữ Khoa Đẩu lên vách đá, đúc Trống Đông Sơn mô phỏng Mặt Trời của Cha và Vòng Bầu của Mẹ.
 
 Rồi giặc dữ phương Bắc ngàn năm kéo xuống gây cảnh can qua,  
 Một trăm bộ tộc bị phân tán, lưu lạc ngàn trùng.  
@@ -152,7 +152,7 @@ Một trăm bộ tộc bị phân tán, lưu lạc ngàn trùng.
 
 Mất đi chữ Khoa Đẩu do da thú mục rữa trong mưa rừng nhiệt đới,  
 Người trên núi cao dùng tiếng nói truyền miệng gọi Con Tàu Gỗ Ba Tầng là **"Quả Bầu Mẹ"**;  
-Người đúc kim khí gọi là **"Lòng Trống Đồng"**;  
+Người đúc kim khí gọi là **"Lòng Trống Đông Sơn"**;
 Người nặn gốm gọi là **"Chiếc Ché Sành Cứu Thế"**.  
 
 Một trăm bộ tộc thuở sơ khai,  
@@ -160,7 +160,7 @@ Nay hội tụ thành **NĂM MƯƠI TƯ DÂN TỘC ANH EM TRÊN MẢNH ĐẤT M�
 
 ---
 
-### 📜 THIÊN THỨ TƯ: LỜI SẤM ĐỒNG BÀO KHẮC TRÊN TRỐNG ĐỒNG VÀ ĐÀN ĐÁ
+### 📜 THIÊN THỨ TƯ: LỜI SẤM ĐỒNG BÀO KHẮC TRÊN TRỐNG ĐÔNG SƠN VÀ ĐÀN ĐÁ
 *(Lời thề vĩnh cửu bất diệt lưu truyền vạn đại)*
 
 ```

@@ -150,7 +150,7 @@ Khoa học địa chất, địa mạo học và cổ sinh học hiện đại �
 ## 🐉 PHẦN V: TÍCH HỢP TOÀN DIỆN VÀO VŨ TRỤ CỔ PHONG Đại Việt Cổ Phong
 
 ### 1. Hình Tượng Hiệp Khách An Thái & Nàng Mộc Tĩnh Lan Trước Bàn Thờ Thiên:
-* Trong các tác phẩm Cổ Phong Kiếm Hiệp Đại Việt (Session 30 · *Gốm Hoa Nâu, Men Lam Hai Bến, Giọt Máu Đào Trên Áo Chàm*), trước mỗi lần xuất quân hay đối mặt với giông bão sinh tử, các bậc tiền nhân không cầu xin tà thần hay bói toán mê tín:
+* Trong truyện Cổ Phong, trước mỗi lần xuất quân hoặc đối mặt với giông bão sinh tử, nhân vật có thể tìm đến một bàn thờ đá lộ thiên để lập lời thề, dâng lễ vật phù hợp và tự nhắc về nghĩa vụ với dân với nước; không cần khai báo đây là nghi lễ lịch sử tuyệt đối:
 * **Họ đứng trước Bàn Thờ Thiên lộ thiên trên đỉnh núi Yên Tử / Lục Đầu Giang:**
   > *"Ngửa mặt nhìn vòm trời bao la, dâng bát nước suối trong và hạt thóc vàng, kính lạy Ông Trời — Đấng cứu vớt tổ phụ chúng con qua cơn hồng thủy ngàn năm, xin soi thấu tấc lòng trung trinh vì dân vì nước!"*
 

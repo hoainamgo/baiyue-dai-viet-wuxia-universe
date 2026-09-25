@@ -13,7 +13,7 @@
  ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
  │ 1. DÒNG DÕI SƠN TINH (TẢN VIÊN SƠN THÁNH) ──► Trị sơn, dời núi ngăn lũ, thiết quyền Ba Vì            │
  │ 2. DÒNG DÕI THỦY TINH (THỦY THẦN LẠC LONG QUÂN) ──► Thủy chiến lặn sâu, đoản đao lá lúa, đục thuyền   │
- │ 3. DÒNG DÕI THẠCH SANH (DŨNG SĨ RÌU SẮT & ĐÀN THẦN) ──► Rìu khai sơn, đàn Tranh Cổ Nhạc, niêu cơm nghĩa│
+ │ 3. DÒNG DÕI THẠCH SANH (DŨNG SĨ RÌU SẮT & ĐÀN THẦN) ──► Rìu khai sơn, đàn dây Cổ Nhạc, niêu cơm nghĩa│
  │ 4. DÒNG DÕI HAI BÀ TRƯNG & 72 NỮ TƯỚNG LĨNH NAM ──► Ngự tượng voi chiến, trượng đồng, nữ tướng anh thư│
  │ 5. DÒNG DÕI PHÙ ĐỔNG THIÊN VƯƠNG (THÁNH GIÓNG) ──► Côn quyền tre ngà, kỵ binh bão lốc, tuổi trẻ xả thân│
  │ 6. DÒNG DÕI MAI AN TIÊM (ĐẢO HOANG BIỂN ĐÔNG) ──► Tự lực cánh sinh, khai hoang hải đảo, gieo hạt giống│
@@ -70,8 +70,8 @@
         │
         ├──► [ NHÁNH 1 - DŨNG KHÍ ]: Dòng dõi thợ rèn & dũng sĩ vác rìu sắt bảo vệ xóm làng.
         │    └──► [ ĐÔNG A ]: **Dũng Sĩ THẠCH HÙNG** (Vác búa 80 cân phá cổng thành giặc).
-        ├──► [ NHÁNH 2 - TÂM HỒN Cổ Nhạc ]: Dòng dõi nghệ nhân đàn Tranh & Y đạo nhân văn.
-        │    └──► [ ĐÔNG A ]: **Đại Y Nữ MỘC TĨNH LAN** (Gảy đàn Tranh 16 dây Cổ Nhạc hóa giải thù hận sa trường).
+        ├──► [ NHÁNH 2 - TÂM HỒN Cổ Nhạc ]: Dòng dõi nghệ nhân đàn dây & Y đạo nhân văn.
+        │    └──► [ ĐÔNG A ]: **Đại Y Nữ MỘC TĨNH LAN** (Gảy đàn dây 16 dây Cổ Nhạc hóa giải thù hận sa trường).
         └──► [ TRIẾT LÝ ]: Không tham lam tư lợi (như Lý Thông), lấy lòng nhân ái và tiếng đàn hòa bình hóa giải chiến tranh.
 ```
 
@@ -84,7 +84,7 @@
 ## 🐘 PHẦN IV: HẬU DUỆ HAI BÀ TRƯNG & 72 NỮ TƯỚNG LĨNH NAM
 
 ```
-[ TRƯNG NỮ VƯƠNG & 72 NỮ TƯỚNG ] ──► Mê Linh, Hát Môn, Tượng binh bọc đồng, Trống Đồng Đông Sơn gióng lệnh.
+[ TRƯNG NỮ VƯƠNG & 72 NỮ TƯỚNG ] ──► Mê Linh, Hát Môn, Tượng binh bọc đồng, Trống Đông Sơn gióng lệnh.
         │
         ├──► [ DÒNG BÁT NÀN NỮ TƯỚNG (Tiên La) ]: **Nữ Hiệp VŨ LAN HƯƠNG** (Trượng pháp đồng thau).
         ├──► [ DÒNG LÊ CHÂN NỮ TƯỚNG (An Biên) ]: **Nữ Đô Đốc LÊ THỊ HẢI CHÂN** (Thống soái thủy quân duyên hải).

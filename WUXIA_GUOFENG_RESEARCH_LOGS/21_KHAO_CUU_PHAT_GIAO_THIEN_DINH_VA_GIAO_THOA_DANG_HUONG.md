@@ -1,9 +1,7 @@
 # 📜 KHẢO CỨU ĐỐI CHIẾU SỬ HỌC & KHẢO CỔ HỌC TÔN GIÁO:
 ## NGUỒN GỐC PHẬT GIÁO, THIỀN ĐỊNH VÀ SỰ ĐỒNG HÓA VĂN HÓA DÂNG HƯƠNG TẠI VIỆT NAM
 
-> **Chủ trì Khảo cứu:** **Sử Quan Lê Văn (Học sĩ thứ 13)** & **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
-> **Hệ sinh thái:** `Vũ Trụ Cổ Phong Bách Việt` | `Đại Việt Cổ Phong · Elohit Teams © 2026`  
-> **Mã quy chuẩn:** `CANON-ARCH-LORE-05`
+> **Tài liệu nghiên cứu công khai.** Khi có khác biệt, [`57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md`](57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md) được ưu tiên.
 
 ---
 
@@ -88,8 +86,8 @@ Khảo cổ học và thần kinh học hiện đại (Neuroscience) chứng min
 | Yếu tố Khảo Cứu | 🟢 Bảo Tồn & Tôn Vinh (Chuẩn Vũ Trụ Cổ Phong Bách Việt Cổ Nhạc) | ❌ Loại Bỏ (Lai Tạp / Ngoại Lai Biến Tướng) |
 | :--- | :--- | :--- |
 | **Khói Hương & Trầm** | • Khói hương thảo mộc, trầm hương rừng già.<br>• Mùi thơm thanh khiết dâng Đất Trời lộ thiên (Chuẩn Nô-ê & Lạc Việt).<br>• Hương thơm xua tan mệt mỏi, làm ấm gian nhà tranh. | • Thắp hương khấn vái xin xỏ tài lộc, mê tín dị đoan.<br>• Khói nhang mù mịt u ám trong không gian ngột ngạt. |
-| **Thiền Tĩnh Tâm** | • Ngồi bên hiên mưa ngắm hoa bưởi rụng.<br>• Nghe tiếng suối róc rách, sáo trúc lơi, tiếng võng trưa hè.<br>• Đưa sóng não về Alpha/Theta (Zero Listening Fatigue). | • Gõ chuông mõ tụng kinh liên hồi gây ám ảnh tâm lý.<br>• Triết lý luân hồi quả báo, nghiệp chướng đày đọa con người. |
-| **Không Gian Âm Nhạc** | • Thung lũng núi mở rộng, bến sông Trường Giang, đầm sen Tây Hồ.<br>• Hòa âm Felt Piano + Dàn dây ấm + Động Tiêu khàn mộc. | • Âm hưởng tụng niệm kinh kệ buồn bã, tang tóc, ma mị. |
+| **Thiền Tĩnh Tâm** | • Ngồi bên hiên mưa ngắm hoa bưởi rụng.<br>• Nghe tiếng suối róc rách, tiếng sáo lơi, tiếng võng trưa hè.<br>• Đưa sóng não về Alpha/Theta (Zero Listening Fatigue). | • Gõ chuông mõ tụng kinh liên hồi gây ám ảnh tâm lý.<br>• Triết lý luân hồi quả báo, nghiệp chướng đày đọa con người. |
+| **Không Gian Âm Nhạc** | • Thung lũng núi mở rộng, bến sông Trường Giang, đầm sen Tây Hồ.<br>• Hòa âm Felt Piano + Dàn dây ấm + Nhạc cụ tre khàn mộc. | • Âm hưởng tụng niệm kinh kệ buồn bã, tang tóc, ma mị. |
 
 ---
 

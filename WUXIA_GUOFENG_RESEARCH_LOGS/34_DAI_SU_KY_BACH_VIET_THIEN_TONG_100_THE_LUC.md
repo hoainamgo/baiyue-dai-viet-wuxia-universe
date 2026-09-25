@@ -18,7 +18,7 @@ Chữ **"BÁCH (百)"** trong **Bách Việt** không chỉ là con số ước 
                   ┌───────────────────────────────┼───────────────────────────────┐
                   ▼                               ▼                               ▼
        [ DƯƠNG TỬ - LƯƠNG CHỬ ]        [ ĐỘNG ĐÌNH - XÍCH QUỶ ]        [ ĐÔNG SƠN - VĂN LANG ]
-      (Ngọc Bích, Cung Cổ, Cự Mộc)    (Thuốc Nam, Gốm Đất, Thủy Chiến)(Trống Đồng, Nỏ Thần, Đoản Đao)
+      (Ngọc Bích, Cung Cổ, Cự Mộc)    (Thuốc Nam, Gốm Đất, Thủy Chiến)(Trống Đông Sơn, Nỏ Thần, Đoản Đao)
                   │                               │                               │
                   └───────────────────────────────┼───────────────────────────────┘
                                                   ▼
@@ -38,7 +38,7 @@ Chữ **"BÁCH (百)"** trong **Bách Việt** không chỉ là con số ước 
 ## 📜 II. BẢN ĐỒ 8 ĐẠI PHÂN VÙNG BÁCH VIỆT CỔ ĐẠI (NGUỒN GỐC 100 BỘ TỘC):
 
 1. **Âu Việt (Tây Âu):** Vùng núi cao Cao Bằng, Lạng Sơn, Quảng Tây $\rightarrow$ Dấu vết: *Thuật leo vách đá, săn chim ưng, trường cung gỗ nghiến*.
-2. **Lạc Việt:** Đồng bằng sông Hồng, sông Mã, sông Cả $\rightarrow$ Dấu vết: *Đoản Đao Lá Lúa, Thủy chiến Lạc Long, Trống đồng Đông Sơn, Đòn chân kẹp cổ*.
+2. **Lạc Việt:** Đồng bằng sông Hồng, sông Mã, sông Cả $\rightarrow$ Dấu vết: *Đoản Đao Lá Lúa, Thủy chiến Lạc Long, Trống Đông Sơn, Đòn chân kẹp cổ*.
 3. **Mân Việt (Phúc Kiến):** Rừng rậm ven biển $\rightarrow$ Dấu vết: *Thuật chế độc thảo mộc, bùa ngải, bẫy đá rừng sâu*.
 4. **Đông Việt (Đông Âu):** Vùng Chiết Giang, cửa sông Tiền Đường $\rightarrow$ Dấu vết: *Nghề dệt lụa ngàn năm, Trúc Kiếm thanh tao*.
 5. **Dương Việt (Lưu vực sông Dương Tử):** Vùng Hồ Nam, Giang Tây $\rightarrow$ Dấu vết: *Nghề gốm cổ, Thần Nông thí bách thảo*.
@@ -59,7 +59,7 @@ Dù qua hàng nghìn năm chiến tranh và sáp nhập, 100 thế lực cổ x�
 
 ### 2. Dấu Vết Trong Làng Nghề Thủ Công & Binh Khí:
 * **Gốm Chu Đậu (Dấu tích Dương Việt & Lạc Việt):** Nghề gốm men lam, hoa nâu kế thừa thuật nung gốm 5.000 năm Lương Chử $\rightarrow$ Vừa là hàng mỹ nghệ xuất khẩu, vừa đúc giấu đoản kiếm trong lò gốm.
-* **Đúc Đồng Thiệu Hóa & Đúc Sắt Cổ Loa (Dấu tích Điền Việt & Lạc Việt):** Kỹ thuật luyện đồng thau đúc nỏ thần bắn vạn tiễn và trống đồng điều binh.
+* **Đúc Đồng Thiệu Hóa & Đúc Sắt Cổ Loa (Dấu tích Điền Việt & Lạc Việt):** Kỹ thuật luyện đồng thau đúc nỏ thần bắn vạn tiễn và trống Đông Sơn điều binh.
 * **Chạm Bạc Đồng Xâm (Dấu tích Đông Việt):** Kỹ nghệ chế tác phi kim ám khí châm cứu cứu người.
 
 ### 3. Dấu Vết Y Đạo Thảo Mộc (Dương Việt & Nam Việt):
@@ -80,6 +80,6 @@ Dù qua hàng nghìn năm chiến tranh và sáp nhập, 100 thế lực cổ x�
 
 1. **Khắc Họa Nhân Vật Có Chiều Sâu Lịch Sử:**
    * Chàng **An Thái** mang trong mình dòng máu đao pháp thủy chiến của Lạc Việt và nỏ thần Cổ Loa.
-   * Nàng **Mộc Tĩnh Lan** nắm giữ bí quyết thảo dược của Nam Việt Thần Nông và tài gảy đàn Tranh của Đông Việt lụa là.
+   * Nàng **Mộc Tĩnh Lan** nắm giữ bí quyết thảo dược của Nam Việt Thần Nông và tài gảy đàn dây của Đông Việt lụa là.
 2. **Ca Từ (Lyrics) Giàu Bản Sắc Cội Nguồn:**
    * Từng câu hát gợi nhắc ký ức nghìn năm: *Bến Lục Đầu sóng cuộn, Rừng tre ngà Sóc Sơn, Gốm Chu Đậu men chàm, Bàn thờ đá tế Trời lộng gió*.

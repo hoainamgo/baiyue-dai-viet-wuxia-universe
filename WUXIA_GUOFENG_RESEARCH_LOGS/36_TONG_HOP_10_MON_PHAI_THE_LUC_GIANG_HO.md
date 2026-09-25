@@ -42,7 +42,7 @@ Từ đầu phiên làm việc đến nay, qua các đợt khảo cứu lịch s
 * **Nhân vật tiêu biểu:** **Nàng Mộc Tĩnh Lan** (`Moc_Tinh_Lan_square.png`), Thánh Thuốc Nam Tuệ Tĩnh.
 * **Tổng đàn:** Chùa Ngọa Vân (Yên Tử) & Đầm Dạ Trạch.
 * **Tuyệt kỹ:** *Trúc Kiếm Thiền Tâm (Lão Mai Quyền - điểm 108 huyệt không sát sinh)*, *Dạ Trạch Quy Tức Công*, *Thần Nông Dược Thuật (580 vị thuốc nam)*.
-* **Binh khí & Y phục:** Kiếm trúc Yên Tử, gậy trúc, nón lá thần, đàn Tranh 16 dây tơ tằm. Áo nâu sồng, Tứ thân lụa thô, trâm gỗ đào, gùi thuốc nứa sau lưng.
+* **Binh khí & Y phục:** Kiếm trúc Yên Tử, gậy trúc, nón lá thần, đàn dây 16 dây tơ tằm. Áo nâu sồng, Tứ thân lụa thô, trâm gỗ đào, gùi thuốc nứa sau lưng.
 
 ---
 
@@ -51,7 +51,7 @@ Từ đầu phiên làm việc đến nay, qua các đợt khảo cứu lịch s
 * **Nhân vật tiêu biểu:** **Dũng Sĩ Thạch Sanh**, Tản Viên Sơn Thánh (Sơn Tinh).
 * **Tổng đàn:** Đỉnh Vua Ba Vì & Đại ngàn Tây Bắc.
 * **Tuyệt kỹ:** *Tản Viên Chấn Sơn Kình (mình đồng da sắt)*, *Khai Sơn Phủ Pháp (búa sắt trảm Chằn Tinh)*, *Hùng Kê Quyền (quyền gà chọi)*.
-* **Binh khí & Y phục:** Đại Khai Sơn Phủ (rìu sắt 50 cân), Cổ Cầm Đàn Thần Cổ Nhạc (giải giáp 18 nước chư hầu). Áo đũi chàm lót da thú rừng già, đi chân đất.
+* **Binh khí & Y phục:** Đại Khai Sơn Phủ (rìu sắt 50 cân), Đàn dây cổ Đàn Thần Cổ Nhạc (giải giáp 18 nước chư hầu). Áo đũi chàm lót da thú rừng già, đi chân đất.
 
 ---
 
@@ -88,7 +88,7 @@ Từ đầu phiên làm việc đến nay, qua các đợt khảo cứu lịch s
 ---
 
 ### 8. 🏺 THƯƠNG HỘI GỐM SỨ CHU ĐẬU (KINH TẾ NGẦM & TÌNH BÁO)
-* **Xuất hiện từ:** Phiên khảo cứu Album Gốm Hoa Nâu & Men Lam Phong Nhã.
+* **Căn cứ thế giới quan:** Mạng lưới thương nhân gốm sứ và ngành gốm men lam, hoa nâu của Chu Đậu.
 * **Bản chất:** Mạng lưới thương nhân gốm sứ xuất khẩu quốc tế tài trợ tài chính và vận chuyển vũ khí bí mật cho kháng chiến sa trường.
 * **Mật hiệu:** Dấu ấn chim Lạc và hoa văn lá lúa khắc chìm dưới đáy bình gốm.
 
@@ -101,7 +101,7 @@ Từ đầu phiên làm việc đến nay, qua các đợt khảo cứu lịch s
 ---
 
 ### 10. 🐺 HẮC KỴ MA GIÁO MÔNG NGUYÊN (THẾ LỰC PHẢN DIỆN THÂM NHẬP)
-* **Xuất hiện từ:** Phiên xây dựng xung đột kịch tính cho 3 Đại Album Cổ Phong (*Huyết Chiến Sa Trường, Thập Diện Mai Phục*).
+* **Căn cứ thế giới quan:** Thế lực phản diện thâm nhập, đối lập với các tuyến thương hội, nông thôn và nghề thủ công Việt.
 * **Bản chất:** Điệp viên, võ tăng Mật Tông và tướng soái Thoát Hoan cài cắm, sử dụng *Huyết Lang Trảo* và độc dược sa trường.
 
 ---

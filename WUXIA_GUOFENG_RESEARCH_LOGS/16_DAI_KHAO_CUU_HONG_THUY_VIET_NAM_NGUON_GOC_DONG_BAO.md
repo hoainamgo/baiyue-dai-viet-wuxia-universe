@@ -14,7 +14,7 @@
                                                 │
        ┌────────────────────────────────────────┼────────────────────────────────────────┐
        ▼                                        ▼                                        ▼
-🍈 [ TRUYỀN THUYẾT QUẢ BẦU ]           🥁 [ TRỐNG ĐỒNG CỨU THẾ ]            ⛰️ [ ĐỈNH NÚI DỪNG THUYỀN ]
+🍈 [ TRUYỀN THUYẾT QUẢ BẦU ]           🥁 [ TRỐNG ĐÔNG SƠN CỨU THẾ ]            ⛰️ [ ĐỈNH NÚI DỪNG THUYỀN ]
  • Người Kinh, Mường, Tày, Thái,        • Người Ba Na, Xơ Đăng, Dao,         • Đỉnh Ba Vì (Tản Viên),
    Khơ Mú, Hmông, Cơ Tu, Bru...           Êđê, Hmông, Gia Rai...               Fansipan, Ngọc Linh, Trường Sơn.
  • Chui vào quả bầu lớn trôi dạt.       • Trốn vào trống bịt da voi/đồng.    • Nước rút -> Lập Bàn Thờ Tế Trời.
@@ -86,7 +86,7 @@ Khảo cổ học Việt Nam đã khai quật hàng loạt hiện vật vật l�
 ┌───────────────────────────────────────┬───────────────────────────────────────────────────────────────────────────┐
 │ 🏺 HIỆN VẬT KHẢO CỔ THỰC CHỨNG        │ Ý NGHĨA KHẢO CỔ & MÃ HÓA KÝ ỨC HỒNG THỦY                                  │
 ├───────────────────────────────────────┼───────────────────────────────────────────────────────────────────────────┤
-│ 1. Trống Đồng Đông Sơn (Ngọc Lũ,      │ • Mặt trời 14 tia sáng ở tâm = **Ánh sáng Đấng Tạo Hóa xua tan bão tố**.   │
+│ 1. Trống Đông Sơn (Ngọc Lũ,      │ • Mặt trời 14 tia sáng ở tâm = **Ánh sáng Đấng Tạo Hóa xua tan bão tố**.   │
 │    Hoàng Hạ, Sông Đà)                 │ • Vành chim Lạc bay vút lên trời = **Ký ức chim bay tìm đất mới**.        │
 │                                       │ • Thuyền chở người hóa trang lông chim = **Con thuyền cứu sinh vượt lũ**. │
 ├───────────────────────────────────────┼───────────────────────────────────────────────────────────────────────────┤
@@ -114,7 +114,7 @@ Dựa trên 50+ câu chuyện truyền miệng và hiện vật khảo cổ, H�
 > **Bối cảnh:** Thuở hồng hoang, thế gian suy đồi, Đấng Tạo Hóa giáng nước lụt thanh lọc trần gian.  
 
 ```text
-[Khởi Âm - Tiếng Sấm Sét Dội & Trống Đồng Gầm Vang]
+[Khởi Âm - Tiếng Sấm Sét Dội & Trống Đông Sơn Gầm Vang]
 Trời nổi giận... mây đen giăng kín cõi,
 Vực sâu nứt toác, nước cuộn ngập ngàn non.
 Cột trời nghiêng ngả, muôn loài chìm bể thảm,
@@ -131,7 +131,7 @@ Chở hạt giống lành... qua bão tố muôn trùng!"
 > **Bối cảnh:** Đôi nam nữ cùng muông thú hạt giống nương náu trong quả bầu trôi dạt giữa biển nước.  
 
 ```text
-[Giai Điệu - Đàn Bầu Ngân Vang Bi Tráng & Tiếng Sóng Vỗ]
+[Giai Điệu - Đàn dây Ngân Vang Bi Tráng & Tiếng Sóng Vỗ]
 Quả Bầu Mẹ chòng chành trên sóng đỏ,
 Bao la bốn bề chỉ thấy nước cùng mây.
 Đôi bàn tay ghì chặt mầm lúa nhỏ,
@@ -149,7 +149,7 @@ Mặt trời rực sáng... đất mẹ hồi sinh!
 > **Bối cảnh:** Nước rút, con người bước ra lập Bàn Thờ Thiên bằng đá lộ thiên tạ ơn Ông Trời.  
 
 ```text
-[Hòa Tấu - Sáo Trúc Thanh Thoát & Đàn Tranh Róc Rách]
+[Hòa Tấu - Tiếng sáo Thanh Thoát & Đàn dây Róc Rách]
 Bước chân son đặt lên nền đất mới,
 Khói bão tan rồi, trời biếc rộng thênh thang.
 Xếp phiến đá hoa dựng bàn thờ lộ diện,
@@ -167,7 +167,7 @@ Giao ước hòa bình... vạn thuở khắc ghi!
 > **Bối cảnh:** Hạt giống gieo xuống, Quả Bầu Mẹ nứt ra sinh ra 54 dân tộc anh em cùng chung một bọc.  
 
 ```text
-[Đại Hợp Xướng - 54 Dân Tộc Cùng Hòa Giọng Ngũ Cung]
+[Đại Hợp Xướng - 54 Dân Tộc Cùng Hòa Giọng Hệ năm nốt]
 Hạt giống gieo... mầm xanh vươn đón nắng,
 Quả Bầu thiêng nứt nở trăm người con!
 Người Kinh xuôi dòng mở mang bờ cõi,

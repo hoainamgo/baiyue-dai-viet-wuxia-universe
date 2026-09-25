@@ -40,7 +40,7 @@
 * **Tên tự:** Mộc Tĩnh Lan (hiệu: *Thanh Liên Cư Sĩ*, *Chu Đậu Nữ Từ Sĩ*).
 * **Hình tượng & Khí chất (Archetype):**
   * Nàng thiếu nữ tài sắc vẹn toàn, đôi mắt trong veo như nước hồ thu, mặc áo tứ thân màu hoa sen men ngọc, tóc cài trâm gốm lam, tay cầm ngòi bút lông sói chấm men lam chuốt gốm.
-  * Đạt đến cảnh giới **Thi Họa Song Tuyệt**: Đề thơ trên đáy bình gốm Chu Đậu, mỗi nét chữ Nôm bay bổng tựa phượng múa rồng bay; ngón đàn Tranh 16 dây tơ ngân nga tần số Cổ Nhạc làm dịu tan mọi nỗi sầu nhân thế.
+  * Đạt đến cảnh giới **Thi Họa Song Tuyệt**: Đề thơ trên đáy bình gốm Chu Đậu, mỗi nét chữ Nôm bay bổng tựa phượng múa rồng bay; ngón đàn dây 16 dây tơ ngân nga tần số Cổ Nhạc làm dịu tan mọi nỗi sầu nhân thế.
   * Giàu lòng trắc ẩn, thấu cảm sâu sắc nỗi đau của người dân lao động và người phụ nữ có chồng đi lính xa, mang nỗi sầu ly biệt tinh tế, kín đáo và da diết bậc nhất lịch sử thi ca phương Nam.
 * **Tuyên ngôn từ điệu:** *"Hoa tự trôi đi nước tự chảy, một mối tương tư gửi hai nơi... Men gốm dẫu vỡ tình chẳng đổi, ngàn năm còn vẹn chữ son trinh!"*
 
@@ -69,7 +69,7 @@ Như mối tình huyền thoại giữa Triệu Minh Thành và Lý Thanh Chiế
 > Chớ để chén vàng trơ dưới nguyệt.  
 > Trời sinh thân ta ắt hữu dụng,  
 > Ngàn vàng dốc sạch lại về tay!  
-> Hãy mổ dê, hãy gõ trống đồng,  
+> Hãy mổ dê, hãy gõ trống Đông Sơn,
 > Uống một hơi ba trăm chén rượu!  
 > Hãy cùng ta say trọn đêm nay,  
 > Đạp tan muôn cớ sầu thiên cổ!
@@ -94,7 +94,7 @@ Như mối tình huyền thoại giữa Triệu Minh Thành và Lý Thanh Chiế
 
 #### 05. Khúc Ca Bến Đò Vắng
 > Người đi bến vắng bóng hoàng hôn,  
-> Tiếng sáo Động Tiêu vọng cuối cồn.  
+> Tiếng sáo vọng cuối cồn.
 > Danh lợi chức quan như bọt nước,  
 > Chỉ còn bè bạn vẹn tình thôn!
 
@@ -185,7 +185,7 @@ Như mối tình huyền thoại giữa Triệu Minh Thành và Lý Thanh Chiế
 #### 17. Say Hoa Âm — Trà Thất Đêm Rằm
 > Trà sen ướp sương đêm ngọc ngà,  
 > Khói mờ trăng rọi bóng người xa.  
-> Mười sáu dây đàn Tranh thanh thoát,  
+> Mười sáu dây tơ tơ tẽ thanh thoát,
 > Gảy khúc tương tư gửi ngàn hoa.  
 > Rèm thưa gió lạnh đêm chớm thu,  
 > Người gầy hơn cả nhánh hoa mai!
@@ -196,9 +196,9 @@ Như mối tình huyền thoại giữa Triệu Minh Thành và Lý Thanh Chiế
 > Chim Lạc bay quanh vầng nhật nguyệt,  
 > Nghìn năm hồn nước vẫn sáng trong.
 
-#### 19. Tiếng Đàn Tranh Lúc Nửa Đêm
+#### 19. Tiếng Đàn Lúc Nửa Đêm
 > Mưa rơi rả rích mái hiên tây,  
-> Dạo khúc đàn Tranh ngón mỏi gầy.  
+> Dạo khúc đàn dây ngón mỏi gầy.
 > Tiếng tơ rung động niềm thương nhớ,  
 > Gửi tới biên cương gió lượn mây.
 
@@ -240,7 +240,7 @@ Như mối tình huyền thoại giữa Triệu Minh Thành và Lý Thanh Chiế
 > **Chàng ngâm:** *"Ta vác kiếm bôn ba ngàn dặm, tìm người tri kỷ bến Lục Đầu!"*  
 > **Nàng họa:** *"Thiếp chuốt gốm giữ trọn son sắt, dệt ngàn lời thương gửi bóng câu!"*  
 > **Hợp xướng:**  
-> Đàn Tranh sáo trúc hòa vang dội,  
+> Đàn dây tiếng sáo hòa vang dội,
 > Non sông Đại Việt thắm tình sâu!
 
 #### 26. Chia Nửa Mảnh Men Lam

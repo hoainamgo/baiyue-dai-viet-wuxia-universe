@@ -11,7 +11,7 @@
 ```
 [ GIAI ĐOẠN 1: PHÙNG NGUYÊN ] ──► [ GIAI ĐOẠN 2: ĐỒNG ĐẬU ] ──► [ GIAI ĐOẠN 3: GÒ MUN ] ──► [ GIAI ĐOẠN 4: ĐÔNG SƠN ]
   (4.000 Năm Trước)                  (3.500 Năm Trước)              (3.000 Năm Trước)             (2.500 – 2.000 Năm)
-  • Ngọc bích, gốm khắc chữ S        • Khuôn đúc đồng, mũi tên       • Vũ khí đồng bén nhọn        • Trống Đồng, Thạp Đào, Mộ Thuyền
+  • Ngọc bích, gốm khắc chữ S        • Khuôn đúc đồng, mũi tên       • Vũ khí đồng bén nhọn        • Trống Đông Sơn, Thạp Đào, Mộ Thuyền
   • Lúa nước sơ khai                 • Rìu xòe cân xứng             • Lao, giáo mác chiến trận     • Kỷ nguyên Nhà Nước Văn Lang
 ```
 
@@ -21,7 +21,7 @@
 2. **Văn Hóa Đồng Đậu & Gò Mun (Vĩnh Phúc - 3.500 – 3.000 năm trước):**
    * Khai quật khuôn đúc đồng ba mang, mũi tên đồng, lưỡi câu đồng, rìu đồng xòe cân.
 3. **Văn Hóa Đông Sơn (Thanh Hóa, Hà Nội, Hải Phòng - 2.500 – 2.000 năm trước):**
-   * **Quốc bảo Trống Đồng (Ngọc Lũ, Hoàng Hạ, Cổ Loa, Sông Đà):** Khắc họa 18 con chim Lạc bay ngược chiều kim đồng hồ, thuyền chiến chở chiến binh cầm giáo múa rìu, cối giã gạo chày đôi, hình rồng cá sấu Giao Long.
+   * **Quốc bảo Trống Đông Sơn (Ngọc Lũ, Hoàng Hạ, Cổ Loa, Sông Đà):** Khắc họa 18 con chim Lạc bay ngược chiều kim đồng hồ, thuyền chiến chở chiến binh cầm giáo múa rìu, cối giã gạo chày đôi, hình rồng cá sấu Giao Long.
    * **Thạp Đồng Đào Thịnh:** Nắp thạp đúc 4 cặp tượng nam nữ giao hoan $\rightarrow$ Biểu tượng tín ngưỡng phồn thực cầu sinh sôi nảy nở của người Việt.
 
 ---
@@ -88,7 +88,7 @@
 
 ### 7. 🐘 NỮ TƯỚNG MÊ LINH (HAI BÀ TRƯNG) & NỮ TƯỚNG TRIỆU THỊ TRINH:
 * **Hai Bà Trưng (Năm 40 SCN):**
-  * *"Một xin rửa sạch quốc thù / Hai xin dựng lại nghiệp xưa họ Hùng"*. Cưỡi voi chiến gióng trống đồng, lãnh đạo các nữ tướng (Lê Chân, Thánh Thiên, Bát Nàn) quét sạch quân thái thú Tô Định thu phục 65 thành trì.
+  * *"Một xin rửa sạch quốc thù / Hai xin dựng lại nghiệp xưa họ Hùng"*. Cưỡi voi chiến gióng trống Đông Sơn, lãnh đạo các nữ tướng (Lê Chân, Thánh Thiên, Bát Nàn) quét sạch quân thái thú Tô Định thu phục 65 thành trì.
 * **Bà Triệu (Năm 248):**
   * Câu nói rúng động ngàn năm: *"Tôi muốn cưỡi cơn gió mạnh, đạp luồng sóng dữ, chém cá kình ở Biển Đông, quét sạch bờ cõi để cứu dân ra khỏi nơi đắm đuối, chứ không thèm bắt chước người đời cúi đầu cong lưng làm tì thiếp người ta!"*.
 
@@ -100,10 +100,10 @@
 | :--- | :--- | :--- |
 | **Sự Tích Trầu Cau** | Bình vôi gốm men lam, dao bổ cau đồng | Tình huynh đệ vào sinh ra tử, dải khăn trầu đỏ thắm của người thương. |
 | **Bánh Chưng Bánh Giầy** | Cối đá Phùng Nguyên, hạt thóc cổ Đông Sơn | Giai điệu mộc mạc tạ ơn Đất Mẹ, khúc hát mừng xuân đoàn viên. |
-| **Chử Đồng Tử Tiên Dung**| Gậy trúc, nón lá, bãi cát lau sậy sông Hồng | Khúc tình ca thoát tục ven sông, tiếng sáo trúc Cổ Nhạc chữa lành. |
+| **Chử Đồng Tử Tiên Dung**| Gậy trúc, nón lá, bãi cát lau sậy sông Hồng | Khúc tình ca thoát tục ven sông, tiếng sáo Cổ Nhạc chữa lành. |
 | **Nỏ Thần Cổ Loa** | Vạn mũi tên đồng Cầu Vực, lẫy nỏ đồng | Tiết tấu dồn dập, tiếng rít xé gió của cung nỏ trong trận chiến. |
 | **Mai An Tiêm** | Hạt dưa đỏ, thuyền độc mộc Mộ Thuyền | Bản hùng ca vượt sóng gió đại dương của cư dân miền biển. |
-| **Hai Bà Trưng & Bà Triệu**| Trống Đồng Đông Sơn, tượng voi đồng | Trống trận sấm sét, khúc ca kiêu hãnh của các nữ tướng Đại Việt. |
+| **Hai Bà Trưng & Bà Triệu**| Trống Đông Sơn, tượng voi đồng | Trống trận sấm sét, khúc ca kiêu hãnh của các nữ tướng Đại Việt. |
 
 ---
 
@@ -112,5 +112,5 @@ Thế giới quan Cổ Phong của Vũ Trụ Cổ Phong Bách Việt giờ đây
 * Có **Đất** (Bánh Chưng, Làng Gốm Chu Đậu).
 * Có **Nước** (Thủy chiến Bạch Đằng, lặn sông Yết Kiêu, hồ Động Đình).
 * Có **Lửa** (Lò đúc đồng Đông Sơn, khói lửa sa trường Sát Thát).
-* Có **Khí** (Võ công Lạc Long Quyền, đòn chân kẹp cổ, tiếng đàn Tranh Cổ Nhạc).
+* Có **Khí** (Võ công Lạc Long Quyền, đòn chân kẹp cổ, tiếng đàn dây Cổ Nhạc).
 * Có **Tình** (Trầu Cau son sắt, Chử Đồng Tử - Tiên Dung, An Thái - Mộc Tĩnh Lan, Từ Hải - Thúy Kiều).

@@ -77,12 +77,12 @@
 
 ## 🌾 PHÂN KHU II: ĐỒNG BẰNG SÔNG HỒNG & KINH KỲ CỐ ĐÔ — TRÁI TIM LÚA NƯỚC & VĂN HIẾN
 
-### 08. Kinh Đô Thăng Long & Tháp Báo Thiên 12 Tầng
-* **Tọa độ & Địa thế:** Trung tâm đồng bằng châu thổ sông Hồng, mảnh đất rồng cuộn hổ ngồi.
+### 08. Thăng Long: cố đô, sông Như Nguyệt và di sản kiến trúc
+* **Địa thế:** Cố đô nằm trong đồng bằng sông Hồng, gắn với sông Như Nguyệt và các tuyến đường nước – đất.
 * **Chi tiết giác quan sờ nắm được:**
-  * *Xúc giác:* Vuốt ve thềm rồng đá Điện Kính Thiên với từng đường chạm khắc hoa cúc, hoa sen thời Lý - Trần uốn lượn mềm mại.
-  * *Thị giác:* Ngọn Tháp Báo Thiên 12 tầng bằng gạch nung cẩn đồng đỏ rực rỡ vươn cao chọc trời mây xanh ngắt.
-* **Nhân kiệt & Truyền tích:** Nơi vua Lý Thái Tổ hạ chiếu dời đô năm 1010; trung tâm tụ hội của các Trạng Nguyên và đại thi hào.
+  * *Xúc giác:* Gạch cũ, gỗ mục, rêu và bụi thời gian trên nền di tích; chỉ mô tả hoạ tiết rồng nếu có tên di tích và nguồn ảnh hiện vật.
+  * *Thị giác:* Mái ngói, ngói ống tráng men và các cấu trúc thật của di tích; không mặc định “Tháp Báo Thiên 12 tầng” nếu chưa xác định đúng loại tháp.
+* **Nhân kiệt & Truyền tích:** Chiếu dời đô năm 1010 và vai trò của Thăng Long là nguồn tham khảo; các công trình cụ thể cần được kiểm kê theo tên và niên đại.
 
 ### 09. Đầm Sen Tây Hồ & Giếng Ngọc Khai Hà
 * **Tọa độ & Địa thế:** Hồ nước ngọt tự nhiên lớn nhất Thăng Long, vùng đất ngập tràn hương sen bách diệp.
@@ -193,7 +193,7 @@
 * **Tọa độ & Địa thế:** Dòng sông thơ mộng chảy qua các đồi thông xanh ngắt và vùng đất thảo mộc thơm ngát xứ kinh kỳ.
 * **Chi tiết giác quan sờ nắm được:**
   * *Mùi hương:* Mùi thơm thoang thoảng của cỏ thạch bồn thảo mộc thượng nguồn làm nước sông mang hương thơm tự nhiên.
-  * *Âm thanh:* Tiếng đàn Tranh và giọng hò mái nhì trầm bổng ngân nga trên chiếc thuyền rồng lững lờ trôi đêm trăng.
+  * *Âm thanh:* Tiếng đàn dây và giọng hò mái nhì trầm bổng ngân nga trên chiếc thuyền rồng lững lờ trôi đêm trăng.
 * **Nhân kiệt & Truyền tích:** Vùng đất sinh ra những ca nữ tài hoa và các khúc nhạc cung đình thanh nhã tuyệt đỉnh.
 
 ### 24. Thương Cảng Quốc Tế Hội An & Sông Hoài

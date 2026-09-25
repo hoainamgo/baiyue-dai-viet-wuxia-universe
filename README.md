@@ -4,15 +4,17 @@
 ### ⚔️ *BAI YUE & DAI VIET WUXIA UNIVERSE: 5,000 YEARS OF EPIC HERITAGE* ⚔️
 
 **Đại Bách Khoa Toàn Thư Thế Giới Quan Võ Hiệp Cổ Phong, Văn Học & Di Sản 5.000 Năm Bách Việt — Đại Việt**  
-*Khởi nguồn từ Văn tự Lương Chử 5.300 năm, Ký ức Đại Hồng Thủy, Hậu Duệ Thần Thoại, Trống Đồng Đông Sơn, Hào Khí Đông A đến 36 Địa Linh Nhân Kiệt & Thương Cảng Quốc Tế La Mã*
+*Khởi nguồn từ Văn tự Lương Chử 5.300 năm, Ký ức Đại Hồng Thủy, Hậu Duệ Thần Thoại, Trống Đông Sơn, Hào Khí Đông A đến 36 Địa Linh Nhân Kiệt & Thương Cảng Quốc Tế La Mã*
 
 ---
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-gold.svg?style=for-the-badge&logo=creative-commons&logoColor=white)](https://creativecommons.org/licenses/by/4.0/)
-[![Universe Version](https://img.shields.io/badge/Universe_Version-v6.0_Supreme_Masterpiece-emerald.svg?style=for-the-badge&logo=bookstack&logoColor=white)]()
+[![Universe Version](https://img.shields.io/badge/Universe_Version-v7.0_Canon_Upgrade-emerald.svg?style=for-the-badge&logo=bookstack&logoColor=white)](WUXIA_GUOFENG_RESEARCH_LOGS/01_MASTER_CODEX_VO_HIEP_CO_PHONG_DAI_VIET.md)
 [![Archaeology](https://img.shields.io/badge/Archaeology-5300_Years_Liangzhu_Dong_Son-blue.svg?style=for-the-badge&logo=archeology&logoColor=white)]()
 [![Global Trade](https://img.shields.io/badge/Global_Records-Ptolemy_Cattigara_150_AD-orange.svg?style=for-the-badge&logo=planetscale&logoColor=white)]()
 [![Visual 4K](https://img.shields.io/badge/Visual_Canon-30_Master_Concepts_4K-purple.svg?style=for-the-badge&logo=artstation&logoColor=white)]()
+
+> **Nâng cấp canon 7.0 (2026-09-25):** [`01_MASTER_CODEX_VO_HIEP_CO_PHONG_DAI_VIET.md`](WUXIA_GUOFENG_RESEARCH_LOGS/01_MASTER_CODEX_VO_HIEP_CO_PHONG_DAI_VIET.md) → [`57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md`](WUXIA_GUOFENG_RESEARCH_LOGS/57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md) → [`58_CANON_VISUAL_DONG_A_TRAN_1225_1400.md`](WUXIA_GUOFENG_RESEARCH_LOGS/58_CANON_VISUAL_DONG_A_TRAN_1225_1400.md). Tài liệu cũ giữ nguyên làm nghiên cứu; khi mâu thuẫn, các file canon này được ưu tiên.
 
 ---
 
@@ -47,13 +49,13 @@
 16. [🐘 16. Nghệ Thuật Quân Sự & Ngự Tượng Mê Linh Hai Bà Trưng](#-16-nghệ-thuật-quân-sự--ngự-tượng-mê-linh-hai-bà-trưng)
 17. [🌍 17. Sử Liệu Toàn Cầu Ghi Chép (La Mã, Hy Lạp, Ả Rập)](#-17-sử-liệu-toàn-cầu-ghi-chép-la-mã-hy-lạp-ả-rập)
 18. [👥 18. Tuyển Tập Nhân Vật Gốc (Canon Characters)](#-18-tuyển-tập-nhân-vật-gốc-canon-characters)
-19. [🎼 19. Hệ Thống Âm Nhạc Mô Phỏng Nguyên Bản Thời Đại (Trống Đồng, Đàn Đá, Cổ Nhạc)](#-19-hệ-thống-âm-nhạc-mô-phỏng-nguyên-bản-thời-đại-trống-đồng-đàn-đá-Cổ Nhạc)
-20. [📚 20. Thư Viện Toàn Bộ Tài Liệu Khảo Cứu Chuyên Sâu (`docs/`)](#-20-thư-viện-toàn-bộ-tài-liệu-khảo-cứu-chuyên-sâu-docs)
+19. [🎼 19. Hệ Thống Âm Nhạc Bản Địa & Văn Hóa Cổ Phong](#-19-hệ-thống-âm-nhạc-bản-địa--văn-hóa-cổ-phong)
+20. [📚 20. Thư Viện Toàn Bộ 58 Tài Liệu Khảo Cứu Chuyên Sâu (`WUXIA_GUOFENG_RESEARCH_LOGS/`)](#-20-thư-viện-toàn-bộ-58-tài-liệu-khảo-cứu-chuyên-sâu-chuẩn-hóa-wuxia_guofeng_research_logs)
 21. [🌾 21. Đại Bách Khoa Hồn Quê & Đời Thường Dân Dã 500% (300+ Chất Liệu)](#-21-đại-bách-khoa-hồn-quê--đời-thường-dân-dã-500-300-chất-liệu-thực-chứng)
 22. [🏮 22. 25 Điểm Hẹn Đời Thường & 40 Hình Tượng Nữ Trung Kiệt Xuất](#-22-25-điểm-hẹn-đời-thường--40-hình-tượng-nữ-trung-kiệt-xuất)
-23. [♾️ 23. Đại Bách Khoa Liên Kết Thiên Cổ: 10 Mạch Ngầm Truyền Thừa (Living Continuity)](#-23-đại-bách-khoa-liên-kết-thiên-cổ-10-mạch-ngầm-truyền-thừa-không-dứt-đoạn-living-continuity)
-24. [🤝 24. Giấy Phép Mã Nguồn Mở Creative Commons CC BY 4.0](#-21-giấy-phép-mã-nguồn-mở-creative-commons-cc-by-40)
-25. [🕊️ 25. Tâm Thư Tác Giả & Miễn Trừ Trách Nhiệm (Disclaimer)](#-22-tâm-thư-tác-giả--miễn-trừ-trách-nhiệm-disclaimer)
+23. [♾️ 23. Đại Bách Khoa Liên Kết Thiên Cổ: 10 Mạch Ngầm Truyền Thừa (Living Continuity)](#-23-đại-bách-khoa-liên-kết-thiên-cổ-10-mạch-ngầm-truyền-thừa-không-đứt-đoạn-living-continuity)
+24. [🤝 24. Giấy Phép Mã Nguồn Mở Creative Commons CC BY 4.0](#-24-giấy-phép-mã-nguồn-mở-creative-commons-cc-by-40)
+25. [🕊️ 25. Tâm Thư Tác Giả & Miễn Trừ Trách Nhiệm (Disclaimer)](#-25-tâm-thư-tác-giả--miễn-trừ-trách-nhiệm-disclaimer)
 
 ---
 
@@ -75,9 +77,9 @@
  ├────────────────────────────────────────────────────────────────────────────────────────┤
  │ 👑 3. ĐẠI VIỆT HOÀNG KIM & ĐỈNH CAO VĂN HIẾN (THẾ KỶ XI - XVIII)                       │
  │    • Thăng Long Lý triều: Binh pháp "Tiên phát chế nhân", Nam Quốc Sơn Hà, Văn Miếu    │
- │    • Hào khí Đông A thời Trần: 3 lần thắng Mông Nguyên, Hịch Tướng Sĩ, Hội nghị Diên Hồng│
- │    • Rồng thời Lý - Trần: Rồng sóng nước uốn lượn mào lá đề kết tinh Trúc Lâm Thiền     │
- │    • Thâm ý Non Thiêng Yên Tử của Vua Trần: Chốt chặn an toàn & Cuộc dời đô ngầm    │
+ │    • Hào khí Đông A thời Trần: 1258, 1285, 1288; Hịch Tướng Sĩ, Hội nghị Diên Hồng  │
+ │    • Giao Long: vật tổ Đông Sơn và đời sống sông nước; không nhập rồng phương Bắc          │
+ │    • Yên Tử 1237: triều đình lưu động khi Trần Liễu nổi loạn; diễn giải khác cần nhãn     │
  │    • Bình Ngô Lam Sơn: Lê Lợi 10 năm nếm mật, Nguyễn Trãi: "Đem đại nghĩa thắng hung tàn" │
  │    • Bão lửa Tây Sơn: Vua Quang Trung thần tốc quét sạch 29 vạn quân Thanh Kỷ Dậu 1789 │
  ├────────────────────────────────────────────────────────────────────────────────────────┤
@@ -95,7 +97,7 @@
 Trong hàng trăm năm qua, văn hóa võ hiệp phương Đông phần lớn bị định hình bởi các điển tích phương Bắc. Thế nhưng, ẩn sâu dưới lớp trầm tích lịch sử hàng nghìn năm, **văn minh Bách Việt và cõi Nam Đại Việt** sở hữu một kho tàng sử thi kỳ vĩ, độc bản và vô cùng hào hùng:
 * **Hào khí Thủy Chiến & Đoản Binh:** Người con phương Nam cắt tóc xăm mình Giao Long, bơi lặn như rái cá, lấy mái chèo làm ngựa, trận địa cọc ngầm Bạch Đằng ba lần nhấn chìm chiến thuyền ngoại xâm.
 * **Tín ngưỡng Tế Trời Thuần Khiết:** Kế thừa bàn thờ đá lộ thiên sau Đại Hồng Thủy, lập **Bàn Thờ Thiên** tạ ơn Đấng Tạo Hóa (Ông Trời), dâng nước suối trong & hạt thóc vàng, tuyệt đối không thắp nhang que nhân tạo.
-* **Y Đạo Nhân Văn Thảo Mộc:** *"Nam Dược Trị Nam Nhân"* — 580 vị thuốc nam kết hợp âm nhạc ngũ cung Cổ Nhạc chữa lành tâm hồn và vết thương sa trường.
+* **Y Đạo Nhân Văn Thảo Mộc:** *"Nam Dược Trị Nam Nhân"* — tri thức 580 vị thuốc nam, âm nhạc nhẹ và chăm sóc vết thương trong thế giới quan; không thay thế điều trị y khoa.
 * **Đạo Lý Tình Yêu Thương Vĩnh Cửu:** *"Tình yêu thương chẳng ghen ghét, chẳng tự khoe mình, chẳng lên mình kiêu ngạo; người Việt trượng nghĩa hào tình, lấy đức thắng tài."*
 
 **Bai Yue & Dai Viet Wuxia Universe** ra đời để tái hiện trọn vẹn hào khí và linh hồn ngàn năm ấy!
@@ -117,7 +119,7 @@ Trong hàng trăm năm qua, văn hóa võ hiệp phương Đông phần lớn b�
 </p>
 <p align="center">
   <img src="visual_concepts/NU_07_Tua_Lan_Can_Nhin_Yen_Tu_4k.png" width="31%" style="border-radius: 8px; margin: 2px;" alt="Tựa Lan Can Nhìn Yên Tử">
-  <img src="visual_concepts/NU_08_Gay_Dan_Tranh_Hien_Mua_4k.png" width="31%" style="border-radius: 8px; margin: 2px;" alt="Gảy Đàn Tranh Hiên Mưa">
+  <img src="visual_concepts/NU_08_Gay_Dan%5FTranh_Hien_Mua_4k.png" width="31%" style="border-radius: 8px; margin: 2px;" alt="Gảy Nhạc Cụ Dây Hiên Mưa">
   <img src="visual_concepts/NU_09_Sao_Thuoc_Nam_Thao_Moc_4k.png" width="31%" style="border-radius: 8px; margin: 2px;" alt="Sao Thuốc Nam Thảo Mộc">
 </p>
 <p align="center">
@@ -134,7 +136,7 @@ Trong hàng trăm năm qua, văn hóa võ hiệp phương Đông phần lớn b�
 </p>
 <p align="center">
   <img src="visual_concepts/NAM_04_Ngam_Binh_Gom_Ky_Vat_Que_Nha_4k.png" width="31%" style="border-radius: 8px; margin: 2px;" alt="Ngắm Bình Gốm Kỷ Vật">
-  <img src="visual_concepts/NAM_05_Ke_Cung_Thanh_Van_Kiep_4k.png" width="31%" style="border-radius: 8px; margin: 2px;" alt="Kéo Cung Thành Vạn Kiếp">
+  <img src="visual_concepts/NAM_05_Keo_Cung_Thanh_Van_Kiep_4k.png" width="31%" style="border-radius: 8px; margin: 2px;" alt="Kéo Cung Thành Vạn Kiếp">
   <img src="visual_concepts/NAM_06_Dung_Gac_Song_Luc_Dau_4k.png" width="31%" style="border-radius: 8px; margin: 2px;" alt="Đứng Gác Sông Lục Đầu">
 </p>
 <p align="center">
@@ -155,7 +157,7 @@ Trong hàng trăm năm qua, văn hóa võ hiệp phương Đông phần lớn b�
   <img src="visual_concepts/DOI_03_Chia_Ly_Ben_Do_Luc_Dau_4k.png" width="31%" style="border-radius: 8px; margin: 2px;" alt="Chia Ly Bến Đò Lục Đầu">
 </p>
 <p align="center">
-  <img src="visual_concepts/DOI_04_Hoa_Tau_Dan_Tranh_Sao_Truc_4k.png" width="31%" style="border-radius: 8px; margin: 2px;" alt="Hòa Tấu Đàn Tranh Sáo Trúc">
+  <img src="visual_concepts/DOI_04_Hoa_Tau_Dan%5FTranh_Sao%5FTruc_4k.png" width="31%" style="border-radius: 8px; margin: 2px;" alt="Hòa Tấu Nhạc Cụ Dây và Tiếng Sáo">
   <img src="visual_concepts/DOI_05_Cham_Soc_Vuon_Sen_Hai_Tra_4k.png" width="31%" style="border-radius: 8px; margin: 2px;" alt="Chăm Sóc Vườn Sen Hái Trà">
   <img src="visual_concepts/DOI_06_Y_Dao_Bang_Bo_Vet_Thuong_4k.png" width="31%" style="border-radius: 8px; margin: 2px;" alt="Băng Bó Vết Thương Y Đạo">
 </p>
@@ -178,7 +180,7 @@ Thi ca phản ánh toàn cảnh **nền tảng xã hội, đời sống lao đ�
 * **🤱 Quyển III: HIẾU & GIA ĐẠO (Lời Ru Cánh Võng & Nghĩa Sinh Thành):** *Lời ru cánh võng trưa hè ("À ơi con ngủ cho say..."), Tóc mẹ bạc theo mùa lúa, Bát canh rau muống quả cà dầm tương, Đôi bàn tay cha vết chai, Bát cơm mới dâng cha mẹ, Chiếc nôi gỗ mít...*
 * **🏮 Quyển IV: TỤC & LỄ HỘI (Tập Quán & Lễ Tế Trời):** *Lễ Tịch Điền vua đi cày, Rước nước sông Hồng, Diều sáo trên đê, Hội vật sới Liễu Đôi (đòn chân kẹp cổ), Bánh chưng bánh dầy lễ Trời Đất, Hội đua thuyền rồng, Xăm mình Giao Long, Lễ Cơm Mới dâng Bàn Thờ Thiên...*
 * **🤝 Quyển V: NHÂN & ĐỒNG BÀO (Tình Làng Xóm & Triết Lý Sống):** *Bầu ơi thương lấy bí cùng, Hai tiếng "Đồng Bào" quả Bầu Mẹ, Lá lành đùm lá rách, Giếng nước gốc đa sân đình, Bát nước chè vối mời khách lạ, Già làng kể chuyện hồng thủy, Cây tre Bách Việt...*
-* 👉 *Chi tiết toàn bộ 100 bài thơ:* [`docs/DAI_KINH_THI_BACH_VIET_100_THI_CA_XA_HOI_TINH_YEU_NHAN_SINH.md`](docs/DAI_KINH_THI_BACH_VIET_100_THI_CA_XA_HOI_TINH_YEU_NHAN_SINH.md)
+* 👉 *Chi tiết toàn bộ 100 bài thơ:* [`WUXIA_GUOFENG_RESEARCH_LOGS/47_DAI_KINH_THI_BACH_VIET_100_THI_CA_XA_HOI_TINH_YEU.md`](WUXIA_GUOFENG_RESEARCH_LOGS/47_DAI_KINH_THI_BACH_VIET_100_THI_CA_XA_HOI_TINH_YEU.md)
 
 ---
 
@@ -191,14 +193,14 @@ Thi ca phản ánh toàn cảnh **nền tảng xã hội, đời sống lao đ�
  ├───────────────────────────────────────────────────┼───────────────────────────────────────────────────┤
  │ • Danh hiệu: **Nam Thiên Thi Tiên**               │ • Danh hiệu: **Thanh Liên Nữ Từ Thánh**           │
  │ • Phong cách: Túy ngọa sa trường, ngạo nghễ trăng │ • Phong cách: Đài các, tinh tế, thi họa song tuyệt│
- │   sao, vác kiếm gảy Đàn Đáy, xuất khẩu thành thơ, │   đề thơ men lam Chu Đậu, gảy đàn Tranh Cổ Nhạc,    │
+ │   sao, vác kiếm gảy Đàn Đáy, xuất khẩu thành thơ, │   đề thơ men lam Chu Đậu, gảy đàn dây Cổ Nhạc,           │
  │   coi khinh chức tước bổng lộc triều đình.        │   sầu ly biệt bến Lục Đầu, tình yêu son sắt.      │
  │ • Tác phẩm: *Nam Thiên Tương Tiến Tửu, Lục Đầu    │ • Tác phẩm: *Như Mộng Lệnh (Đêm mưa lò gốm),      │
  │   Cuồng Ca, Độc Ẩm Sông Hồng, Hiệp Khách Hành...* │   Nhất Chi Mai (Sầu ly biệt), Thanh Ngọc Án...*   │
  └───────────────────────────────────────────────────┴───────────────────────────────────────────────────┘
 ```
 * **Mối Tình Tri Kỷ Kinh Điển:** Cùng nhau thưởng trà sen Tây Hồ đối ẩm ngâm vịnh, khảo cứu 5.000 năm cổ thư, chiếc đĩa gốm men lam bẻ làm đôi ở bến Lục Đầu làm tín vật tình yêu bất tử.
-* 👉 *Chi tiết:* [`docs/DAI_THI_HAO_BACH_VIET_LY_BACH_LY_THANH_CHIEU_CHIEN_LICH.md`](docs/DAI_THI_HAO_BACH_VIET_LY_BACH_LY_THANH_CHIEU_CHIEN_LICH.md)
+* 👉 *Chi tiết:* [`WUXIA_GUOFENG_RESEARCH_LOGS/50_DAI_THI_HAO_BACH_VIET_LY_BACH_LY_THANH_CHIEU.md`](WUXIA_GUOFENG_RESEARCH_LOGS/50_DAI_THI_HAO_BACH_VIET_LY_BACH_LY_THANH_CHIEU.md)
 
 ---
 
@@ -215,7 +217,7 @@ Hệ thống kết nối mạch nguồn thần thoại vào đời sống và v�
 8. **Dòng Dõi Cao Lỗ:** Hậu duệ **Cao Kỳ Cơ & Bùi Thủy Lôi** (nỏ thần liên châu 3 cạnh, máy bắn đá).
 9. **Dòng Dõi Lang Liêu:** Hậu duệ **Trương Lang Lúa** (bánh chưng bánh dầy, giữ giống nếp cái hoa vàng).
 10. **Dòng Dõi Dã Tượng & Yết Kiêu:** Tượng binh sa trường và đội người nhái bảo vệ bờ cõi.
-* 👉 *Chi tiết:* [`docs/DAI_PHO_HAU_DUE_THAN_THOAI_SU_THI_BACH_VIET_5000_NAM.md`](docs/DAI_PHO_HAU_DUE_THAN_THOAI_SU_THI_BACH_VIET_5000_NAM.md)
+* 👉 *Chi tiết:* [`WUXIA_GUOFENG_RESEARCH_LOGS/39_DAI_PHO_HAU_DUE_THAN_THOAI_SU_THI_5000_NAM.md`](WUXIA_GUOFENG_RESEARCH_LOGS/39_DAI_PHO_HAU_DUE_THAN_THOAI_SU_THI_5000_NAM.md)
 
 ---
 
@@ -227,28 +229,28 @@ Mỗi vùng đất được miêu tả chân thật bằng **chi tiết giác qu
 * **⛰️ Vùng Tây Bắc & Cội Nguồn Phong Châu (16 - 21):** Đền Hùng Nghĩa Lĩnh (Bàn Thờ Thiên dâng bánh chưng), Đỉnh Fansipan (rừng đỗ quyên chín tầng mây), Hẻm Tu Sản Sông Nho Quế, Thác Bản Giốc & Sông Quây Sơn, Đầm Dạ Trạch & Bãi Tự Nhiên, Hồ Ba Bể.
 * **🌊 Duyên Hải Miền Trung & Champa (22 - 29):** Đèo Ngang & Hoành Sơn Quan (hoa lau trắng, tiếng cuốc kêu), Sông Hương & Núi Ngự, Phố Cổ Hội An & Sông Hoài (hàng ngàn đèn lồng, thuyền buồm ba cột), Cù Lao Chàm, Tháp Chàm Mỹ Sơn (gạch đỏ không mạch vữa), Đèo Hải Vân, Phá Tam Giang, Ruộng Muối Sa Huỳnh.
 * **🌴 Đồng Bằng Phương Nam & Biển Đảo (30 - 36):** Thương Cảng Óc Eo Cattigara (tiền vàng La Mã 150 AD), Thất Sơn Bảy Núi Linh Thiêng, Rừng Tràm Trà Sư Mùa Nước Nổi, Chín Nhánh Sông Cửu Long (Chín Rồng phù sa), Mũi Cà Mau (rừng đước lấn biển), Đảo Ngọc Phú Quốc, Thượng Nguồn Động Đình Hồ.
-* 👉 *Chi tiết:* [`docs/DAI_DIA_LINH_NHAN_KIET_5000_NAM_NON_SONG_GAM_VOC_BACH_VIET.md`](docs/DAI_DIA_LINH_NHAN_KIET_5000_NAM_NON_SONG_GAM_VOC_BACH_VIET.md)
+* 👉 *Chi tiết:* [`WUXIA_GUOFENG_RESEARCH_LOGS/46_DAI_DIA_LINH_NHAN_KIET_5000_NAM_NON_SONG_GAM_VOC.md`](WUXIA_GUOFENG_RESEARCH_LOGS/46_DAI_DIA_LINH_NHAN_KIET_5000_NAM_NON_SONG_GAM_VOC.md)
 
 ---
 
 ## 🌳 7. ĐẠI BÁCH KHOA 100 NHÂN VẬT: BI HOAN LY HỢP & TRƯỢNG NGHĨA HÀO TÌNH
 
 Mỗi nhân vật đại diện cho một thân phận trong xã hội, trải qua **Bi - Hoan - Ly - Hợp** và giữ trọn triết lý yêu thương bất diệt:
-* **Khối I: Bách Nghệ Tông Sư & Lao Động (20 người):** Mộc Thần Lò (người cha làng gốm), Nguyễn Kim Đúc (đúc Trống Đồng), Chiêu Lụa Nương (dệt gấm), Lão Ngư Ba Bến (đưa đò miễn phí 50 năm), Nàng Thoa Nón Chuông, Cụ Bùi Nông Điển (đắp đê), Thợ Mộc Chàng Sơn...
+* **Khối I: Bách Nghệ Tông Sư & Lao Động (20 người):** Mộc Thần Lò (người cha làng gốm), Nguyễn Kim Đúc (đúc trống Đông Sơn), Chiêu Lụa Nương (dệt gấm), Lão Ngư Ba Bến (đưa đò miễn phí 50 năm), Nàng Thoa Nón Chuông, Cụ Bùi Nông Điển (đắp đê), Thợ Mộc Chàng Sơn...
 * **Khối II: Lương Y Thảo Mộc & Thiền Sư (20 người):** Tuệ Tĩnh (Đại Y Vương), Diệp Thanh Tâm (y sĩ đầm sen), Huyền Giác Thiền Sư, Ni Sư Diệu Không (nuôi 30 trẻ mồ côi), Lão Dược Phu Mã Pì Lèng (leo vách núi tìm sâm cứu dịch bệnh)...
 * **Khối III: Văn Nhân, Thi Hào & Ca Nữ (20 người):** Trần Hàn Thi Tiên, Thầy Đồ già sông Mã (dạy học không thu tiền), Cầm Ca Sông Hoài (ca nữ giữ lòng thanh bạch), Sử Quan Lê Văn Sử (thà chết giữ ngòi bút trung thực)...
 * **Khối IV: Hiệp Khách, Dũng Sĩ Thủy Chiến (20 người):** An Thái, Yết Kiêu, Liễu Khai Văn (đô vật nhường cơm cho bạn), Bùi Thủy Lôi, Đoàn Dũng Kỵ Tướng, Nữ tướng ngự tượng Mê Linh...
 * **Khối V: Hoàng Tộc, Tướng Soái & Bách Tính (20 người):** Trần Quốc Toản (bóp nát quả cam vì nước), Huyền Trân Công Chúa (hy sinh vì hòa bình), Bà Mẹ nuôi nghĩa quân Yên Thế, Thương Gia Bùi Đại Nghĩa (mở kho cứu đói), Đôi vợ chồng già trồng rừng Mẫu Sơn...
-* 👉 *Chi tiết:* [`docs/DAI_BACH_KHOA_100_NHAN_VAT_BI_HOAN_LY_HOP_TRUONG_NGHIA_HAO_TINH.md`](docs/DAI_BACH_KHOA_100_NHAN_VAT_BI_HOAN_LY_HOP_TRUONG_NGHIA_HAO_TINH.md)
+* 👉 *Chi tiết:* [`WUXIA_GUOFENG_RESEARCH_LOGS/38_DAI_BACH_KHOA_100_NHAN_VAT_BI_HOAN_LY_HOP.md`](WUXIA_GUOFENG_RESEARCH_LOGS/38_DAI_BACH_KHOA_100_NHAN_VAT_BI_HOAN_LY_HOP.md)
 
 ---
 
 ## 📚 8. ĐẠI TẠNG THƯ: 5.000 CỔ THƯ, BÁCH VIỆT LỤC NGHỆ & KHOA CỬ TAM KHÔI
 
 * **Lục Bộ Tạng Thư (18 Đại Tạng Kinh Điển):** Thiên Tạng (800 bộ), Hiếu Tạng (900 bộ), Giang Tạng (850 bộ), Dược & Nông Tạng (800 bộ), Kiếm & Thủy Binh Tạng (850 bộ), Nghệ & Bách Công Tạng (800 bộ).
-* **Bách Việt Lục Nghệ:** **Lễ** (Tế Trời lộ thiên) · **Nhạc** (Định âm Trống Đồng Cổ Nhạc, Đàn Tranh, Cổ Cầm) · **Xạ** (Nỏ thần Cao Lỗ 3 cạnh) · **Ngự** (Ngự tượng Mê Linh & Chiến thuyền Mông Đồng) · **Thư** (Chữ Lương Chử 5.300 năm, chữ Khoa Đẩu, chữ Nôm) · **Số & Dược** (Nông lịch & 580 Vị thuốc nam).
+* **Bách Việt Lục Nghệ:** **Lễ** (Tế Trời lộ thiên) · **Nhạc** (Định âm trống Đông Sơn, nhạc cụ dây, nhạc cụ dây cổ) · **Xạ** (Nỏ thần Cao Lỗ 3 cạnh) · **Ngự** (Ngự tượng Mê Linh & Chiến thuyền Mông Đồng) · **Thư** (Chữ Lương Chử 5.300 năm, chữ Khoa Đẩu, chữ Nôm) · **Số & Dược** (Nông lịch & 580 Vị thuốc nam).
 * **Khoa Cử Tam Khôi & 4 Đại Học Viện:** **Văn Trạng Nguyên** (*Hàn Lâm Viện Thừa Chỉ*) $\leftrightarrow$ **Võ Trạng Nguyên** (*Điện Tiền Chỉ Huy Sứ*); 4 Học viện: Thái Học Viện Thăng Long, Giảng Võ Đường Vạn Kiếp, Bách Công Viện Chu Đậu, Trúc Lâm Y Viện Yên Tử.
-* 👉 *Chi tiết:* [`docs/DAI_MO_PHONG_5000_CO_THU_LUC_NGHE_KHOA_CU_HOANG_TOC.md`](docs/DAI_MO_PHONG_5000_CO_THU_LUC_NGHE_KHOA_CU_HOANG_TOC.md)
+* 👉 *Chi tiết:* [`WUXIA_GUOFENG_RESEARCH_LOGS/53_DAI_MO_PHONG_5000_CO_THU_LUC_NGHE_KHOA_CU.md`](WUXIA_GUOFENG_RESEARCH_LOGS/53_DAI_MO_PHONG_5000_CO_THU_LUC_NGHE_KHOA_CU.md)
 
 ---
 
@@ -258,7 +260,7 @@ Mỗi nhân vật đại diện cho một thân phận trong xã hội, trải q
 [ THỜI KỲ I: LƯƠNG CHỬ & ĐỘNG ĐÌNH ] ──► [ THỜI KỲ II: VĂN LANG - ĐÔNG SƠN ] ──► [ THỜI KỲ III: ĐÔNG A KHÁNG CHIẾN ] ──► [ THỜI KỲ IV: HẢI VƯƠNG BIỂN ĐÔNG ]
   (5.300 - 4.000 Năm Trước)                 (2.500 Năm Trước)                       (Thế Kỷ XIII - 1285)                     (Thế Kỷ XVI - ~1550)
   • Khảo cổ Văn hóa Lương Chử                • Văn hóa Đông Sơn rực rỡ              • Hào khí Sát Thát đại thắng            • Thương cảng quốc tế Hội An
-  • Thủ lĩnh Câu Tiễn, Ngô Việt              • Trống Đồng, Thạp Đào Thịnh            • Thủy chiến cọc gỗ Bạch Đằng           • 500 chiến thuyền buồm Biển Đông
+  • Thủ lĩnh Câu Tiễn, Ngô Việt              • Trống Đông Sơn, Thạp Đào Thịnh            • Thủy chiến cọc gỗ Bạch Đằng           • 500 chiến thuyền buồm Biển Đông
   • Thần kiếm Cối Kê, Bàn Thờ Thiên          • Nỏ thần Cao Lỗ 1 phát trăm tên       • Làng gốm Chu Đậu, Yên Tử              • Từ Hải xưng bá hải trình
 ```
 
@@ -267,21 +269,21 @@ Mỗi nhân vật đại diện cho một thân phận trong xã hội, trải q
 ## 🌊 10. 54 THẦN THOẠI HỒNG THỦY & HAI TIẾNG "ĐỒNG BÀO"
 * **Toàn bộ 54 Dân tộc anh em** tại Việt Nam đều lưu giữ thần thoại độc lập về Đại Hồng Thủy (Quả Bầu Mẹ, Trống da voi, Thân cây gỗ).
 * **Vết tích trong Ca Dao & Mo Mường:** *"Bầu ơi thương lấy bí cùng, tuy rằng khác giống nhưng chung một giàn"* — Ký ức sống sót cùng một cội quả Bầu Mẹ.
-* 👉 *Chi tiết:* [`docs/DAI_KHAO_CUU_CHUYEN_SAU_HONG_THUY_DAN_GIAN_VA_TUYEN_NHAN_VAT_DUONG_TU.md`](docs/DAI_KHAO_CUU_CHUYEN_SAU_HONG_THUY_DAN_GIAN_VA_TUYEN_NHAN_VAT_DUONG_TU.md)
+* 👉 *Chi tiết:* [`WUXIA_GUOFENG_RESEARCH_LOGS/17_DAI_KHAO_CUU_CHUYEN_SAU_HONG_THUY_DAN_GIAN_DUONG_TU.md`](WUXIA_GUOFENG_RESEARCH_LOGS/17_DAI_KHAO_CUU_CHUYEN_SAU_HONG_THUY_DAN_GIAN_DUONG_TU.md)
 
 ---
 
 ## 📜 11. HỆ THỐNG VĂN TỰ 5.300 NĂM NAM TRƯỜNG GIANG & CHỮ KHOA ĐẨU
 * **Khảo cổ Lương Chử (Liangzhu):** 656 ký tự văn tự khắc trên Ngọc Tông và gốm đen, xuất hiện **sớm hơn Giáp Cốt Văn 1.400 năm**!
 * **Chữ Khoa Đẩu Đông Sơn:** Khắc trên rìu đồng, thạp đồng Đào Thịnh và bãi đá cổ Sa Pa.
-* 👉 *Chi tiết:* [`docs/DAI_KHAO_CUU_HE_THONG_VAN_TU_BACH_VIET_VA_SONG_DUONG_TU.md`](docs/DAI_KHAO_CUU_HE_THONG_VAN_TU_BACH_VIET_VA_SONG_DUONG_TU.md)
+* 👉 *Chi tiết:* [`WUXIA_GUOFENG_RESEARCH_LOGS/07_DAI_KHAO_CUU_HE_THONG_VAN_TU_LUONG_CHU_KHOA_DAU.md`](WUXIA_GUOFENG_RESEARCH_LOGS/07_DAI_KHAO_CUU_HE_THONG_VAN_TU_LUONG_CHU_KHOA_DAU.md)
 
 ---
 
 ## 🗺️ 12. ĐẠI ĐỊA ĐỒ & NIÊN BIỂU 9 KỶ NGUYÊN LỊCH SỬ (TỪ XÍCH QUỶ ĐẾN ĐÔNG A)
 Biên niên sử thành quách, kiến trúc, danh nhân và di chỉ khảo cổ trải dài qua 9 Kỷ Nguyên:
 1. Xích Quỷ & Lương Chử (5.300 - 4.000 năm trước) · 2. Văn Lang 18 Đời Hùng Vương (4.000 - 2.300 năm trước) · 3. Âu Lạc An Dương Vương (Thế kỷ III TCN) · 4. Lĩnh Nam Trưng Vương (40 - 43 SCN) · 5. Vạn Xuân & Dạ Trạch (Thế kỷ VI) · 6. Tự Chủ Sơ Kỳ & Bạch Đằng (Thế kỷ VIII - X) · 7. Đại Cồ Việt Hoa Lư (Thế kỷ X) · 8. Đại Việt Thời Lý (Thế kỷ XI - XII) · 9. Đại Việt Thời Đông A (Thế kỷ XIII - XIV).
-* 👉 *Chi tiết:* [`docs/DAI_DIA_DO_NIEN_BIEU_XICH_QUY_DEN_DONG_A.md`](docs/DAI_DIA_DO_NIEN_BIEU_XICH_QUY_DEN_DONG_A.md)
+* 👉 *Chi tiết:* [`WUXIA_GUOFENG_RESEARCH_LOGS/03_DAI_DIA_DO_NIEN_BIEU_XICH_QUY_DEN_DONG_A.md`](WUXIA_GUOFENG_RESEARCH_LOGS/03_DAI_DIA_DO_NIEN_BIEU_XICH_QUY_DEN_DONG_A.md)
 
 ---
 
@@ -289,47 +291,47 @@ Biên niên sử thành quách, kiến trúc, danh nhân và di chỉ khảo c�
 * **Cấu Trúc Bàn Thờ Thiên:** Lập trụ đá lộ thiên trước sân hoặc đỉnh đồi cao, bốn bề lộng gió hướng thẳng lên Trời.
 * **Lễ Vật Thuần Khiết:** Một bát nước suối trong ngần & một bát hạt thóc vàng nếp cái hoa vàng.
 * **Quy Chuẩn Bất Di Bất Dịch:** **Tuyệt đối KHÔNG thắp nhang que nhân tạo, KHÔNG tạc tượng hình hài Đấng Tạo Hóa.**
-* 👉 *Chi tiết:* [`docs/DAI_KHAO_CUU_600_TRUYEN_THUYET_DAI_HONG_THUY_VA_NGUON_GOC_TE_TROI.md`](docs/DAI_KHAO_CUU_600_TRUYEN_THUYET_DAI_HONG_THUY_VA_NGUON_GOC_TE_TROI.md)
+* 👉 *Chi tiết:* [`WUXIA_GUOFENG_RESEARCH_LOGS/15_DAI_KHAO_CUU_600_TRUYEN_THUYET_DAI_HONG_THUY_TE_TROI.md`](WUXIA_GUOFENG_RESEARCH_LOGS/15_DAI_KHAO_CUU_600_TRUYEN_THUYET_DAI_HONG_THUY_TE_TROI.md)
 
 ---
 
 ## 🌿 14. ĐẠI DƯỢC VƯƠNG THẢO MỘC THẦN NÔNG & Y ĐẠO Cổ Nhạc
 * **Triết Lý "Nam Dược Trị Nam Nhân":** Kế thừa 580 vị thảo dược nước Nam (cây cỏ mực, lá trầu không, rễ cau già, tâm sen, tam thất).
-* **Hòa Âm Ngũ Cung Cổ Nhạc:** Đàn Tranh 16 dây tần số Alpha giúp nhịp tim thương binh ổn định, vết thương khép miệng thần kỳ.
-* 👉 *Chi tiết:* [`docs/dai_bach_khoa_y_dao_than_nong_tue_tinh.md`](docs/dai_bach_khoa_y_dao_than_nong_tue_tinh.md)
+* **Chất liệu âm nhạc:** Nhịp điệu nhẹ giúp thương binh thư giãn và tinh thần phục hồi; không thay thế điều trị y khoa.
+* 👉 *Chi tiết:* [`WUXIA_GUOFENG_RESEARCH_LOGS/23_DAI_BACH_KHOA_Y_DAO_THAN_NONG_TUE_TINH_580_VI.md`](WUXIA_GUOFENG_RESEARCH_LOGS/23_DAI_BACH_KHOA_Y_DAO_THAN_NONG_TUE_TINH_580_VI.md)
 
 ---
 
 ## 🥋 15. ĐẠI TỔNG PHỔ 30 MÔN PHÁI HẮC - BẠCH LƯỠNG ĐẠO
 Bắc Phái Hoàng Liên (Bạch Hạc Yên Tử, Mê Linh Voi Trắng, Phù Đổng Thiết Quyền), Trung Phái Đông A (Lạc Long Thủy Phái, Vạn Kiếp Thần Tiễn, Chu Đậu Y Quán), Nam Phái Cửu Long (Champa Xích Hỏa, Thất Sơn Mãng Xà), Đảo Phái Biển Đông (Từ Hải Hạm Đội, Bạch Đằng Ngư Phủ).
-* 👉 *Chi tiết:* [`docs/dai_bach_khoa_30_mon_phai_hac_bach_dai_viet.md`](docs/dai_bach_khoa_30_mon_phai_hac_bach_dai_viet.md)
+* 👉 *Chi tiết:* [`WUXIA_GUOFENG_RESEARCH_LOGS/28_DAI_BACH_KHOA_30_MON_PHAI_HAC_BACH_DAI_VIET.md`](WUXIA_GUOFENG_RESEARCH_LOGS/28_DAI_BACH_KHOA_30_MON_PHAI_HAC_BACH_DAI_VIET.md)
 
 ---
 
 ## 🐘 16. NGHỆ THUẬT QUÂN SỰ & NGỰ TƯỢNG MÊ LINH HAI BÀ TRƯNG
-Tượng binh hai ngà bọc giáo đồng, tiếng gầm Trống Đồng Đông Sơn loại 1 trầm hùng phá vỡ trận kỵ binh phương Bắc, liên minh quân sự 72 Động Chủ Lĩnh Nam.
-* 👉 *Chi tiết:* [`docs/dai_chuyen_khao_ngu_tuong_me_linh_72_dong_chu.md`](docs/dai_chuyen_khao_ngu_tuong_me_linh_72_dong_chu.md)
+Tượng binh hai ngà bọc giáo đồng, tiếng trống Đông Sơn vang lên trong ký ức chiến tranh, liên minh quân sự 72 Động Chủ Lĩnh Nam.
+* 👉 *Chi tiết:* [`WUXIA_GUOFENG_RESEARCH_LOGS/32_DAI_CHUYEN_KHAO_NGU_TUONG_ME_LINH_72_DONG_CHU.md`](WUXIA_GUOFENG_RESEARCH_LOGS/32_DAI_CHUYEN_KHAO_NGU_TUONG_ME_LINH_72_DONG_CHU.md)
 
 ---
 
 ## 🌍 17. SỬ LIỆU TOÀN CẦU GHI CHÉP (LA MÃ, HY LẠP, Ả RẬP)
 Bản đồ Ptolemy (Alexandria, 150 SCN) ghi nhận thương cảng Cattigara; hải trình Periplus Maris Erythraei; gốm hoa nâu Chu Đậu khai quật tại Trung Đông, Thổ Nhĩ Kỳ và Nhật Bản.
-* 👉 *Chi tiết:* [`docs/dai_khao_cuu_su_lieu_the_gioi_va_truyen_thua_an_thai.md`](docs/dai_khao_cuu_su_lieu_the_gioi_va_truyen_thua_an_thai.md)
+* 👉 *Chi tiết:* [`WUXIA_GUOFENG_RESEARCH_LOGS/12_DAI_KHAO_CUU_SU_LIEU_THE_GIOI_LA_MA_CATTIGARA.md`](WUXIA_GUOFENG_RESEARCH_LOGS/12_DAI_KHAO_CUU_SU_LIEU_THE_GIOI_LA_MA_CATTIGARA.md)
 
 ---
 
 ## 👥 18. TUYỂN TẬP NHÂN VẬT GỐC (CANON CHARACTERS)
 An Thái (Long Tiệp Quân Đô Hiệp · Dũng Sĩ Sa Trường), Mộc Tĩnh Lan (Kỳ Nữ Chu Đậu & Đại Y Sĩ Trúc Lâm), và tuyến 20 nhân vật phụ đặc sắc.
-* 👉 *Chi tiết:* [`docs/DAI_GIA_PHA_VA_TUYEN_NHAN_VAT_PHU_AN_THAI_TINH_LAN.md`](docs/DAI_GIA_PHA_VA_TUYEN_NHAN_VAT_PHU_AN_THAI_TINH_LAN.md)
+* 👉 *Chi tiết:* [`WUXIA_GUOFENG_RESEARCH_LOGS/37_DAI_GIA_PHA_VA_TUYEN_NHAN_VAT_PHU_AN_THAI_TINH_LAN.md`](WUXIA_GUOFENG_RESEARCH_LOGS/37_DAI_GIA_PHA_VA_TUYEN_NHAN_VAT_PHU_AN_THAI_TINH_LAN.md)
 
 ---
 
-## 🎼 19. DI SẢN NHẠC KHÍ BẢN ĐỊA THỜI ĐẠI (TRỐNG ĐỒNG, ĐÀN ĐÁ, ĐÀN TRANH)
-Khắc họa các nhạc khí cổ truyền thuần khiết của dân tộc: Trống Đồng Đông Sơn, Đàn Đá Thượng Cổ, Đàn Bầu độc huyền cầm, Đàn Tranh tơ tằm, Đàn Đáy mộc mạc, Sáo Động Tiêu, Khèn Bè Bách Việt, cùng âm thanh tự nhiên của tiếng sóng sông Hồng và tiếng lò nung Chu Đậu.
+## 🎼 19. HỆ THỐNG ÂM NHẠC BẢN ĐỊA & VĂN HÓA CỔ PHONG
+Khắc họa di sản nhạc cụ và âm thanh truyền thống của dân tộc: trống Đông Sơn, nhạc cụ đá, nhạc cụ dây, sáo tre, Khèn Bè Bách Việt, cùng âm thanh tự nhiên của sóng sông Hồng và tiếng lò nung Chu Đậu.
 
 ---
 
-## 📚 20. THƯ VIỆN TOÀN BỘ 56 TÀI LIỆU KHẢO CỨU CHUYÊN SÂU CHUẨN HÓA (WUXIA_GUOFENG_RESEARCH_LOGS/)
+## 📚 20. THƯ VIỆN TOÀN BỘ 58 TÀI LIỆU KHẢO CỨU CHUYÊN SÂU CHUẨN HÓA (WUXIA_GUOFENG_RESEARCH_LOGS/)
 
 | STT | Mã Tác Phẩm Chuẩn Hóa | Tên Công Trình Khảo Cứu & Nội Dung Trọng Tâm |
 | :---: | :--- | :--- |
@@ -389,30 +391,33 @@ Khắc họa các nhạc khí cổ truyền thuần khiết của dân tộc: Tr
 | **54** | [54_DAI_TONG_PHO_5000_THI_CA_100_DONG_HO_100_CHUC_VI.md](WUXIA_GUOFENG_RESEARCH_LOGS/54_DAI_TONG_PHO_5000_THI_CA_100_DONG_HO_100_CHUC_VI.md) | **100 Dòng Họ Bách Việt & 100 Chức Vị Vệ Tinh** |
 | **55** | [55_DAI_TONG_PHO_TIEN_TRINH_5000_NAM_NGANH_NGHE_LUA_NUOC.md](WUXIA_GUOFENG_RESEARCH_LOGS/55_DAI_TONG_PHO_TIEN_TRINH_5000_NAM_NGANH_NGHE_LUA_NUOC.md) | **Tiến Trình Ngành Nghề, Võ Cử & Phong Tục Lúa Nước** |
 | **56** | [56_DAI_BACH_KHOA_CO_NHAC_KHI_THUAN_VIET.md](WUXIA_GUOFENG_RESEARCH_LOGS/56_DAI_BACH_KHOA_CO_NHAC_KHI_THUAN_VIET.md) | **Đại Bách Khoa Cổ Nhạc Khí Bản Địa Thuần Việt** |
+| **57** | [57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md](WUXIA_GUOFENG_RESEARCH_LOGS/57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md) | **Canon công khai: Trần 1225–1400, lịch sử, địa lý, vật thể, thần học, nhân vật** |
+| **58** | [58_CANON_VISUAL_DONG_A_TRAN_1225_1400.md](WUXIA_GUOFENG_RESEARCH_LOGS/58_CANON_VISUAL_DONG_A_TRAN_1225_1400.md) | **Canon công khai: y phục, vũ khí, bối cảnh và hình ảnh Đông A** |
 
----: | :--- | :--- |
-| **01** | [`DAI_KINH_THI_BACH_VIET_100_THI_CA_XA_HOI_TINH_YEU_NHAN_SINH.md`](docs/DAI_KINH_THI_BACH_VIET_100_THI_CA_XA_HOI_TINH_YEU_NHAN_SINH.md) | **Đại Kinh Thi Bách Việt: 100 Thi Ca Nền Tảng Xã Hội, Tình Yêu & Nhân Sinh 5.000 Năm** |
-| **02** | [`DAI_THI_HAO_BACH_VIET_LY_BACH_LY_THANH_CHIEU_CHIEN_LICH.md`](docs/DAI_THI_HAO_BACH_VIET_LY_BACH_LY_THANH_CHIEU_CHIEN_LICH.md) | **Nữ Từ Thánh & Thi Tiên Bách Việt: Hình Tượng Lý Bạch & Lý Thanh Chiếu Phương Nam** |
-| **03** | [`DAI_PHO_HAU_DUE_THAN_THOAI_SU_THI_BACH_VIET_5000_NAM.md`](docs/DAI_PHO_HAU_DUE_THAN_THOAI_SU_THI_BACH_VIET_5000_NAM.md) | **Đại Phổ Hậu Duệ Thần Thoại: Hai Bà Trưng, 72 Nữ Tướng, Sơn Tinh, Thủy Tinh, Thạch Sanh** |
-| **04** | [`DAI_DIA_LINH_NHAN_KIET_5000_NAM_NON_SONG_GAM_VOC_BACH_VIET.md`](docs/DAI_DIA_LINH_NHAN_KIET_5000_NAM_NON_SONG_GAM_VOC_BACH_VIET.md) | **Đại Bách Khoa Địa Linh Nhân Kiệt: 5.000 Năm Non Sông Gấm Vóc & 36 Thắng Cảnh (Sờ Nắm Được)** |
-| **05** | [`DAI_BACH_KHOA_100_NHAN_VAT_BI_HOAN_LY_HOP_TRUONG_NGHIA_HAO_TINH.md`](docs/DAI_BACH_KHOA_100_NHAN_VAT_BI_HOAN_LY_HOP_TRUONG_NGHIA_HAO_TINH.md) | **Đại Bách Khoa 100 Nhân Vật: Bi Hoan Ly Hợp, Tình Yêu Thương Bất Diệt & Trượng Nghĩa Hào Tình** |
-| **06** | [`TOAN_TAP_20_DAI_TONG_SU_VA_100_THI_TU_CO_PHONG_BACH_VIET.md`](docs/TOAN_TAP_20_DAI_TONG_SU_VA_100_THI_TU_CO_PHONG_BACH_VIET.md) | **Toàn Tập 20 Đại Tông Sư Truyền Kỳ & 100 Bài Thơ Cổ Bách Việt Mỹ Từ Toàn Vẹn** |
-| **07** | [`DAI_MO_PHONG_5000_CO_THU_LUC_NGHE_KHOA_CU_HOANG_TOC.md`](docs/DAI_MO_PHONG_5000_CO_THU_LUC_NGHE_KHOA_CU_HOANG_TOC.md) | Đại Mô Phỏng 5.000 Cổ Thư, Bách Việt Lục Nghệ, Khoa Cử Tam Khôi & Hoàng Tộc |
-| **08** | [`DAI_TONG_PHO_TIEN_TRINH_NHAN_VAT_5000_NAM_NGANH_NGHE_VO_CU_LUA_NUOC.md`](docs/DAI_TONG_PHO_TIEN_TRINH_NHAN_VAT_5000_NAM_NGANH_NGHE_VO_CU_LUA_NUOC.md) | Đại Tổng Phổ Nhân Vật 5.000 Năm, Ma Trận Ngành Nghề, Võ Cử & Phong Tục Lúa Nước |
-| **09** | [`DAI_KHAO_CUU_CHUYEN_SAU_HONG_THUY_DAN_GIAN_VA_TUYEN_NHAN_VAT_DUONG_TU.md`](docs/DAI_KHAO_CUU_CHUYEN_SAU_HONG_THUY_DAN_GIAN_VA_TUYEN_NHAN_VAT_DUONG_TU.md) | 54 Thần thoại Hồng Thủy, Vết tích Thơ ca Dân gian & Tuyến Nhân vật Dương Tử |
-| **10** | [`DAI_KHAO_CUU_600_TRUYEN_THUYET_DAI_HONG_THUY_VA_NGUON_GOC_TE_TROI.md`](docs/DAI_KHAO_CUU_600_TRUYEN_THUYET_DAI_HONG_THUY_VA_NGUON_GOC_TE_TROI.md) | 600 Thần thoại Hồng Thủy toàn cầu & Cội nguồn Tế Trời lộ thiên |
-| **11** | [`DAI_KHAO_CUU_HE_THONG_VAN_TU_BACH_VIET_VA_SONG_DUONG_TU.md`](docs/DAI_KHAO_CUU_HE_THONG_VAN_TU_BACH_VIET_VA_SONG_DUONG_TU.md) | 5.300 năm Văn tự Lương Chử & Chữ Khoa Đẩu Đông Sơn |
-| **12** | [`DAI_KHAO_CUU_HONG_THUY_VIET_NAM_VA_TAI_HIEN_VAN_HOC.md`](docs/DAI_KHAO_CUU_HONG_THUY_VIET_NAM_VA_TAI_HIEN_VAN_HOC.md) | 50+ Dị bản Hồng Thủy VN & Nguồn gốc hai tiếng "ĐỒNG BÀO" |
-| **13** | [`DAI_KHAO_CUU_KHO_TANG_5000_NAM_SU_THI_THI_CA_BACH_VIET.md`](docs/DAI_KHAO_CUU_KHO_TANG_5000_NAM_SU_THI_THI_CA_BACH_VIET.md) | 5 Đại Sử Thi: Đạo Hiếu, Tế Trời & Thảo mộc Y Đạo |
-| **14** | [`DAI_TANG_THU_5000_NAM_HOAN_NGUYEN_VAN_HOC_SU_THI_BACH_VIET.md`](docs/DAI_TANG_THU_5000_NAM_HOAN_NGUYEN_VAN_HOC_SU_THI_BACH_VIET.md) | Lục Bộ Tạng Thư · 18 Cổ Tự Kinh Điển Bách Việt |
-| **15** | [`DAI_DIA_DO_NIEN_BIEU_XICH_QUY_DEN_DONG_A.md`](docs/DAI_DIA_DO_NIEN_BIEU_XICH_QUY_DEN_DONG_A.md) | Đại Địa Đồ & Niên Biểu 9 Kỷ Nguyên Lịch Sử |
-| **16** | [`DAI_GIA_PHA_VA_TUYEN_NHAN_VAT_PHU_AN_THAI_TINH_LAN.md`](docs/DAI_GIA_PHA_VA_TUYEN_NHAN_VAT_PHU_AN_THAI_TINH_LAN.md) | Cây Gia Phả 5 Đời & Tuyến 20 Nhân Vật Phụ |
-| **17** | [`DAI_TONG_PHO_5000_THI_CA_100_DONG_HO_100_CHUC_VI_AN_THAI_TINH_LAN.md`](docs/DAI_TONG_PHO_5000_THI_CA_100_DONG_HO_100_CHUC_VI_AN_THAI_TINH_LAN.md) | 100 Dòng Họ Bách Việt & 100 Chức Vị Vệ Tinh |
-| **18** | [`BAO_CAO_RA_SOAT_MOI_QUAN_HE_VA_TUYEN_NHAN_VAT.md`](docs/BAO_CAO_RA_SOAT_MOI_QUAN_HE_VA_TUYEN_NHAN_VAT.md) | Báo Cáo Thẩm Định Tuyến Nhân Vật & Địa Lý Thực Địa |
-| **19** | [`dai_bach_khoa_30_mon_phai_hac_bach_dai_viet.md`](docs/dai_bach_khoa_30_mon_phai_hac_bach_dai_viet.md) | Đại bách khoa 30 môn phái Hắc - Bạch Lưỡng Đạo |
-| **20** | [`dai_chuyen_khao_ngu_tuong_me_linh_72_dong_chu.md`](docs/dai_chuyen_khao_ngu_tuong_me_linh_72_dong_chu.md) | Nghệ thuật Ngự Tượng Mê Linh Hai Bà Trưng & 72 Động Chủ |
-| **21** | [`dai_bach_khoa_y_dao_than_nong_tue_tinh.md`](docs/dai_bach_khoa_y_dao_than_nong_tue_tinh.md) | Y Đạo Thảo Mộc Thần Nông - Tuệ Tĩnh (580 Vị Thuốc) |
-| **22** | [`dai_khao_cuu_su_lieu_the_gioi_va_truyen_thua_an_thai.md`](docs/dai_khao_cuu_su_lieu_the_gioi_va_truyen_thua_an_thai.md) | Sử liệu La Mã Ptolemy Cattigara & Chu Đậu |
+| STT | Tên tài liệu cũ | Nội dung quy chiếu |
+| :---: | :--- | :--- |
+| **01** | [`DAI_KINH_THI_BACH_VIET_100_THI_CA_XA_HOI_TINH_YEU_NHAN_SINH.md`](WUXIA_GUOFENG_RESEARCH_LOGS/47_DAI_KINH_THI_BACH_VIET_100_THI_CA_XA_HOI_TINH_YEU.md) | **Đại Kinh Thi Bách Việt: 100 Thi Ca Nền Tảng Xã Hội, Tình Yêu & Nhân Sinh 5.000 Năm** |
+| **02** | [`DAI_THI_HAO_BACH_VIET_LY_BACH_LY_THANH_CHIEU_CHIEN_LICH.md`](WUXIA_GUOFENG_RESEARCH_LOGS/50_DAI_THI_HAO_BACH_VIET_LY_BACH_LY_THANH_CHIEU.md) | **Nữ Từ Thánh & Thi Tiên Bách Việt: Hình Tượng Lý Bạch & Lý Thanh Chiếu Phương Nam** |
+| **03** | [`DAI_PHO_HAU_DUE_THAN_THOAI_SU_THI_BACH_VIET_5000_NAM.md`](WUXIA_GUOFENG_RESEARCH_LOGS/39_DAI_PHO_HAU_DUE_THAN_THOAI_SU_THI_5000_NAM.md) | **Đại Phổ Hậu Duệ Thần Thoại: Hai Bà Trưng, 72 Nữ Tướng, Sơn Tinh, Thủy Tinh, Thạch Sanh** |
+| **04** | [`DAI_DIA_LINH_NHAN_KIET_5000_NAM_NON_SONG_GAM_VOC_BACH_VIET.md`](WUXIA_GUOFENG_RESEARCH_LOGS/46_DAI_DIA_LINH_NHAN_KIET_5000_NAM_NON_SONG_GAM_VOC.md) | **Đại Bách Khoa Địa Linh Nhân Kiệt: 5.000 Năm Non Sông Gấm Vóc & 36 Thắng Cảnh (Sờ Nắm Được)** |
+| **05** | [`DAI_BACH_KHOA_100_NHAN_VAT_BI_HOAN_LY_HOP_TRUONG_NGHIA_HAO_TINH.md`](WUXIA_GUOFENG_RESEARCH_LOGS/38_DAI_BACH_KHOA_100_NHAN_VAT_BI_HOAN_LY_HOP.md) | **Đại Bách Khoa 100 Nhân Vật: Bi Hoan Ly Hợp, Tình Yêu Thương Bất Diệt & Trượng Nghĩa Hào Tình** |
+| **06** | [`TOAN_TAP_20_DAI_TONG_SU_VA_100_THI_TU_CO_PHONG_BACH_VIET.md`](WUXIA_GUOFENG_RESEARCH_LOGS/48_TOAN_TAP_20_DAI_TONG_SU_VA_100_THI_TU_CO_PHONG.md) | **Toàn Tập 20 Đại Tông Sư Truyền Kỳ & 100 Bài Thơ Cổ Bách Việt Mỹ Từ Toàn Vẹn** |
+| **07** | [`DAI_MO_PHONG_5000_CO_THU_LUC_NGHE_KHOA_CU_HOANG_TOC.md`](WUXIA_GUOFENG_RESEARCH_LOGS/53_DAI_MO_PHONG_5000_CO_THU_LUC_NGHE_KHOA_CU.md) | Đại Mô Phỏng 5.000 Cổ Thư, Bách Việt Lục Nghệ, Khoa Cử Tam Khôi & Hoàng Tộc |
+| **08** | [`DAI_TONG_PHO_TIEN_TRINH_NHAN_VAT_5000_NAM_NGANH_NGHE_VO_CU_LUA_NUOC.md`](WUXIA_GUOFENG_RESEARCH_LOGS/55_DAI_TONG_PHO_TIEN_TRINH_5000_NAM_NGANH_NGHE_LUA_NUOC.md) | Đại Tổng Phổ Nhân Vật 5.000 Năm, Ma Trận Ngành Nghề, Võ Cử & Phong Tục Lúa Nước |
+| **09** | [`DAI_KHAO_CUU_CHUYEN_SAU_HONG_THUY_DAN_GIAN_VA_TUYEN_NHAN_VAT_DUONG_TU.md`](WUXIA_GUOFENG_RESEARCH_LOGS/17_DAI_KHAO_CUU_CHUYEN_SAU_HONG_THUY_DAN_GIAN_DUONG_TU.md) | 54 Thần thoại Hồng Thủy, Vết tích Thơ ca Dân gian & Tuyến Nhân vật Dương Tử |
+| **10** | [`DAI_KHAO_CUU_600_TRUYEN_THUYET_DAI_HONG_THUY_VA_NGUON_GOC_TE_TROI.md`](WUXIA_GUOFENG_RESEARCH_LOGS/15_DAI_KHAO_CUU_600_TRUYEN_THUYET_DAI_HONG_THUY_TE_TROI.md) | 600 Thần thoại Hồng Thủy toàn cầu & Cội nguồn Tế Trời lộ thiên |
+| **11** | [`DAI_KHAO_CUU_HE_THONG_VAN_TU_BACH_VIET_VA_SONG_DUONG_TU.md`](WUXIA_GUOFENG_RESEARCH_LOGS/07_DAI_KHAO_CUU_HE_THONG_VAN_TU_LUONG_CHU_KHOA_DAU.md) | 5.300 năm Văn tự Lương Chử & Chữ Khoa Đẩu Đông Sơn |
+| **12** | [`DAI_KHAO_CUU_HONG_THUY_VIET_NAM_VA_TAI_HIEN_VAN_HOC.md`](WUXIA_GUOFENG_RESEARCH_LOGS/16_DAI_KHAO_CUU_HONG_THUY_VIET_NAM_NGUON_GOC_DONG_BAO.md) | 50+ Dị bản Hồng Thủy VN & Nguồn gốc hai tiếng "ĐỒNG BÀO" |
+| **13** | [`DAI_KHAO_CUU_KHO_TANG_5000_NAM_SU_THI_THI_CA_BACH_VIET.md`](WUXIA_GUOFENG_RESEARCH_LOGS/51_DAI_KHAO_CUU_KHO_TANG_5000_NAM_SU_THI_THI_CA.md) | 5 Đại Sử Thi: Đạo Hiếu, Tế Trời & Thảo mộc Y Đạo |
+| **14** | [`DAI_TANG_THU_5000_NAM_HOAN_NGUYEN_VAN_HOC_SU_THI_BACH_VIET.md`](WUXIA_GUOFENG_RESEARCH_LOGS/52_DAI_TANG_THU_5000_NAM_HOAN_NGUYEN_VAN_HOC_SU_THI.md) | Lục Bộ Tạng Thư · 18 Cổ Tự Kinh Điển Bách Việt |
+| **15** | [`DAI_DIA_DO_NIEN_BIEU_XICH_QUY_DEN_DONG_A.md`](WUXIA_GUOFENG_RESEARCH_LOGS/03_DAI_DIA_DO_NIEN_BIEU_XICH_QUY_DEN_DONG_A.md) | Đại Địa Đồ & Niên Biểu 9 Kỷ Nguyên Lịch Sử |
+| **16** | [`DAI_GIA_PHA_VA_TUYEN_NHAN_VAT_PHU_AN_THAI_TINH_LAN.md`](WUXIA_GUOFENG_RESEARCH_LOGS/37_DAI_GIA_PHA_VA_TUYEN_NHAN_VAT_PHU_AN_THAI_TINH_LAN.md) | Cây Gia Phả 5 Đời & Tuyến 20 Nhân Vật Phụ |
+| **17** | [`DAI_TONG_PHO_5000_THI_CA_100_DONG_HO_100_CHUC_VI_AN_THAI_TINH_LAN.md`](WUXIA_GUOFENG_RESEARCH_LOGS/54_DAI_TONG_PHO_5000_THI_CA_100_DONG_HO_100_CHUC_VI.md) | 100 Dòng Họ Bách Việt & 100 Chức Vị Vệ Tinh |
+| **18** | [`BAO_CAO_RA_SOAT_MOI_QUAN_HE_VA_TUYEN_NHAN_VAT.md`](WUXIA_GUOFENG_RESEARCH_LOGS/05_BAO_CAO_RA_SOAT_MOI_QUAN_HE_VA_TUYEN_NHAN_VAT.md) | Báo Cáo Thẩm Định Tuyến Nhân Vật & Địa Lý Thực Địa |
+| **19** | [`dai_bach_khoa_30_mon_phai_hac_bach_dai_viet.md`](WUXIA_GUOFENG_RESEARCH_LOGS/28_DAI_BACH_KHOA_30_MON_PHAI_HAC_BACH_DAI_VIET.md) | Đại bách khoa 30 môn phái Hắc - Bạch Lưỡng Đạo |
+| **20** | [`dai_chuyen_khao_ngu_tuong_me_linh_72_dong_chu.md`](WUXIA_GUOFENG_RESEARCH_LOGS/32_DAI_CHUYEN_KHAO_NGU_TUONG_ME_LINH_72_DONG_CHU.md) | Nghệ thuật Ngự Tượng Mê Linh Hai Bà Trưng & 72 Động Chủ |
+| **21** | [`dai_bach_khoa_y_dao_than_nong_tue_tinh.md`](WUXIA_GUOFENG_RESEARCH_LOGS/23_DAI_BACH_KHOA_Y_DAO_THAN_NONG_TUE_TINH_580_VI.md) | Y Đạo Thảo Mộc Thần Nông - Tuệ Tĩnh (580 Vị Thuốc) |
+| **22** | [`dai_khao_cuu_su_lieu_the_gioi_va_truyen_thua_an_thai.md`](WUXIA_GUOFENG_RESEARCH_LOGS/12_DAI_KHAO_CUU_SU_LIEU_THE_GIOI_LA_MA_CATTIGARA.md) | Sử liệu La Mã Ptolemy Cattigara & Chu Đậu |
 
 ---
 
@@ -453,7 +458,7 @@ Thế giới quan sống động nơi từng góc chợ, bến sông, quán nư�
 * **Chòi canh gác biên ải đỉnh đèo mây:** Bếp lửa than củi sưởi ấm người lính gác giữa sương muối rừng già.
 
 ### 🌸 2. 40 Hình Tượng Nữ Trung & Tài Nữ Khí Phách:
-* **Nữ Tướng Sa Trường:** Hai Bà Trưng cưỡi voi trắng gióng hồi trống đồng giải phóng 65 thành trì; Nữ tướng Bát Nàn xung trận cờ lau; Bà Triệu đạp sóng chém kình ngư Biển Đông.
+* **Nữ Tướng Sa Trường:** Hai Bà Trưng cưỡi voi trắng gióng hồi trống chiến giải phóng 65 thành trì; Nữ tướng Bát Nàn xung trận cờ lau; Bà Triệu đạp sóng chém kình ngư Biển Đông.
 * **Nữ Sĩ Thi Ca Danh Tiếng:** "Bà Chúa Thơ Nôm" Hồ Xuân Hương ngạo nghễ đạp đổ định kiến nam quyền; Bà Huyện Thanh Quan với hồn thơ u hoài Thăng Long cổ kính; Hồng Hà Nữ Sĩ Đoàn Thị Điểm dịch *Chinh Phụ Ngâm* lay động lòng người; Nữ chủ bút Sương Nguyệt Anh kiên cường với ngòi bút sắt; Đào Nương (Đào Thị Huệ) dùng tài ca trù giải phóng quê hương; Công chúa Ngọc Hân với áng thi *Ai Tư Vãn* bất tử.
 * **Thiếu Nữ Bách Nghệ & Người Mẹ Việt Nam:** Người mẹ già thức canh nồi bánh chưng xanh đêm 30 Tết; Nàng thiếu nữ têm trầu cánh phượng trao duyên; Nữ thợ gốm Chu Đậu chuốt gốm hoa sen; Nữ y sư Trúc Lâm gùi thuốc nứa sau lưng chữa lành vết thương sa trường.
 
@@ -464,12 +469,12 @@ Thế giới quan sống động nơi từng góc chợ, bến sông, quán nư�
 Trong thế giới quan này, quá khứ 5.000 năm không phải là di tích nằm im trong bảo tàng, mà là mạch nguồn huyết quản chảy thẳng vào tâm thức, cốt cách người Việt hôm nay:
 
 1. **Gốm Hoa Nâu & Đất Mẹ:** Bàn xoay ngàn năm qua Chu Đậu, Bát Tràng nối dài vào chén trà gốm mộc trên bàn làm việc hiện đại.
-2. **Trống Đồng & Đàn Đá:** Nhịp trống hội ngày xuân, âm thanh trầm hùng sub-bass trong âm nhạc đương đại.
+2. **Trống Đông Sơn & Đàn Đá:** Nhịp trống hội ngày xuân, âm thanh trầm hùng sub-bass trong âm nhạc đương đại.
 3. **Y Đạo Tuệ Tĩnh 580 Vị Thuốc Nam:** Nồi nước lá xông giải cảm của mẹ, bát canh rau má thanh mát trưa hè.
 4. **Hào Khí Bạch Đằng & Ý Chí "Sát Thát":** Khí phách quật cường, lòng tự hào dân tộc và ý chí vươn mình ra biển lớn của thế hệ trẻ hôm nay.
 5. **Kính Trời Nguyên Thủy:** Lễ tạ ơn ngoài trời đêm giao thừa, lòng tri ân Đấng Tạo Hóa chở che mùa màng mưa thuận gió hòa.
 6. **Con Thoi Tơ Tằm Sông Đáy:** Nghề dệt tơ lụa Cổ Đô, Vạn Phúc kết tinh trên tà áo dài thướt tha của người phụ nữ Việt Nam.
-7. **Độc Huyền Cầm Đàn Bầu:** Nốt nhạc uốn lượn vi mô đậm chất tâm hồn, điệu ru *Ầu ơ* ngàn đời nuôi dưỡng nhân cách bao thế hệ.
+7. **Độc Huyền Cầm:** Nốt nhạc uốn lượn vi mô đậm chất tâm hồn, điệu ru *Ầu ơ* ngàn đời nuôi dưỡng nhân cách bao thế hệ.
 8. **Bếp Rơm Tro Trấu:** Bát cơm mới thơm mùi lúa nếp mùa gặt, ký ức cội nguồn của mọi người con đất Việt dù đi khắp năm châu.
 9. **Sáo Diều Triền Đê:** Tiếng sáo ngân nga giữa bầu trời hoàng hôn, biểu tượng của tự do thanh bình và ước mơ bay cao.
 10. **Tục Têm Trầu & Nghĩa Đồng Bào:** Tình làng nghĩa xóm *"Tối lửa tắt đèn có nhau"*, tinh thần đùm bọc nhường cơm sẻ áo mỗi khi bão lũ thiên tai tràn về.

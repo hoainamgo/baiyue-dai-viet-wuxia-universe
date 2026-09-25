@@ -1,128 +1,83 @@
-# 🐉 ĐẠI BÁCH KHOA KHẢO CỨU: HÌNH TƯỢNG GIAO LONG (GIAO) THỦA SƠ KHAI & SỰ KHÁC BIỆT BẢN THỂ VỚI LONG (RỒNG) VĂN HÓA PHƯƠNG BẮC
-## (THE PROTO-AQUATIC GIAO OF ANCIENT BAIYUE VS. CHINESE IMPERIAL DRAGON CODEX)
+# GIAO LONG VÀ RỒNG BIỂU TƯỢNG HOÀNG QUYỀN
 
-> **Cơ quan Khảo cứu:** Viện Nghiên Cứu Lịch Sử, Khảo Cổ & Thần Thoại Cổ Phong — `Viện Hàn Lâm Lịch Sử & Thi Ca Bách Việt`  
-> **Chủ trì Lịch sử & Khảo Cổ:** **Sử Quan Lê Văn**  
-> **Chủ trì Kịch bản & Thế giới quan:** **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
-> **Cố vấn Thần Thoại & Âm Học:** **Vân Chu (云舟)**, **Noah An** & **Bạch Hạc (Huỳnh Hạc Nam)**  
-> **Giám định Di sản & Thẩm định:** **Cadence** & **Clara Vance**  
+> **Tài liệu công khai · Cập nhật 2026-09-25**
+> [`57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md`](57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md) là chuẩn ưu tiên khi khác biệt.
 
----
+## 1. Phạm vi
 
-```
-                       🌊 MA TRẬN PHÂN ĐỊNH BẢN THỂ: GIAO (BÁCH VIỆT) vs. LONG (PHƯƠNG BẮC)
- ┌───────────────────────────┬───────────────────────────────────────────┬───────────────────────────────────────────┐
- │ TIÊU CHÍ BẢN THỂ          │ 🐊 GIAO LONG (THỦY QUÁI / THỦY THẦN VIỆT) │ 🐉 LONG (RỒNG HOÀNG QUYỀN TRUNG HOA)      │
- ├───────────────────────────┼───────────────────────────────────────────┼───────────────────────────────────────────┤
- │ 1. Nguồn gốc sinh thái    │ Cư dân lúa nước, đầm lầy, cửa biển nhiệt  │ Cư dân du mục, nông nghiệp Hoàng Hà khô   │
- │                           │ đới (Nam Trường Giang xuống sông Hồng)    │ hạn, đồng bằng Hoa Bắc lục địa            │
- ├───────────────────────────┼───────────────────────────────────────────┼───────────────────────────────────────────┤
- │ 2. Nguyên mẫu sinh học    │ Cá sấu nước mặn (Crocodylus porosus),     │ Rắn + Cá chép + Hươu + Chim ưng + Hổ      │
- │                           │ trăn nước khổng lồ, thuồng luồng thực tế  │ (Sinh vật thần thoại ghép nối 9 loài thú) │
- ├───────────────────────────┼───────────────────────────────────────────┼───────────────────────────────────────────┤
- │ 3. Môi trường hoạt động   │ Dưới nước sâu, hang đầm, đáy sông, cửa vạn│ Bay lượn trên 9 tầng mây, ngậm ngọc, sấm  │
- ├───────────────────────────┼───────────────────────────────────────────┼───────────────────────────────────────────┤
- │ 4. Tục xăm mình (Văn Thân)│ Xăm hình Giao Long khắp người để lặn nước │ Cấm kỵ thường dân vẽ/xăm rồng (phạm tội   │
- │                           │ cá sấu/thuồng luồng không dám cắn hại     │ khi quân, phản nghịch tru di tam tộc)    │
- ├───────────────────────────┼───────────────────────────────────────────┼───────────────────────────────────────────┤
- │ 5. Biểu tượng chính trị   │ Vật tổ che chở sự sống, linh hồn sông biển│ Độc quyền của Hoàng đế (Thiên tử, Long bào│
- │                           │ bình dị gắn liền ngư dân, nông dân lúa    │ 5 móng, biểu tượng chuyên chế tối cao)   │
- └───────────────────────────┴───────────────────────────────────────────┴───────────────────────────────────────────┘
-```
+Tài liệu phân biệt hai hệ biểu tượng thường bị trộn:
 
----
+- **Giao / Giao Long:** vật tổ sông nước trong các truyền thuyết và văn hóa Đông Sơn; cá sấu, trăn nước, thủy quái, mùa nước, thuyền chiến, xăm mình.
+- **Long / Rồng:** vật tổ và biểu tượng hoàng quyền trong các triều đại Trung Hoa; hình tướng, màu sắc, nghi thức và pháp lý thay đổi theo thời.
 
-## 🏛️ PHẦN I: GIAO LONG (GIAO / THUỒNG LUỒNG) TRONG CỘI NGUỒN BÁCH VIỆT THƯỢNG CỔ
+Hai hệ có thể gặp nhau qua thương mại, giao lưu hoặc chính sách. Không nên biến mọi hình tượng rồng tại Việt thành cùng một nguồn gốc.
 
-### 1. Nguồn Gốc Sinh Thái & Tên Gọi "GIAO CHỈ" / "GIAO LONG":
-* **Không gian sinh tồn sông nước:**
-  * Địa bàn của khối 100 Bộ tộc Bách Việt trải dài từ Nam sông Dương Tử (Hồ Động Đình, Lương Chử, Mân Việt, Đông Việt, Nam Việt, Lạc Việt, Tây Âu) là vùng sông ngòi chằng chịt, đầm lầy nhiệt đới và duyên hải Biển Đông.
-  * Cư dân sinh sống chủ yếu bằng nghề chài lưới, lặn mò trai ngọc, săn bắt thủy sản và trồng lúa nước.
-* **Giao thực chất là gì?**
-  * Trong cổ ngữ và sinh vật học thực địa, **Giao (蛟)** hay **Thuồng Luồng** nguyên gốc chính là **Cá sấu nước ngọt/nước mặn (Crocodylus porosus / Alligator sinensis)** và các loài **Trăn nước khổng lồ (Python)** sinh sống ở các cửa sông lớn.
-  * Vì thường xuyên phải ngụp lặn dưới nước đối mặt với hàm răng cá sấu hung dữ, tổ tiên người Việt đã quan sát thấy cá sấu không tấn công đồng loại. Do đó, người Việt cổ nảy sinh tập tục **xăm hình Giao Long lên da thịt**.
+## 2. Giao Long: lớp di sản Đông Sơn
 
-### 2. Bằng Chứng Cổ Sử Về Tục Xăm Mình Giao Long:
-* **Lĩnh Nam Chích Quái (Truyện Hồng Bàng Thị):**
-  > *"Dân ở chân núi thấy cá tôm dưới sông tụ tập liền xuống bắt, thường bị giống Giao Long hại. Thấy vậy liền tâu với Vua Hùng. Vua nói: 'Loài ở núi khác giống ở nước; các loài thủy tộc chỉ ưa đồng loại mà ghét khác loài, vì thế mới làm hại'. Vua bèn bảo người lấy mực vẽ hình Thủy Quái (Giao Long) lên mình, từ đó lặn xuống nước loài Giao Long trông thấy tưởng đồng loại bèn không cắn hại nữa. Tục xăm mình của người Bách Việt bắt đầu từ đấy."*
-* **Sử Ký Tư Mã Thiên (Triệu Thế Gia & Việt Vương Câu Tiễn Thế Gia):**
-  > *"Người Việt cắt tóc ngắn, xăm mình (đoản phát văn thân) để giống hình Giao Long mà tránh nạn thủy thần."*
-* **Tập tục này kéo dài xuyên suốt:**
-  * Tục xăm mình Giao Long không chỉ có ở thời Hùng Vương mà được các vua Trần kế thừa như một biểu tượng quân sự hào hùng (đội quân Sát Thát thời Trần đều xăm hình rồng/giao long lên bụng, lưng và đùi) mãi đến thời vua Trần Anh Tông (1293–1314) mới bãi bỏ việc bắt buộc hoàng tộc phải xăm mình.
+### 2.1. Dấu vết vật thể
 
----
+- Hình xăm Giao Long gắn với thủy chiến, bơi lặn, đi xuống sông và biển trong văn hóa dân gian.
+- Trống Đông Sơn, thạp đồng, gốm và mộ thuyền cung cấp ngữ cảnh Đông Sơn; không nên biến hoạ tiết trang trí thành bằng chứng cho một truyền thuyết cụ thể nếu chưa có thuyết minh địa phương.
+- Tên “Giao” thuộc lớp từ Hán Việt mô tả giao long/cá sấu hoặc thủy long trong ngữ cảnh cổ.
 
-## 🐉 PHẦN II: SỰ KHÁC BIỆT BẢN THỂ GIỮA "GIAO" (BÁCH VIỆT) VÀ "LONG" (TRUNG HOA)
+### 2.2. Lớp truyền thuyết
 
-Chính trong các thư tịch cổ của Trung Hoa phương Bắc, các học giả cổ đại đã phân định rất rành mạch sự khác biệt giữa **Giao (蛟)** và **Long (龍)**:
+- Mẫu hình “trăm trứng”, “con Rồng cháu Tiên”, Lạc Long Quân và Âu Cơ thuộc **thần thoại tạo nguồn ý tưởng**, không phải lịch sử gia tộc.
+- Có thể dùng làm nền tảng hư cấu cho các dòng họ, nhưng phải ghi rõ.
 
-```
-┌───────────────────────────────┬────────────────────────────────────────────────────────────────────────────────────────┐
- │ THƯ TỊCH CỔ PHƯƠNG BẮC        │ GHI CHÉP PHÂN BIỆT RÕ RÀNG GIỮA "GIAO" VÀ "LONG"                                       │
- ├───────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────┤
- │ 1. Thuyết Văn Giải Tự         │ "Giao: Thủy trùng dã. Trì ngư tam thiên lục bách, giao vi chi trưởng, năng suất ngư phi│
- │    (Hứa Thận - Thế kỷ II)     │  dã." (Giao là loài sâu bọ/bò sát dưới nước, là thủ lĩnh của loài cá).                 │
- ├───────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────┤
- │ 2. Hoài Nam Tử & Bản Thảo Cương│ "Thao đắc lân giáp viết Giao. Sinh vu uyên đàm viết Giao. Phi vu cửu thiên viết Long." │
- │    Mục (Lý Thời Trân)         │ (Có vảy sống nơi đầm sâu gọi là Giao; Bay lượn trên chín tầng trời mới gọi là Long).   │
- │                               │ Giao có thân như rắn, đầu như hổ, mắt như gương, bốn chân ngắn, miệng rộng ăn thịt.   │
- ├───────────────────────────────┼────────────────────────────────────────────────────────────────────────────────────────┤
- │ 3. Thuật Dị Ký (Nhậm Phưởng)  │ "Thủy xà ngũ bách niên hóa vi Giao, Giao thiên niên hóa vi Long, Long ngũ bách niên hóa│
- │                               │  vi Giác Long, thiên niên hóa vi Ứng Long." (Rắn nước 500 năm thành Giao, Giao 1.000   │
- │                               │  năm mới hóa Long... Giao là cấp bậc sơ khai, gắn chặt với nước và đầm lầy).           │
- └───────────────────────────────┴────────────────────────────────────────────────────────────────────────────────────────┘
-```
+### 2.3. Chức năng thế giới quan
 
-### 🔍 5 Điểm Khác Biệt Then Chốt:
+- Bảo vệ người lội nước.
+- Kết nối nghề đánh cá, thuyền chiến, đầm lầy, nước lũ và nghi thức trưởng thành.
+- Nhấn mạnh bản sắt cộng đồng, sức bền và khả năng thích nghi với môi trường sông nước.
 
-1. **Về Hình Tướng:**
-   * **Giao (Bách Việt):** Đầu bẹp như cá sấu hoặc hổ, mõm ngắn, răng nanh sắc nhọn mọc lởm chởm, thân dài phủ vảy da trườn sát đất hoặc bơi lội, không có sừng (hoặc chỉ có 1 sừng đơn), 4 chi ngắn có màng bơi.
-   * **Long (Trung Hoa):** Hình tướng tổng hợp 9 loài (Đầu lạc đà, sừng hươu, mắt quỷ, tai bò, cổ rắn, bụng trai, vảy cá chép, móng chim ưng, bàn chân hổ), có râu dài, bờm sư tử, ngậm ngọc châu.
-2. **Về Môi Trường & Quyền Năng:**
-   * **Giao:** Tuyệt đối làm chủ **Thủy Vực Dưới Đất** (sông, suối, biển, hang ngầm đầm lầy). Tiếng gầm như bò rống, tạo lũ lụt phù sa bồi đắp ruộng đồng.
-   * **Long:** Làm chủ **Bầu Trời & Mây Mưa** (Cửu trùng thiên). Bay lượn mà không cần cánh, biểu tượng cho quyền năng tối thượng của thiên giới.
-3. **Về Tính Chất Xã Hội & Tôn Giáo:**
-   * **Giao Long Việt:** Là **Vật Tổ Dân Gian (Folk Totem)** bình dị. Mọi người dân đều có thể xăm Giao Long lên mình để được bảo hộ. Nó là người bạn, vị thần hộ mệnh của ngư dân sông nước.
-   * **Long Trung Hoa:** Là **Biểu Tượng Độc Quyền Hoàng Gia (Imperial Monopoly)**. Chỉ có Thiên Tử mới được dùng hình rồng 5 móng. Dân thường chạm khắc rồng là phạm trọng tội chu di tam tộc.
-4. **Về Nguồn Gốc "Rồng Tiên" Lạc Long Quân:**
-   * Lạc Long Quân (Hùng Hiền Vương) mang danh xưng **"Long Quân"** nhưng trong truyền thuyết nguyên bản ngài là **Vua của loài Thủy Tộc / Giống Rồng Nước (Giao Long)**, xuất thân từ chốn Động Đình Hồ, có tài trừ yêu quái đầm lầy (Trừ Ngư Tinh ở Biển Đông, Trừ Hồ Tinh ở Tây Hồ, Trừ Mộc Tinh ở Phong Châu).
-   * Do đó, "Rồng" của người Việt thời thượng cổ chính là **Giao Long Sông Nước**, hiền hòa, chở che nông nghiệp lúa nước, hoàn toàn khác với "Rồng Đế Vương Khổng Lồ" tượng trưng cho áp bức phong kiến phương Bắc.
+### 2.4. Tuyên bố chính thức không được lược bỏ
 
----
+- *Lĩnh Nam chích quái* giải thích tục vẽ thủy quái lên người bằng ngôn ngữ truyền thuyết, không phải bằng chứng thực nghiệm.
+- Chữ Nôm, thư tịch và nghi lức cần được trích dẫn đúng bản; không tự tạo lời thoại cho vua Hùng rồi ghi như nguyên văn.
+- Không khẳng định mọi tàu thủy thời Trần đều mang hình xăm Giao Long nếu chưa có văn bản.
 
-## 🎨 PHẦN III: HÌNH TƯỢNG RỒNG THỜI LÝ - TRẦN: SỰ TIẾP BIẾN & ĐỈNH CAO THUẦN VIỆT
+## 3. Rồng hoàng quyền: lớp biểu tượng triều đại
 
-Khi chế độ phong kiến Đại Việt bước vào kỷ nguyên độc lập tự chủ (Lý, Trần), người Việt không sao chép rồng phương Bắc mà đã sáng tạo nên **Rồng Thời Lý (Rồng Thao Thiết / Rồng Giun)** độc nhất vô nhị:
+### 3.1. Hàn và các triều đại sau
 
-```
-                      🐉 HÌNH TƯỢNG RỒNG THỜI LÝ - TRẦN ĐỘC BẢN THẾ GIỚI
- ┌───────────────────────────┬───────────────────────────────────────────────────────────────────────────┐
- │ ĐẶC ĐIỂM NGHỆ THUẬT       │ Ý NGHĨA BIỂU TƯỢNG THUẦN VIỆT (PHẬT GIÁO & SÔNG NƯỚC)                     │
- ├───────────────────────────┼───────────────────────────────────────────────────────────────────────────┤
- │ 1. Thân hình uốn khúc     │ Thân tròn trịa, uốn lượn hình sin mềm mại 11 - 12 khúc như ngọn sóng      │
- │    mềm mại (Khúc uốn chữ U)│ nước sông Hồng, nhỏ dần về đuôi (kế thừa từ nét trăn nước Giao Long cổ).  │
- ├───────────────────────────┼───────────────────────────────────────────────────────────────────────────┤
- │ 2. Mào lửa & Mũi lá đề    │ Không có sừng dữ tợn như rồng phương Bắc; mào rồng uốn lượn như ngọn lửa  │
- │                           │ Bát Nhã, mũi kéo dài thành vòi uốn quanh viên ngọc minh châu Phật giáo.   │
- ├───────────────────────────┼───────────────────────────────────────────────────────────────────────────┤
- │ 3. Tính chất thuần từ bi  │ Không nhe nanh giương vuốt đe dọa; Rồng Lý hiền hòa, thanh thoát, biểu     │
- │                           │ tượng cho sự giác ngộ, từ bi của thời kỳ "Tam Giáo Đồng Nguyên".          │
- └───────────────────────────┴───────────────────────────────────────────────────────────────────────────┘
-```
+- Ghi chép đời Hàn gắng việc củng cố huyền thoại nguồn gốc thiên tử với rồng. Không nên gọi mọi khía cạnh là “Lưu Bang bịa đặt” nếu chưa trích dẫn và phân tích văn bản.
+- Quy định về màu áo, hình rồng, số móng và quyền dùng thay đổi giữa các triều đại. Không khẳng định một mốc pháp lý chung cho mọi thời Đường, Nguyên, Minh, Thanh.
+- Hình tượng rồng không chỉ là “áp bức”: nó còn mang thần thánh, vũ trụ, mưa gió, biểu tượng triều đình và lòng tự hào trong từng ngữ cảnh.
 
----
+### 3.2. So sánh với Giao Long
 
-## 📢 PHẦN IV: ỨNG DỤNG BẢN SẮC VĂN HÓA VÀ TRUYỀN THÔNG
+| Tiêu chí | Giao Long | Rồng hoàng quyền |
+|---|---|---|
+| Ngữ cảnh chính | Sông nước, Đông Sơn, thuyền chiến | Triều đại, điện đình, nghi thức hoàng gia |
+| Hình tượng thường gặp | Cá sấu, trăn nước, thủy quái, hình xăm | Rồng thần thánh, long bào, nghi, đề, vân |
+| Chức năng văn hóa | Vật tổ, biểu tượng thích nghi, bảo vệ người lội nước | Quyền uy, thiên tử, nghi thức, pháp lý triều đại |
+| Quan hệ với Đại Việt | Có thể lấy làm trục hình ảnh Đông Sơn | Cần nghiên cứu tiếp xúc cụ thể; không tự đồng nhất với Giao Long |
 
-### 1. Thông Điệp Truyền Thông (PR Angle):
-* *"Người Việt là con Rồng cháu Tiên — nhưng Rồng nguyên bản của chúng ta là Giao Long sông nước hiền hòa, không phải con Rồng độc tài thống trị!"*
-* *"Tục xăm mình Giao Long: Mã gien sinh tồn 4.000 năm chống chọi thủy quái và khẳng định bản sắc độc lập của người Bách Việt."*
+### 3.3. Quy tắc cho thế giới Đại Việt
 
-### 2. Các Biểu Tượng Giác Quan Bản Địa Đặc Trưng:
-* `Giao Long vẫy đuôi sóng cuộn`, `Mực đen xăm hình thủy quái`, `Đầm lầy lau sậy Dạ Trạch`, `Mào lửa lá đề Rồng thời Lý`, `Khúc uốn chữ U ngàn dặm sông Hồng`, `Tiếng trầm hùng của trống đồng cổ`.
+- Không dùng rồng năm móng phương Bắc làm hình tượng quyền lực chính.
+- Không khôi phục “Rồng Thao Thiết” như một thực thể thống nhất nếu chưa có căn cứ thích nghi cho từng thời đại.
+- Có thể giữ hoạ tiết rồng trên di tích, đồ vật hoặc kiến trúc khi trích nguồn, nhưng phải phân biệt **hiện vật lịch sử** với **biểu tượng truyện hư cấu**.
+- Hình ảnh thần thoại chỉ dùng Giao Long khi bối cảnh là Đông Sơn, biển, đầm lầy hoặc thuyền chiến.
 
----
+## 4. Hình ảnh khuyến nghị
 
-## 📁 TÀI LIỆU LƯU TRỮ VĨNH VIỄN
-* Văn bản này được niêm phong tại: `docs/WUXIA_GUOFENG_RESEARCH_LOGS/DAI_KHAO_CUU_GIAO_LONG_THUONG_CO_VA_SU_KHAC_BIET_RONG_TRUNG_HOA.md`
-* Tích hợp trực tiếp vào **Master Codex Đại Việt Wuxia v4.6** và Tuyển tập Sử thi Bách Việt.
+### Giao Long
+
+- Xăm đen trên bắp tay, cổ tay hoặc ngực của người lội nước; mép xăm còn nét mực, da dưới nước, dây thừng và vết chai.
+- Cá sấu/thủy quái trong hoạ tiết Đông Sơn, dùng khi cần gắn hình ảnh với bối cảnh có căn cứ.
+- Giao Long không mọc cánh, không phun pháo, không nhận phép điều khiển thời tiết trong thế gi quan này.
+
+### Rồng hoàng quyền
+
+- Chỉ dùng trong bối cảnh nghiên cứu lịch sử hoặc phê bình quyền lực, không dùng như đạo kiếm phương Bắc trong võ hiệp Việt.
+
+## 5. Cảnh báo học thuật
+
+- Không suy ra “nguồn gốc dân tộc” chỉ từ một truyền thuyết hay dấu vết đồ vật.
+- Không tạo sự liên tục không biết gián đoạn giữa Lương Chử, Đông Sơn, Lý–Trần và thế kỷ XVI.
+- Không dùng nhãn “độc quyền tuyệt đối” nếu chưa trích dẫn luật và văn bản cụ thể.
+- Mọi kết luận về nguồn gốc, thời đại và ý nghĩa cần có nguồn sơ cấp hoặc nghiên cứu học thuật.
+
+*© 2026 Bai Yue & Dai Viet Wuxia Universe · CC BY 4.0*

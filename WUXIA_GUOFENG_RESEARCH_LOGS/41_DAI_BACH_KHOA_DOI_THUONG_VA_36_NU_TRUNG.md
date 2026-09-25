@@ -1,13 +1,6 @@
 # 🏮 ĐẠI BÁCH KHOA ĐỜI THƯỜNG: QUÁN TRÀ, TỬU LÂU, DANH THẮNG, PHONG THỔ & 40 HÌNH TƯỢNG NỮ TRUNG
-## (MASTER CODEX EXPANSION v5.6 — BỔ SUNG PHÂN HỆ NỮ SĨ THI CA & TÀI NỮ DANH TIẾNG ĐẠI VIỆT)
-### HỆ THỐNG: `BÁCH VIỆT CODEX` · `ĐẠI VIỆT & BÁCH VIỆT THIÊN CỔ`
-### CHỦ TRÌ: `Sử Quan Lê Văn` · `Tiểu Thuyết Gia Vũ Dạ Khách` · `Sylvia`
-
----
-
-## 🚫 0. NGUYÊN TẮC LÀM SẠCH (CLEANSE RULE):
-* **BỎ HOÀN TOÀN:** Chùa chiền, kinh kệ, am cốc, mõ tụng kinh, không gian tôn giáo xa cách đời thường.
-* **ĐƯA VÀO 100%:** Quán trà bờ đê, tửu điếm bến sông, lữ điếm góc thành, thuyền chài trên sông, danh lam thắng cảnh thiên nhiên sông núi, phong thổ nhân tình và **Hệ thống Nữ Trung & Nữ Sĩ Thi Ca Danh Tiếng**.
+> **Tài liệu mở rộng công khai.** Số nhân vật và danh sách địa danh là phạm vi biên soạn, không phải bản kiểm kê đã được kiểm chứng toàn bộ.
+> Canon sử, nhân vật và hình ảnh: [`57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md`](57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md) và [`58_CANON_VISUAL_DONG_A_TRAN_1225_1400.md`](58_CANON_VISUAL_DONG_A_TRAN_1225_1400.md).
 
 ---
 
@@ -38,12 +31,12 @@ Bên cạnh các Nữ tướng sa trường và Thiếu nữ bách nghệ, dòng
 #### 2. 🏯 BÀ HUYỆN THANH QUAN (NGUYỄN THỊ HINH) — "HỒN THƠ HOÀI CỔ THĂNG LONG"
 * **Khí chất & Phong cách:** Trang nhã, quý phái, câu chữ mẫu mực, u hoài trước sự hưng phế của non sông đất nước.
 * **Bối cảnh ca từ:** Chiều tà bước chân qua Đèo Ngang (*"Dừng chân đứng lại trời non nước / Một mảnh tình riêng ta với ta"*), ngắm bóng trăng soi rêu phong thành Cửa Bắc, mái chèo buông bến sông Nhị.
-* **Bút pháp thi ca:** Dàn dây giao hưởng bi tráng , Đàn Tranh rải nốt u hoài, Động Tiêu nghẹn ngào, giọng Contralto trầm dày nhung tuyết.
+* **Bút pháp thi ca:** Dàn dây dàn tấu bi tráng , Đàn dây rải nốt u hoài, Nhạc cụ tre nghẹn ngào, giọng Contralto trầm dày nhung tuyết.
 
 #### 3. 📜 ĐOÀN THỊ ĐIỂM — "HỒNG HÀ NỮ SĨ" (BẬC THẦY DỊCH THUẬT & Y THƯ THẢO MỘC)
 * **Khí chất & Phong cách:** Uyên bác tột đỉnh, dịch tuyệt phẩm *Chinh Phụ Ngâm* từ chữ Hán sang thơ song thất lục bát thuần Việt lay động hàng triệu con tim; vừa dạy học, vừa bốc thuốc cứu người.
 * **Bối cảnh ca từ:** Ngọn đèn dầu bên án thư làng Phú Xá, trang giấy dó đẫm mực nho, mùi thuốc nam sao vàng ấm áp gian nhà lá bên bờ sông Hồng.
-* **Bút pháp thi ca:** Tiếng Đàn Bầu nỉ non uốn nốt, nhịp thơ 7/7/6/8 dạt dào cảm xúc, giọng Soprano trong trẻo nghẹn ngào.
+* **Bút pháp thi ca:** Tiếng Đàn dây nỉ non uốn nốt, nhịp thơ 7/7/6/8 dạt dào cảm xúc, giọng Soprano trong trẻo nghẹn ngào.
 
 #### 4. 📰 SƯƠNG NGUYỆT ANH (NGUYỄN THỊ KHUÊ) — "NỮ CHỦ BÚT ĐẦU TIÊN CỦA VIỆT NAM"
 * **Khí chất & Phong cách:** Con gái cụ Đồ Chiểu, tuy mù hai mắt và chịu cảnh góa bụa nhưng kiên cường cầm bút chủ biên tờ báo *Nữ Giới Chung* (Tiếng chuông của phái nữ), cổ vũ lòng yêu nước và nữ quyền.
@@ -58,7 +51,7 @@ Bên cạnh các Nữ tướng sa trường và Thiếu nữ bách nghệ, dòng
 #### 6. 🌸 NÀNG CÔNG CHÚA NGỌC HÂN (LÊ NGỌC HÂN) — "AI TƯ VÃN BẤT TỬ"
 * **Khí chất & Phong cách:** Hoàng hậu tài hoa của Hoàng đế Quang Trung, tác giả áng thi ca *Ai Tư Vãn* khóc chồng bi tráng lay động non sông.
 * **Bối cảnh ca từ:** Khói hương bảng lảng thành Phú Xuân, tiếng gió gào thét qua đỉnh đèo Hải Vân, giọt lệ nhỏ trên chiến bào gấm rách.
-* **Bút pháp thi ca:** Tiếng Erhu (Nhị) kéo dài bi ai, tiếng sấm rền và dàn trống trận Tây Sơn xa xăm.
+* **Bút pháp thi ca:** Tiếng Nhạc cụ kéo (Nhị) kéo dài bi ai, tiếng sấm rền và dàn trống trận Tây Sơn xa xăm.
 
 ---
 
@@ -97,5 +90,4 @@ Bên cạnh các Nữ tướng sa trường và Thiếu nữ bách nghệ, dòng
 
 ---
 
-📄 File nâng cấp hoàn chỉnh đã lưu tại:  
-👉 [`docs/06_Ban Biên Soạn_and_Personas/DAI_BACH_KHOA_DOI_THUONG_VA_36_NU_TRUNG.md`](file:///C:/Apps/23.%20Music%20OS/docs/06_Ban Biên Soạn_and_Personas/DAI_BACH_KHOA_DOI_THUONG_VA_36_NU_TRUNG.md) *(Đồng bộ Két sắt Master Vault 2026)*.
+**Canon công khai liên quan:** [`57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md`](57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md) · [`58_CANON_VISUAL_DONG_A_TRAN_1225_1400.md`](58_CANON_VISUAL_DONG_A_TRAN_1225_1400.md).

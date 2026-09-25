@@ -27,7 +27,7 @@ Khi viết ca từ, chúng ta **tuyệt đối không dùng các yếu tố đã
 
 | STT | Yếu Tố Văn Hóa Cổ Truyền | Hiện Diện Sống Động Hôm Nay | Cách Kết Hợp Khéo Léo Trong Ca Từ & Âm Học |
 |:---:|---|---|---|
-| **1** | **Chén Trà Xanh Hãm Nước Mưa** | Chén trà sớm của ông, quán trà đá góc phố, trà đạo hiện đại. | *"Trà xanh giếng ngọc thơm nồng / Khói lam bảng lảng ấm lòng sớm mai."* (Âm thanh tự nhiên rót nước ấm, đàn tranh rải nhẹ). |
+| **1** | **Chén Trà Xanh Hãm Nước Mưa** | Chén trà sớm của ông, quán trà đá góc phố, trà đạo hiện đại. | *"Trà xanh giếng ngọc thơm nồng / Khói lam bảng lảng ấm lòng sớm mai."* (Âm thanh tự nhiên rót nước ấm, đàn dây rải nhẹ). |
 | **2** | **Mâm Cơm Rau Muống Cà Dầm Tương** | Món ăn quốc hồn quốc túy trong mọi gia đình Việt. | *"Cơm chiều đĩa muống dầm tương / Quả cà giòn rụm đậm đường mẹ ru."* (Gợi nhớ vị giác thân thương). |
 | **3** | **Tiếng Sáo Diều Triền Đê** | Trò chơi tuổi thơ dọc bờ đê sông Đáy, sông Đuống, sông Hồng. | Gài thẻ `[Acoustic Âm thanh tự nhiên - Bamboo kite flute humming]` làm nền gián tấu Interlude. |
 | **4** | **Nồi Bánh Chưng Đỏ Lửa Đêm Đông** | Phong tục sum họp gia đình ấm áp nhất dịp Tết cổ truyền. | *"Mùi lá dong xanh quyện nếp thơm / Bếp than hồng rực ấm ổ rơm."* (Tiếng củi nổ lách tách). |
@@ -36,7 +36,7 @@ Khi viết ca từ, chúng ta **tuyệt đối không dùng các yếu tố đã
 | **7** | **Lụa Tơ Tằm Vạn Phúc** | Sợi tơ tự nhiên óng ả, làng dệt vẫn dập dồn thoi đưa. | *"Thoi đưa lách cách đêm thâu / Giọt mồ hôi đượm nương dâu bãi bồi."* (Âm thanh tự nhiên thoi dệt lụa). |
 | **8** | **Tục Têm Trầu Mở Đầu Câu Chuyện** | Lễ cưới hỏi, dạm ngõ, cúng gia tiên của người Việt. | *"Miếng trầu têm cánh phượng hồng / Vôi nồng cau thắm se lòng lứa đôi."* (Gợi nét duyên ngầm). |
 | **9** | **Cây Đa, Bến Nước, Con Đò** | Biểu tượng không gian làng quê trường tồn trong tâm khảm. | Bối cảnh chia tay, đợi chờ người đi xa trở về cố hương. |
-| **10**| **Tiếng Đàn Bầu Độc Huyền Cầm** | Cây đàn độc nhất vô nhị chỉ có ở Việt Nam, vươn tầm quốc tế. | Solo nắn nót từng nốt uốn lượn (Microtonal) tạo điểm rơi cảm xúc cao trào. |
+| **10**| **Tiếng Đàn dây Độc Huyền Cầm** | Cây đàn độc nhất vô nhị chỉ có ở Việt Nam, vươn tầm quốc tế. | Solo nắn nót từng nốt uốn lượn (Microtonal) tạo điểm rơi cảm xúc cao trào. |
 | **11**| **Bát Canh Cua Đồng Mồng Tơi** | Món giải nhiệt mùa hè của triệu người Việt qua bao thế hệ. | Chi tiết đời thực giã cua bằng cối đá gợi nhớ bàn tay tần tảo của mẹ. |
 | **12**| **Củ Khoai Lang Lùi Tro Rơm** | Ký ức tuổi thơ sưởi ấm mùa đông của mọi tầng lớp người Việt. | Bẻ đôi củ khoai bốc khói, vị ngọt mật sưởi ấm tâm hồn sau giông bão. |
 | **13**| **Lời Ru "Ầu Ơ" Của Mẹ** | Dân ca, điệu hò ru con ngủ trưa hè bên cánh võng chao nghiêng. | Melody giọng ru êm ái, nhẹ nhàng cắt tần số gắt 3kHz–4kHz chống mỏi tai. |

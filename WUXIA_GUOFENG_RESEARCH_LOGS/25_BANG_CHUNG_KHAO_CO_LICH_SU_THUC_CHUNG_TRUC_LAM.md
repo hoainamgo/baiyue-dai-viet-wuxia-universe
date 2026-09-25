@@ -1,10 +1,7 @@
 # 📜 BẰNG CHỨNG LỊCH SỬ & KHẢO CỔ HỌC VẬT THỂ THỰC CHỨNG:
 ## THIỀN PHÁI TRÚC LÂM YÊN TỬ & HÀO KHÍ ĐÔNG A THỜI TRẦN (THẾ KỶ XIII - XIV)
 
-> **Chủ trì Khảo cứu:** **Sử Quan Lê Văn (Học sĩ thứ 13)** & **Vũ Dạ Khách (Tiểu Thuyết Gia)**  
-> **Cố vấn Khảo cổ:** Viện Khảo cổ học Việt Nam (Tư liệu khai quật Hoàng thành Thăng Long & Quần thể Yên Tử - Ngọa Vân)  
-> **Hệ sinh thái:** `Vũ Trụ Cổ Phong Bách Việt` | `Đại Việt Cổ Phong · Elohit Teams © 2026`  
-> **Mã quy chuẩn:** `CANON-ARCH-LORE-08`
+> **Tài liệu nghiên cứu công khai.** Khi có khác biệt, [`57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md`](57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md) được ưu tiên.
 
 ---
 

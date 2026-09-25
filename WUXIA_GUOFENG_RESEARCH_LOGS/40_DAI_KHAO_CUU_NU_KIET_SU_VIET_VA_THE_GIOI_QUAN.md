@@ -33,7 +33,7 @@ Sa Trường & Khởi Nghĩa  Trị Quốc & Nhẫn Nhịn    Y Đạo, Cầm Th
 * **Thân thế & Sử liệu:** Năm 40 SCN, Hai Bà Trưng phất cờ khởi nghĩa tại Hát Môn, đánh đuổi Thái thú Tô Định, thu phục 65 thành trì Lĩnh Nam, xưng vương dựng nước.
 * **Binh khí & Võ công đặc trưng:**
   * **Trưng Vương Song Kiếm:** Đôi kiếm đồng Đông Sơn chuôi đúc hình tượng Mẹ Bách Việt, kiếm pháp khoáng đạt, biến ảo.
-  * **Tượng Binh Thần Trận:** Cưỡi thớt voi trắng hai ngà bịt đồng bọc giáp, dùng Trống Đồng Đông Sơn gióng lệnh thúc quân.
+  * **Tượng Binh Thần Trận:** Cưỡi thớt voi trắng hai ngà bịt đồng bọc giáp, dùng Trống Đông Sơn gióng lệnh thúc quân.
 * **Dấu ấn trong Thế Giới Quan Giang Hồ:**
   * Khởi nguyên của **"Mê Linh Tượng Binh Phái"** và truyền thống *Đô Đốc Nữ Tướng* lãnh đạo sa trường.
 
@@ -69,7 +69,7 @@ Sa Trường & Khởi Nghĩa  Trị Quốc & Nhẫn Nhịn    Y Đạo, Cầm Th
 
 ### 3. CÔNG CHÚA HUYỀN TRÂN — NƯỚC MẮT HÒA BÌNH, MỞ CÕI PHƯƠNG NAM
 * **Sự tích:** Năm 1306, theo lời vua cha Trần Nhân Tông, nàng gạt tình riêng sang làm dâu Chiêm Thành, mang về cho Đại Việt hai châu Ô và châu Lý (Quảng Trị, Thừa Thiên Huế).
-* **Hình tượng nghệ thuật:** Nàng công chúa phong đài đĩnh đạc, gảy đàn Tranh bên bờ biển ly hương, hy sinh hạnh phúc cá nhân vì hòa bình muôn dân và sự toàn vẹn của giang sơn.
+* **Hình tượng nghệ thuật:** Nàng công chúa phong đài đĩnh đạc, gảy đàn dây bên bờ biển ly hương, hy sinh hạnh phúc cá nhân vì hòa bình muôn dân và sự toàn vẹn của giang sơn.
 * **Tích hợp:** Cảm hứng cho các bản nhạc Cổ Phong u hoài, sâu lắng (*"Nước non ngàn dặm ra đi"*).
 
 ### 4. LINH TỪ QUỐC MẪU TRẦN THỊ DUNG — HẬU PHƯƠNG TOÀN NĂNG THỜI ĐÔNG A
@@ -83,7 +83,7 @@ Sa Trường & Khởi Nghĩa  Trị Quốc & Nhẫn Nhịn    Y Đạo, Cầm Th
 ### 1. NỮ CHÍNH MỘC TĨNH LAN — TRUYỀN NHÂN Y ĐẠO THẦN NÔNG & TUỆ TĨNH
 * **Thân thế:** Nghệ nhân gốm Chu Đậu lưu vong, đệ tử ẩn danh am Ngọa Vân Yên Tử.
 * **Học thuật Y Đạo:** Kế thừa trọn vẹn **580 vị thuốc Nam** của Thiền sư Tuệ Tĩnh (*Nam dược trị Nam nhân*), dùng cỏ cây hoa lá quanh vườn nhà để cứu người nghèo.
-* **Âm học Cổ Nhạc:** Đôi bàn tay chuốt gốm kết hợp gảy cây **Đàn Tranh 16 dây** và **Cổ Cầm Guqin Cổ Nhạc**, dùng thanh âm mộc mạc làm dịu cơn đau và phong tỏa khí độc cho các hiệp sĩ sa trường.
+* **Âm học Cổ Nhạc:** Đôi bàn tay chuốt gốm kết hợp gảy cây **Đàn dây 16 dây** và **Đàn dây cổ Đàn dây cổ Cổ Nhạc**, dùng thanh âm mộc mạc làm dịu cơn đau và phong tỏa khí độc cho các hiệp sĩ sa trường.
 
 ### 2. NGHỆ NHÂN DỆT LỤA CỔ ĐÔ & THỢ GỐM NỮ CHU ĐẬU
 * **Bà tổ dệt lụa:** Dùng kén tằm vàng sông Đáy dệt nên những tấm lụa tơ tằm thô màu xanh men ngọc, vàng mỡ gà, màu nâu sồng — trang phục chính tông của phụ nữ thời Lý - Trần.
@@ -99,7 +99,7 @@ Sa Trường & Khởi Nghĩa  Trị Quốc & Nhẫn Nhịn    Y Đạo, Cầm Th
 | Tên Môn Phái Nữ | Tông Chủ / Đại Diện | Bí Truyền Võ Học | Binh Khí / Đạo Cụ | Triết Lý Hoạt Động |
 | :--- | :--- | :--- | :--- | :--- |
 | **Yên Tử Trúc Kiếm Các** | Mộc Tĩnh Lan & Sư Tỷ Ngọa Vân | *Trúc Kiếm Thiền Tâm (Lão Mai Quyền)* | Kiếm tre Yên Tử, Nón lá quai thao xoay chắn tên | Dĩ nhu chế cương, cứu thương độ thế, không sát sinh. |
-| **Mê Linh Tượng Trận Môn** | Truyền nhân Hai Bà Trưng | *Kỵ Tượng Phá Trận Thuật* | Song Kiếm Đông Sơn, Trống Đồng điều binh | Sa trường chính quy, bảo vệ biên cương, nghĩa hiệp kiên cường. |
+| **Mê Linh Tượng Trận Môn** | Truyền nhân Hai Bà Trưng | *Kỵ Tượng Phá Trận Thuật* | Song Kiếm Đông Sơn, Trống Đông Sơn điều binh | Sa trường chính quy, bảo vệ biên cương, nghĩa hiệp kiên cường. |
 | **Dạ Trạch Nữ Tiễn Phái** | Nữ thợ săn đầm Nhất Dạ | *Quy Tức Lặn Đầm & Thần Tiễn* | Trường cung gỗ dâu, Mũi tên ngâm nhựa cói | Ẩn mình đầm lầy, phục kích kỵ binh giặc, xuất quỷ nhập thần. |
 | **Thiên Lang Ma Nữ (Tà Phái)**| Huyết Diện Ma Nữ (A Sa Liễu) | *Hắc Xà Độc Chưởng & Ma Âm* | Roi da gai niken, Ống tiêu xương độc | Tàn nhẫn, phục vụ mưu đồ bành trướng của Thiết Trảo Quỷ. |
 
@@ -142,6 +142,6 @@ Sa Trường & Khởi Nghĩa  Trị Quốc & Nhẫn Nhịn    Y Đạo, Cầm Th
 ## 🎼 IV. HÌNH TƯỢNG NGHỆ THUẬT & TẠO HÌNH NHÂN VẬT
 
 1. **Hình Tượng "Hoa Nâu Khắc Mộng":**
-   * Kết tinh toàn bộ vẻ đẹp tâm hồn của Nữ kiệt Đại Việt: Tiếng Đàn Tranh Cổ Nhạc nỉ non, tiếng thở của ống tiêu, ca từ đậm mùi đất sét Chu Đậu và hoa sen ngát hương.
+   * Kết tinh toàn bộ vẻ đẹp tâm hồn của Nữ kiệt Đại Việt: Tiếng Đàn dây Cổ Nhạc nỉ non, tiếng thở của ống tiêu, ca từ đậm mùi đất sét Chu Đậu và hoa sen ngát hương.
 2. **Tạo Hình Thẩm Mỹ Nàng Mộc Tĩnh Lan:**
    * Khóa 100% hình tượng **Nàng Mộc Tĩnh Lan**: Áo Giao Lĩnh xanh men ngọc, tóc cài trâm đào sen, ngón tay búp sen mềm mại, toát lên phong thái đoan trang, đĩnh đạc và thánh thiện của người con gái Bách Việt.

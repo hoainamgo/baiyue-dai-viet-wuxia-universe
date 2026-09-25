@@ -43,14 +43,14 @@
 │                                │ • *Bạch Đằng Triều Lãng Phú*       │ • Tình yêu quê hương gắn liền với phù sa bến đò.       │
 ├────────────────────────────────┼────────────────────────────────────┼────────────────────────────────────────────────────────┤
 │ **4. DƯỢC & NÔNG TẠNG KHỐI**   │ • *Thần Nông Bách Thảo Y Điển*     │ • 580 vị thuốc nam trị bệnh cứu người (*Nam Dược*).    │
-│ (800 Bộ Thảo Mộc Nông Lịch)    │ • *Tuệ Tĩnh Trúc Lâm Dược Phổ*     │ • Âm nhạc Đàn Tranh Cổ Nhạc chữa lành sa trường.         │
+│ (800 Bộ Thảo Mộc Nông Lịch)    │ • *Tuệ Tĩnh Trúc Lâm Dược Phổ*     │ • Âm nhạc Đàn dây Cổ Nhạc chữa lành sa trường.         │
 │                                │ • *Nông Lịch Giao Chỉ Thập Nhị Nguyệt*• Lễ Tịch Điền, chu kỳ lúa nước 12 tháng trăng tròn.  │
 ├────────────────────────────────┼────────────────────────────────────┼────────────────────────────────────────────────────────┤
 │ **5. KIẾM & THỦY BINH TẠNG**   │ • *Lạc Long Thủy Chiến Bí Yếu*     │ • Trận địa cọc ngầm Bạch Đằng, đoản đao lá lúa rèn nguội│
 │ (850 Bộ Binh Thư Hào Khí)      │ • *Đông A Hào Khí Hịch Tướng Sĩ*   │ • Kỹ thuật lặn đục thuyền, bắn nỏ thần Cao Lỗ 3 cạnh.  │
 │                                │ • *Mê Linh Tượng Binh Trận Đồ*     │ • Lời thề Sát Thát khắc trên cánh tay vì giang sơn.    │
 ├────────────────────────────────┼────────────────────────────────────┼────────────────────────────────────────────────────────┤
-│ **6. NGHỆ & BÁCH CÔNG TẠNG**   │ • *Đông Sơn Ngũ Âm Lễ Nhạc Điển*   │ • Thang âm Ngũ Cung (Cung, Thương, Dốc, Chủy, Vũ).     │
+│ **6. NGHỆ & BÁCH CÔNG TẠNG**   │ • *Đông Sơn Ngũ Âm Lễ Nhạc Điển*   │ • Hệ âm sắc Hệ năm nốt (Cung, Thương, Dốc, Chủy, Vũ).     │
 │ (800 Bộ Mỹ Nghệ & Gốm Sứ)      │ • *Chu Đậu Men Lam Hoa Nâu Lục*    │ • Kỹ thuật nung gốm 1.200 độ C, vẽ sen lam, đề thơ Nôm.│
 │                                │ • *Lĩnh Nam Châm Tuyến Bách Hoa Tập*• Dệt lụa Vạn Phúc, thêu áo giao lĩnh, nón ba tầm.     │
 └────────────────────────────────┴────────────────────────────────────┴────────────────────────────────────────────────────────┘
@@ -68,17 +68,17 @@ Con em quý tộc hoàng gia, văn nhân tài tử và dũng sĩ Bách Việt b�
          ┌──────────────────┬───────────────────┼───────────────────┬──────────────────┐
          ▼                  ▼                   ▼                   ▼                  ▼
      [ 1. LỄ ]          [ 2. NHẠC ]         [ 3. XẠ ]           [ 4. NGỰ ]         [ 5. THƯ & SỐ ]
- • Tế Trời lộ thiên • Định âm Trống Đồng • Bắn Nỏ Thần Cao Lỗ • Ngự Tượng Voi Chiến• Văn tự Lương Chử
- • Gia lễ hiếu kính • Đàn Tranh Cổ Nhạc    • Cung tên Thảo nương• Cầm cương Chiến mã• Thiên văn Nông lịch
- • Lễ nghi Bang giao • Cổ Cầm ngạo nghễ  • Bắn bia rơm bến sông• Lái thuyền Mông Đồng• Y Đạo 580 Vị Thuốc
+ • Tế Trời lộ thiên • Định âm Trống Đông Sơn • Bắn Nỏ Thần Cao Lỗ • Ngự Tượng Voi Chiến• Văn tự Lương Chử
+ • Gia lễ hiếu kính • Đàn dây Cổ Nhạc    • Cung tên Thảo nương• Cầm cương Chiến mã• Thiên văn Nông lịch
+ • Lễ nghi Bang giao • Đàn dây cổ ngạo nghễ  • Bắn bia rơm bến sông• Lái thuyền Mông Đồng• Y Đạo 580 Vị Thuốc
 ```
 
 1. **LỄ (Nghi Lễ & Đạo Trọng):**
    * Đứng đầu là **Đại Lễ Tế Trời**: Ngh thức dâng 1 Bát Nước Suối Trong & 1 Bát Hạt Thóc Vàng lên Bàn Thờ Thiên không mái che.
    * Lễ Tiết gia đạo: Cúi lạy song thân sớm tối, lễ bái tổ tiên, đạo nghĩa thầy trò.
-2. **NHẠC (Hòa Âm & Tần Số Cổ Nhạc):**
-   * Tinh thông gảy Đàn Tranh 16 dây tơ tằm, gảy Cổ Cầm (Guqin) dồn dập, thổi sáo Động Tiêu (Dongxiao) và đánh nhịp Trống Đồng Đông Sơn.
-   * Nhạc không chỉ để thưởng ngoạn mà là **vũ khí tinh thần** thanh lọc tạp niệm, bồi đắp dũng khí và chữa lành vết thương.
+2. **NHẠC (Âm thanh và điệu cung):**
+   * Tinh thông gảy đàn dây mười sáu dây tơ tằm, gảy đàn dây cổ, thổi sáo tre và đánh nhịp trống Đông Sơn.
+   * Nhạc không chỉ để thưởng ngoạn mà là **vũ khí tinh thần** thanh lọc tạp niệm, bồi đắp dũng khí và hỗ trợ tinh thần; không khẳng định chữa bệnh.
 3. **XẠ (Thiện Xạ Cung Nỏ):**
    * Khả năng bắn **Nỏ Thần Cao Lỗ ba cạnh** liên châu trúng hồng tâm cách 100 bước chân trong đêm tối; bắn cung trên lưng ngựa phi nước đại.
 4. **NGỰ (Điều Khiển Thú Chiến & Thủy Hạm):**
@@ -107,7 +107,7 @@ Con em quý tộc hoàng gia, văn nhân tài tử và dũng sĩ Bách Việt b�
 │ (Hoàng Gia Mỹ Nghệ Viện)       │   Thợ đóng tàu buồm, Thợ dệt gấm   │   Luyện kim đúc sáp chảy, Đóng tàu buồm 3 cột Biển Đông│
 ├────────────────────────────────┼────────────────────────────────────┼────────────────────────────────────────────────────────┤
 │ **4. TRÚC LÂM Y VIỆN YÊN TỬ**  │ • Y sĩ thảo mộc, Công chúa, Nữ hiệp│ • Đào tạo Đại Y Sĩ: Nhận diện 580 vị thuốc nam,        │
-│ (Viện Nam Dược & Thiền Âm)     │ • Đệ tử Phật môn Trúc Lâm          │   Châm cứu kim châm, Đàn Tranh ngũ cung trị liệu Cổ Nhạc.│
+│ (Viện Nam Dược & Thiền Âm)     │ • Đệ tử Phật môn Trúc Lâm          │   Châm cứu kinh điển, dược thảo và chăm sóc cơ bản.     │
 └────────────────────────────────┴────────────────────────────────────┴────────────────────────────────────────────────────────┘
 ```
 
@@ -115,9 +115,7 @@ Con em quý tộc hoàng gia, văn nhân tài tử và dũng sĩ Bách Việt b�
 
 ## 👑 PHẦN IV: HỆ THỐNG KHOA CỬ TAM KHÔI (VĂN TRẠNG NGUYÊN & VÕ TRẠNG NGUYÊN)
 
-Hệ thống thi cử Đại Việt được tổ chức 3 năm một kỳ qua 3 cấp: **Thi Hương (Liên Xã) $
-ightarrow$ Thi Hội (Kinh Kỳ) $
-ightarrow$ Thi Đình (Trước Sân Rồng Hoàng Cung)**:
+Hệ thống thi cử Đại Việt được tổ chức 3 năm một kỳ qua 3 cấp: **Thi Hương (Liên Xã) → Thi Hội (Kinh Kỳ) → Thi Đình (Trước Sân Rồng Hoàng Cung)**:
 
 ```
 ┌───────────────────────────────┬────────────────────────────────┬────────────────────────────────────────────────────────┐
@@ -154,7 +152,7 @@ ightarrow$ Thi Đình (Trước Sân Rồng Hoàng Cung)**:
 1. **Cụ MỘC THẦN LÒ (Đại Tông Sư Gốm Sứ Chu Đậu):**
    * Thân phụ Mộc Tĩnh Lan, người nắm giữ bí quyết pha chế men lam từ tro vỏ trấu và đất sét trắng sông Kinh Thầy, nung gốm 1.200 độ lửa đỏ thấu đêm.
 2. **Cụ NGUYỄN KIM ĐÚC (Đại Tông Sư Đúc Đồng Đông Sơn):**
-   * Bậc thầy đúc sáp chảy, người chỉnh âm thanh Trống Đồng chuẩn tần số Cổ Nhạc rung chuyển mặt đất.
+   * Bậc thầy đúc sáp chảy, người chỉnh âm thanh Trống Đông Sơn chuẩn tần số Cổ Nhạc rung chuyển mặt đất.
 3. **Đô Đốc NGUYỄN THỦY LONG (Đại Tông Sư Đóng Thuyền Chiến):**
    * Công trình sư thiết kế chiến thuyền Mông Đồng hai đáy bọc đồng chống cháy, mũi thuyền chạm đầu rồng gỗ lim rẽ sóng.
 4. **Bà CHIÊU LỤA NƯƠNG (Đại Tông Sư Dệt Gấm Vạn Phúc):**
@@ -167,8 +165,8 @@ ightarrow$ Thi Đình (Trước Sân Rồng Hoàng Cung)**:
    * Người đắp bờ đê sông Hồng dài hàng trăm dặm, lai tạo giống nếp cái hoa vàng hạt tròn dẻo thơm dâng lễ Tế Trời.
 8. **Đô Vật LIỄU KHAI VĂN (Đại Tông Sư Võ Vật Dân Gian):**
    * Chưởng môn sới vật Liễu Đôi, người truyền dạy thế võ "Đoán hạ cước" cho nghĩa binh Sát Thát.
-9. **Nhạc Sư TRẦN NGUYÊN CẦM (Đại Tông Sư Cổ Nhạc & Đàn Tranh):**
-   * Bậc thầy cải tiến Đàn Tranh từ 7 dây lên 16 dây tơ tằm, định danh bản sắc âm nhạc quý tộc Thăng Long.
+9. **Nhạc Sư TRẦN NGUYÊN CẦM (Đại Tông Sư Cổ Nhạc & Đàn dây):**
+   * Bậc thầy cải tiến Đàn dây từ 7 dây lên 16 dây tơ tằm, định danh bản sắc âm nhạc quý tộc Thăng Long.
 10. **Học Sĩ LÊ VĂN SỬ (Đại Tông Sư Khắc Bia & Sử Quan):**
     * Bậc trưởng lão Hàn lâm, người khắc chữ Nôm trên vách đá núi Bài Thơ và lưu giữ 5.000 bộ cổ thư Bách Việt.
 

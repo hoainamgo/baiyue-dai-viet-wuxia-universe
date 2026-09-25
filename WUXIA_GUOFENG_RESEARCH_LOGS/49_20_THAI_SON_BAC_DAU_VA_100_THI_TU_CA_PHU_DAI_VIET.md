@@ -32,7 +32,7 @@ Mỗi nhân vật là một cột trụ sừng sững của nền văn minh Bác
 │ 02 │ **Lục Đầu Cuồng Sĩ — Trần Nguyên Hàn**│ Thủy Chiến Thi Hào & Đàn Đáy   │ Đàn Đáy Gỗ Gụ & Đoản Đao Thép  │ **Đô Đốc Nguyễn Thủy Lực**             │
 │ 03 │ **Chu Đậu Họa Thánh — Mộc Thần Hạc** │ Thủy Mặc & Vẽ Men Lam Trên Gốm │ Bút Chuốt Lông Công & Bàn Xoay │ **Đại Nghệ Nhân Mộc Tĩnh Lan**         │
 │ 04 │ **Đông Sơn Đồng Thần — Nguyễn Kim Đúc**│ Lễ Nhạc Ngũ Âm & Đúc Đồng      │ Búa Đồng Cổ & Trống Ngọc Lũ    │ **Nguyễn Kim Lạc (Thợ Đúc Đông Sơn)**  │
-│ 05 │ **Dương Tử Ba Tiên — Lão Ngư Thượng Cổ**│ Dân Ca Bách Việt 5.000 Năm     │ Mái Chèo Gỗ Nghiến & Đàn Bầu   │ **Lão Đò Ba Bến (Lục Đầu Giang)**      │
+│ 05 │ **Dương Tử Ba Tiên — Lão Ngư Thượng Cổ**│ Dân Ca Bách Việt 5.000 Năm     │ Mái Chèo Gỗ Nghiến & Đàn dây   │ **Lão Đò Ba Bến (Lục Đầu Giang)**      │
 │ 06 │ **Trúc Lâm Dược Thánh — Tuệ Tĩnh**   │ Nam Dược Y Đạo 580 Vị Thuốc    │ Gùi Nứa Bách Thảo & Kim Bạc    │ **Dược Sư Nương Mộc Tĩnh Lan**         │
 │ 07 │ **Mê Linh Tượng Vương — Vũ Bát Nàn** │ Trượng Pháp & Hùng Thi Lĩnh Nam│ Trượng Đồng Bọc Sắt & Voi 2 Ngà│ **Lê Thị Chân (Nữ Đô Đốc An Dương)**   │
 │ 08 │ **Bạch Đằng Kiếm Khách — Ngô Quyền** │ Trận Đồ Cọc Ngầm & Hịch Thư    │ Long Tuyền Kiếm & Trận Cọc Lim │ **Hưng Đạo Đại Vương Trần Quốc Tuấn**  │
@@ -121,7 +121,7 @@ Dưới đây là cấu trúc và các bài thơ đại diện tiêu biểu tron
 ---
 
 ### 🌿 QUYỂN 4: THẢO MỘC Y ĐẠO & 580 VỊ THUỐC NAM (20 BÀI)
-*(Chủ đề: Nam Dược trị Nam Nhân, cây cỏ mực, lá trầu không, hoa sen, đàn Tranh Cổ Nhạc chữa lành)*
+*(Chủ đề: Nam Dược trị Nam Nhân, cây cỏ mực, lá trầu không, hoa sen, đàn dây Cổ Nhạc chữa lành)*
 
 #### 🌿 Bài 61: *Nam Dược Cứu Binh Ca* (Tác giả: Tuệ Tĩnh Đại Sư)
 > *Cỏ mực ven mương cầm máu tuôn,*  
@@ -130,7 +130,7 @@ Dưới đây là cấu trúc và các bài thơ đại diện tiêu biểu tron
 > *Nuôi dưỡng ngàn năm giống Lạc Hồng.*
 
 #### 🌿 Bài 62: *Hòa Âm Cổ Nhạc Y Đạo Khúc* (Tác giả: Mộc Tĩnh Lan)
-> *Gảy khúc đàn Tranh dưới ánh trăng,*  
+> *Gảy khúc đàn dây dưới ánh trăng,*
 > *Tiếng tơ mười sáu dứt băn khoăn.*  
 > *Vết thương sa trường nay khép miệng,*  
 > *Tâm hồn thanh thản tựa mây ngàn.*
