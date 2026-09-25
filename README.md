@@ -9,12 +9,12 @@
 ---
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-gold.svg?style=for-the-badge&logo=creative-commons&logoColor=white)](https://creativecommons.org/licenses/by/4.0/)
-[![Universe Version](https://img.shields.io/badge/Universe_Version-v7.0_Canon_Upgrade-emerald.svg?style=for-the-badge&logo=bookstack&logoColor=white)](WUXIA_GUOFENG_RESEARCH_LOGS/01_MASTER_CODEX_VO_HIEP_CO_PHONG_DAI_VIET.md)
+[![Universe Version](https://img.shields.io/badge/Universe_Version-v8.0_80_Doc_Corpus-emerald.svg?style=for-the-badge&logo=bookstack&logoColor=white)](WUXIA_GUOFENG_RESEARCH_LOGS/01_MASTER_CODEX_VO_HIEP_CO_PHONG_DAI_VIET.md)
 [![Archaeology](https://img.shields.io/badge/Archaeology-5300_Years_Liangzhu_Dong_Son-blue.svg?style=for-the-badge&logo=archeology&logoColor=white)]()
 [![Global Trade](https://img.shields.io/badge/Global_Records-Ptolemy_Cattigara_150_AD-orange.svg?style=for-the-badge&logo=planetscale&logoColor=white)]()
 [![Visual 4K](https://img.shields.io/badge/Visual_Canon-30_Master_Concepts_4K-purple.svg?style=for-the-badge&logo=artstation&logoColor=white)]()
 
-> **Nâng cấp canon 7.0 (2026-09-25):** [`01_MASTER_CODEX_VO_HIEP_CO_PHONG_DAI_VIET.md`](WUXIA_GUOFENG_RESEARCH_LOGS/01_MASTER_CODEX_VO_HIEP_CO_PHONG_DAI_VIET.md) → [`57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md`](WUXIA_GUOFENG_RESEARCH_LOGS/57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md) → [`58_CANON_VISUAL_DONG_A_TRAN_1225_1400.md`](WUXIA_GUOFENG_RESEARCH_LOGS/58_CANON_VISUAL_DONG_A_TRAN_1225_1400.md). Tài liệu cũ giữ nguyên làm nghiên cứu; khi mâu thuẫn, các file canon này được ưu tiên.
+> **Nâng cấp canon 8.0 — corpus 80 tài liệu công khai (2026-09-25):** [`01_MASTER_CODEX_VO_HIEP_CO_PHONG_DAI_VIET.md`](WUXIA_GUOFENG_RESEARCH_LOGS/01_MASTER_CODEX_VO_HIEP_CO_PHONG_DAI_VIET.md) → [`57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md`](WUXIA_GUOFENG_RESEARCH_LOGS/57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md) → [`58_CANON_VISUAL_DONG_A_TRAN_1225_1400.md`](WUXIA_GUOFENG_RESEARCH_LOGS/58_CANON_VISUAL_DONG_A_TRAN_1225_1400.md). 22 tài liệu 59–80 được chuyển hóa từ kho nguồn 80 file, đã loại hướng dẫn sáng tác, tác phẩm âm nhạc, thông số kỹ thuật, đường dẫn máy và hồ sơ bảo mật. Tài liệu cũ giữ nguyên làm nghiên cứu; khi mâu thuẫn, các file canon này được ưu tiên.
 
 ---
 
@@ -50,7 +50,7 @@
 17. [🌍 17. Sử Liệu Toàn Cầu Ghi Chép (La Mã, Hy Lạp, Ả Rập)](#-17-sử-liệu-toàn-cầu-ghi-chép-la-mã-hy-lạp-ả-rập)
 18. [👥 18. Tuyển Tập Nhân Vật Gốc (Canon Characters)](#-18-tuyển-tập-nhân-vật-gốc-canon-characters)
 19. [🎼 19. Hệ Thống Âm Nhạc Bản Địa & Văn Hóa Cổ Phong](#-19-hệ-thống-âm-nhạc-bản-địa--văn-hóa-cổ-phong)
-20. [📚 20. Thư Viện Toàn Bộ 58 Tài Liệu Khảo Cứu Chuyên Sâu (`WUXIA_GUOFENG_RESEARCH_LOGS/`)](#-20-thư-viện-toàn-bộ-58-tài-liệu-khảo-cứu-chuyên-sâu-chuẩn-hóa-wuxia_guofeng_research_logs)
+20. [📚 20. Thư Viện Toàn Bộ 80 Tài Liệu Khảo Cứu Chuyên Sâu (`WUXIA_GUOFENG_RESEARCH_LOGS/`)](#-20-thư-viện-toàn-bộ-80-tài-liệu-khảo-cứu-chuyên-sâu-chuẩn-hóa-wuxia_guofeng_research_logs)
 21. [🌾 21. Đại Bách Khoa Hồn Quê & Đời Thường Dân Dã 500% (300+ Chất Liệu)](#-21-đại-bách-khoa-hồn-quê--đời-thường-dân-dã-500-300-chất-liệu-thực-chứng)
 22. [🏮 22. 25 Điểm Hẹn Đời Thường & 40 Hình Tượng Nữ Trung Kiệt Xuất](#-22-25-điểm-hẹn-đời-thường--40-hình-tượng-nữ-trung-kiệt-xuất)
 23. [♾️ 23. Đại Bách Khoa Liên Kết Thiên Cổ: 10 Mạch Ngầm Truyền Thừa (Living Continuity)](#-23-đại-bách-khoa-liên-kết-thiên-cổ-10-mạch-ngầm-truyền-thừa-không-đứt-đoạn-living-continuity)
@@ -331,7 +331,7 @@ Khắc họa di sản nhạc cụ và âm thanh truyền thống của dân tộ
 
 ---
 
-## 📚 20. THƯ VIỆN TOÀN BỘ 58 TÀI LIỆU KHẢO CỨU CHUYÊN SÂU CHUẨN HÓA (WUXIA_GUOFENG_RESEARCH_LOGS/)
+## 📚 20. THƯ VIỆN TOÀN BỘ 80 TÀI LIỆU KHẢO CỨU CHUYÊN SÂU CHUẨN HÓA (WUXIA_GUOFENG_RESEARCH_LOGS/)
 
 | STT | Mã Tác Phẩm Chuẩn Hóa | Tên Công Trình Khảo Cứu & Nội Dung Trọng Tâm |
 | :---: | :--- | :--- |
@@ -393,6 +393,28 @@ Khắc họa di sản nhạc cụ và âm thanh truyền thống của dân tộ
 | **56** | [56_DAI_BACH_KHOA_CO_NHAC_KHI_THUAN_VIET.md](WUXIA_GUOFENG_RESEARCH_LOGS/56_DAI_BACH_KHOA_CO_NHAC_KHI_THUAN_VIET.md) | **Đại Bách Khoa Cổ Nhạc Khí Bản Địa Thuần Việt** |
 | **57** | [57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md](WUXIA_GUOFENG_RESEARCH_LOGS/57_CANON_DONG_A_THAI_THOI_TRAN_1225_1400.md) | **Canon công khai: Trần 1225–1400, lịch sử, địa lý, vật thể, thần học, nhân vật** |
 | **58** | [58_CANON_VISUAL_DONG_A_TRAN_1225_1400.md](WUXIA_GUOFENG_RESEARCH_LOGS/58_CANON_VISUAL_DONG_A_TRAN_1225_1400.md) | **Canon công khai: y phục, vũ khí, bối cảnh và hình ảnh Đông A** |
+| **59** | [59_MASTER_THE_GIOI_QUAN_DAI_VIET_THAO_DA_SON_KHE.md](WUXIA_GUOFENG_RESEARCH_LOGS/59_MASTER_THE_GIOI_QUAN_DAI_VIET_THAO_DA_SON_KHE.md) | **Master Thế Giới Quan Đại Việt & Thảo Dã Sơn Khê** |
+| **60** | [60_CHINH_TRI_DAU_TRIEU_TRAN_1225_1258.md](WUXIA_GUOFENG_RESEARCH_LOGS/60_CHINH_TRI_DAU_TRIEU_TRAN_1225_1258.md) | **Chính trị đầu triều Trần 1225–1258** |
+| **61** | [61_KY_HOA_DI_THAO_VA_HOA_THUC_VIET_NAM.md](WUXIA_GUOFENG_RESEARCH_LOGS/61_KY_HOA_DI_THAO_VA_HOA_THUC_VIET_NAM.md) | **Kỳ hoa dị thảo và hoa thúc Việt Nam** |
+| **62** | [62_VAT_CHAT_DOI_SONG_XA_HOI_LY_TRAN.md](WUXIA_GUOFENG_RESEARCH_LOGS/62_VAT_CHAT_DOI_SONG_XA_HOI_LY_TRAN.md) | **Vật chất & đời sống xã hội thời Lý–Trần** |
+| **63** | [63_BANG_CHUNG_TICH_KHAO_CO_HOANG_THANH.md](WUXIA_GUOFENG_RESEARCH_LOGS/63_BANG_CHUNG_TICH_KHAO_CO_HOANG_THANH.md) | **Bằng chứng tích khảo cổ & Đông Thành** |
+| **64** | [64_KHOI_LUA_BON_BE_DONG_A_LY_TRIEU.md](WUXIA_GUOFENG_RESEARCH_LOGS/64_KHOI_LUA_BON_BE_DONG_A_LY_TRIEU.md) | **Khói lửa bốn bề: thế lực thù địch Đông A–Lý** |
+| **65** | [65_HAP_THU_100_CHUYEN_DE_LICH_SU_VAN_HOA.md](WUXIA_GUOFENG_RESEARCH_LOGS/65_HAP_THU_100_CHUYEN_DE_LICH_SU_VAN_HOA.md) | **Bản đồ hấp thụ 100 chuyên đề lịch sử – văn hóa** |
+| **66** | [66_BINH_KHI_AM_KHI_VAT_DUNG_DAI_VIET.md](WUXIA_GUOFENG_RESEARCH_LOGS/66_BINH_KHI_AM_KHI_VAT_DUNG_DAI_VIET.md) | **Binh khí, ám khí & vật dụng Đại Việt** |
+| **67** | [67_PHUONG_PHU_SINH_HOAT_LY_TRAN.md](WUXIA_GUOFENG_RESEARCH_LOGS/67_PHUONG_PHU_SINH_HOAT_LY_TRAN.md) | **Phong thổ & sinh hoạt thường nhật thời Lý–Trần** |
+| **68** | [68_THAP_BAT_BAN_BINH_KHI_KHAO_CO.md](WUXIA_GUOFENG_RESEARCH_LOGS/68_THAP_BAT_BAN_BINH_KHI_KHAO_CO.md) | **Thập bát ban binh khí khảo cổ** |
+| **69** | [69_DE_DIEU_HUONG_XA_TO_THUE_KHO_LUONG_TRAN.md](WUXIA_GUOFENG_RESEARCH_LOGS/69_DE_DIEU_HUONG_XA_TO_THUE_KHO_LUONG_TRAN.md) | **Đê điều – hương xã – tô thuế – kho lương** |
+| **70** | [70_BO_DOI_PHIM_TRUYEN_HINH_DONG_A.md](WUXIA_GUOFENG_RESEARCH_LOGS/70_BO_DOI_PHIM_TRUYEN_HINH_DONG_A.md) | **Bộ đời phim truyền hình Đông A** |
+| **71** | [71_SO_CAI_NHAT_QUAN_TRUYEN_1000_CHUONG.md](WUXIA_GUOFENG_RESEARCH_LOGS/71_SO_CAI_NHAT_QUAN_TRUYEN_1000_CHUONG.md) | **Sổ cái nhất quán truyện dài 1.000 chương** |
+| **72** | [72_QUAN_MONG_NGUYEN_DOT_1258.md](WUXIA_GUOFENG_RESEARCH_LOGS/72_QUAN_MONG_NGUYEN_DOT_1258.md) | **Quân Mông–Nguyên đợt 1258** |
+| **73** | [73_NGHE_MUOI_BAI_PHAI_TAN_TIEN.md](WUXIA_GUOFENG_RESEARCH_LOGS/73_NGHE_MUOI_BAI_PHAI_TAN_TIEN.md) | **Nghề muối bãi ven biển Bắc Bộ thế kỷ XIII** |
+| **74** | [74_AM_HAC_TRU_LIEU_VA_Y_DAO_GIOI_HAN.md](WUXIA_GUOFENG_RESEARCH_LOGS/74_AM_HAC_TRU_LIEU_VA_Y_DAO_GIOI_HAN.md) | **Âm nhạc, y đạo và giới hạn chứng minh** |
+| **75** | [75_HOA_QUYEN_AM_THANH_CO_PHONG_VA_NHAC_CU_VIET.md](WUXIA_GUOFENG_RESEARCH_LOGS/75_HOA_QUYEN_AM_THANH_CO_PHONG_VA_NHAC_CU_VIET.md) | **Hòa quyện vật liệu cổ phong và nhạc cụ Việt** |
+| **76** | [76_QUY_CHUAN_SANG_TAC_TIEU_THUYET_TRUYEN_PHIM.md](WUXIA_GUOFENG_RESEARCH_LOGS/76_QUY_CHUAN_SANG_TAC_TIEU_THUYET_TRUYEN_PHIM.md) | **Quy chuẩn sáng tác tiểu thuyết truyền phim** |
+| **77** | [77_SO_TAY_DUOC_THAO_DAN_GIAN_CONG_KHAI.md](WUXIA_GUOFENG_RESEARCH_LOGS/77_SO_TAY_DUOC_THAO_DAN_GIAN_CONG_KHAI.md) | **Sổ tay dược thảo dân gian công khai** |
+| **78** | [78_TIEU_CHUAN_HAP_THU_TU_LIEU_LICH_SU.md](WUXIA_GUOFENG_RESEARCH_LOGS/78_TIEU_CHUAN_HAP_THU_TU_LIEU_LICH_SU.md) | **Tiêu chuẩn hấp thụ tư liệu lịch sử – khảo cổ** |
+| **79** | [79_100_CHU_DE_SU_THI_DAI_VIET.md](WUXIA_GUOFENG_RESEARCH_LOGS/79_100_CHU_DE_SU_THI_DAI_VIET.md) | **100 chủ đề sử thi và đời sống Bách Việt** |
+| **80** | [80_5_TUYEN_NGHE_THUAT_LICH_SU_DAI_VIET.md](WUXIA_GUOFENG_RESEARCH_LOGS/80_5_TUYEN_NGHE_THUAT_LICH_SU_DAI_VIET.md) | **5 tuyến nghệ thuật lịch sử Đại Việt** |
 
 | STT | Tên tài liệu cũ | Nội dung quy chiếu |
 | :---: | :--- | :--- |

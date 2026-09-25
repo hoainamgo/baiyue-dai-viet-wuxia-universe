@@ -88,7 +88,8 @@ Khác với võ công cương mãnh phương Bắc đòi hỏi thể hình to l�
 
 Những thế võ cổ truyền phản ánh trọn vẹn trí tuệ thực chiến, tinh thần lấy nhu thắng cương và lòng quật cường bất khuất của cha ông trong công cuộc dựng nước và giữ nước.
 
---- | :--- | :--- |
+| Kỹ thuật | Dấu hiệu âm thanh | Tính chất |
+| :--- | :--- | :--- |
 | **Đoản Binh Phá Kỵ** | Trống Đại rền vang, tiếng gió rít khi bay người, tiếng gãy giáp | **Tiết tấu hào hùng** (Heavy Guofeng Rock, kịch tính dồn dập). |
 | **Hùng Kê Quyền** | Tiếng rút đao nhanh, gõ phách tre sắc gọn, Tỳ Bà tốc độ cao | **Tiết tấu hào hùng** (Tiết tấu giòn giã, bất ngờ). |
 | **Lạc Long Thủy Chiến** | Tiếng sóng nước cuộn xoáy, tiếng dùi đục gỗ dưới nước, Tiêu Trúc trầm | **Tiết tấu hào hùng** (Bí ẩn, nghẹt thở dưới đáy sâu). |
