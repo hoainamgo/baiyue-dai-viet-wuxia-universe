@@ -8,6 +8,10 @@
 
 ---
 
+[![Bản Tiếng Việt](https://img.shields.io/badge/Ngôn_ngữ-Tiếng_Việt-red.svg?style=for-the-badge)](README.md)
+[![Language: English](https://img.shields.io/badge/Language-English-blue.svg?style=for-the-badge)](README_EN.md)
+[![中文版](https://img.shields.io/badge/语言-中文-yellow.svg?style=for-the-badge)](README_ZH.md)
+[![Edición en Español](https://img.shields.io/badge/Idioma-Español-orange.svg?style=for-the-badge)](README_ES.md)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-gold.svg?style=for-the-badge&logo=creative-commons&logoColor=white)](https://creativecommons.org/licenses/by/4.0/)
 [![Universe Version](https://img.shields.io/badge/Universe_Version-v8.0_80_Doc_Corpus-emerald.svg?style=for-the-badge&logo=bookstack&logoColor=white)](WUXIA_GUOFENG_RESEARCH_LOGS/01_MASTER_CODEX_VO_HIEP_CO_PHONG_DAI_VIET.md)
 [![Archaeology](https://img.shields.io/badge/Archaeology-5300_Years_Liangzhu_Dong_Son-blue.svg?style=for-the-badge&logo=archeology&logoColor=white)]()
