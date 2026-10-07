@@ -1,4 +1,6 @@
 *.bak
 *.bak_*
+translate_all_80.py
+fast_finish_translations.py
 .DS_Store
 Thumbs.db
