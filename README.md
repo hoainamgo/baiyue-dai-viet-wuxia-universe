@@ -3,7 +3,7 @@
 # 🐉 BÁCH VIỆT THIÊN CỔ & VŨ TRỤ VÕ HIỆP ĐẠI VIỆT
 ### ⚔️ *BAI YUE & DAI VIET WUXIA UNIVERSE: 5,000 YEARS OF EPIC HERITAGE* ⚔️
 
-**Đại Bách Khoa Toàn Thư Thế Giới Quan Võ Hiệp Cổ Phong, Văn Học & Di Sản 5.000 Năm Bách Việt — Đại Việt**  
+**Đại Bách Khoa Toàn Thư Thế Giới Quan Võ Hiệp Cổ Phong, Văn Học & Di Sản 5.000 Năm Bách Việt — Đại Việt**
 *Khởi nguồn từ Văn tự Lương Chử 5.300 năm, Ký ức Đại Hồng Thủy, Hậu Duệ Thần Thoại, Trống Đông Sơn, Hào Khí Đông A đến 36 Địa Linh Nhân Kiệt & Thương Cảng Quốc Tế La Mã*
 
 ---
@@ -13,7 +13,7 @@
 [![中文版](https://img.shields.io/badge/语言-中文-yellow.svg?style=for-the-badge)](README_ZH.md)
 [![Edición en Español](https://img.shields.io/badge/Idioma-Español-orange.svg?style=for-the-badge)](README_ES.md)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-gold.svg?style=for-the-badge&logo=creative-commons&logoColor=white)](https://creativecommons.org/licenses/by/4.0/)
-[![Universe Version](https://img.shields.io/badge/Universe_Version-v8.0_80_Doc_Corpus-emerald.svg?style=for-the-badge&logo=bookstack&logoColor=white)](WUXIA_GUOFENG_RESEARCH_LOGS/01_MASTER_CODEX_VO_HIEP_CO_PHONG_DAI_VIET.md)
+[![Universe Version](https://img.shields.io/badge/Universe_Version-v8.1_81_Doc_Corpus-emerald.svg?style=for-the-badge&logo=bookstack&logoColor=white)](WUXIA_GUOFENG_RESEARCH_LOGS/01_MASTER_CODEX_VO_HIEP_CO_PHONG_DAI_VIET.md)
 [![Archaeology](https://img.shields.io/badge/Archaeology-5300_Years_Liangzhu_Dong_Son-blue.svg?style=for-the-badge&logo=archeology&logoColor=white)]()
 [![Global Trade](https://img.shields.io/badge/Global_Records-Ptolemy_Cattigara_150_AD-orange.svg?style=for-the-badge&logo=planetscale&logoColor=white)]()
 [![Visual 4K](https://img.shields.io/badge/Visual_Canon-30_Master_Concepts_4K-purple.svg?style=for-the-badge&logo=artstation&logoColor=white)]()
@@ -26,8 +26,8 @@
   <img src="characters/Exact_An_Thai_PNG_and_Moc_Tinh_Lan_Square_Ref.png" width="90%" alt="An Thái & Mộc Tĩnh Lan - Cặp Đôi Hiệp Khách Cổ Phong Đại Việt" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);">
 </p>
 
-*« Sông Động Đình ngàn năm sóng vỗ, vó ngựa biên cương đè bẹp mộng xâm lăng.*  
-*Dâng bát nước nguồn tế Trời lộng gió, gùi thuốc nứa chữa lành vạn nỗi đau sa trường.*  
+*« Sông Động Đình ngàn năm sóng vỗ, vó ngựa biên cương đè bẹp mộng xâm lăng.*
+*Dâng bát nước nguồn tế Trời lộng gió, gùi thuốc nứa chữa lành vạn nỗi đau sa trường.*
 *Tình yêu thương chẳng ghen ghét kiêu ngạo, nghĩa đồng bào muôn thuở chẳng hề phai! »*
 
 </div>
@@ -419,6 +419,7 @@ Khắc họa di sản nhạc cụ và âm thanh truyền thống của dân tộ
 | **78** | [78_TIEU_CHUAN_HAP_THU_TU_LIEU_LICH_SU.md](WUXIA_GUOFENG_RESEARCH_LOGS/78_TIEU_CHUAN_HAP_THU_TU_LIEU_LICH_SU.md) | **Tiêu chuẩn hấp thụ tư liệu lịch sử – khảo cổ** |
 | **79** | [79_100_CHU_DE_SU_THI_DAI_VIET.md](WUXIA_GUOFENG_RESEARCH_LOGS/79_100_CHU_DE_SU_THI_DAI_VIET.md) | **100 chủ đề sử thi và đời sống Bách Việt** |
 | **80** | [80_5_TUYEN_NGHE_THUAT_LICH_SU_DAI_VIET.md](WUXIA_GUOFENG_RESEARCH_LOGS/80_5_TUYEN_NGHE_THUAT_LICH_SU_DAI_VIET.md) | **5 tuyến nghệ thuật lịch sử Đại Việt** |
+| **81** | [81_DAI_KHAO_CUU_THIEN_DANG_TAO_HOA_TRONG_SU_VIET_VA_NHAN_LOAI.md](WUXIA_GUOFENG_RESEARCH_LOGS/81_DAI_KHAO_CUU_THIEN_DANG_TAO_HOA_TRONG_SU_VIET_VA_NHAN_LOAI.md) | **Đại Khảo Cứu Toàn Diện: Thiên = Đấng Tạo Hóa Trong Sử Việt & Văn Minh Nhân Loại** |
 
 | STT | Tên tài liệu cũ | Nội dung quy chiếu |
 | :---: | :--- | :--- |
@@ -531,7 +532,7 @@ Toàn bộ tài nguyên thế giới quan này được phát hành theo giấy 
 ## 🕊️ 25. TÂM THƯ TÁC GIẢ & MIỄN TRỪ TRÁCH NHIỆM (DISCLAIMER)
 
 > ### 💬 *Lời Bộc Bạch Từ Trái Tim Người Yêu Văn Hóa Dân Tộc:*
-> 
+>
 > * **Dự Án Nghiên Cứu & Sáng Tạo Cá Nhân:** Đây là một công trình phi lợi nhuận được khởi xướng và phát triển xuất phát thuần túy từ **niềm đam mê sâu sắc đối với lịch sử, khảo cổ và văn hóa võ hiệp cổ phong Việt Nam**.
 > * **Không Thể Tránh Khỏi Thiếu Sót:** Mặc dù nhóm tác giả đã nỗ lực đối chiếu tối đa với các tư liệu khảo cổ học thực chứng (Lương Chử, Đông Sơn, Cổ Loa, Bạch Đằng) và các bộ chính sử cổ đại phương Đông lẫn phương Tây, song do tính chất rộng lớn và phức tạp của dòng chảy lịch sử 5.000 năm, **công trình chắc chắn không thể tránh khỏi những góc nhìn chủ quan, hạn chế hoặc thiếu sót nhất định**.
 > * **Mục Đích Chia Sẻ & Tinh Thần Cầu Thị:** Dự án này không mang tính chất định danh chân lý lịch sử tuyệt đối, mà hướng tới việc **khơi gợi cảm hứng, chia sẻ chất liệu văn hóa và tôn vinh khí phách hào hùng của tổ tiên**. Rất mong nhận được sự đóng góp ý kiến, phản biện học thuật và bổ sung tư liệu từ các nhà nghiên cứu, sử gia và quý độc giả để thế giới quan ngày càng hoàn thiện và rực rỡ hơn!
@@ -540,7 +541,7 @@ Toàn bộ tài nguyên thế giới quan này được phát hành theo giấy 
 
 <div align="center">
 
-**KHỞI XƯỚNG & BIÊN SOẠN BỞI HỘI ĐỒNG SÁNG TẠO Đại Việt Cổ Phong (© 2026)**  
+**KHỞI XƯỚNG & BIÊN SOẠN BỞI HỘI ĐỒNG SÁNG TẠO Đại Việt Cổ Phong (© 2026)**
 *Trân trọng kính mời các tác giả, nghệ sĩ và nhà phát triển cùng chung tay phát triển Vũ Trụ Võ Hiệp Cổ Phong Việt Nam vươn tầm thế giới!*
 
 📬 **Email Hợp Tác & Góp Ý:** `hoainam.go@gmail.com` · 🌐 **Website:** [Đại Việt Cổ Phong Sanctuary](https://github.com/hoainamgo)
